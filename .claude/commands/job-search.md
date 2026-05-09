@@ -135,3 +135,110 @@ After understanding Thaiz's current situation, produce:
 4. Any materials to create or update (resume bullet suggestions, cover letter angle, etc.)
 
 Always end with: "What's blocking you right now?" — and address that blocker directly.
+
+---
+
+## Automated Agent — URL Validation Rules
+
+When running as an automated job search agent (not in interactive mode), apply these rules strictly for the `apply_link` field in the CSV.
+
+### Which JSearch field to use
+
+From each JSearch result object, extract URLs in this priority order:
+1. `job_apply_link` — preferred; usually the direct ATS link
+2. `job_google_link` — fallback only if `job_apply_link` is a generic career page
+
+**Never use `employer_website`** — that is the company homepage, not the job posting.
+
+### What counts as a valid direct apply link
+
+A valid link contains a job-specific identifier in the URL path. These patterns are always valid:
+
+- `jobs.lever.co/company/job-id`
+- `company.greenhouse.io/jobs/12345`
+- `boards.greenhouse.io/company/jobs/12345`
+- `apply.workday.com/...`
+- `company.wd1.myworkdayjobs.com/...`
+- `careers.smartrecruiters.com/company/job-id`
+- `app.taleo.net/careersection/.../jobdetail?cid=...`
+- `icims.com/jobs/12345/...`
+- `brassring.com/.../requisitionid=...`
+- Any ATS URL with a numeric job ID or UUID in the path
+
+### What to skip (generic/useless links)
+
+Skip the job entirely if the best available URL matches any of these patterns — do NOT add it to the CSV:
+
+- `company.com/careers` — generic career landing page
+- `company.com/en/careers` — same, localized
+- `company.com/jobs` — generic jobs page
+- `linkedin.com/jobs/view/...` — LinkedIn listing (requires login, job often disappears)
+- `indeed.com/...` — aggregator
+- `glassdoor.com/...` — aggregator
+- `ziprecruiter.com/...` — aggregator
+- `monster.com/...` — aggregator
+- Any URL with no path beyond `/careers`, `/jobs`, or `/en/jobs`
+
+**Why:** If the URL doesn't lead directly to the specific job form, it's useless — Thaiz can't apply from it and the listing is likely gone by the time she visits.
+
+### Validation check (Python)
+
+```python
+import re
+
+GENERIC_PATTERNS = [
+    r'linkedin\.com/jobs',
+    r'indeed\.com',
+    r'glassdoor\.com',
+    r'ziprecruiter\.com',
+    r'monster\.com',
+    r'/careers/?$',
+    r'/en/careers/?$',
+    r'/jobs/?$',
+    r'/en/jobs/?$',
+    r'/careers/search/?$',
+]
+
+ATS_PATTERNS = [
+    r'lever\.co',
+    r'greenhouse\.io',
+    r'workday\.com',
+    r'myworkdayjobs\.com',
+    r'smartrecruiters\.com',
+    r'taleo\.net',
+    r'icims\.com',
+    r'brassring\.com',
+    r'successfactors\.com',
+    r'jobvite\.com',
+    r'bamboohr\.com',
+    r'recruiterbox\.com',
+    r'workable\.com',
+]
+
+def is_valid_apply_link(url: str) -> bool:
+    if not url:
+        return False
+    # Reject generic aggregator/career-page links
+    for pattern in GENERIC_PATTERNS:
+        if re.search(pattern, url, re.IGNORECASE):
+            return False
+    # Accept known ATS links immediately
+    for pattern in ATS_PATTERNS:
+        if re.search(pattern, url, re.IGNORECASE):
+            return True
+    # For other URLs: require a path with at least one segment beyond the domain
+    # and some alphanumeric identifier (job ID)
+    path_match = re.search(r'https?://[^/]+(/[^?#]+)', url)
+    if path_match:
+        path = path_match.group(1)
+        segments = [s for s in path.split('/') if s]
+        # Need at least 2 path segments and one segment with a digit (job ID)
+        if len(segments) >= 2 and any(re.search(r'\d', s) for s in segments):
+            return True
+    return False
+
+# Usage in the search loop:
+apply_url = job.get('job_apply_link') or job.get('job_google_link', '')
+if not is_valid_apply_link(apply_url):
+    continue  # skip this job — no usable apply link
+```
