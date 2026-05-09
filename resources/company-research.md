@@ -4,6 +4,26 @@ Sources for discovering target companies, tracking industry trends, and building
 
 ---
 
+## CPG Industry Intelligence (Daily Reading)
+
+These are the sources that CPG insiders actually read. One or two per day keeps you interview-ready.
+
+| Source | URL | Best Used For |
+|---|---|---|
+| Food Dive | https://www.fooddive.com/ | CPG company moves, product launches, M&A, private label trends — essential for CPG interviews |
+| Supermarket News | https://www.supermarketnews.com/ | Retailer strategy, category resets, shelf dynamics — speaks the language of trade and distribution |
+| Progressive Grocer | https://progressivegrocer.com/ | Grocery/CPG industry from the retailer's POV — category management, shopper marketing, planograms |
+| Nielsen IQ Insights | https://nielseniq.com/global/en/insights/ | Consumer data and market share reports — learn how panel data works before any CPG interview |
+| Kantar Inspiration | https://www.kantar.com/inspiration | Brand health, consumer sentiment, and brand equity tracking — Kantar BrandZ methodology |
+| Marketing Week | https://www.marketingweek.com/ | Brand strategy, marketing effectiveness, Byron Sharp debates — the sharpest marketing publication |
+
+**How to use:**
+- Food Dive + Supermarket News: 10 min/day. Know what's happening at Kraft Heinz, P&G, Unilever this week.
+- Nielsen IQ + Kantar: read one insight piece/week. Learn the vocabulary (household penetration, share of requirements, brand equity score).
+- Marketing Week: one long-form article per week — especially anything on brand effectiveness or "How Brands Grow."
+
+---
+
 ## Retail, CPG & Consumer Industry
 
 Use these to find companies in the retail, CPG, and consumer space — and to stay current on the industry so you can speak intelligently in interviews and coffee chats.

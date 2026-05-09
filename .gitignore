@@ -1,0 +1,19 @@
+# Environment files — never commit credentials
+.env
+*.env
+
+# Daily briefing output
+daily-briefing/daily-summaries/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

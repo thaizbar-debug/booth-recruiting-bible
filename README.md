@@ -11,8 +11,21 @@ booth-recruiting-bible/
 ├── networking/         # Outreach templates, coffee chat tracker
 ├── applications/       # Application tracker, cover letter templates
 ├── resources/          # Timeline, Booth-specific resources
+├── daily-briefing/     # Automated daily email: market news + CPG/brand skill drills
 └── .claude/commands/   # AI recruiting skills (slash commands)
 ```
+
+## Daily Briefing
+
+An automated script (`daily-briefing/briefing.py`) runs every morning at 8 AM Chicago time via GitHub Actions. It scrapes 28+ sources and emails a structured briefing with 9 sections:
+
+- **Sections 1–5:** US consumer pulse, brand moves, CPG/retail news, tech trends, interview-ready facts
+- **Section 6:** CPG Vocabulary Drill (one new term daily — trade spend, planogram, household penetration, etc.)
+- **Section 7:** Brand Management Concept of the Day (brand equity, penetration vs. frequency, Byron Sharp, etc.)
+- **Section 8:** Consumer Insights Methodology (A&U studies, panel data, conjoint analysis, etc.)
+- **Section 9:** P&L Literacy Drill (gross margin, A&P budget, trade spend ROI, etc.)
+
+Setup: copy `daily-briefing/.env.example` → `daily-briefing/.env`, fill in credentials, push to GitHub. Add `GMAIL_ADDRESS` and `GMAIL_APP_PASSWORD` as GitHub Actions secrets.
 
 ## The Four Skills
 
