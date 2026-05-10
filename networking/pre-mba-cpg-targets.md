@@ -15,25 +15,38 @@
 ---
 
 ## 🇵🇪 PERU — Payroll OK
-> Prioridad #1. Empresas medianas con conexión real a EE.UU. — exportan allá, quieren entrar, o tienen casa matriz americana. Puedes ir en persona, que importa mucho para este tipo de favor.
+> Marcas chicas o medianas, crecimiento rápido, buen branding, baja burocracia. El fundador puede decir que sí en una llamada. Puedes ir en persona — eso pesa mucho para este tipo de favor.
 
-| [ ] | Empresa | Sector | Conexión con EE.UU. | Por qué dirían que sí | Contacto de referencia | LinkedIn | Estado |
+### 🥗 Comida, Bebida y Wellness
+
+| [ ] | Empresa | Sector | Por qué está en tendencia | Por qué dirían que sí | Contacto | LinkedIn | Estado |
 |---|---|---|---|---|---|---|---|
-| [ ] | **Cacaosuyo** | Chocolate / Food | Exportan a EE.UU. · venden en tiendas especializadas americanas · acaban de lanzar distribución en USA | Empresa pequeña, fundada por Samir Giha (ex-textil, muy accesible) · necesitan alguien que entienda el mercado americano · tú vas a Chicago | Samir Giha — Co-founder & CEO | [ver perfil](https://www.linkedin.com/in/samir-giha-301b2a26/) | |
-| [ ] | **KUNA** (Incalpaca) | Moda / Alpaca | Tienen e-commerce propio en EE.UU. (us.kunastores.com) · exportan a 50+ países | Marca de lujo con aspiraciones americanas · equipo de marketing que necesita foco en EE.UU. · encuentran valor en alguien que vivirá en Chicago | Buscar en LinkedIn | [`KUNA Alpaca & Vicuna` en LinkedIn](https://www.linkedin.com/company/kuna-alpaca-vicuna) → click People | |
-| [ ] | **Ecoandino** | Superfoods / Health | Exportan superfoods peruanos a EE.UU. y Europa desde hace 25 años | Empresa mediana con fundador accesible · entienden el valor de tener a alguien en el mercado americano | Carlos Samaniego — CEO & Founder | [ver empresa](https://www.linkedin.com/company/ecoandinosuperfoods) → click People | |
-| [ ] | **Textimax** | Ropa / Textil | Exportan prendas a marcas americanas (clientes en EE.UU.) · certificados WRAP | Empresa mediana, necesitan alguien que entienda branding para su propio label · contacto comercial confirmado | Patrick Petch — Commercial Manager | [ver perfil](https://www.linkedin.com/in/patrick-petch-1b120a7/) | |
-| [ ] | **Topitop / Topy Top** | Ropa / Textil | Exportan 70% de producción a EE.UU. · proveedores de H&M, Gap y otras marcas americanas | Quieren desarrollar su propia marca DTC · alguien con formación en brand marketing y conexión americana tiene valor claro | Buscar en LinkedIn | Busca: `Topitop marketing LinkedIn` | |
-| [ ] | **La Ibérica** | Chocolate / Food | Exportan chocolate peruano · presencia en ferias internacionales | Marca peruana histórica (fundada 1937) · equipo pequeño · oportunidad de ayudar con expansión internacional | Buscar en LinkedIn | Busca: `La Ibérica Peru marketing LinkedIn` | |
-| [ ] | **Backus / AB InBev** | Bebidas / CPG | Subsidiaria de AB InBev (HQ: Nueva York / Bélgica) · marca Cusqueña con ambiciones internacionales | Casa matriz americana · Cusqueña quiere posicionarse en EE.UU. · equipo de brand marketing que puede aceptar un aporte externo | Nathaly Paz — Brand Lead Cusqueña | [ver perfil](https://www.linkedin.com/in/nathaly-paz/) | |
-| [ ] | **Belcorp** (L'Bel / Esika) | Belleza / CPG | Opera en 14 países · tiene presencia en EE.UU. (Houston, TX) | Empresa peruana grande pero con equipos de marca por país · ángulo: ayudar en estrategia de expansión al mercado hispano de EE.UU. | Buscar en LinkedIn | Busca: `Belcorp "brand" OR "marketing" Lima LinkedIn` | |
-| [ ] | **Alicorp** | CPG / Alimentos | Ops en Bolivia, Brasil, Chile, Colombia, Ecuador · exporta a EE.UU. | Empresa grande — **necesitas un contacto cálido dentro**. Busca alumni de UP en su equipo de mktg primero | Buscar alumni UP | Busca: `Alicorp "Universidad del Pacífico" marketing LinkedIn` | |
-| [ ] | **SmartFit Peru** | Fitness | Cadena de gimnasios más grande de LATAM · HQ en Brasil · 14 países incluido Perú | Operación en crecimiento con equipo de mktg por país · lifestyle + fitness + expansión regional | Buscar en LinkedIn | Busca: `SmartFit Peru marketing LinkedIn` | |
-| [ ] | **InkaFarma / Mifarma** | Salud / Retail | Parte de InRetail/Intercorp · listada en NYSE · opera en Ecuador, Colombia | Grande — **necesitas intro cálida**. Busca alumni UP en su equipo | Buscar alumni UP | Busca: `InkaFarma "marketing" OR "marca" LinkedIn` | |
-| [ ] | **Cineplanet** | Entretenimiento | Parte de Nexus Group · socio regional de cadenas internacionales | Empresa mediana · experiencia de cliente y mktg de entretenimiento · más flexible que retailers grandes | Buscar en LinkedIn | Busca: `Cineplanet marketing director LinkedIn` | |
-| [ ] | **Mitre Performance** | Fitness / Ropa | Marca peruana de ropa deportiva · venden online · aspiraciones regionales | Marca local en crecimiento · equipo pequeño · ángulo: posicionamiento y estrategia de marca para escalar | Buscar en LinkedIn | [Mitre Performance en LinkedIn](https://pe.linkedin.com/company/mitre-performnace) → click People | |
-| [ ] | **Flora & Fauna** | Salud / Retail | Supermercado orgánico y saludable · 10+ tiendas en Lima · 400+ proveedores locales | Empresa mediana fundada por Efraín y Eileen Wong · misión-driven · espacio natural para alguien con perfil de estrategia y salud | Buscar en LinkedIn | [Flora & Fauna en LinkedIn](https://pe.linkedin.com/company/florayfauna-pe) → click People | |
-| [ ] | **Aruma** | Belleza / Retail | 126 tiendas en Perú · expandiendo a Colombia y México · primera cadena especializada de belleza en Perú | Crecimiento rápido con expansión LATAM activa · equipo de mktg/brand que puede absorber a alguien con visión de escala | María Fernanda Bonilla | [ver perfil](https://www.linkedin.com/in/mar%C3%ADa-fernanda-bonilla/) | |
+| [ ] | **Cacaosuyo** | Chocolate craft | El chocolate peruano más premiado del mundo (4x Gold consecutivo International Chocolate Awards) · acaban de entrar a EE.UU. | Empresa pequeña · fundador Samir Giha muy accesible · necesitan alguien con visión de marca para el mercado americano | Samir Giha — Co-Founder & CEO | [ver perfil](https://www.linkedin.com/in/samir-giha-301b2a26/) | |
+| [ ] | **La Purita** | Food plant-based | Líder en WFPB en Perú · 80+ productos · 400+ puntos de venta · branding limpio y moderno | Fundada por Adriana Antunez de Mayolo (PhD Columbia) · empresa pequeña que ya escaló · muy bien posicionada | Buscar en LinkedIn | [La Purita en LinkedIn](https://pe.linkedin.com/company/la-purita) → click People | |
+| [ ] | **Nutri Co** | Foodtech / plant-based | Startup de alimentos con algoritmo propio (Virgilio) para crear productos nutritivos y sostenibles | Dos founders accesibles · modelo innovador · buscan perfiles con pensamiento estratégico | Carlos Noceda — CEO | [ver perfil](https://www.linkedin.com/in/carlosnocedamartorellet/) | |
+| [ ] | **Quinoa Café** | Healthy café / retail | 7 locales en Lima · referente de alimentación saludable · branding consistente y comunidad fiel | Founders de familia · empresa en expansión · espacio para contribuir en marketing y experiencia de marca | Buscar en LinkedIn | [Quinoa Café en LinkedIn](https://pe.linkedin.com/company/quinoa-caf%C3%A9) → click People | |
+| [ ] | **Sativa Brew** | Kombucha / bebida funcional | Kombucha peruana fundada por egresados de La Molina · compite directamente contra gaseosas · branding joven y fresco | Founders jóvenes, accesibles, en plena construcción de marca | Buscar en LinkedIn | Busca: `Sativa Brew Lima LinkedIn` | |
+| [ ] | **Flora & Fauna** | Retail saludable | Supermercado orgánico con 10+ tiendas en Lima · 400+ proveedores locales · referente de consumo consciente en Perú | Efraín y Eileen Wong son los fundadores · empresa mediana misión-driven · buscan perfiles que entiendan la marca desde adentro | Buscar en LinkedIn | [Flora & Fauna en LinkedIn](https://pe.linkedin.com/company/florayfauna-pe) → click People | |
+
+### 👗 Moda y Lifestyle
+
+| [ ] | Empresa | Sector | Por qué está en tendencia | Por qué dirían que sí | Contacto | LinkedIn | Estado |
+|---|---|---|---|---|---|---|---|
+| [ ] | **ESCVDO** | Moda sostenible de lujo | Primera marca peruana premiada en Milan Fashion Week (CNMI Sustainable Fashion Awards) · vende en boutiques de lujo en EE.UU. · editorial en WWD | Chiara Macchiavello es fundadora y directora creativa · empresa pequeña · conexión fuerte con mercado americano | Chiara Macchiavello — Founder & Creative Director | [ver perfil](https://www.linkedin.com/in/chiara-macchiavello-b63656231/) | |
+| [ ] | **Ayni** | Moda artesanal / alpaca | 10 años en el mercado · 300+ artesanas en Cusco y Puno · referente de moda peruana sostenible con identidad fuerte | Fundadoras Adriana Cachay y Laerke Skyum · empresa pequeña de impacto · branding con propósito real | Buscar en LinkedIn | Busca: `Ayni Peru moda LinkedIn fundadora` | |
+| [ ] | **Mitre Performance** | Ropa deportiva | Marca peruana de activewear en crecimiento · diseño moderno · comunidad fitness local | Equipo pequeño · fundador accesible · necesitan apoyo en estrategia de marca y comunidad | Buscar en LinkedIn | [Mitre Performance en LinkedIn](https://pe.linkedin.com/company/mitre-performnace) → click People | |
+| [ ] | **Aruma** | Belleza / Retail | Primera cadena especializada de belleza del Perú · 126 tiendas · expandiendo a Colombia y México activamente | Crecimiento muy rápido · expansión LATAM activa · equipo de marketing que puede absorber un perfil estratégico | María Fernanda Bonilla | [ver perfil](https://www.linkedin.com/in/mar%C3%ADa-fernanda-bonilla/) | |
+
+### 🏋️ Fitness Boutique — El sector de mayor crecimiento en Lima ahora mismo
+
+> Boom real: los estudios boutique de pilates en Lima crecieron entre 50% y 150% en 2025. Founders accesibles, equipos de 3-8 personas, necesitan ayuda en marketing, comunidad y marca. **Este es el approach más fácil de todos.**
+
+| [ ] | Estudio | Crecimiento 2025 | Por qué dirían que sí | Contacto | LinkedIn / Web | Estado |
+|---|---|---|---|---|---|---|
+| [ ] | **Balance Studio** (pilates · yoga · barre) | +70% (2 locales) | Mónica Giraldez es la fundadora · empresa pequeña en expansión · decisión en una llamada | Mónica Giraldez — Founder | [balancestudio.pe](https://balancestudio.pe) · Busca: `Balance Studio Lima LinkedIn` | |
+| [ ] | **Curva Studio** (pilates reformer) | +150% (2 locales en 6 meses) | Priscilla y Samantha Wienke son las fundadoras · marca nueva con crecimiento explosivo · necesitan estructura de branding | Priscilla Wienke — Co-Founder | Busca: `Curva Studio Lima LinkedIn` | |
+| [ ] | **Elévate Studio** (pilates · funcional) | +50% · expansión de máquinas | José Antonio de Rivero es el CEO · boutique en Miraflores · equipo pequeño y en crecimiento | José Antonio de Rivero — CEO | Busca: `Elévate Studio Lima LinkedIn` | |
+| [ ] | **Sweat Club** (barre · pilates · bootcamp · yoga) | En expansión | Fitness boutique multi-disciplina en La Molina · branding moderno · comunidad activa | Buscar en LinkedIn | [sweatclub.pe](https://www.sweatclub.pe) | |
 
 ---
 
