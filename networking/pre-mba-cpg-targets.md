@@ -71,6 +71,49 @@
 
 ---
 
+## 🏢 AGENCIAS — Peru, LATAM y EE.UU.
+> Las agencias son un target distinto: no les pides que te dejen trabajar *para su marca*, sino contribuir *al equipo* desde adentro de proyectos de branding, estrategia o campañas para sus clientes CPG. Pitch diferente: *"Traigo perspectiva de estrategia de marca de un MBA top — quiero aprender cómo las agencias construyen esto para sus clientes."*
+
+| [ ] | País | Agencia | Tipo | Por qué | Contacto de referencia | LinkedIn | Estado |
+|---|---|---|---|---|---|---|---|
+| [ ] | 🇵🇪 | **Fahrenheit DDB** | Creativa / Estrategia | Top 10 agencia de LATAM (Cannes Lions) · trabaja con Alicorp, PlazaVea y grandes CPG peruanos · parte de red global DDB | Buscar en LinkedIn | [Fahrenheit DDB en LinkedIn](https://www.linkedin.com/company/fahrenheit-ddb) → click People | |
+| [ ] | 🇵🇪 | **Circus Grey** | Creativa | Top agencia peruana, parte de Grey (WPP) · premiada en Cannes · trabaja con marcas de consumo masivo | Buscar en LinkedIn | Busca: `Circus Grey Peru LinkedIn` | |
+| [ ] | 🇵🇪 | **McCann Lima** | Creativa / Efectividad | Agencia del Año Effie Perú 2023 · red global McCann · clientes CPG y retail | Buscar en LinkedIn | Busca: `McCann Lima marketing estrategia LinkedIn` | |
+| [ ] | 🇪🇸🌎 | **LOLA MullenLowe** | Creativa / LATAM | Top 10 agencia europea de la década (Cannes) · especialidad en LATAM · oficinas en Madrid y Miami · trabaja marcas globales en LatAm | Buscar en LinkedIn | [LOLA MullenLowe en LinkedIn](https://www.linkedin.com/company/lolamullenlowe) → click People | |
+| [ ] | 🇧🇷 | **AlmapBBDO** | Creativa | Agencia #1 en efectividad en LATAM 2023 · São Paulo · tu portugués aplica directo | Buscar en LinkedIn | Busca: `AlmapBBDO LinkedIn marketing` | |
+| [ ] | 🇺🇸 | **Jones Knowles Ritchie (JKR)** | Branding / Packaging | Agencia de diseño de marca líder en CPG · clientes: AB InBev, Mars, Kraft Heinz, Impossible Foods · NYC + Londres | Buscar en LinkedIn | [JKR en LinkedIn](https://www.linkedin.com/company/jkr) → click People | |
+| [ ] | 🇺🇸 | **SMAKK Studios** | Branding / Wellness | Especializada en beauty, wellness y CPG · NYC · equipo pequeño · trabaja con marcas DTC emergentes | Buscar en LinkedIn | Busca: `SMAKK Studios LinkedIn` | |
+
+---
+
+## 💰 VENTURE CAPITALS ADICIONALES
+> Más fondos enfocados en el espacio donde te quieres mover. La lógica sigue siendo la misma: no pides internship — pides perspectiva. Ellos te conectan con su portafolio.
+
+| [ ] | País | Fondo | Foco | Por qué | Contacto de referencia | LinkedIn | Estado |
+|---|---|---|---|---|---|---|---|
+| [ ] | 🇺🇸 | **CAVU Consumer Partners** | CPG better-for-you | Fundado por Rohan Oza (ex-CMO Vitaminwater, ex-Shark Tank) · portafolio: Bai, Poppi, BodyArmor · muy accesible en redes | Rohan Oza — Co-Founder | [ver perfil](https://www.linkedin.com/in/rohan-oza-0a725a115/) | |
+| [ ] | 🇺🇸 | **VMG Partners** | CPG consumo | Portafolio: Krave, Caulipower, Pipcorn · top VC en consumer brands | Buscar en LinkedIn | [VMG Partners](https://www.linkedin.com/company/vmg-partners) → click People | |
+| [ ] | 🇺🇸 | **Strand Equity** | Health / CPG | Respaldaron OLIPOP ($1.85B), Supergut · portafolio salud | Buscar en LinkedIn | Busca: `Strand Equity LinkedIn` | |
+| [ ] | 🇺🇸 | **XRC Ventures** | Consumer / Retail | VC accelerator NYC · consumer goods + retail tech · modelo de aceleración, traen gente de afuera | Buscar en LinkedIn | Busca: `XRC Ventures LinkedIn` | |
+| [ ] | 🇺🇸 | **Prelude Growth Partners** | CPG growth equity | Invierten en marcas con tracción probada · enfoque en escalar · equipo pequeño con mucho deal flow | Buscar en LinkedIn | Busca: `Prelude Growth Partners LinkedIn` | |
+
+---
+
+## 🤝 ORGANIZACIONES, ASOCIACIONES Y PREMIOS
+> Estos son tus aceleradores de red — no te dan un trabajo, te conectan con 50 personas a la vez. El pitch es diferente: *"Quiero contribuir este verano — ayudando con contenido, eventos o comunidad. A cambio, aprendo del ecosistema desde adentro."*
+
+| [ ] | País | Organización | Tipo | Por qué es un target real | Cómo hacer el approach | LinkedIn | Estado |
+|---|---|---|---|---|---|---|---|
+| [ ] | 🇵🇪 | **Effie Perú** | Premios de efectividad mktg | Organizado en colaboración con **UP** (tu universidad) — conexión directísima · participan todas las grandes marcas y agencias del Perú | Escríbele al equipo organizador: "Soy alumni de UP, incoming Booth MBA '28 — ¿puedo colaborar en la organización del evento de este año?" | [Effie Perú en LinkedIn](https://www.linkedin.com/company/effie-per%C3%BA/) | |
+| [ ] | 🇵🇪 | **ANDA** (Asoc. Nacional de Anunciantes) | Asociación de anunciantes | Agrupa a los directores de marketing de las principales marcas en Perú · eventos con tomadores de decisión | Pide ser voluntaria en un evento o solicita acceso a su comunidad | Busca: `ANDA Peru anunciantes LinkedIn` | |
+| [ ] | 🇵🇪 | **Sociedad Peruana de Marketing** | Asociación de marketing | Red de profesionales de marketing en Perú · eventos y conferencias | Membresía + contribuir con contenido o eventos de su comunidad | Busca: `Sociedad Peruana Marketing LinkedIn` | |
+| [ ] | 🌎 | **Effie Latam** | Premios regionales | Reconoce las mejores campañas de LATAM · conecta con agencias y marcas de toda la región | Contacta al equipo organizador como alumni UP + incoming Booth | Busca: `Effie Latam LinkedIn` | |
+| [ ] | 🇺🇸 | **Startup CPG** | Comunidad CPG emergente | **Tienen capítulo en Chicago** (reuniones en The Hatchery food incubator) · 13,000 marcas emergentes en su comunidad Slack · conecta directo con founders | Únete al Slack gratis → busca el canal de Chicago → sé activa ANTES de llegar a Booth | [Startup CPG en LinkedIn](https://www.linkedin.com/company/startupcpg) | |
+| [ ] | 🇺🇸 | **Naturally Chicago** | Comunidad natural/organic | Red de marcas naturales y orgánicas en Chicago · eventos regulares · muchas marcas de la lista de targets participan aquí | Únete antes de llegar · escribe al organizador del capítulo como incoming Booth MBA | Busca: `Naturally Chicago LinkedIn` | |
+| [ ] | 🇺🇸 | **New Hope Network** | Industria natural/wellness | Organiza Expo West y Expo East (mayores ferias de productos naturales del mundo) · red de buyers, marcas e inversores | Pide credencial de prensa o acceso como estudiante MBA — cubrirlo desde Booth | Busca: `New Hope Network LinkedIn` | |
+
+---
+
 ## Templates (referencia rápida)
 
 ### Peru / LATAM — empresas que exportan o quieren entrar a EE.UU.
