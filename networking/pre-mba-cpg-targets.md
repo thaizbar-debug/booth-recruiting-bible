@@ -82,6 +82,19 @@
 | [ ] | **VMG Partners** | VC → portafolio CPG | Top VC en CPG · una intro de ellos = 5 puertas en portafolio (Krave, Caulipower, Pipcorn) | Buscar en LinkedIn | [VMG Partners](https://www.linkedin.com/company/vmg-partners) → click People → busca Associate o Principal | |
 | [ ] | **Strand Equity** | VC → portafolio health | Respaldaron OLIPOP ($1.85B) · portafolio enfocado en salud · intro directa a sus marcas | Buscar en LinkedIn | Busca: `Strand Equity LinkedIn` | |
 
+### 📍 Austin, TX — Hub de Wellness y CPG en EE.UU.
+> Austin es el segundo ecosistema CPG más importante de EE.UU. después de Nueva York. Tiene un cluster real de marcas fitness/wellness founder-led, varias ya icónicas. El pitch de "incoming Booth MBA en Chicago" resuena especialmente aquí porque los founders de Austin tienen mentalidad de comunidad y networking.
+
+| [ ] | Empresa | Sector | Por qué esta empresa · nota clave | Contacto de referencia | LinkedIn | Estado |
+|---|---|---|---|---|---|---|
+| [ ] | **Siete Family Foods** | CPG / Food | Empresa familiar **latina** de Austin · tortillas y chips grain-free · adquirida por PepsiCo por **$1.2B en 2024** pero aún dirigida por la familia Garza · ser peruana es tu gancho directo con ellos | Veronica Garza — CMO & Co-Founder | Busca: `Veronica Garza Siete LinkedIn` | |
+| [ ] | **Waterloo Sparkling Water** | CPG / Bebidas | Challenger al LaCroix fundada en Austin 2016 · distribución nacional en Whole Foods, Target, Walmart · una de las marcas de agua con gas de más rápido crecimiento en EE.UU. · muy cool como experiencia de brand marketing | Jason Shiver — CEO | Busca: `Jason Shiver Waterloo LinkedIn` | |
+| [ ] | **Onnit** | Wellness / Supplements | Marca de suplementos y equipo de fitness fundada por Aubrey Marcus en Austin · adquirida por **Unilever 2021** pero HQ sigue en Austin · muy conocida en el mundo fitness por conexión con Joe Rogan · equipo de marketing fuerte | Aubrey Marcus — Founder | Busca: `Aubrey Marcus Onnit LinkedIn` | |
+| [ ] | **GoodPop** | CPG / Frozen | Paletas y pops orgánicos · B-corp Austin-founded · equipo pequeño · misión clean-label · founder accesible y activo en comunidad CPG de Austin | Jason Bauer — Co-Founder | Busca: `Jason Bauer GoodPop LinkedIn` | |
+| [ ] | **YETI** | Outdoor / Lifestyle | Coolers y drinkware icónicos de Austin · NYSE: YETI · marca con uno de los mejores brand playbooks del mundo en lifestyle/fitness · demasiado grande para internship clásico pero el equipo de brand marketing tiene proyectos donde puede entrar una persona externa | Buscar en LinkedIn | [YETI en LinkedIn](https://www.linkedin.com/company/yeti-coolers) → People → Brand Marketing | |
+| [ ] | **Vital Farms** | CPG / Better-for-you | Huevos y mantequilla pasture-raised · HQ Austin · cotiza en NASDAQ (VITL) · muy fuerte en Whole Foods y mercado health-conscious · branding de bienestar animal y sostenibilidad muy ejecutado | Matt O'Hayer — Founder & Chair | Busca: `Matt O'Hayer Vital Farms LinkedIn` | |
+| [ ] | **Black Swan Yoga** | Fitness / Estudio | Cadena de yoga más conocida de Austin (7+ estudios) · modelo pay-what-you-can que los hizo comunidad referente · en expansión digital · equipo de 10-20 personas · muy accesibles | Buscar en LinkedIn | Busca: `Black Swan Yoga Austin LinkedIn` | |
+
 ---
 
 ## 🏢 AGENCIAS — Peru, LATAM y EE.UU.
