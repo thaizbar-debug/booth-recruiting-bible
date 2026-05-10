@@ -95,6 +95,17 @@
 | [ ] | **Vital Farms** | CPG / Better-for-you | Huevos y mantequilla pasture-raised · HQ Austin · cotiza en NASDAQ (VITL) · muy fuerte en Whole Foods y mercado health-conscious · branding de bienestar animal y sostenibilidad muy ejecutado | Matt O'Hayer — Founder & Chair | Busca: `Matt O'Hayer Vital Farms LinkedIn` | |
 | [ ] | **Black Swan Yoga** | Fitness / Estudio | Cadena de yoga más conocida de Austin (7+ estudios) · modelo pay-what-you-can que los hizo comunidad referente · en expansión digital · equipo de 10-20 personas · muy accesibles | Buscar en LinkedIn | Busca: `Black Swan Yoga Austin LinkedIn` | |
 
+#### 💰 VCs, PE e Incubadoras — Austin
+> El pitch aquí es distinto al de las marcas: no pides trabajar *en* un proyecto de marca, pides aprender cómo evalúan, apoyan y escalan sus portafolios. A cambio: cero costo, perspectiva de Booth, y puedes ser útil en research de mercado o análisis de deals. Una intro de un VC de Austin = acceso a 10 marcas de su portafolio.
+
+| [ ] | Tipo | Nombre | Foco | Por qué es target real | Contacto de referencia | LinkedIn | Estado |
+|---|---|---|---|---|---|---|---|
+| [ ] | **VC** | **Springdale Ventures** | CPG / Consumer | **El VC CPG más importante de Austin** · fundado por Erin Shea · portafolio incluye Siete Foods (early investor), Cece's Veggie Co., Kite Hill · muy conectado con todo el ecosistema Austin | Erin Shea — Founder & Managing Partner | Busca: `Erin Shea Springdale Ventures LinkedIn` | |
+| [ ] | **Aceleradora** | **SKU (Consumer Goods Accelerator)** | CPG / Consumer | Aceleradora de Austin **dedicada exclusivamente a CPG** · más de 200 marcas graduadas · mentores son ex-CMOs y fundadores de marcas top · única en su tipo en EE.UU. · muy accesibles con estudiantes MBA | Buscar en LinkedIn | [SKU en LinkedIn](https://www.linkedin.com/company/sku-accelerator) → click People | |
+| [ ] | **Aceleradora** | **Capital Factory** | Startups / Consumer | El acelerador más grande de Texas · HQ Austin · portafolio de +300 startups incluyendo consumer brands · eventos públicos semanales · la mejor puerta de entrada al ecosistema startup de Austin | Joshua Baer — CEO & Co-Founder | [ver perfil](https://www.linkedin.com/in/joshuabaer/) | |
+| [ ] | **Comunidad/Org** | **Naturally Austin** | Natural / Wellness / CPG | Comunidad que conecta marcas naturales y orgánicas con retailers, inversores y talento · organiza eventos regulares · muy fácil unirse antes de llegar · directa conexión con compradores de Whole Foods | Buscar en LinkedIn | Busca: `Naturally Austin LinkedIn` | |
+| [ ] | **Corporate** | **Whole Foods Market HQ** | Retail / CPG | **HQ en Austin** · su equipo de compradores (buyers) decide qué marcas entran a los 500+ supermercados · conocerlos = entender cómo se construye distribución CPG desde adentro · puerta a todo el ecosistema de proveedores emergentes | Buscar: equipo de Local & Emerging Brands | [Whole Foods en LinkedIn](https://www.linkedin.com/company/whole-foods-market) → People → Buyer o Local Brands | |
+
 ---
 
 ## 🏢 AGENCIAS — Peru, LATAM y EE.UU.
