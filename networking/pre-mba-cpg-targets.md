@@ -1,253 +1,110 @@
-# Pre-MBA Summer 2026 — CPG, Fitness & Wellness Outreach Targets
+# Pre-MBA Summer 2026 — Outreach Database
 
-**Goal:** Land a 3-month (June–August 2026) immersion in marketing, brand strategy, or retail at a company where you can contribute something real and learn the brand side of CPG before Booth starts.
+**Período objetivo:** Junio – Agosto 2026  
+**Rubros:** Comida/CPG · Retail · Salud · Fitness · Ropa · Entretenimiento  
+**Regla de oro:** Antes de escribirle a cualquier contacto, revisa su LinkedIn y ve si estudió en **UP** o **Booth** — eso cambia el mensaje por completo.
 
-**Visa reality:**
-- 🇵🇪 **Peru / LATAM:** Can be on payroll as contractor or employee
-- 🇺🇸 **US:** Must be unpaid (volunteer/shadow). Frame it accordingly — you're removing the cost objection entirely.
-
-> **How to use this file:** Work top-to-bottom within each segment. Prioritize confirmed LinkedIn profiles. For "search on LinkedIn" rows, run the exact search string given. Log every outreach in `networking/tracker.md`.
-
----
-
-## IMPORTANT FLAGS BEFORE REACHING OUT
-
-| Company | Status | What This Means for You |
-|---|---|---|
-| **Tru Fru** | Acquired by Mars (Dec 2022) | Founders (Taz Murray, Harvey Millar) are free agents — more accessible, more willing to give someone a shot |
-| **Yasso** | Acquired by Unilever (Aug 2023) | Drew Harrington stepped back to board/advisor — reach him as a mentor, not as a boss |
-| **OWYN** | Acquired by Simply Good Foods (2024) | Skip as an internship target; try founders for coffee chats only |
-| **David** | Raising fast ($85M+, $725M valuation) | Small team, founder-led, NYC — best US volunteer target right now |
-| **Chomps** | Chicago-based, $245M in 2023 | Booth geographic proximity is your hook; Pete Maldonado is founder/co-CEO |
+**Cómo usar esta tabla:**
+- Cambia `[ ]` a `[x]` cuando hayas enviado el mensaje
+- Llena "Fecha" y "Estado" al ir avanzando
+- Estado: `Enviado` → `Respondió` → `Agendado` → `Completado`
 
 ---
 
-## SEGMENT 1 — PERU 🇵🇪
-*Payroll OK. Focus on small-to-medium brands, founders, and your existing network.*
+## 🇵🇪 PERU — Payroll OK
 
-### Strategy Note
-The top companies (Franui, David, Chomps) aren't Peru-based — so for Peru, the angle shifts to **emerging local brands + your UP and Apoyo adjacencies.** You don't need Apoyo clients. Target:
-1. Founders of Peruvian health/food/wellness startups
-2. Marketing heads at mid-size Peruvian CPG companies
-3. Universidad del Pacífico alumni network (your own school — warm by default)
+> Prioridad más alta. Aquí tienes la mayor cantidad de opciones, muchas con operaciones internacionales o que exportan a EE.UU.  
+> Para cada empresa, busca también en LinkedIn: `[Empresa] "Universidad del Pacífico" marketing` — si encuentras un contacto con UP, escríbele a ese primero.
 
-### Confirmed Target
+| [ ] | Sector | Empresa | Por qué esta empresa | Contacto | Rol | LinkedIn | URL confirmado? | Fecha | Estado |
+|---|---|---|---|---|---|---|---|---|---|
+| [ ] | CPG | **Alicorp** | Mayor empresa FMCG del Perú · ops en Bolivia, Brasil, Chile, Colombia, Ecuador | Alberto Lanfranco Z. | Trade Mktg Manager | [ver perfil](https://www.linkedin.com/in/alberto-lanfranco-zelaya-b0853366/) | ✅ | | |
+| [ ] | CPG · Global | **Backus / AB InBev** | Subsidiaria de AB InBev (empresa global #1 en cervezas) · marcas Cusqueña, Pilsen | Nathaly Paz | Brand Lead Cusqueña | [ver perfil](https://www.linkedin.com/in/nathaly-paz/) | ✅ | | |
+| [ ] | CPG · Global | **Backus / AB InBev** | Mismo grupo — contacto alternativo con perfil de brand manager | Andrea Ruiz Meza | Brand Manager Cusqueña | [ver perfil](https://www.linkedin.com/in/andrea-ruiz-meza-a8038597/) | ✅ | | |
+| [ ] | CPG · Global | **Backus / AB InBev** | Director nivel senior — puede abrir puertas dentro del grupo global | Sebastián Palacio F. | Premium Portfolio Mktg Dir | [ver perfil](https://www.linkedin.com/in/sebasti%C3%A1n-palacio-fortunic-724393177/) | ✅ | | |
+| [ ] | CPG · Export USA | **Camposol** | Exporta aguacate y arándanos a EE.UU. · tiene oficina propia en Delaware · opera en 5 países | Virginia Garcia | Gerenta Camposol Fresh USA | [ver perfil](https://www.linkedin.com/in/virginia-garcia-511b6129) | ✅ | | |
+| [ ] | Belleza · LATAM | **Belcorp** (L'Bel, Esika, Cyzone) | Empresa peruana con presencia en 14 países + EE.UU. · marca de belleza con fuerte identidad | Buscar en LinkedIn | Brand/Mktg Director | Busca: `Belcorp "marketing" director Lima LinkedIn` | 🔍 | | |
+| [ ] | Retail · LATAM | **Falabella Peru** | Holding chileno con retail, banco y e-commerce en 7 países LATAM | Buscar en LinkedIn | Gerente de Marketing | Busca: `Falabella Peru "gerente de marketing" LinkedIn` | 🔍 | | |
+| [ ] | Retail · LATAM | **Ripley Peru** | Holding chileno · retail fashion + banco · operaciones en Chile, Colombia | Buscar en LinkedIn | Jefe/Gerente Mktg | Busca: `Ripley Peru marketing LinkedIn` | 🔍 | | |
+| [ ] | Retail · LATAM | **InRetail / Plaza Vea** | Intercorp · supermercados, farmacias, malls · listada en NYSE | Buscar en LinkedIn | Gerente de Marca | Busca: `InRetail OR "Plaza Vea" marketing brand Lima LinkedIn` | 🔍 | | |
+| [ ] | Salud · Retail | **InkaFarma / Mifarma** | Cadena de farmacias más grande del Perú · parte de InRetail/Intercorp | Buscar en LinkedIn | Jefe de Marketing | Busca: `InkaFarma marketing LinkedIn` | 🔍 | | |
+| [ ] | Entretenimiento | **Cineplanet** | Cadena de cines más grande del Perú · experiencia y entretenimiento | Buscar en LinkedIn | Gerente de Mktg / Marca | Busca: `Cineplanet marketing director LinkedIn` | 🔍 | | |
+| [ ] | Ropa · Export USA | **Topitop / Topy Top** | Exporta el 70% de su producción a EE.UU. y Alemania · proveedor de H&M, Gap | Buscar en LinkedIn | Gerente Comercial / Mktg | Busca: `Topitop OR "Topy Top" marketing LinkedIn` | 🔍 | | |
+| [ ] | Ropa · Export USA | **Textimax** | Exportador textil integrado · cliente principal: EE.UU. | Patrick Petch | Commercial Manager | [ver perfil](https://www.linkedin.com/in/patrick-petch-1b120a7/) | ✅ | | |
+| [ ] | Comida · Export | **Ecoandino** | Superfoods peruanos exportados a EE.UU. y Europa · empresa mediana, fundador accesible | Carlos Samaniego | CEO & Founder | [ver empresa](https://www.linkedin.com/company/ecoandinosuperfoods) → click People | ✅ | | |
+| [ ] | Fitness · LATAM | **SmartFit Peru** | Cadena de gimnasios más grande de LATAM · operaciones en 14 países | Buscar en LinkedIn | Gerente de Mktg / Marca | Busca: `SmartFit Peru marketing LinkedIn` | 🔍 | | |
 
-| Person | Role | Company | Why | LinkedIn |
-|---|---|---|---|---|
-| **Carlos Samaniego** | CEO & Founder | Ecoandino (Peru superfoods) | 25+ years, exports to 40+ countries, small team — founder can say yes without a committee | [linkedin.com/company/ecoandinosuperfoods](https://www.linkedin.com/company/ecoandinosuperfoods) → click People |
+---
 
-### LinkedIn Searches to Run (Peru)
+## 🌎 LATAM — Payroll OK · Portugués abre Brasil
 
-| Search String | Target |
-|---|---|
-| `"gerente de marketing" "alimentos" OR "consumo" Lima` | Mid-size food brands with brand-side marketing leads |
-| `"brand manager" Lima wellness OR fitness OR "nutrición"` | Health-brand marketing people |
-| `"Universidad del Pacífico" "marketing" OR "estrategia" Lima` | Your own school — automatic warm opener |
-| `"Alicorp" OR "San Fernando" OR "Gloria" brand manager OR marketing Lima` | Large Peruvian CPG, smaller sub-brands that move faster |
-| `"startup" OR "emprendimiento" "alimentos" OR "snacks" Lima founder` | Emerging Peruvian food brands that need everything |
+> Empresas con alcance regional o global, con equipos de marketing más pequeños donde tu perfil genera impacto real.
 
-### Peru Message Template (Use on WhatsApp or LinkedIn DM)
+| [ ] | País | Sector | Empresa | Por qué | Contacto | Rol | LinkedIn | URL confirmado? | Fecha | Estado |
+|---|---|---|---|---|---|---|---|---|---|---|
+| [ ] | 🇦🇷 | CPG · Viral | **Franuí** | Marca argentina viral en Brasil sin publicidad pagada · CEO accesible · tu portugués es un activo directo | Leticia Fenoglio | CEO & Co-Founder | [ver perfil](https://www.linkedin.com/in/leticiafenoglio/) | ✅ | | |
+| [ ] | 🇦🇷 | CPG · Viral | **Franuí** | Contacto operativo de expansión internacional — más cerca del día a día que la CEO | Giuliana Franco | Expansión Internacional | [ver perfil](https://ar.linkedin.com/in/gfrancoc/en) | ✅ | | |
+| [ ] | 🇦🇷 | CPG · Export USA | **Arcor** | Empresa argentina de alimentos presente en 120 países · tiene equipo de marketing en EE.UU. | Antonio Miranda | Sales Mktg Manager USA | [ver perfil](https://www.linkedin.com/in/antoniomirandaus/) | ✅ | | |
+| [ ] | 🇧🇷 | Belleza · Global | **Natura &Co** | Gigante brasileño de belleza · dueña de Avon y The Body Shop · expansión activa en EE.UU. | Carol Andrade Gomes | Coordinadora Mktg LATAM | [ver perfil](https://www.linkedin.com/in/carolangom/) | ✅ | | |
+| [ ] | 🇲🇽 | CPG · USA | **Chobani México** | Brazo LATAM de Chobani EE.UU. · equipo pequeño · operaciones de marca con autonomía real | Mariana Le Mollé | Marketing Director | [ver perfil](https://mx.linkedin.com/in/mariana-le-moll%C3%A9-2ab6913b) | ✅ | | |
+| [ ] | 🇲🇽 | CPG · Global | **Grupo Bimbo** | Mayor empresa panificadora del mundo · presencia en 33 países incluido EE.UU. | Buscar en LinkedIn | Brand/Mktg Manager | Busca: `Grupo Bimbo "brand manager" OR "marketing" LinkedIn MBA` | 🔍 | | |
+| [ ] | 🇨🇴 | CPG · LATAM | **Grupo Nutresa** | Mayor conglomerado de alimentos en Colombia · 12 países LATAM · cotiza en bolsa | Buscar en LinkedIn | Brand Director / Mktg | Busca: `Nutresa marketing brand director LinkedIn Medellín` | 🔍 | | |
+| [ ] | 🇨🇱 | Retail · LATAM | **Falabella** (casa matriz) | Holding chileno con Falabella, Tottus, Sodimac, banco · 7 países · listada en bolsa | Buscar en LinkedIn | Gerente de Marketing | Busca: `Falabella Chile "marketing" director LinkedIn` | 🔍 | | |
+| [ ] | 🇨🇱 | Retail · LATAM | **Cencosud** | Retail chileno · dueño de Metro, Tottus, Wong, Easy · 6 países LATAM | Buscar en LinkedIn | Brand / Mktg Manager | Busca: `Cencosud marketing brand LinkedIn` | 🔍 | | |
+| [ ] | 🌎 | Fitness · LATAM | **SmartFit** (Brasil) | Cadena de gimnasios más grande de LATAM · HQ en São Paulo · 14 países | Buscar en LinkedIn | Marketing Director | Busca: `SmartFit marketing brand LinkedIn São Paulo` | 🔍 | | |
 
-> Hola [Nombre], ¿cómo estás? Me da gusto escribirte con una noticia que aún no termino de procesar: acabo de ser admitida con beca completa al MBA de Booth (University of Chicago), que empieza en septiembre.
+---
+
+## 🇺🇸 UNITED STATES — Voluntario/Unpaid · Sin compensación
+
+> Tu pitch: *"Soy incoming Booth MBA. No busco salario — busco aprender desde adentro 3 meses antes de empezar."*  
+> Esto elimina casi todo obstáculo salvo uno: ¿quieren tener a alguien inteligente cerca?
+
+| [ ] | Sector | Empresa | Por qué · Nota clave | Contacto | Rol | LinkedIn | URL confirmado? | Fecha | Estado |
+|---|---|---|---|---|---|---|---|---|---|
+| [ ] | Proteína · Hot | **David** | Marca de proteína más trending del mercado ($300M objetivo 2026) · equipo pequeño · NYC · TIME 100 Companies 2026 | Peter Rahal | CEO & Co-Founder | [ver perfil](https://www.linkedin.com/in/peter-rahal-037bba43/) | ✅ | | |
+| [ ] | Fitness · Chicago | **Chomps** | **Basada en Chicago** (South Loop) · $245M en 2023 · bootstrapped · co-CEO ex personal trainer · Booth proximity es tu hook | Pete Maldonado | Co-CEO & Co-Founder | [ver perfil](https://www.linkedin.com/in/petermaldonado/) | ✅ | | |
+| [ ] | CPG · Healthy | **Clio Snacks** | ~$90M, creciendo rápido, equipo mediano · Lauren puede crear un espacio de proyecto sin proceso corporativo | Lauren Pollack | SVP Marketing | [ver perfil](https://www.linkedin.com/in/lauren-pollack-83348442/) | ✅ | | |
+| [ ] | CPG · Healthy | **Good Culture** | $200M+ en cottage cheese · misión-driven · CEO ex-VP marketing de Honest Tea (la llevó de $10M a $80M) | Jesse Merrill | CEO & Co-Founder | [ver perfil](https://www.linkedin.com/in/merrilljesse/) | ✅ | | |
+| [ ] | CPG · Post-exit | **Yasso → Unilever** | Co-founder se alejó del día a día tras adquisición de Unilever · más tiempo libre · mentalidad de builder | Drew Harrington | Co-Founder / Advisor | [ver perfil](https://www.linkedin.com/in/drewharrington/) | ✅ | | |
+| [ ] | CPG · Post-exit | **Tru Fru → Mars** | Co-founder post-venta a Mars · activo como inversor y mentor · le gusta dar oportunidades | Taz Murray | Co-Founder / Investor | [ver perfil](https://www.linkedin.com/in/taz-murray-623a01b) | ✅ | | |
+| [ ] | CPG · Post-exit | **Tru Fru → Mars** | Contacto alternativo al mismo equipo fundador | Harvey Millar | Co-Founder | [ver perfil](https://www.linkedin.com/in/harvey-millar-427b954/) | ✅ | | |
+| [ ] | Yogurt · Global | **Chobani** | Marca #1 de yogurt en EE.UU. · equipo de brand marketing senior que puede crear espacio de proyecto | Lee Stroman | Sr. Director Brand Mktg | [ver perfil](https://www.linkedin.com/in/leestroman/) | ✅ | | |
+| [ ] | Fitness · Proteína | **Barebells** | Barra proteica sueca líder en fitness · equipo pequeño en EE.UU. · mentalidad de startup | Buscar en LinkedIn | US Brand/Mktg Manager | Busca: `Barebells "marketing manager" OR "brand" USA LinkedIn` | 🔍 | | |
+| [ ] | VC → Portafolio | **VMG Partners** | Top VC en CPG (Krave, Caulipower, Pipcorn) · una intro de ellos abre 5 puertas en su portafolio | Buscar en LinkedIn | Associate / Principal | [ver empresa](https://www.linkedin.com/company/vmg-partners) → click People | 🔍 | | |
+| [ ] | VC → Portafolio | **Strand Equity** | Respaldaron OLIPOP ($1.85B), Supergut · portafolio de salud · una llamada con ellos = múltiples intros | Buscar en LinkedIn | Partner / Associate | Busca: `Strand Equity LinkedIn team` | 🔍 | | |
+| [ ] | VC → Portafolio | **XRC Ventures** | VC accelerator en NYC · consumer goods + retail tech · traen outsiders, modelo de aceleración | Buscar en LinkedIn | Partner / Associate | Busca: `XRC Ventures LinkedIn` | 🔍 | | |
+
+---
+
+## Templates de mensaje (referencia rápida)
+
+### Peru / LATAM — Español
+> Hola [Nombre], soy Thaiz Barthelmess — acabo de ser admitida con beca al MBA de la Universidad de Chicago Booth (empiezo en septiembre 2026). Soy peruana, con experiencia en consultoría estratégica y producto digital en LATAM, y hablo español, inglés y portugués.
 >
-> Antes de arrancar, tengo junio, julio y agosto completamente libres — y quiero usarlos bien. Me encantaría explorar si en [empresa] podría haber un espacio para contribuir al equipo de marketing o estrategia de marca durante esos tres meses. No busco algo formal ni grande — soy yo la que ganaría más en este intercambio.
->
-> Tengo 4 años de experiencia en consultoría estratégica, producto digital y go-to-market en LATAM, y ahora quiero aprender desde adentro el lado de marca en consumo. ¿Tendríamos 20 minutos para conversar?
-
----
-
-## SEGMENT 2 — LATAM 🌎
-*Payroll OK. Portuguese opens Brazil. Spanish everywhere else.*
-
-### Confirmed Contacts
-
-| Person | Role | Company | Country | Why | LinkedIn |
-|---|---|---|---|---|---|
-| **Leticia Fenoglio** | CEO & Co-Founder | Franuí | 🇦🇷 Argentina | Decision-maker, built a global brand with zero marketing budget — will respect a scrappy contributor. Viral in Brazil → your Portuguese is an asset here | [linkedin.com/in/leticiafenoglio](https://www.linkedin.com/in/leticiafenoglio/) |
-| **Giuliana Franco** | International Expansion | Franuí | 🇦🇷 Argentina | Closer to day-to-day operations than the CEO. She runs the markets. | [linkedin.com/in/gfrancoc](https://ar.linkedin.com/in/gfrancoc/en) |
-| **Mariana Le Mollé** | Marketing Director | Chobani México | 🇲🇽 Mexico | LATAM arm of a US brand — smaller team, more flexibility, real brand-building work | [linkedin.com/in/mariana-le-mollé-2ab6913b](https://mx.linkedin.com/in/mariana-le-moll%C3%A9-2ab6913b) |
-
-### Additional LATAM Searches to Run
-
-| Search String | Target |
-|---|---|
-| `"brand manager" OR "marketing" Colombia "saludable" OR "snacks" OR "proteína"` | Colombian healthy CPG (growing market) |
-| `"gerente de marketing" Argentina "consumo masivo" OR "snacks" OR "wellness"` | Argentine mid-size brands |
-| `"México" OR "Brazil" "CPG" OR "FMCG" "brand" "marketing" Booth OR Kellogg OR Wharton` | MBA-pedigreed LATAM marketing leaders |
-| `Startup CPG LATAM "founder" OR "co-founder" LinkedIn` | Emerging LATAM better-for-you brands |
-
-### Franui Approach — Do This First
-Before DMing, comment on one of Leticia Fenoglio's recent LinkedIn posts (she posts actively). A thoughtful comment about brand-building, international expansion, or the Brazil viral moment. Then DM 3–4 days later referencing your comment. This is not cold — it's warm.
-
-### LATAM Message Template (Spanish, for Leticia/founders)
-
-> Hola [Nombre], soy Thaiz Barthelmess — acabo de ser admitida con beca al MBA de la Universidad de Chicago Booth (empiezo en septiembre 2026). Soy peruana, trabajé en consultoría estratégica y en el banco más grande de Perú, y hablo español, inglés y portugués con fluidez.
->
-> Admiro mucho lo que han construido en [Franui / empresa] — especialmente [algo específico: ej. "la manera en que crecieron viralmente en Brasil sin inversión en publicidad, y lo que eso dice sobre la identidad del producto"]. Es el tipo de construcción de marca que quiero entender desde adentro antes de empezar Booth.
->
-> Tengo junio, julio y agosto libres y me encantaría contribuir — en marketing, estrategia de expansión, análisis de mercado, lo que sea más útil. No busco algo formal; sé que el intercambio es más valioso para mí que para ustedes. ¿Estarías abierta/o a una llamada de 20 minutos?
-
----
-
-## SEGMENT 3 — UNITED STATES 🇺🇸
-*Volunteer/unpaid only. Remove the money objection — your ask becomes almost risk-free for them.*
-
-**Your pitch in one sentence:** *"I'm an incoming Booth MBA with 4 years of strategy and product experience. I'm not looking for money — I'm looking for a seat at the table for 3 months before my program starts. You'd be doing me a favor."*
-
----
-
-### CPG — Better-for-You Food
-
-| Person | Role | Company | Why | LinkedIn |
-|---|---|---|---|---|
-| **Lauren Pollack** | SVP Marketing | Clio Snacks | ~$90M revenue, still growing fast, not yet buried in corporate process. Brand-side decision-maker. | [linkedin.com/in/lauren-pollack-83348442](https://www.linkedin.com/in/lauren-pollack-83348442/) |
-| **Drew Harrington** | Co-Founder / Board Advisor | Yasso → Unilever | Stepped back from day-to-day — has time and founder generosity. Personal connection to the brand. | [linkedin.com/in/drewharrington](https://www.linkedin.com/in/drewharrington/) |
-| **Jesse Merrill** | Co-Founder & CEO | Good Culture | Built a $200M+ cottage cheese brand. Mission-driven, TikTok-native brand story. Still runs the company. | [linkedin.com/in/merrilljesse](https://www.linkedin.com/in/merrilljesse/) |
-| **Lee Stroman** | Sr. Director, Brand Marketing | Chobani | Senior enough to create a project slot, direct brand marketing ownership | [linkedin.com/in/leestroman](https://www.linkedin.com/in/leestroman/) |
-
----
-
-### Fitness & Protein — The Hottest Space Right Now
-
-| Person | Role | Company | Why | LinkedIn |
-|---|---|---|---|---|
-| **Peter Rahal** | CEO & Co-Founder | David (protein bars) | RXBAR founder, now building a $300M brand from scratch. NYC, small team, founder-led, obsessed with brand. TIME's 100 Most Influential Companies 2026. | [linkedin.com/in/peter-rahal-037bba43](https://www.linkedin.com/in/peter-rahal-037bba43/) |
-| **Pete Maldonado** | Co-CEO & Co-Founder | Chomps | **Chicago-based.** Built $245M brand bootstrapped. Former personal trainer — he gets the fitness angle. Booth proximity is your hook. | [linkedin.com/in/petermaldonado](https://www.linkedin.com/in/petermaldonado/) |
-| **Taz Murray** | Co-Founder / Investor | Tru Fru → Mars | Post-exit, active builder and investor. Loves giving people shots — check his podcast interviews. | [linkedin.com/in/taz-murray-623a01b](https://www.linkedin.com/in/taz-murray-623a01b) |
-| **Harvey Millar** | Co-Founder | Tru Fru → Mars | Operational side of Tru Fru, now post-exit. Can open doors at other brands. | [linkedin.com/in/harvey-millar-427b954](https://www.linkedin.com/in/harvey-millar-427b954/) |
-
-**Why Chomps + David are your top US targets:**
-- **Chomps** is bootstrapped/Chicago → Pete Maldonado is accessible, not behind a corporate wall. Mention Booth + Chicago + fitness background = instant relevance.
-- **David** is the hottest brand in protein right now. Peter Rahal is a marketing genius obsessed with brand-building. A Booth incoming student who wants to shadow his team costs him nothing and gives him a smart set of eyes.
-
----
-
-### US Searches to Run
-
-| Search String | Target |
-|---|---|
-| `Barebells LinkedIn "marketing manager" OR "brand" USA` | Swedish fitness bar with fast US growth, small US team |
-| `"XRC Ventures" LinkedIn team` | NY consumer VC, accelerator model, connects to many brands |
-| `"VMG Partners" LinkedIn People` | Top CPG VC — Krave, Caulipower, Pipcorn. One intro = 5 doors. |
-| `"Strand Equity" LinkedIn team` | Backed OLIPOP ($1.85B). Health-focused portfolio. |
-| `"Booth" "brand manager" OR "brand marketing" LinkedIn "CPG" OR "consumer"` | Booth alumni on brand teams at CPGs — highest response rate |
-
----
-
-### VCs — The Underrated Angle
-
-VCs see 100+ brands a week and can place you at a portfolio company with one Slack message. **Don't ask them for an internship — ask them for market intel.** Once they know you, the intro comes naturally.
-
-Top targets:
-- **VMG Partners** → [linkedin.com/company/vmg-partners](https://www.linkedin.com/company/vmg-partners) → click People → find Associates or Principals
-- **XRC Ventures** → Search `XRC Ventures` on LinkedIn → find consumer-focused Partners
-- **Strand Equity** → Search `Strand Equity LinkedIn` → backed OLIPOP, Supergut, other health brands
-
----
-
-## MESSAGE TEMPLATES
-
----
-
-### Template A — Peru / LATAM Founders (Spanish)
-*Use for: Leticia Fenoglio, Mariana Le Mollé, Ecoandino, Peru searches*
-
-> Hola [Nombre], soy Thaiz Barthelmess — acabo de ser admitida con beca al MBA de la Universidad de Chicago Booth (empiezo en septiembre 2026). Soy peruana, con 4 años de experiencia en consultoría estratégica y producto digital en LATAM — y hablo español, inglés y portugués fluido.
->
-> Me llama mucho la atención lo que están construyendo en [empresa], especialmente [detalle específico]. Antes de empezar Booth, tengo junio, julio y agosto libres y me encantaría contribuir — desde marketing, análisis de mercado, expansión, o lo que sea más útil para el equipo. No busco algo formal; sé que el intercambio es más valioso para mí que para ustedes.
+> Me llama mucho la atención lo que están construyendo en [empresa], especialmente [detalle específico]. Tengo junio, julio y agosto libres y me encantaría contribuir — en marketing, estrategia de marca o análisis de mercado, lo que sea más útil. No busco algo formal; sé que el intercambio es más valioso para mí.
 >
 > ¿Tendríamos 20 minutos para conversar?
 
 ---
 
-### Template B — US Founders (English, unpaid framing)
-*Use for: Lauren Pollack, Jesse Merrill, Lee Stroman*
-
-> Hi [Name], I'm Thaiz — I'm joining Booth's MBA program this September on a merit scholarship, coming from 4 years in strategy consulting and product leadership across Latin America.
+### US Founders — Inglés, unpaid framing
+> Hi [Name], I'm Thaiz — joining Booth's MBA this September on a merit scholarship, coming from 4 years in strategy consulting and product leadership across Latin America.
 >
-> Before Booth starts, I have June through August free — and I want to spend them learning the brand side of CPG from the inside, not from a textbook. I can't take paid work in the US right now, so I'm genuinely asking as a favor: would there be any project or shadow opportunity at [Clio / Good Culture / Chobani] where I could contribute for 2–3 months?
->
-> I'd bring strategic rigor, energy, and zero overhead. You'd be doing me a real favor — and I'd make sure it's worth your team's time.
+> I have June through August free and I want to spend them learning the brand side of CPG from the inside. I can't take paid work in the US right now, so I'm genuinely asking as a favor: would there be any project or shadow opportunity at [company] for 2–3 months? Zero overhead, a lot of curiosity.
 >
 > Would you have 20 minutes to chat?
 
 ---
 
-### Template C — Post-Exit / Builder Founders (English, mentor angle)
-*Use for: Peter Rahal, Pete Maldonado, Taz Murray, Drew Harrington*
-
-> Hi [Name], I've been following [David / Chomps / Tru Fru]'s story closely — [something specific: e.g., "the way David launched with a reflective wrapper and a single claim, and made it go viral without paid media, is one of the cleaner brand case studies I've seen in years"].
->
-> I'm Thaiz, incoming Booth MBA '28 (starting September), coming from strategy consulting in Peru where I worked on CPG and consumer brand strategy across Latin America. Before Booth, I have June–August free — and I'd love to contribute to your team, completely unpaid. I want to learn this space from the inside.
->
-> Would you be open to a 20-minute conversation?
+### Si estudiaron en UP — Abre con eso primero
+> Hola [Nombre], te escribo porque ambos somos egresados de la UP — y acabo de ser admitida con beca al MBA de Chicago Booth. [Resto del mensaje según contexto Peru/LATAM.]
 
 ---
 
-### Template D — Chomps (Chicago-Specific Hook)
-*Use for: Pete Maldonado only*
-
-> Hi Pete, I'm Thaiz — I'm joining Booth's MBA program in Chicago this September, and I've been following Chomps' story since I got in. What you and Rashid built bootstrapped, out of a South Loop apartment, is exactly the kind of brand-building I want to understand before I start my MBA.
->
-> I have June through August free in Chicago, and I'm genuinely asking as a favor: would there be any project or way I could contribute to the Chomps team for a couple of months? I can't take paid work in the US right now — I just want to learn from the inside.
->
-> I come from 4 years in strategy consulting and product across Latin America, and I'm bringing zero overhead and a lot of curiosity.
->
-> Would you have 20 minutes?
+### Si estudiaron en Booth — Abre con eso primero
+> Hi [Name], I'm reaching out because we'll both be part of the Booth network — I'm joining the Class of 2028. [Resto del mensaje en inglés.]
 
 ---
 
-### Template E — VC Partners (English, intel angle — NOT an intern ask)
-*Use for: VMG Partners, XRC Ventures, Strand Equity*
-
-> Hi [Name], I'm Thaiz — I'm joining Booth's MBA program in September with a focus on consumer brand strategy and CPG. Before Booth, I spent 4 years in strategy consulting and product leadership in Latin America, where I worked on CPG and retail go-to-market for some of the region's largest companies.
->
-> [VMG / XRC / Strand] has backed some of the brands I find most interesting — [OLIPOP / Clio / Pipcorn] — and I'd love 20 minutes to hear how you think about brand strategy and marketing investment across your portfolio. I'm not pitching anything; I learn better from investors than from textbooks.
->
-> Would you have time for a quick chat in [month]?
-
----
-
-### Template F — Follow-Up (1 Week Later, No Response)
-
-> Hi [Name], just following up on my note from last week — I know inboxes get crowded. I'd genuinely love even 15 minutes, and I'm happy to work around your schedule.
->
-> Thanks again — no pressure at all.
->
-> Thaiz
-
----
-
-## EXECUTION ORDER
-
-Do this in this exact sequence this week:
-
-1. **Comment on Leticia Fenoglio's most recent LinkedIn post** (thoughtful, specific — not generic). Wait 3–4 days, then send Template A.
-2. **Send Template D to Pete Maldonado (Chomps)** — Chicago hook makes this your warmest US cold reach.
-3. **Send Template C to Peter Rahal (David)** — hottest brand right now, small team.
-4. **Send Template B to Lauren Pollack (Clio Snacks)** — best US volunteer target at a brand still small enough to say yes.
-5. **Run Booth alumni search** on myBooth for anyone at these companies — if you find one, that message always outperforms a cold one.
-6. **Send Template E to one VC partner** at VMG Partners or Strand Equity.
-
-**Volume target:** 10 messages sent this week. Log every one in `networking/tracker.md`.
-
----
-
-## COFFEE CHAT QUESTIONS — Brand-Side CPG
-
-Use these once you get on a call. Pick 3–4 per conversation:
-
-- "What does a typical week look like for you, and when do you feel most useful to the brand?"
-- "What's the biggest misconception people have about brand management before they've actually done it?"
-- "How do you think about brand vs. performance marketing — where do you spend your time and where do you think the leverage is?"
-- "What's been the hardest brand decision you've made — and how did you think it through?"
-- "What would you have wanted to know in year one that you only figured out later?"
-- "How do you get buy-in for something you believe in when the data isn't fully there yet?"
-- "Is there anyone else you'd suggest I talk to?"
-
-Always close with: *"Would it be okay if I kept you updated as I go through this?"*
-
----
-
-*Last updated: May 2026. Add new contacts directly to `networking/tracker.md` as you reach out.*
+*Última actualización: Mayo 2026 · Registra cada outreach en `networking/tracker.md`*
