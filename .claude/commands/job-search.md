@@ -50,13 +50,86 @@ Use these in combination. LinkedIn is primary; the boards below surface roles th
 - Growth: "growth strategy", "revenue strategy MBA", "growth associate"
 - Consumer Insights: "consumer insights MBA", "market research associate", "shopper insights"
 
+## Live Job Search — Run Every Session
+
+You have access to the `jsearch-jobs` MCP server. **Every time this skill is invoked, run the full search below and update the tracker CSV before doing anything else.**
+
+### Step 1 — Search by location (priority order)
+
+Run all of the following searches. Geographic priority: California first, then New York, then Chicago.
+
+**California:**
+- `search_jobs(query="MBA summer associate consulting strategy", location="San Francisco, CA", employment_type="INTERN", num_results=10)`
+- `search_jobs(query="MBA summer associate consulting strategy", location="Los Angeles, CA", employment_type="INTERN", num_results=10)`
+- `search_jobs(query="MBA intern brand manager CPG consumer goods", location="California", employment_type="INTERN", num_results=10)`
+- `search_jobs(query="corporate strategy associate intern MBA", location="California", num_results=10)`
+
+**New York:**
+- `search_jobs(query="MBA summer associate consulting McKinsey BCG Bain Deloitte", location="New York, NY", employment_type="INTERN", num_results=10)`
+- `search_jobs(query="MBA intern brand strategy CPG corporate strategy", location="New York, NY", employment_type="INTERN", num_results=10)`
+
+**Chicago:**
+- `search_jobs(query="MBA summer associate consulting strategy", location="Chicago, IL", employment_type="INTERN", num_results=10)`
+- `search_jobs(query="MBA intern CPG brand Kraft Heinz P&G corporate strategy", location="Chicago, IL", employment_type="INTERN", num_results=10)`
+
+### Step 2 — Analyze every result for fit
+
+Do NOT filter out roles just because they don't say "MBA" or "2027 internship." Analyze every result and include it in the CSV if it plausibly fits. A role fits if ANY of the following apply:
+
+- Title includes: associate, intern, analyst, summer, strategy, brand, consultant, manager-in-training, rotational
+- Company is on Thaiz's Tier 1–4 target list (see below)
+- Role involves: consulting, strategic planning, brand management, corporate strategy, business development, growth, market research, consumer insights, go-to-market, product marketing
+- It is a rotational or leadership development program at a CPG, tech, or consulting firm
+
+When fit is ambiguous, **include it anyway** and note why in `fit_analysis`.
+
+Assign each role a track:
+- **Consulting** — management consulting, strategy consulting
+- **Corp Strategy** — internal strategy, chief of staff, strategic planning
+- **CPG Brand** — brand management, brand marketing, associate brand manager
+- **BD Strategy** — business development, partnerships, growth
+- **Growth** — growth strategy, revenue strategy (P&L ownership only)
+- **Marketing** — product marketing, consumer insights, market research (CPG only)
+
+Assign a tier based on Thaiz's target list:
+- **1** — McKinsey, BCG, Bain, Deloitte S&O, Accenture Strategy, Oliver Wyman
+- **2** — P&G, Unilever, PepsiCo, Coca-Cola, Nestlé, AB InBev, Kraft Heinz, Mars, Colgate-Palmolive, Kimberly-Clark
+- **3** — Simon-Kucher, L.E.K., Kearney, Prophet, Ipsos
+- **4** — Amazon, Google, Meta + any other strong fit
+
+### Step 3 — Update the CSV
+
+File: `applications/summer-2027-opportunities.csv`
+
+1. Read the file to get all existing `apply_link` values (for deduplication).
+2. For each new role not already in the file, append one CSV row:
+
+```
+date_found,role_title,company,location,track,tier,apply_link,deadline,fit_analysis,status
+```
+
+- `date_found`: today's date (YYYY-MM-DD)
+- `role_title`: exact title from the listing
+- `company`: employer name
+- `location`: city, state
+- `track`: one of the track labels above
+- `tier`: 1/2/3/4 — leave blank if company not on Thaiz's list
+- `apply_link`: direct application URL
+- `deadline`: if found in the job description; otherwise leave blank
+- `fit_analysis`: 1 sentence — why this role fits Thaiz, especially if not labeled "MBA intern"
+- `status`: always `New` when first added
+
+Escape any commas inside fields with double quotes.
+
+3. After writing, report to Thaiz: how many new roles were added, how many total are in the file, and the top 3 highest-priority new additions (Tier 1 > Tier 2 > most recent).
+
 ## What You Do in This Session
 
-When invoked, start by asking Thaiz:
+When invoked, **complete Steps 1–3 first**, then ask Thaiz:
 1. What's her current focus — exploring new targets, progressing on existing ones, or preparing for a specific application/interview?
 2. What stage is she at (early exploration / networking / applying / interviewing)?
 
-Then provide **exactly the next concrete steps** she should take, in priority order.
+Then provide **exactly the next concrete steps** she should take, in priority order — anchored to the real openings just found.
 
 ## Summer Internship Target Map
 
