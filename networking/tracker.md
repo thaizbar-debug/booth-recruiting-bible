@@ -1,118 +1,131 @@
-# Networking Tracker — Recruiting CRM
-
-Every contact, every outreach, every conversation lives here. This is your relationship system.
+# Networking System — LAMP + CRM + Company Template
 
 ---
 
-## The 3v7 Follow-Up Routine
+## 1. LAMP Table — Master Employer List
 
-Steve Dalton's system for systematic follow-up without being annoying:
+**The rule:** You don't apply from the LAMP list — you network from it. Applications come after conversations.
 
-1. **Day 0** — Send 6-Point Email (see `/outreach` command)
-2. **Day 3 (business days)** — No response? Don't follow up with same person yet. **Find a different contact at the same firm** and send a fresh outreach.
-3. **Day 7 (business days)** — Still nothing? **One follow-up** to original person, via a different channel (if you emailed, try LinkedIn; if LinkedIn, try email). Same email thread if possible.
-4. **After Day 7** — Maximum 2 total attempts per person. If still no response, mark "Unresponsive" and move on. Don't take it personally — it's about timing, not you.
+**Sort:** Alumni (A) desc → Motivation (M) desc → Postings (P) desc. Top 6 = Wave 1 outreach.
 
-**Calendar system:** Set two recurring reminders when you send any outreach:
-- Reminder at +3 business days: "Try different contact at [company]"
-- Reminder at +7 business days: "Follow-up [person name] via [alt channel]"
+**L sources:** LinkedIn Alumni Tool · Job Postings · Dream · Relevant
 
----
+| # | Company | Industry | Source | A (Alumni) | M (1–5) | P (Postings) | Tier | Status | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | Not Started | |
+| 2 | | | | | | | | Not Started | |
+| 3 | | | | | | | | Not Started | |
+| 4 | | | | | | | | Not Started | |
+| 5 | | | | | | | | Not Started | |
+| 6 | | | | | | | | Not Started | |
+| 7 | | | | | | | | Not Started | |
+| 8 | | | | | | | | Not Started | |
+| 9 | | | | | | | | Not Started | |
+| 10 | | | | | | | | Not Started | |
+| 11 | | | | | | | | Not Started | |
+| 12 | | | | | | | | Not Started | |
+| 13 | | | | | | | | Not Started | |
+| 14 | | | | | | | | Not Started | |
+| 15 | | | | | | | | Not Started | |
+| 16 | | | | | | | | Not Started | |
+| 17 | | | | | | | | Not Started | |
+| 18 | | | | | | | | Not Started | |
+| 19 | | | | | | | | Not Started | |
+| 20 | | | | | | | | Not Started | |
 
-## Contact Classification (BOC Framework)
-
-Every person you talk to falls into one of three types:
-
-| Type | Who They Are | How to Use Them |
-|---|---|---|
-| **Booster** | Genuinely wants to help you. Volunteers info, offers intros, enthusiastic. | Treat like gold. Monthly Ben Franklin check-ins. Ask for referral 1 week after TIARA. |
-| **Obligate** | Helps because they feel they should (Booth obligation, mutual connection). Not hostile but not enthusiastic. | Use thoughtfully. Don't over-ask. One referral request maximum. |
-| **Curmudgeon** | Reluctant, skeptical, or unhelpful. May give short answers or seem annoyed. | Don't push. Thank them, don't follow up aggressively. They rarely become champions. |
-
-**The rule:** Invest your energy in Boosters. Every referral-ask should go through a Booster, not an Obligate. Curmudgeons drain you — note and move on.
-
----
-
-## Master Contact Table
-
-| Name | Company | Role | Type (BOC) | Source | How Found | Date Reached Out | Status | Date of Chat | 3-Day Check | 7-Day Follow-Up | Key Insight | Referral Asked? | Next Action | Next Date |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | B/O/C | LinkedIn / Booth / Mutual / Event | | | | | | | | | | |
-
-**Status options:** `Identified` → `Outreach Sent` → `Responded` → `Scheduled` → `TIARA Complete` → `Follow-Up Sent` → `Referral Asked` → `In Relationship` → `Unresponsive`
+**LAMP Status:**
+`Not Started` → `Researching` → `Outreach Sent` → `3-Day Check` → `7-Day Follow-Up` → `Chat Scheduled` → `Chat Complete` → `In Relationship` → `Applied` → `Inactive`
 
 ---
 
-## Booster Priority List
+## 2. Contact Tracker — CRM
 
-> Re-populate this after every TIARA session. These are the people who can move the needle.
+**3v7 rule:** Day 0 — send outreach. Day 3 (business days) — no reply? Try a *different contact* at the same firm. Day 7 (business days) — one follow-up to original via a different channel. Max 2 attempts per person then move on.
 
-| Name | Company | Last Contact | What They Offered | Next Check-In | Ben Franklin Sent |
+**BOC types:**
+- **Booster** — actively wants to help. Monthly Ben Franklin check-ins. Ask for referral 1 week after TIARA.
+- **Obligate** — helps because they feel they should. One referral ask max.
+- **Curmudgeon** — don't push. Thank and move on.
+
+| Name | Company | Role | Type | Source | Date Reached | Status | Chat Date | Key Insight | Next Action | Next Date |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | | | B/O/C | LinkedIn / Booth / Mutual / Event | | | | | | |
+
+**Contact Status:**
+`Identified` → `Outreach Sent` → `Responded` → `Scheduled` → `TIARA Complete` → `Follow-Up Sent` → `Referral Asked` → `In Relationship` → `Unresponsive`
+
+---
+
+## 3. Company Profile Template
+
+> For each company in your LAMP top 6: copy this structure and save as `companies/[company-name].md`
+
+---
+
+### [Company Name] — Profile
+
+| Field | Detail |
+|---|---|
+| **Industry** | |
+| **HQ** | |
+| **MBA Program** | (Summer Associate / Management Trainee / etc.) |
+| **CPT-Friendly?** | Yes / No / Unknown |
+| **Booth Alumni Count** | (from LinkedIn Alumni Tool) |
+| **Tier** | 1 / 2 / 3 |
+| **LAMP Rank** | |
+
+**Why I want to work here** *(say this in the first 30 seconds of every conversation)*
+
+> 2–3 sentences. Specific — not "great company" but what exactly about the mission, practice, or role excites you.
+
+**Key facts to know cold** *(before any conversation or interview)*
+
+1.
+2.
+3.
+
+---
+
+### Key Contacts
+
+| Name | Role | Type | Email | LinkedIn | Last Contact |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
+| | | B / O / C | | | |
 
 ---
 
-## Ben Franklin Check-In Log
+### Outreach Log
 
-> For active Boosters: send a brief update every ~30 days sharing something of value — never asking for anything. Builds real relationships.
-
-| Date | Contact | Company | What I Sent | Their Response |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
+| Date | Contact | Channel | Type | Summary | Next Step | Next Date |
+|---|---|---|---|---|---|---|
+| | | Email / LinkedIn | 6-Pt Email / Follow-Up / TIARA / Check-In | | | |
 
 ---
 
-## Outreach Metrics (Update Weekly)
+### TIARA Notes — [Contact Name] — [Date]
 
-| Week of | Outreach Sent | Responses | Response Rate | Chats Completed | New Boosters | Referrals Asked | Referrals Given |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
+- **T (Trends):**
+- **I (Insights):**
+- **A (Advice):**
+- **R (Resources):**
+- **A (Assignments/Referrals):**
 
-**Targets during active recruiting season:**
-- 10 outreach emails/week
-- 40–60% response rate (with personalized 6-Point Emails)
-- 2–3 chats/week
-- At least 1 new Booster identified per week
-
----
-
-## Priority Outreach Queue (Update Weekly)
-
-### Wave 1 — This Week
-*(Top 6 from LAMP list — see `companies/lamp-list.md`)*
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-### Wave 2 — Next Week
-- [ ] 
-- [ ] 
-- [ ] 
-
-### Warm Intros Available (Via Booth Network / Partner's Network)
-- [ ] 
-
-### Alumni at Must-Reach Firms
-- [ ] McKinsey — find via Booth Alumni Tool
-- [ ] BCG — find via Booth Alumni Tool
-- [ ] Bain — find via Booth Alumni Tool
-- [ ] P&G — find via Booth Alumni Tool
-- [ ] Kraft Heinz — Chicago HQ, find via LinkedIn
+Closed with "Can I reach back out?" — Yes / No
+1-Week Follow-Up Sent? — Yes / No — Date:
+Referral Ask Sent? — Yes / No — Date:
 
 ---
 
-## How to Find Email Addresses
+### Ben Franklin Log *(monthly — never ask for anything)*
 
-1. **LinkedIn** — sometimes visible on profile
-2. **hunter.io** — paste company domain, find format (e.g., firstname.lastname@company.com)
-3. **Booth Alumni Directory** — direct emails for Booth alums (use when you have access)
-4. **Email format guessing** — try firstname@, firstname.lastname@, first.last@, flast@ — verify with hunter.io's verifier
-5. **LinkedIn InMail** — fallback if no email found (lower response rate)
+| Date | What I Sent | Response |
+|---|---|---|
+| | | |
 
-See `resources/lamp-tools.md` for the full contact-finding toolkit.
+---
+
+### Application
+
+| Role | Deadline | Status | Referral | Link | Materials |
+|---|---|---|---|---|---|
+| | | Not Applied / Applied / Screening / Round 1 / Final / Offer | | | Resume v? / CL? |
