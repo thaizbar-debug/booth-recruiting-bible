@@ -633,7 +633,9 @@ def generate_briefing(scraped_content: str, today: str) -> str:
         log.warning("Scraped content truncated from %d to %d chars.", len(scraped_content), MAX_SCRAPED_CHARS)
         scraped_content = scraped_content[:MAX_SCRAPED_CHARS] + "\n\n[... content truncated to fit model limits ...]"
 
-    full_prompt = PROMPT_TEMPLATE.format(scraped_content=scraped_content, today=today)
+    # Use replace() instead of format() — scraped web content often contains {curly braces}
+    # from JavaScript/JSON/CSS, which would cause KeyError with str.format().
+    full_prompt = PROMPT_TEMPLATE.replace("{today}", today).replace("{scraped_content}", scraped_content)
     log.info("Prompt size: %d characters.", len(full_prompt))
 
     client = OpenAI(base_url=GITHUB_MODELS_URL, api_key=GITHUB_TOKEN)
