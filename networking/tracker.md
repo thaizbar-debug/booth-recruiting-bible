@@ -1,131 +1,108 @@
-# Networking System — LAMP + CRM + Company Template
+# Recruiting Tracker
+
+> Rule: network first, apply second. Every application should have a referral behind it.
 
 ---
 
-## 1. LAMP Table — Master Employer List
+## LAMP — Company Priority List
 
-**The rule:** You don't apply from the LAMP list — you network from it. Applications come after conversations.
+Sort: Alumni desc → Motivation desc → Postings desc. Top 6 = Wave 1.
+Status flow: `Not Started` → `Researching` → `Outreach Sent` → `Chat Scheduled` → `Chat Complete` → `In Relationship` → `Applied` → `Inactive`
 
-**Sort:** Alumni (A) desc → Motivation (M) desc → Postings (P) desc. Top 6 = Wave 1 outreach.
-
-**L sources:** LinkedIn Alumni Tool · Job Postings · Dream · Relevant
-
-| # | Company | Industry | Source | A (Alumni) | M (1–5) | P (Postings) | Tier | Status | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | Not Started | |
-| 2 | | | | | | | | Not Started | |
-| 3 | | | | | | | | Not Started | |
-| 4 | | | | | | | | Not Started | |
-| 5 | | | | | | | | Not Started | |
-| 6 | | | | | | | | Not Started | |
-| 7 | | | | | | | | Not Started | |
-| 8 | | | | | | | | Not Started | |
-| 9 | | | | | | | | Not Started | |
-| 10 | | | | | | | | Not Started | |
-| 11 | | | | | | | | Not Started | |
-| 12 | | | | | | | | Not Started | |
-| 13 | | | | | | | | Not Started | |
-| 14 | | | | | | | | Not Started | |
-| 15 | | | | | | | | Not Started | |
-| 16 | | | | | | | | Not Started | |
-| 17 | | | | | | | | Not Started | |
-| 18 | | | | | | | | Not Started | |
-| 19 | | | | | | | | Not Started | |
-| 20 | | | | | | | | Not Started | |
-
-**LAMP Status:**
-`Not Started` → `Researching` → `Outreach Sent` → `3-Day Check` → `7-Day Follow-Up` → `Chat Scheduled` → `Chat Complete` → `In Relationship` → `Applied` → `Inactive`
+| # | Company | Industry | Tier | Alumni | M (1–5) | Postings | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | Not Started |
+| 2 | | | | | | | Not Started |
+| 3 | | | | | | | Not Started |
+| 4 | | | | | | | Not Started |
+| 5 | | | | | | | Not Started |
+| 6 | | | | | | | Not Started |
+| 7 | | | | | | | Not Started |
+| 8 | | | | | | | Not Started |
+| 9 | | | | | | | Not Started |
+| 10 | | | | | | | Not Started |
+| 11 | | | | | | | Not Started |
+| 12 | | | | | | | Not Started |
+| 13 | | | | | | | Not Started |
+| 14 | | | | | | | Not Started |
+| 15 | | | | | | | Not Started |
+| 16 | | | | | | | Not Started |
+| 17 | | | | | | | Not Started |
+| 18 | | | | | | | Not Started |
+| 19 | | | | | | | Not Started |
+| 20 | | | | | | | Not Started |
 
 ---
 
-## 2. Contact Tracker — CRM
+## Key Deadlines
 
-**3v7 rule:** Day 0 — send outreach. Day 3 (business days) — no reply? Try a *different contact* at the same firm. Day 7 (business days) — one follow-up to original via a different channel. Max 2 attempts per person then move on.
-
-**BOC types:**
-- **Booster** — actively wants to help. Monthly Ben Franklin check-ins. Ask for referral 1 week after TIARA.
-- **Obligate** — helps because they feel they should. One referral ask max.
-- **Curmudgeon** — don't push. Thank and move on.
-
-| Name | Company | Role | Type | Source | Date Reached | Status | Chat Date | Key Insight | Next Action | Next Date |
-|---|---|---|---|---|---|---|---|---|---|---|
-| | | | B/O/C | LinkedIn / Booth / Mutual / Event | | | | | | |
-
-**Contact Status:**
-`Identified` → `Outreach Sent` → `Responded` → `Scheduled` → `TIARA Complete` → `Follow-Up Sent` → `Referral Asked` → `In Relationship` → `Unresponsive`
-
----
-
-## 3. Company Profile Template
-
-> For each company in your LAMP top 6: copy this structure and save as `companies/[company-name].md`
+| Event | Date | Notes |
+|---|---|---|
+| Booth Year 1 starts | Sept 15, 2026 | |
+| Career Services intro meeting | Week 1, Sept 2026 | Book immediately |
+| Consulting club (BCSC) registration | ~Sept 2026 | |
+| CPG/marketing club (MBAMA) registration | ~Sept 2026 | |
+| First firm info sessions | Oct 2026 | Attend everything |
+| CPG applications open | ~Oct 2026 | P&G, Kraft Heinz open earlier |
+| Consulting applications open | ~Nov 2026 | MBB, Deloitte, Accenture |
+| Case interview season | Jan–Feb 2027 | Target 50 cases before this |
+| Offers extended | Feb–Mar 2027 | |
+| CPT authorization deadline | ~Apr 2027 | File with Int'l Affairs early |
+| Internship begins | June 2027 | |
 
 ---
 
-### [Company Name] — Profile
+## Offer Log
 
-| Field | Detail |
-|---|---|
-| **Industry** | |
-| **HQ** | |
-| **MBA Program** | (Summer Associate / Management Trainee / etc.) |
-| **CPT-Friendly?** | Yes / No / Unknown |
-| **Booth Alumni Count** | (from LinkedIn Alumni Tool) |
-| **Tier** | 1 / 2 / 3 |
-| **LAMP Rank** | |
-
-**Why I want to work here** *(say this in the first 30 seconds of every conversation)*
-
-> 2–3 sentences. Specific — not "great company" but what exactly about the mission, practice, or role excites you.
-
-**Key facts to know cold** *(before any conversation or interview)*
-
-1.
-2.
-3.
-
----
-
-### Key Contacts
-
-| Name | Role | Type | Email | LinkedIn | Last Contact |
+| Company | Role | Offer Date | Decision Deadline | Decision | Notes |
 |---|---|---|---|---|---|
-| | | B / O / C | | | |
+| | | | | Accept / Decline | |
 
 ---
 
-### Outreach Log
+## Company Profile Template
 
-| Date | Contact | Channel | Type | Summary | Next Step | Next Date |
-|---|---|---|---|---|---|---|
-| | | Email / LinkedIn | 6-Pt Email / Follow-Up / TIARA / Check-In | | | |
+> Copy to `companies/[company-name].md` for each target. One file per company.
 
 ---
 
-### TIARA Notes — [Contact Name] — [Date]
+# [Company Name] — Tier [X]
+
+**Why here:** 1–2 sentences. Specific — what exactly about this firm, practice, or role excites you. Say this in the first 30 seconds of every conversation.
+
+**Program:** Summer Associate / Management Trainee / etc.
+**CPT-friendly:** Yes / No / Unknown
+**Booth alumni:** (count via LinkedIn Alumni Tool)
+
+## Contacts
+
+| Name | Role | Type | LinkedIn | Last Contact |
+|---|---|---|---|---|
+| | | B / O / C | | |
+
+> B = Booster (invest here, monthly check-ins, referral ask 1 week after TIARA) · O = Obligate (one ask max) · C = Curmudgeon (don't push)
+
+## Outreach & Chat Log
+
+3v7: Day 0 send → Day 3 try different contact at same firm → Day 7 follow-up via different channel → max 2 attempts per person.
+
+| Date | Contact | Type | Key Outcome | Next Step | Next Date |
+|---|---|---|---|---|---|
+| | | 6-Pt Email / Follow-Up / TIARA / Check-In | | | |
+
+## TIARA Notes — [Name] — [Date]
 
 - **T (Trends):**
 - **I (Insights):**
 - **A (Advice):**
 - **R (Resources):**
-- **A (Assignments/Referrals):**
+- **A (Referrals/Assignments):**
 
-Closed with "Can I reach back out?" — Yes / No
-1-Week Follow-Up Sent? — Yes / No — Date:
-Referral Ask Sent? — Yes / No — Date:
+Follow-up sent: Yes / No — Date:
+Referral asked: Yes / No — Date:
 
----
+## Application
 
-### Ben Franklin Log *(monthly — never ask for anything)*
-
-| Date | What I Sent | Response |
-|---|---|---|
-| | | |
-
----
-
-### Application
-
-| Role | Deadline | Status | Referral | Link | Materials |
-|---|---|---|---|---|---|
-| | | Not Applied / Applied / Screening / Round 1 / Final / Offer | | | Resume v? / CL? |
+| Role | Deadline | Status | Referred By | Link |
+|---|---|---|---|---|
+| | | Not Applied / Applied / Screen / R1 / Final / Offer / Declined | | |
