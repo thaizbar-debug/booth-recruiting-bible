@@ -6,7 +6,7 @@ on:
   workflow_dispatch:         # allow manual runs from the GitHub UI
 
 permissions:
-  contents: read
+  contents: write            # needed to commit seen_articles.json back to the repo
   models: read
 
 jobs:
@@ -32,9 +32,18 @@ jobs:
       - name: Run daily briefing
         working-directory: daily-briefing
         env:
-          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}   # automatic — no setup needed
+          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
           SAVE_DIR:           /tmp/daily-summaries
         run: python briefing.py
+
+      - name: Commit seen articles
+        working-directory: daily-briefing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_articles.json
+          git diff --cached --quiet || git commit -m "chore: update seen articles [skip ci]"
+          git push

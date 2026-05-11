@@ -1,5 +1,6 @@
 """
 Daily Recruiting Briefing — Booth MBA (Thaiz Barthelmess)
+
 Scrapes top business, marketing, and CPG publications; generates a structured briefing
 via GitHub Models (free, uses the automatic GITHUB_TOKEN in Actions); emails it; saves locally.
 """
@@ -7,11 +8,13 @@ via GitHub Models (free, uses the automatic GITHUB_TOKEN in Actions); emails it;
 import os
 import re
 import sys
+import json
 import time
 import logging
 import smtplib
 import datetime
 from pathlib import Path
+from urllib.parse import urljoin
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
@@ -36,6 +39,9 @@ GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
 GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
 MAX_SCRAPED_CHARS  = 60_000
 
+# Tracks URLs/keys of articles already sent in previous runs
+SEEN_FILE = Path(__file__).parent / "seen_articles.json"
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s  %(levelname)-8s  %(message)s",
@@ -55,6 +61,37 @@ HEADERS = {
     "Connection":                "keep-alive",
     "Upgrade-Insecure-Requests": "1",
 }
+
+# ---------------------------------------------------------------------------
+# Seen-articles tracking (cross-run deduplication)
+# ---------------------------------------------------------------------------
+
+def load_seen() -> set[str]:
+    if SEEN_FILE.exists():
+        try:
+            data = json.loads(SEEN_FILE.read_text(encoding="utf-8"))
+            seen = set(data.get("urls", []))
+            log.info("Loaded %d previously seen article keys.", len(seen))
+            return seen
+        except Exception as exc:
+            log.warning("Could not load seen file: %s", exc)
+    return set()
+
+
+def save_seen(seen: set[str]) -> None:
+    # Cap at 5000 entries so the file stays small (covers ~3 months of daily runs)
+    entries = list(seen)
+    if len(entries) > 5000:
+        entries = entries[-5000:]
+    SEEN_FILE.write_text(json.dumps({"urls": entries}, indent=2), encoding="utf-8")
+    log.info("Saved %d seen keys to %s", len(entries), SEEN_FILE)
+
+
+def _article_key(url: str, title: str) -> str:
+    """Returns the best dedup key: URL if available, otherwise normalised title."""
+    if url and url.startswith("http"):
+        return url
+    return title.lower()[:100]
 
 # ---------------------------------------------------------------------------
 # Source definitions
@@ -317,11 +354,22 @@ def _clean(text: str) -> str:
 
 def _extract_items(soup: BeautifulSoup, source: dict, max_items: int = 20) -> list[dict]:
     containers = soup.select(source.get("article_sel", "article")) or [soup]
+    base_url = source.get("url", "")
 
     items: list[dict] = []
     for container in containers[:max_items]:
         title_tag = container.select_one(source.get("title_sel", "h1,h2,h3"))
         title = _clean(title_tag.get_text()) if title_tag else ""
+
+        # Extract article URL for cross-run deduplication
+        url = ""
+        link_tag = container.find("a", href=True)
+        if link_tag:
+            href = link_tag["href"]
+            if href.startswith("http"):
+                url = href
+            elif href.startswith("/"):
+                url = urljoin(base_url, href)
 
         text_tags = container.select(source.get("text_sel", "p"))[:3]
         text = " ".join(_clean(t.get_text()) for t in text_tags if t.get_text().strip())
@@ -345,7 +393,7 @@ def _extract_items(soup: BeautifulSoup, source: dict, max_items: int = 20) -> li
                     break
 
         if title or text:
-            items.append({"title": title, "text": text, "author": author, "date": date})
+            items.append({"title": title, "text": text, "author": author, "date": date, "url": url})
 
     seen: set[str] = set()
     unique: list[dict] = []
@@ -357,7 +405,7 @@ def _extract_items(soup: BeautifulSoup, source: dict, max_items: int = 20) -> li
     return unique
 
 
-def scrape_source(source: dict) -> str:
+def scrape_source(source: dict, seen: set[str]) -> str:
     log.info("Scraping: %s", source["name"])
     soup = _fetch(source["url"])
     if soup is None:
@@ -365,15 +413,27 @@ def scrape_source(source: dict) -> str:
 
     items = _extract_items(soup, source)
 
-    if not items:
-        headings = [_clean(h.get_text()) for h in soup.find_all(["h1", "h2", "h3"])[:15]]
-        items = [{"title": h, "text": "", "author": "", "date": ""} for h in headings if h]
+    # Filter out articles already seen in previous runs
+    new_items = []
+    for item in items:
+        key = _article_key(item.get("url", ""), item["title"])
+        if key in seen:
+            log.info("  Skipping (already sent): %s", item["title"][:60])
+        else:
+            new_items.append(item)
+            seen.add(key)
 
-    if not items:
-        return f"[{source['name']}] — Page loaded but no content extracted (likely JS-rendered).\n"
+    if not new_items and not items:
+        headings = [_clean(h.get_text()) for h in soup.find_all(["h1", "h2", "h3"])[:15]]
+        new_items = [{"title": h, "text": "", "author": "", "date": "", "url": ""} for h in headings if h]
+        for item in new_items:
+            seen.add(_article_key("", item["title"]))
+
+    if not new_items:
+        return f"[{source['name']}] — No new content since last briefing.\n"
 
     lines = [f"=== {source['name']} ===", f"URL: {source['url']}"]
-    for i, item in enumerate(items, 1):
+    for i, item in enumerate(new_items, 1):
         lines.append(f"\n[{i}] {item['title']}")
         if item["author"]:
             lines.append(f"    By: {item['author']}")
@@ -385,7 +445,7 @@ def scrape_source(source: dict) -> str:
     return "\n".join(lines)
 
 
-def scrape_reddit(source: dict) -> str:
+def scrape_reddit(source: dict, seen: set[str]) -> str:
     log.info("Scraping Reddit: %s", source["name"])
     try:
         resp = SESSION.get(source["url"], timeout=20, headers={**HEADERS, "Accept": "application/json"})
@@ -396,6 +456,7 @@ def scrape_reddit(source: dict) -> str:
         return f"[{source['name']}] — Could not retrieve Reddit content: {exc}\n"
 
     lines = [f"=== {source['name']} ===", f"URL: {source['url']}"]
+    added = 0
     for i, post in enumerate(posts[:15], 1):
         d = post.get("data", {})
         title    = d.get("title", "")
@@ -403,16 +464,31 @@ def scrape_reddit(source: dict) -> str:
         author   = d.get("author", "")
         score    = d.get("score", 0)
         comments = d.get("num_comments", 0)
-        if title:
-            lines.append(f"\n[{i}] {title}")
-            lines.append(f"    By u/{author} | {score} upvotes | {comments} comments")
-            if text:
-                lines.append(f"    {text}")
+        post_url = d.get("url", "") or f"https://reddit.com{d.get('permalink', '')}"
+
+        if not title:
+            continue
+
+        key = _article_key(post_url, title)
+        if key in seen:
+            log.info("  Skipping Reddit (already sent): %s", title[:60])
+            continue
+
+        seen.add(key)
+        added += 1
+        lines.append(f"\n[{added}] {title}")
+        lines.append(f"    By u/{author} | {score} upvotes | {comments} comments")
+        if text:
+            lines.append(f"    {text}")
+
+    if added == 0:
+        return f"[{source['name']}] — No new posts since last briefing.\n"
+
     lines.append("")
     return "\n".join(lines)
 
 
-def scrape_twitter(source: dict) -> str:
+def scrape_twitter(source: dict, seen: set[str]) -> str:
     name = source["name"]
     log.info("Scraping Twitter: %s", name)
     for base in NITTER_INSTANCES:
@@ -429,11 +505,21 @@ def scrape_twitter(source: dict) -> str:
             if not tweets:
                 continue
             lines = [f"=== {name} (via nitter) ===", f"URL: {url}"]
-            for i, tweet in enumerate(tweets[:10], 1):
+            added = 0
+            for tweet in tweets[:10]:
                 text_el = tweet.select_one(".tweet-content, [class*='content']")
                 text = _clean(text_el.get_text()) if text_el else _clean(tweet.get_text())
-                if text and len(text) > 20:
-                    lines.append(f"\n[{i}] {text[:500]}")
+                if not text or len(text) < 20:
+                    continue
+                key = text.lower()[:100]
+                if key in seen:
+                    log.info("  Skipping tweet (already sent): %s", text[:60])
+                    continue
+                seen.add(key)
+                added += 1
+                lines.append(f"\n[{added}] {text[:500]}")
+            if added == 0:
+                return f"[{name}] — No new tweets since last briefing.\n"
             lines.append("")
             return "\n".join(lines)
         except Exception as exc:
@@ -442,16 +528,16 @@ def scrape_twitter(source: dict) -> str:
     return f"[{name}] — Twitter unavailable (all nitter instances failed).\n"
 
 
-def scrape_all() -> str:
+def scrape_all(seen: set[str]) -> str:
     blocks: list[str] = []
     for source in SOURCES:
-        blocks.append(scrape_source(source))
+        blocks.append(scrape_source(source, seen))
         time.sleep(2)
     for source in REDDIT_SOURCES:
-        blocks.append(scrape_reddit(source))
+        blocks.append(scrape_reddit(source, seen))
         time.sleep(1)
     for source in TWITTER_SOURCES:
-        blocks.append(scrape_twitter(source))
+        blocks.append(scrape_twitter(source, seen))
         time.sleep(2)
     return "\n".join(blocks)
 
@@ -749,8 +835,12 @@ def main() -> None:
 
     log.info("=== Booth Recruiting Briefing  %s ===", date_str)
 
-    scraped = scrape_all()
+    seen = load_seen()
+
+    scraped = scrape_all(seen)
     log.info("Scraping done — %d characters collected.", len(scraped))
+
+    save_seen(seen)
 
     briefing = generate_briefing(scraped, today_long)
 
