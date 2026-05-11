@@ -74,6 +74,7 @@ def load_seen() -> dict:
         "brand_concepts":   [],
         "insights_methods": [],
         "pl_concepts":      [],
+        "topics":           [],
     }
     if SEEN_FILE.exists():
         try:
@@ -83,13 +84,15 @@ def load_seen() -> dict:
             default["brand_concepts"]   = data.get("brand_concepts", [])
             default["insights_methods"] = data.get("insights_methods", [])
             default["pl_concepts"]      = data.get("pl_concepts", [])
+            default["topics"]           = data.get("topics", [])
             log.info(
-                "Loaded seen: %d URLs, %d vocab, %d brand, %d insights, %d P&L",
+                "Loaded seen: %d URLs, %d vocab, %d brand, %d insights, %d P&L, %d topics",
                 len(default["urls"]),
                 len(default["vocab_terms"]),
                 len(default["brand_concepts"]),
                 len(default["insights_methods"]),
                 len(default["pl_concepts"]),
+                len(default["topics"]),
             )
         except Exception as exc:
             log.warning("Could not load seen file: %s", exc)
@@ -108,12 +111,13 @@ def save_seen(seen: dict) -> None:
             "brand_concepts":   seen["brand_concepts"],
             "insights_methods": seen["insights_methods"],
             "pl_concepts":      seen["pl_concepts"],
+            "topics":           seen["topics"],
         }, indent=2),
         encoding="utf-8",
     )
-    log.info("Saved seen file: %d URLs, %d vocab, %d brand, %d insights, %d P&L",
+    log.info("Saved seen file: %d URLs, %d vocab, %d brand, %d insights, %d P&L, %d topics",
              len(urls), len(seen["vocab_terms"]), len(seen["brand_concepts"]),
-             len(seen["insights_methods"]), len(seen["pl_concepts"]))
+             len(seen["insights_methods"]), len(seen["pl_concepts"]), len(seen["topics"]))
 
 
 def extract_used_concepts(briefing: str) -> dict:
@@ -143,6 +147,32 @@ def extract_used_concepts(briefing: str) -> dict:
         "insights_method": find_value(s8, "METHODOLOGY"),
         "pl_concept":      find_value(s9, "CONCEPT"),
     }
+
+
+def extract_topics_from_briefing(briefing: str, client: OpenAI) -> list[str]:
+    """Use AI to extract a list of all topics covered in the generated briefing."""
+    prompt = (
+        "Read this daily recruiting briefing. Extract a comprehensive list of ALL topics "
+        "covered: news stories, brand moves, company announcements, industry trends, "
+        "statistics, educational concepts, vocabulary terms, frameworks, and specific facts. "
+        "Be specific — write 'P&G Tide Gen Z social campaign' not just 'P&G campaign'. "
+        "Return ONLY a valid JSON array of strings. No explanation, no markdown.\n\n"
+        + briefing[:10_000]
+    )
+    try:
+        response = client.chat.completions.create(
+            model=GITHUB_MODEL,
+            max_tokens=1500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = response.choices[0].message.content.strip()
+        raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        topics = json.loads(raw)
+        if isinstance(topics, list):
+            return [str(t).strip() for t in topics if t]
+    except Exception as exc:
+        log.warning("Topic extraction failed: %s", exc)
+    return []
 
 
 def _article_key(url: str, title: str) -> str:
