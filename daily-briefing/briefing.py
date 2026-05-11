@@ -39,7 +39,7 @@ GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
 GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
 MAX_SCRAPED_CHARS  = 60_000
 
-# Tracks URLs/keys of articles already sent in previous runs
+# Tracks everything already sent: article URLs + concepts from sections 6-9
 SEEN_FILE = Path(__file__).parent / "seen_articles.json"
 
 logging.basicConfig(
@@ -63,32 +63,90 @@ HEADERS = {
 }
 
 # ---------------------------------------------------------------------------
-# Seen-articles tracking (cross-run deduplication)
+# Seen-content tracking (cross-run deduplication for articles AND concepts)
 # ---------------------------------------------------------------------------
 
-def load_seen() -> set[str]:
+def load_seen() -> dict:
+    """Load the full seen-content record from disk."""
+    default = {
+        "urls":             set(),
+        "vocab_terms":      [],
+        "brand_concepts":   [],
+        "insights_methods": [],
+        "pl_concepts":      [],
+    }
     if SEEN_FILE.exists():
         try:
             data = json.loads(SEEN_FILE.read_text(encoding="utf-8"))
-            seen = set(data.get("urls", []))
-            log.info("Loaded %d previously seen article keys.", len(seen))
-            return seen
+            default["urls"]             = set(data.get("urls", []))
+            default["vocab_terms"]      = data.get("vocab_terms", [])
+            default["brand_concepts"]   = data.get("brand_concepts", [])
+            default["insights_methods"] = data.get("insights_methods", [])
+            default["pl_concepts"]      = data.get("pl_concepts", [])
+            log.info(
+                "Loaded seen: %d URLs, %d vocab, %d brand, %d insights, %d P&L",
+                len(default["urls"]),
+                len(default["vocab_terms"]),
+                len(default["brand_concepts"]),
+                len(default["insights_methods"]),
+                len(default["pl_concepts"]),
+            )
         except Exception as exc:
             log.warning("Could not load seen file: %s", exc)
-    return set()
+    return default
 
 
-def save_seen(seen: set[str]) -> None:
-    # Cap at 5000 entries so the file stays small (covers ~3 months of daily runs)
-    entries = list(seen)
-    if len(entries) > 5000:
-        entries = entries[-5000:]
-    SEEN_FILE.write_text(json.dumps({"urls": entries}, indent=2), encoding="utf-8")
-    log.info("Saved %d seen keys to %s", len(entries), SEEN_FILE)
+def save_seen(seen: dict) -> None:
+    """Persist the full seen-content record to disk."""
+    urls = list(seen["urls"])
+    if len(urls) > 5000:
+        urls = urls[-5000:]
+    SEEN_FILE.write_text(
+        json.dumps({
+            "urls":             urls,
+            "vocab_terms":      seen["vocab_terms"],
+            "brand_concepts":   seen["brand_concepts"],
+            "insights_methods": seen["insights_methods"],
+            "pl_concepts":      seen["pl_concepts"],
+        }, indent=2),
+        encoding="utf-8",
+    )
+    log.info("Saved seen file: %d URLs, %d vocab, %d brand, %d insights, %d P&L",
+             len(urls), len(seen["vocab_terms"]), len(seen["brand_concepts"]),
+             len(seen["insights_methods"]), len(seen["pl_concepts"]))
+
+
+def extract_used_concepts(briefing: str) -> dict:
+    """
+    Parse the generated briefing to find which concept was chosen in each
+    rotating section (6-9). Returns a dict with one key per section.
+    """
+    def find_value(text: str, label: str) -> str:
+        m = re.search(rf"^{re.escape(label)}:\s*(.+)$", text, re.MULTILINE | re.IGNORECASE)
+        return m.group(1).strip() if m else ""
+
+    def section_text(full: str, header: str, next_header: str | None = None) -> str:
+        start = full.find(header)
+        if start == -1:
+            return ""
+        end = full.find(next_header, start) if next_header else len(full)
+        return full[start:end]
+
+    s6 = section_text(briefing, "SECTION 6", "SECTION 7")
+    s7 = section_text(briefing, "SECTION 7", "SECTION 8")
+    s8 = section_text(briefing, "SECTION 8", "SECTION 9")
+    s9 = section_text(briefing, "SECTION 9")
+
+    return {
+        "vocab_term":      find_value(s6, "TERM"),
+        "brand_concept":   find_value(s7, "CONCEPT"),
+        "insights_method": find_value(s8, "METHODOLOGY"),
+        "pl_concept":      find_value(s9, "CONCEPT"),
+    }
 
 
 def _article_key(url: str, title: str) -> str:
-    """Returns the best dedup key: URL if available, otherwise normalised title."""
+    """Best dedup key: URL if available, otherwise normalised title."""
     if url and url.startswith("http"):
         return url
     return title.lower()[:100]
@@ -361,7 +419,6 @@ def _extract_items(soup: BeautifulSoup, source: dict, max_items: int = 20) -> li
         title_tag = container.select_one(source.get("title_sel", "h1,h2,h3"))
         title = _clean(title_tag.get_text()) if title_tag else ""
 
-        # Extract article URL for cross-run deduplication
         url = ""
         link_tag = container.find("a", href=True)
         if link_tag:
@@ -405,7 +462,7 @@ def _extract_items(soup: BeautifulSoup, source: dict, max_items: int = 20) -> li
     return unique
 
 
-def scrape_source(source: dict, seen: set[str]) -> str:
+def scrape_source(source: dict, seen_urls: set[str]) -> str:
     log.info("Scraping: %s", source["name"])
     soup = _fetch(source["url"])
     if soup is None:
@@ -413,21 +470,20 @@ def scrape_source(source: dict, seen: set[str]) -> str:
 
     items = _extract_items(soup, source)
 
-    # Filter out articles already seen in previous runs
     new_items = []
     for item in items:
         key = _article_key(item.get("url", ""), item["title"])
-        if key in seen:
+        if key in seen_urls:
             log.info("  Skipping (already sent): %s", item["title"][:60])
         else:
             new_items.append(item)
-            seen.add(key)
+            seen_urls.add(key)
 
     if not new_items and not items:
         headings = [_clean(h.get_text()) for h in soup.find_all(["h1", "h2", "h3"])[:15]]
         new_items = [{"title": h, "text": "", "author": "", "date": "", "url": ""} for h in headings if h]
         for item in new_items:
-            seen.add(_article_key("", item["title"]))
+            seen_urls.add(_article_key("", item["title"]))
 
     if not new_items:
         return f"[{source['name']}] — No new content since last briefing.\n"
@@ -445,7 +501,7 @@ def scrape_source(source: dict, seen: set[str]) -> str:
     return "\n".join(lines)
 
 
-def scrape_reddit(source: dict, seen: set[str]) -> str:
+def scrape_reddit(source: dict, seen_urls: set[str]) -> str:
     log.info("Scraping Reddit: %s", source["name"])
     try:
         resp = SESSION.get(source["url"], timeout=20, headers={**HEADERS, "Accept": "application/json"})
@@ -457,7 +513,7 @@ def scrape_reddit(source: dict, seen: set[str]) -> str:
 
     lines = [f"=== {source['name']} ===", f"URL: {source['url']}"]
     added = 0
-    for i, post in enumerate(posts[:15], 1):
+    for post in posts[:15]:
         d = post.get("data", {})
         title    = d.get("title", "")
         text     = (d.get("selftext", "") or "")[:400]
@@ -470,11 +526,11 @@ def scrape_reddit(source: dict, seen: set[str]) -> str:
             continue
 
         key = _article_key(post_url, title)
-        if key in seen:
+        if key in seen_urls:
             log.info("  Skipping Reddit (already sent): %s", title[:60])
             continue
 
-        seen.add(key)
+        seen_urls.add(key)
         added += 1
         lines.append(f"\n[{added}] {title}")
         lines.append(f"    By u/{author} | {score} upvotes | {comments} comments")
@@ -488,7 +544,7 @@ def scrape_reddit(source: dict, seen: set[str]) -> str:
     return "\n".join(lines)
 
 
-def scrape_twitter(source: dict, seen: set[str]) -> str:
+def scrape_twitter(source: dict, seen_urls: set[str]) -> str:
     name = source["name"]
     log.info("Scraping Twitter: %s", name)
     for base in NITTER_INSTANCES:
@@ -512,10 +568,10 @@ def scrape_twitter(source: dict, seen: set[str]) -> str:
                 if not text or len(text) < 20:
                     continue
                 key = text.lower()[:100]
-                if key in seen:
+                if key in seen_urls:
                     log.info("  Skipping tweet (already sent): %s", text[:60])
                     continue
-                seen.add(key)
+                seen_urls.add(key)
                 added += 1
                 lines.append(f"\n[{added}] {text[:500]}")
             if added == 0:
@@ -528,16 +584,16 @@ def scrape_twitter(source: dict, seen: set[str]) -> str:
     return f"[{name}] — Twitter unavailable (all nitter instances failed).\n"
 
 
-def scrape_all(seen: set[str]) -> str:
+def scrape_all(seen_urls: set[str]) -> str:
     blocks: list[str] = []
     for source in SOURCES:
-        blocks.append(scrape_source(source, seen))
+        blocks.append(scrape_source(source, seen_urls))
         time.sleep(2)
     for source in REDDIT_SOURCES:
-        blocks.append(scrape_reddit(source, seen))
+        blocks.append(scrape_reddit(source, seen_urls))
         time.sleep(1)
     for source in TWITTER_SOURCES:
-        blocks.append(scrape_twitter(source, seen))
+        blocks.append(scrape_twitter(source, seen_urls))
         time.sleep(2)
     return "\n".join(blocks)
 
@@ -607,8 +663,9 @@ can drop naturally in a job interview. Format each as:
 ---
 
 ## SECTION 6 — CPG SECTOR VOCABULARY DRILL
-Choose ONE term from CPG industry vocabulary that Thaiz should master. Pick a different \
-term each day — rotate across the full spectrum. Never repeat a term used in recent days. \
+ALREADY USED TERMS — do NOT pick any of these, they have already been covered: {used_vocab_terms}
+
+Choose ONE term from the REMAINING CPG industry vocabulary that Thaiz should master. \
 Choose from: category management, shelf economics, planogram, trade spend, slotting fees, \
 A&P budget, household penetration, buying rate, volumetric share, share of category \
 requirements, share of wallet, retailer margin, promotional lift, everyday low price (EDLP) \
@@ -629,7 +686,9 @@ INTERVIEW HOOK: [one sentence Thaiz could say in an interview to signal fluency 
 ---
 
 ## SECTION 7 — BRAND MANAGEMENT CONCEPT OF THE DAY
-Choose ONE brand management concept or framework. Rotate daily — never repeat. \
+ALREADY USED CONCEPTS — do NOT pick any of these, they have already been covered: {used_brand_concepts}
+
+Choose ONE brand management concept or framework from the REMAINING options. \
 Choose from: brand equity pyramid (Aaker), brand positioning statement structure, \
 consumer insight vs. mere observation, Jobs-to-Be-Done applied to brands, brand \
 architecture (house of brands vs. branded house vs. endorsed brand), brand extension \
@@ -654,7 +713,9 @@ INTERVIEW ANGLE: [one sentence on how a McKinsey, BCG, or brand management recru
 ---
 
 ## SECTION 8 — CONSUMER INSIGHTS & MARKET RESEARCH LITERACY
-Choose ONE consumer insights methodology or metric. Rotate daily — never repeat. \
+ALREADY USED METHODOLOGIES — do NOT pick any of these, they have already been covered: {used_insights_methods}
+
+Choose ONE consumer insights methodology or metric from the REMAINING options. \
 Choose from: household penetration rate (what it is and how to grow it), purchase \
 frequency and buying rate, share of category requirements (loyalty metric), consumer \
 segmentation approaches (demographic, psychographic, behavioral, occasion-based), \
@@ -679,8 +740,10 @@ PRACTICE QUESTION: [write the exact interview question a P&G, Unilever, or McKin
 ---
 
 ## SECTION 9 — P&L LITERACY DRILL
-Choose ONE P&L concept or financial metric that a CPG brand manager must understand. \
-Rotate daily — never repeat. Choose from: gross revenue vs. net revenue (trade deductions), \
+ALREADY USED CONCEPTS — do NOT pick any of these, they have already been covered: {used_pl_concepts}
+
+Choose ONE P&L concept or financial metric from the REMAINING options that a CPG brand \
+manager must understand. Choose from: gross revenue vs. net revenue (trade deductions), \
 gross margin and why it varies by category, contribution margin, trade spend mechanics \
 and ROI, A&P budget (advertising & promotion) as a percent of net revenue, EBITDA and \
 how brands contribute to it, incremental revenue vs. cannibalization, price elasticity \
@@ -712,16 +775,30 @@ who is one week away from a McKinsey first-round interview.
 # ---------------------------------------------------------------------------
 
 
-def generate_briefing(scraped_content: str, today: str) -> str:
+def generate_briefing(scraped_content: str, today: str, seen: dict) -> str:
     log.info("Generating briefing via GitHub Models (model: %s) …", GITHUB_MODEL)
 
     if len(scraped_content) > MAX_SCRAPED_CHARS:
         log.warning("Scraped content truncated from %d to %d chars.", len(scraped_content), MAX_SCRAPED_CHARS)
         scraped_content = scraped_content[:MAX_SCRAPED_CHARS] + "\n\n[... content truncated to fit model limits ...]"
 
-    # Use replace() instead of format() — scraped web content often contains {curly braces}
-    # from JavaScript/JSON/CSS, which would cause KeyError with str.format().
-    full_prompt = PROMPT_TEMPLATE.replace("{today}", today).replace("{scraped_content}", scraped_content)
+    used_vocab    = ", ".join(seen["vocab_terms"])      or "none yet"
+    used_brand    = ", ".join(seen["brand_concepts"])   or "none yet"
+    used_insights = ", ".join(seen["insights_methods"]) or "none yet"
+    used_pl       = ", ".join(seen["pl_concepts"])      or "none yet"
+
+    log.info("Excluding — vocab: %s | brand: %s | insights: %s | P&L: %s",
+             used_vocab, used_brand, used_insights, used_pl)
+
+    # Use replace() instead of format() to avoid KeyError from curly braces in scraped content
+    full_prompt = (PROMPT_TEMPLATE
+        .replace("{today}",               today)
+        .replace("{scraped_content}",     scraped_content)
+        .replace("{used_vocab_terms}",    used_vocab)
+        .replace("{used_brand_concepts}", used_brand)
+        .replace("{used_insights_methods}", used_insights)
+        .replace("{used_pl_concepts}",    used_pl)
+    )
     log.info("Prompt size: %d characters.", len(full_prompt))
 
     client = OpenAI(base_url=GITHUB_MODELS_URL, api_key=GITHUB_TOKEN)
@@ -835,14 +912,34 @@ def main() -> None:
 
     log.info("=== Booth Recruiting Briefing  %s ===", date_str)
 
+    # Load full seen record (articles + concepts)
     seen = load_seen()
 
-    scraped = scrape_all(seen)
+    # Scrape — new article URLs are added to seen["urls"] in place
+    scraped = scrape_all(seen["urls"])
     log.info("Scraping done — %d characters collected.", len(scraped))
 
+    # Persist seen URLs now so they're safe even if generation/email fails
     save_seen(seen)
 
-    briefing = generate_briefing(scraped, today_long)
+    # Generate briefing — injects already-used concept lists into the prompt
+    briefing = generate_briefing(scraped, today_long, seen)
+
+    # Extract which concept was chosen in each rotating section and record it
+    concepts = extract_used_concepts(briefing)
+    log.info("Concepts chosen today — %s", concepts)
+
+    if concepts.get("vocab_term"):
+        seen["vocab_terms"].append(concepts["vocab_term"])
+    if concepts.get("brand_concept"):
+        seen["brand_concepts"].append(concepts["brand_concept"])
+    if concepts.get("insights_method"):
+        seen["insights_methods"].append(concepts["insights_method"])
+    if concepts.get("pl_concept"):
+        seen["pl_concepts"].append(concepts["pl_concept"])
+
+    # Persist again with concept history updated
+    save_seen(seen)
 
     save_briefing(briefing, date_str)
 
