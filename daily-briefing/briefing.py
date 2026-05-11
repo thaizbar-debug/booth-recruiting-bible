@@ -649,6 +649,14 @@ SCRAPED CONTENT
 {scraped_content}
 ============================
 
+============================
+TOPICS ALREADY COVERED IN PREVIOUS BRIEFINGS — DO NOT REPEAT
+Every item below has already been sent to Thaiz. Do NOT cover it again in any section. \
+Find completely fresh angles, new examples, and different concepts throughout the email.
+============================
+{covered_topics}
+============================
+
 Write a structured daily briefing with the NINE sections below. Be specific: name brands, \
 campaigns, dollar figures, percentages, executive names, and product names wherever \
 the scraped content mentions them. Never be generic. Every sentence should be something \
@@ -805,7 +813,7 @@ who is one week away from a McKinsey first-round interview.
 # ---------------------------------------------------------------------------
 
 
-def generate_briefing(scraped_content: str, today: str, seen: dict) -> str:
+def generate_briefing(scraped_content: str, today: str, seen: dict, client: OpenAI) -> str:
     log.info("Generating briefing via GitHub Models (model: %s) …", GITHUB_MODEL)
 
     if len(scraped_content) > MAX_SCRAPED_CHARS:
@@ -817,21 +825,24 @@ def generate_briefing(scraped_content: str, today: str, seen: dict) -> str:
     used_insights = ", ".join(seen["insights_methods"]) or "none yet"
     used_pl       = ", ".join(seen["pl_concepts"])      or "none yet"
 
-    log.info("Excluding — vocab: %s | brand: %s | insights: %s | P&L: %s",
-             used_vocab, used_brand, used_insights, used_pl)
+    # Build the covered-topics block (cap at 300 most recent to keep prompt size manageable)
+    recent_topics = seen["topics"][-300:] if len(seen["topics"]) > 300 else seen["topics"]
+    covered_topics = "\n".join(f"- {t}" for t in recent_topics) if recent_topics else "None yet — this is the first briefing."
+
+    log.info("Injecting %d covered topics into prompt.", len(recent_topics))
 
     # Use replace() instead of format() to avoid KeyError from curly braces in scraped content
     full_prompt = (PROMPT_TEMPLATE
-        .replace("{today}",               today)
-        .replace("{scraped_content}",     scraped_content)
-        .replace("{used_vocab_terms}",    used_vocab)
-        .replace("{used_brand_concepts}", used_brand)
+        .replace("{today}",                 today)
+        .replace("{scraped_content}",       scraped_content)
+        .replace("{covered_topics}",        covered_topics)
+        .replace("{used_vocab_terms}",      used_vocab)
+        .replace("{used_brand_concepts}",   used_brand)
         .replace("{used_insights_methods}", used_insights)
-        .replace("{used_pl_concepts}",    used_pl)
+        .replace("{used_pl_concepts}",      used_pl)
     )
     log.info("Prompt size: %d characters.", len(full_prompt))
 
-    client = OpenAI(base_url=GITHUB_MODELS_URL, api_key=GITHUB_TOKEN)
     response = client.chat.completions.create(
         model=GITHUB_MODEL,
         max_tokens=8192,
@@ -942,7 +953,9 @@ def main() -> None:
 
     log.info("=== Booth Recruiting Briefing  %s ===", date_str)
 
-    # Load full seen record (articles + concepts)
+    client = OpenAI(base_url=GITHUB_MODELS_URL, api_key=GITHUB_TOKEN)
+
+    # Load full seen record (articles + concepts + topics)
     seen = load_seen()
 
     # Scrape — new article URLs are added to seen["urls"] in place
@@ -952,12 +965,12 @@ def main() -> None:
     # Persist seen URLs now so they're safe even if generation/email fails
     save_seen(seen)
 
-    # Generate briefing — injects already-used concept lists into the prompt
-    briefing = generate_briefing(scraped, today_long, seen)
+    # Generate briefing — injects covered topics and used concept lists into the prompt
+    briefing = generate_briefing(scraped, today_long, seen, client)
 
-    # Extract which concept was chosen in each rotating section and record it
+    # Extract which structured concept was chosen in each rotating section (6-9)
     concepts = extract_used_concepts(briefing)
-    log.info("Concepts chosen today — %s", concepts)
+    log.info("Structured concepts today — %s", concepts)
 
     if concepts.get("vocab_term"):
         seen["vocab_terms"].append(concepts["vocab_term"])
@@ -968,7 +981,18 @@ def main() -> None:
     if concepts.get("pl_concept"):
         seen["pl_concepts"].append(concepts["pl_concept"])
 
-    # Persist again with concept history updated
+    # Extract all topics from today's briefing via AI and add to history
+    log.info("Extracting topics from today's briefing …")
+    new_topics = extract_topics_from_briefing(briefing, client)
+    log.info("Extracted %d topics from today's briefing.", len(new_topics))
+
+    existing_lower = {t.lower() for t in seen["topics"]}
+    for topic in new_topics:
+        if topic.lower() not in existing_lower:
+            seen["topics"].append(topic)
+            existing_lower.add(topic.lower())
+
+    # Final save with everything updated
     save_seen(seen)
 
     save_briefing(briefing, date_str)
