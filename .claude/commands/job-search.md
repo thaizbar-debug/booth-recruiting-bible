@@ -100,23 +100,23 @@ Assign a tier based on Thaiz's target list:
 ### Step 3 — Update the CSV
 
 File: `applications/summer-2027-opportunities.csv`
+Columns: `date_found,role_title,company,location,industry,track,tier,apply_link,status`
 
-1. Read the file to get all existing `apply_link` values (for deduplication).
-2. For each new role not already in the file, append one CSV row:
+1. Read the file. Collect all existing non-empty `apply_link` values (for deduplication).
+2. For each new role:
+   - If `apply_link` already exists in the file → skip.
+   - If the company has a `Watching` row (status = "Watching", role_title empty) → fill in that row with the role data.
+   - Otherwise → append a new row at the end.
 
-```
-date_found,role_title,company,location,track,tier,apply_link,deadline,fit_analysis,status
-```
-
+Field values:
 - `date_found`: today's date (YYYY-MM-DD)
 - `role_title`: exact title from the listing
 - `company`: employer name
 - `location`: city, state
-- `track`: one of the track labels above
+- `industry`: broad category — Consulting / CPG / Tech / Finance / Healthcare / Other
+- `track`: Consulting / Corp Strategy / CPG Brand / BD Strategy / Growth / Marketing
 - `tier`: 1/2/3/4 — leave blank if company not on Thaiz's list
-- `apply_link`: direct application URL
-- `deadline`: if found in the job description; otherwise leave blank
-- `fit_analysis`: 1 sentence — why this role fits Thaiz, especially if not labeled "MBA intern"
+- `apply_link`: direct ATS link (see URL validation rules below)
 - `status`: always `New` when first added
 
 Escape any commas inside fields with double quotes.
