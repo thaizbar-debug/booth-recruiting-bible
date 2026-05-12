@@ -25,7 +25,8 @@ GITHUB_TOKEN       = os.getenv("GITHUB_TOKEN")
 GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
 GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
 SEEN_FILE          = Path(__file__).parent / "seen_articles.json"
-SUBJECT_KEYWORD    = "Booth Recruiting Briefing"
+# Search for all known subject patterns (old and new format)
+SUBJECT_KEYWORDS   = ["Booth Recruiting Briefing", "daily briefing", "daily-briefing", "recruiting briefing"]
 MAX_EMAIL_CHARS    = 12_000   # truncate very long emails before sending to AI
 
 logging.basicConfig(
@@ -61,17 +62,27 @@ def fetch_briefing_bodies() -> list[str]:
     mail.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
 
     bodies: list[str] = []
+    seen_ids: set[bytes] = set()
 
     for mailbox in ["INBOX", "[Gmail]/All Mail"]:
         try:
             status, _ = mail.select(f'"{mailbox}"')
             if status != "OK":
+                log.warning("  Could not select mailbox: %s", mailbox)
                 continue
-            _, message_ids = mail.search(None, f'SUBJECT "{SUBJECT_KEYWORD}"')
-            ids = message_ids[0].split() if message_ids and message_ids[0] else []
-            log.info("  %s — %d matching email(s).", mailbox, len(ids))
 
-            for msg_id in ids:
+            # Search for every known subject pattern
+            matched_ids: list[bytes] = []
+            for keyword in SUBJECT_KEYWORDS:
+                _, message_ids = mail.search(None, f'SUBJECT "{keyword}"')
+                ids = message_ids[0].split() if message_ids and message_ids[0] else []
+                log.info("  %s / '%s' — %d match(es).", mailbox, keyword, len(ids))
+                for msg_id in ids:
+                    if msg_id not in seen_ids:
+                        matched_ids.append(msg_id)
+                        seen_ids.add(msg_id)
+
+            for msg_id in matched_ids:
                 _, msg_data = mail.fetch(msg_id, "(RFC822)")
                 if not msg_data or not msg_data[0]:
                     continue
