@@ -29,6 +29,7 @@ jobs:
       - name: Run backfill
         working-directory: daily-briefing
         env:
+          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python backfill_seen.py
