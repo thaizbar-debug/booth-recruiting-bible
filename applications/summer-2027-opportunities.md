@@ -171,3 +171,25 @@
 | Yasso | Various | CPG / Frozen | — | Watching |
 | Barebells | Various, US | CPG / Protein | — | Watching |
 | New Hope Network | Various | Industry / Natural | — | Watching |
+| The Hedgehog Company | Various | CPG / Food | — | Watching |
+| Nutri Co | Various | CPG / Nutrition | — | Watching |
+| Fairlife | Chicago, IL | CPG / Dairy | — | Watching |
+| IDEO | San Francisco, CA | Design / Consulting | — | Watching |
+| Cadence | Various | CPG / Wellness | — | Watching |
+| Neutonic | Various | CPG / Wellness | — | Watching |
+| Leisure Hydration | Various | CPG / Beverages | — | Watching |
+| Liquid I.V. | Los Angeles, CA | CPG / Hydration | — | Watching |
+| LMNT | Various | CPG / Electrolytes | — | Watching |
+| Thorne | Summerville, SC | CPG / Supplements | — | Watching |
+| Anthropic Campus Ambassador | San Francisco, CA | Tech / AI | — | Watching |
+| Fruit Riot | Various | CPG / Food | — | Watching |
+| Surfside | Various | CPG / Beverages | — | Watching |
+| Scrub Daddy | Berwyn, PA | CPG / Cleaning | — | Watching |
+| Millie Moon | Various | CPG / Baby | — | Watching |
+| Ghost | Chicago, IL | CPG / Sports Nutrition | — | Watching |
+| Olipop | Oakland, CA | CPG / Beverages | — | Watching |
+| Liquid Death | Los Angeles, CA | CPG / Beverages | — | Watching |
+| Built | Salt Lake City, UT | CPG / Protein | — | Watching |
+| Once Upon a Farm | San Diego, CA | CPG / Baby Food | — | Watching |
+| Fever-Tree | New York, NY | CPG / Beverages | — | Watching |
+| Malk | Houston, TX | CPG / Plant-based | — | Watching |
