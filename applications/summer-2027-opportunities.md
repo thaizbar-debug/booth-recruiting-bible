@@ -78,7 +78,6 @@
 | 2026-05-12 | [MBA Intern – E-Commerce Strategy & Business Development](https://careers.walmart.com/us/en/home/careers-areas/students) | Walmart | Bentonville, AR | Corp Strategy | 4 | New |
 | 2026-05-11 | [Strategic Planning Graduate Internship](https://careers.nike.com/strategic-planning-graduate-internship/job/R-68745) | Nike | Beaverton, OR | Corp Strategy | 4 | New |
 | 2026-05-08 | [MBA FASLEAP Finance & Strategy Leadership Internship](https://www.elcompanies.com/en/careers/students/internships) | Estée Lauder Companies | New York, NY | Finance Strategy | 4 | New |
-
 | 2026-05-14 | [2027 MBA Summer Internship Program](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | BlackRock | New York, NY | Finance Strategy | 4 | New |
 | 2026-05-14 | [Finance Graduate Internship (MBA)](https://careers.nike.com/nike-inc-finance-graduate-internship/job/R-68756) | Nike | Beaverton, OR | Finance Strategy | 4 | New |
 | 2026-05-14 | [MBA Strategy Consulting Summer Associate](https://www.kpmguscareers.com/early-career/) | KPMG | Multiple US Cities | Consulting | 4 | New |
@@ -103,7 +102,52 @@
 
 ## Companies to Watch
 
-No open role yet — monitor for Summer 2027 postings.
+**`Radar`** = monitored daily by the briefing agent (C-Suite changes + new postings auto-detected).  
+**`Watching`** = manually watching for openings.
+
+### On Radar
+
+| Company | Location | Industry | Tier | Status |
+|---|---|---|---|---|
+| McKinsey & Company | Multiple US Cities | Consulting | 1 | Radar |
+| Boston Consulting Group | Multiple US Cities | Consulting | 1 | Radar |
+| Bain & Company | Multiple US Cities | Consulting | 1 | Radar |
+| Deloitte | Multiple US Cities | Consulting | 1 | Radar |
+| Accenture | Multiple US Cities | Consulting | 1 | Radar |
+| Oliver Wyman | New York, NY | Consulting | 1 | Radar |
+| Procter & Gamble | Cincinnati, OH | CPG | 2 | Radar |
+| Unilever | Englewood Cliffs, NJ | CPG | 2 | Radar |
+| PepsiCo | Purchase, NY | CPG | 2 | Radar |
+| Coca-Cola | Atlanta, GA | CPG | 2 | Radar |
+| Nestlé | Arlington, VA | CPG | 2 | Radar |
+| Kraft Heinz | Chicago, IL | CPG | 2 | Radar |
+| AB InBev | New York, NY | CPG | 2 | Radar |
+| Mars | Newark, NJ | CPG | 2 | Radar |
+| Colgate-Palmolive | New York, NY | CPG | 2 | Radar |
+| Kimberly-Clark | Chicago, IL | CPG | 2 | Radar |
+| General Mills | Minneapolis, MN | CPG | 2 | Radar |
+| Mondelez | Chicago, IL | CPG | 2 | Radar |
+| SC Johnson | Racine, WI | CPG | 4 | Radar |
+| Henkel | Stamford, CT | CPG | 4 | Radar |
+| The Hershey Company | Hershey, PA | CPG | 4 | Radar |
+| Amazon | Seattle, WA | Tech | 2 | Radar |
+| Google | Mountain View, CA | Tech | 2 | Radar |
+| Meta | Menlo Park, CA | Tech | 2 | Radar |
+| Spotify | New York, NY | Tech | 4 | Radar |
+| DoorDash | San Francisco, CA | Tech | 4 | Radar |
+| Airbnb | San Francisco, CA | Tech | 4 | Radar |
+| Salesforce | San Francisco, CA | Tech | 4 | Radar |
+| Cisco | San Jose, CA | Tech | 4 | Radar |
+| Microsoft | Redmond, WA | Tech | 4 | Radar |
+| Uber | San Francisco, CA | Tech | 4 | Radar |
+| Walt Disney | Burbank, CA | Consumer / Media | 4 | Radar |
+| L'Oreal | New York, NY | Consumer / Beauty | 4 | Radar |
+| Nike | Beaverton, OR | Consumer / Apparel | 4 | Radar |
+| Walmart | Bentonville, AR | Retail | 4 | Radar |
+| Pfizer | New York, NY | Healthcare | 4 | Radar |
+| Johnson & Johnson | Raritan, NJ | Healthcare | 4 | Radar |
+
+### Watching
 
 | Company | Location | Industry | Status |
 |---|---|---|---|
