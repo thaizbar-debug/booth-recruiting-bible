@@ -79,6 +79,26 @@
 | 2026-05-11 | [Strategic Planning Graduate Internship](https://careers.nike.com/strategic-planning-graduate-internship/job/R-68745) | Nike | Beaverton, OR | Corp Strategy | 4 | New |
 | 2026-05-08 | [MBA FASLEAP Finance & Strategy Leadership Internship](https://www.elcompanies.com/en/careers/students/internships) | Estée Lauder Companies | New York, NY | Finance Strategy | 4 | New |
 
+| 2026-05-14 | [2027 MBA Summer Internship Program](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | BlackRock | New York, NY | Finance Strategy | 4 | New |
+| 2026-05-14 | [Finance Graduate Internship (MBA)](https://careers.nike.com/nike-inc-finance-graduate-internship/job/R-68756) | Nike | Beaverton, OR | Finance Strategy | 4 | New |
+| 2026-05-14 | [MBA Strategy Consulting Summer Associate](https://www.kpmguscareers.com/early-career/) | KPMG | Multiple US Cities | Consulting | 4 | New |
+| 2026-05-14 | [MBA Summer Associate – Consulting](https://guidehouse.com/careers/students) | Guidehouse | Multiple US Cities | Consulting | 4 | New |
+| 2026-05-14 | [Intern – Commercial MBA Leadership Development Program](https://careers.bms.com/leadership-development-programs/commercial-leadership-development-program-summer-internship/) | Bristol-Myers Squibb | Princeton, NJ | General Mgmt | 4 | New |
+| 2026-05-14 | [MBA Strategy Leadership Program Intern](https://www.abbvie.com/join-us/student-programs.html) | AbbVie | North Chicago, IL | Corp Strategy | 4 | New |
+| 2026-05-14 | [MBA Finance & Strategy Summer Intern](https://careers.lilly.com/us/en/u.s.-cmba-program) | Eli Lilly | Indianapolis, IN | Corp Strategy | 4 | New |
+| 2026-05-14 | [MBA Brand Management Intern](https://careers.churchdwight.com/students/) | Church & Dwight | Ewing, NJ | CPG Brand | 4 | New |
+| 2026-05-14 | [MBA Strategy & Management Summer Associate](https://careers.bankofamerica.com/en-us/students) | Bank of America | Multiple US Cities | Finance Strategy | 4 | New |
+| 2026-05-14 | [MBA Summer Associate – Chase Associate Program (CAP)](https://www.jpmorganchase.com/careers/explore-opportunities/programs/cl-summer-associate) | JPMorgan Chase | Multiple US Cities | General Mgmt | 4 | New |
+| 2026-05-15 | [Corporate Strategy MBA Internship](https://careers.wbd.com/global/en/job/R000102466/Corporate-Strategy-MBA-Internships-LA-Summer-2026) | Warner Bros. Discovery | Culver City, CA | Corp Strategy | 4 | New |
+| 2026-05-15 | [MBA Intern – EX Strategy & Business Operations](https://careers.adobe.com/us/en/job/R161488/2026-MBA-Intern-EX-Strategy-Business-Operations) | Adobe | San Jose, CA | Corp Strategy | 4 | New |
+| 2026-05-15 | [MBA Intern – CXO Marketing Business Operations](https://careers.adobe.com/us/en/job/R159619/2026-MBA-Intern-CXO-Marketing-Business-Operations) | Adobe | San Jose, CA | Marketing | 4 | New |
+| 2026-05-15 | [MBA Corporate Strategy & Development Intern](https://jobs.intuit.com/job/mountain-view/mba-corporate-strategy-and-development-intern/27595/89548564576) | Intuit | Mountain View, CA | Corp Strategy | 4 | New |
+| 2026-05-15 | [MBA Strategic Finance Intern – Corporate FP&A](https://jobs.intuit.com/job/mountain-view/mba-strategic-finance-intern-corporate-fp-and-a/27595/90180174016) | Intuit | Mountain View, CA | Finance Strategy | 4 | New |
+| 2026-05-15 | [SAP iXp Intern – Strategy & Operations](https://jobs.sap.com/job/Chicago-SAP-iXp-Intern-Strategy-%26-Operations-(NA-Midwest-MU)-SUMMER-2026-IL-60606/1374398833/) | SAP | Chicago, IL | Corp Strategy | 4 | New |
+| 2026-05-15 | [Summer MBA Strategy Internships](https://careers.tapestry.com/job/New-York-Summer-MBA-Strategy-Internships-NY-10001/1236476500/) | Tapestry | New York, NY | Corp Strategy | 4 | New |
+| 2026-05-15 | [MBA Intern – Strategy & Business Operations](https://jobs.paloaltonetworks.com/en/early-in-career) | Palo Alto Networks | Santa Clara, CA | Corp Strategy | 4 | New |
+| 2026-05-15 | [MBA Associate – Business Development & Strategy](https://www.nbcunicareers.com/internships) | NBCUniversal | New York, NY | BD Strategy | 4 | New |
+
 ---
 
 ## Companies to Watch
