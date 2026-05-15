@@ -39,6 +39,10 @@ GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
 GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
 MAX_SCRAPED_CHARS  = 60_000
 
+JSEARCH_API_KEY = os.getenv("JSEARCH_API_KEY", "")
+JSEARCH_BASE    = "https://jsearch.p.rapidapi.com"
+MD_PATH         = Path(__file__).parent.parent / "applications" / "summer-2027-opportunities.md"
+
 # Tracks everything already sent: article URLs + concepts from sections 6-9
 SEEN_FILE = Path(__file__).parent / "seen_articles.json"
 
@@ -180,6 +184,57 @@ def _article_key(url: str, title: str) -> str:
     if url and url.startswith("http"):
         return url
     return title.lower()[:100]
+
+# ---------------------------------------------------------------------------
+# Target companies — watched for C-suite changes and open MBA roles
+# ---------------------------------------------------------------------------
+
+TARGET_COMPANIES: dict[str, dict] = {
+    "McKinsey & Company":    {"industry": "Consulting",         "track": "Consulting",       "tier": 1, "aliases": ["McKinsey"]},
+    "Boston Consulting Group":{"industry": "Consulting",        "track": "Consulting",       "tier": 1, "aliases": ["BCG"]},
+    "Bain & Company":        {"industry": "Consulting",         "track": "Consulting",       "tier": 1, "aliases": ["Bain"]},
+    "Deloitte":              {"industry": "Consulting",         "track": "Consulting",       "tier": 1, "aliases": []},
+    "Accenture":             {"industry": "Consulting",         "track": "Consulting",       "tier": 1, "aliases": ["Accenture Strategy"]},
+    "Oliver Wyman":          {"industry": "Consulting",         "track": "Consulting",       "tier": 1, "aliases": []},
+    "Procter & Gamble":      {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["P&G", "Procter and Gamble"]},
+    "Unilever":              {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": []},
+    "PepsiCo":               {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["Pepsi"]},
+    "Coca-Cola":             {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["Coke", "Coca Cola"]},
+    "Nestlé":                {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["Nestle"]},
+    "Kraft Heinz":           {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["KHC"]},
+    "AB InBev":              {"industry": "CPG",                "track": "General Mgmt",     "tier": 2, "aliases": ["Anheuser-Busch", "ABI"]},
+    "Mars":                  {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": []},
+    "Colgate-Palmolive":     {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["Colgate"]},
+    "Kimberly-Clark":        {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["K-C"]},
+    "General Mills":         {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": []},
+    "Mondelez":              {"industry": "CPG",                "track": "CPG Brand",        "tier": 2, "aliases": ["Mondelēz", "Mondelez International"]},
+    "SC Johnson":            {"industry": "CPG",                "track": "CPG Brand",        "tier": 4, "aliases": []},
+    "Henkel":                {"industry": "CPG",                "track": "CPG Brand",        "tier": 4, "aliases": []},
+    "The Hershey Company":   {"industry": "CPG",                "track": "CPG Brand",        "tier": 4, "aliases": ["Hershey"]},
+    "Amazon":                {"industry": "Tech",               "track": "Corp Strategy",    "tier": 2, "aliases": []},
+    "Google":                {"industry": "Tech",               "track": "Corp Strategy",    "tier": 2, "aliases": ["Alphabet"]},
+    "Meta":                  {"industry": "Tech",               "track": "Tech Strategy",    "tier": 2, "aliases": ["Facebook"]},
+    "Spotify":               {"industry": "Tech",               "track": "Tech Strategy",    "tier": 4, "aliases": []},
+    "DoorDash":              {"industry": "Tech",               "track": "Growth",           "tier": 4, "aliases": []},
+    "Airbnb":                {"industry": "Tech",               "track": "Finance Strategy", "tier": 4, "aliases": []},
+    "Salesforce":            {"industry": "Tech",               "track": "BD Strategy",      "tier": 4, "aliases": []},
+    "Cisco":                 {"industry": "Tech",               "track": "Corp Strategy",    "tier": 4, "aliases": []},
+    "Microsoft":             {"industry": "Tech",               "track": "BD Strategy",      "tier": 4, "aliases": []},
+    "Uber":                  {"industry": "Tech",               "track": "Growth",           "tier": 4, "aliases": []},
+    "Walt Disney":           {"industry": "Consumer / Media",   "track": "Corp Strategy",    "tier": 4, "aliases": ["Disney"]},
+    "L'Oreal":               {"industry": "Consumer / Beauty",  "track": "CPG Brand",        "tier": 4, "aliases": ["L'Oréal", "Loreal"]},
+    "Nike":                  {"industry": "Consumer / Apparel", "track": "Corp Strategy",    "tier": 4, "aliases": []},
+    "Walmart":               {"industry": "Retail",             "track": "Corp Strategy",    "tier": 4, "aliases": []},
+    "Pfizer":                {"industry": "Healthcare",         "track": "Corp Strategy",    "tier": 4, "aliases": []},
+    "Johnson & Johnson":     {"industry": "Healthcare",         "track": "General Mgmt",     "tier": 4, "aliases": ["J&J", "JnJ"]},
+}
+
+# Pre-built alias → canonical name lookup
+_COMPANY_ALIAS_MAP: dict[str, str] = {
+    alias.lower(): canonical
+    for canonical, info in TARGET_COMPANIES.items()
+    for alias in info.get("aliases", [])
+}
 
 # ---------------------------------------------------------------------------
 # Source definitions
@@ -412,10 +467,13 @@ NITTER_INSTANCES = [
 ]
 
 TWITTER_SOURCES = [
-    {"name": "Twitter @profgalloway",    "account": "profgalloway"},
-    {"name": "Twitter @lennysan",        "account": "lennysan"},
-    {"name": "Twitter @markritson",      "account": "markritson"},
-    {"name": "Twitter Marketing Search", "query":   "CPG brand marketing strategy -filter:retweets"},
+    {"name": "Twitter @profgalloway",      "account": "profgalloway"},
+    {"name": "Twitter @lennysan",          "account": "lennysan"},
+    {"name": "Twitter @markritson",        "account": "markritson"},
+    {"name": "Twitter Marketing Search",   "query":   "CPG brand marketing strategy -filter:retweets"},
+    {"name": "Twitter C-Suite Moves",      "query":   "CEO OR CMO OR CFO OR COO appointed OR hired OR joins brand OR CPG OR consulting -filter:retweets"},
+    {"name": "Twitter MBA Hiring 2027",    "query":   "MBA intern 2027 summer hiring OR recruiting -filter:retweets"},
+    {"name": "Twitter LinkedIn MBA Jobs",  "query":   "MBA intern 2027 site:linkedin.com/jobs -filter:retweets"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -628,6 +686,331 @@ def scrape_all(seen_urls: set[str]) -> str:
     return "\n".join(blocks)
 
 # ---------------------------------------------------------------------------
+# C-Suite Radar — executive change detection + hiring search
+# ---------------------------------------------------------------------------
+
+_YEAR_2027_RE = re.compile(
+    r'2027|summer\s+\'?27\b|class\s+of\s+2028|graduating\s+in\s+2028', re.IGNORECASE
+)
+_YEAR_PAST_RE = re.compile(
+    r'202[456]|summer\s+\'?2[456]\b|class\s+of\s+202[567]', re.IGNORECASE
+)
+_GENERIC_URL_RE = re.compile(
+    r'(linkedin\.com/jobs(?!/view/\d)|indeed\.com|glassdoor\.com|ziprecruiter\.com'
+    r'|monster\.com|/careers/?$|/en/careers/?$|/jobs/?$|/en/jobs/?$|/careers/search/?$)',
+    re.IGNORECASE,
+)
+
+
+def _load_radar_companies() -> dict[str, dict]:
+    """
+    Parse the 'Companies to Watch' table in the md to get companies that were
+    added dynamically by previous runs, beyond the static TARGET_COMPANIES seed.
+    """
+    if not MD_PATH.exists():
+        return {}
+    extra: dict[str, dict] = {}
+    try:
+        in_watch = False
+        for line in MD_PATH.read_text(encoding="utf-8").splitlines():
+            if line.startswith("## Companies to Watch"):
+                in_watch = True
+                continue
+            if line.startswith("## ") and in_watch:
+                break
+            if not in_watch or not line.startswith("|") or "|---|" in line:
+                continue
+            parts = [p.strip() for p in line.split("|")]
+            if len(parts) < 4:
+                continue
+            company  = parts[1]
+            industry = parts[3]
+            if company and company not in ("Company",) and company not in TARGET_COMPANIES:
+                extra[company] = {"industry": industry, "track": "", "tier": "", "aliases": []}
+    except Exception as exc:
+        log.warning("Could not parse Companies to Watch section: %s", exc)
+    return extra
+
+
+def _add_company_to_radar(company: str, location: str, industry: str, note: str) -> None:
+    """
+    Append a newly detected company to the 'Companies to Watch' table in the md.
+    Called when a C-suite change is detected at a company not yet on the list.
+    """
+    if not MD_PATH.exists():
+        return
+    try:
+        content = MD_PATH.read_text(encoding="utf-8")
+        today   = datetime.date.today().strftime("%Y-%m-%d")
+        new_row = f"| {company} | {location} | {industry} | — | Radar — {note} ({today}) |"
+        # Find the last row of the Companies to Watch table (before a blank line or end of file)
+        marker  = "\n## Companies to Watch"
+        start   = content.find(marker)
+        if start == -1:
+            return
+        # Walk forward to find the end of the table
+        lines   = content.splitlines(keepends=True)
+        in_table = False
+        insert_at = len(content)
+        pos = 0
+        for i, line in enumerate(lines):
+            pos += len(line)
+            if "## Companies to Watch" in line:
+                in_table = True
+                continue
+            if in_table and line.startswith("## "):
+                insert_at = pos - len(line)
+                break
+            if in_table and line.startswith("|"):
+                insert_at = pos
+        content = content[:insert_at] + new_row + "\n" + content[insert_at:]
+        MD_PATH.write_text(content, encoding="utf-8")
+        log.info("Added '%s' to Companies to Watch.", company)
+    except Exception as exc:
+        log.warning("Failed to add company to watch list: %s", exc)
+
+
+def detect_executive_changes(scraped_text: str, client: OpenAI) -> list[dict]:
+    """
+    Scan today's news for C-suite / senior leadership changes at any company
+    in industries relevant to Thaiz: CPG, consulting, consumer tech, retail,
+    healthcare, beauty. Not limited to TARGET_COMPANIES — newly discovered
+    companies get added to the On Radar section and monitored going forward.
+
+    Returns list of {company, industry, location, person, title, change, detail}.
+    """
+    prompt = (
+        "Scan the news content below for C-suite or senior leadership changes "
+        "(new hires, departures, promotions, resignations) at companies in:\n"
+        "  - Management consulting (McKinsey, BCG, Bain, Deloitte, Accenture, etc.)\n"
+        "  - CPG / FMCG / Food & Beverage (P&G, Unilever, PepsiCo, Nestlé, Mars, etc.)\n"
+        "  - Consumer tech (Amazon, Google, Meta, Uber, DoorDash, Spotify, Airbnb, etc.)\n"
+        "  - Retail and consumer brands (Walmart, Nike, Disney, Target, etc.)\n"
+        "  - Healthcare / pharma with MBA programs (Pfizer, J&J, Eli Lilly, etc.)\n"
+        "  - Beauty and personal care (L'Oreal, Estée Lauder, etc.)\n\n"
+        "Focus on: CEO, CMO, CFO, COO, CTO, President, EVP, SVP Marketing, "
+        "SVP Strategy, Chief Strategy Officer, Chief Commercial Officer.\n\n"
+        "Return ONLY a valid JSON array. Each element must have:\n"
+        '  "company":  company name as it appears in the news\n'
+        '  "industry": one of Consulting | CPG | Tech | Retail | Healthcare | Beauty | Other\n'
+        '  "location": HQ city and state if mentioned, otherwise "Unknown"\n'
+        '  "person":   executive full name\n'
+        '  "title":    their new or departing role\n'
+        '  "change":   one of "hired" | "departed" | "promoted" | "other"\n'
+        '  "detail":   one sentence with source context\n\n'
+        "Return [] if no relevant changes are found.\n\n"
+        "NEWS:\n" + scraped_text[:20_000]
+    )
+    try:
+        resp = client.chat.completions.create(
+            model=GITHUB_MODEL,
+            max_tokens=1500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = resp.choices[0].message.content.strip()
+        raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        changes = json.loads(raw)
+        if not isinstance(changes, list):
+            return []
+        for c in changes:
+            name        = c.get("company", "").strip()
+            c["company"] = _COMPANY_ALIAS_MAP.get(name.lower(), name)
+        log.info("C-Suite Radar: detected %d change(s).", len(changes))
+        return changes
+    except Exception as exc:
+        log.warning("Executive change detection failed: %s", exc)
+        return []
+
+
+def _check_year_on_page(url: str) -> str:
+    """Returns 'confirmed_2027' | 'wrong_year' | 'no_signal' | 'unreachable'."""
+    try:
+        resp = SESSION.get(url, timeout=15, allow_redirects=True)
+        if resp.status_code >= 400:
+            return "unreachable"
+        text = resp.text
+        if _YEAR_2027_RE.search(text):
+            return "confirmed_2027"
+        if _YEAR_PAST_RE.search(text):
+            return "wrong_year"
+        return "no_signal"
+    except Exception:
+        return "unreachable"
+
+
+def _is_valid_apply_link(url: str) -> bool:
+    if not url or _GENERIC_URL_RE.search(url):
+        return False
+    m = re.search(r'https?://[^/]+(/[^?#]+)', url)
+    if m:
+        segs = [s for s in m.group(1).split('/') if s]
+        if len(segs) >= 2 and any(re.search(r'\d', s) for s in segs):
+            return True
+    return False
+
+
+def _jsearch_company(company_name: str) -> list[dict]:
+    """Query JSearch (indexes LinkedIn + other boards) for MBA 2027 intern roles."""
+    if not JSEARCH_API_KEY:
+        log.info("JSearch skipped — JSEARCH_API_KEY not set.")
+        return []
+    try:
+        resp = requests.get(
+            f"{JSEARCH_BASE}/search",
+            headers={
+                "x-rapidapi-key": JSEARCH_API_KEY,
+                "x-rapidapi-host": "jsearch.p.rapidapi.com",
+            },
+            params={
+                "query":       f"MBA intern summer 2027 {company_name}",
+                "num_results": "10",
+                "date_posted": "month",
+            },
+            timeout=15,
+        )
+        resp.raise_for_status()
+        return resp.json().get("data", [])
+    except Exception as exc:
+        log.warning("JSearch failed for %s: %s", company_name, exc)
+        return []
+
+
+def _jsearch_to_row(job: dict, company_name: str, company_info: dict) -> dict | None:
+    """Convert a JSearch result to a CSV-ready dict, or None if invalid."""
+    apply_url = job.get("job_apply_link") or job.get("job_google_link", "")
+    if not _is_valid_apply_link(apply_url):
+        return None
+    year = _check_year_on_page(apply_url)
+    if year == "wrong_year":
+        return None
+    city     = job.get("job_city", "") or ""
+    state    = job.get("job_state", "") or ""
+    location = f"{city}, {state}".strip(", ") or "Multiple US Cities"
+    return {
+        "role":     job.get("job_title", "MBA Intern"),
+        "company":  company_name,
+        "location": location,
+        "industry": company_info.get("industry", ""),
+        "track":    company_info.get("track", ""),
+        "tier":     str(company_info.get("tier", "")),
+        "link":     apply_url,
+        "status":   "New" if year == "confirmed_2027" else "Monitor",
+    }
+
+
+def _load_md_dedup_keys() -> set[str]:
+    """Return 'company_lower:role_lower' pairs already in the Active Listings table."""
+    if not MD_PATH.exists():
+        return set()
+    keys: set[str] = set()
+    try:
+        in_active = False
+        for line in MD_PATH.read_text(encoding="utf-8").splitlines():
+            if line.startswith("## Active Listings"):
+                in_active = True
+                continue
+            if line.startswith("## ") and in_active:
+                break
+            if not in_active or not line.startswith("|") or "|---|" in line:
+                continue
+            parts = [p.strip() for p in line.split("|")]
+            if len(parts) < 5:
+                continue
+            # Table: | Date | Role | Company | Location | Track | Tier | Status |
+            role_raw = parts[2]
+            company  = parts[3]
+            role     = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', role_raw)
+            if company and role and company not in ("Company", "Role"):
+                keys.add(f"{company.lower()}:{role.lower()}")
+    except Exception as exc:
+        log.warning("Could not parse MD for dedup: %s", exc)
+    return keys
+
+
+def _append_jobs_to_md(new_jobs: list[dict]) -> int:
+    """Insert new job rows into the Active Listings table in the markdown file."""
+    if not new_jobs or not MD_PATH.exists():
+        return 0
+    existing = _load_md_dedup_keys()
+    today    = datetime.date.today().strftime("%Y-%m-%d")
+    rows     = []
+    for job in new_jobs:
+        key = f"{job['company'].lower()}:{job['role'].lower()}"
+        if key in existing:
+            continue
+        link      = job.get("link", "")
+        role_cell = f"[{job['role']}]({link})" if link else job["role"]
+        rows.append(
+            f"| {today} | {role_cell} | {job['company']} "
+            f"| {job.get('location', 'Multiple US Cities')} "
+            f"| {job.get('track', '')} | {job.get('tier', '')} "
+            f"| {job.get('status', 'New')} |"
+        )
+        existing.add(key)
+    if not rows:
+        return 0
+    try:
+        content = MD_PATH.read_text(encoding="utf-8")
+        # Insert before the "---" separator that precedes "## Companies to Watch"
+        marker = "\n---\n\n## Companies to Watch"
+        pos    = content.find(marker)
+        if pos == -1:
+            content += "\n" + "\n".join(rows) + "\n"
+        else:
+            content = content[:pos] + "\n" + "\n".join(rows) + "\n" + content[pos:]
+        MD_PATH.write_text(content, encoding="utf-8")
+        log.info("Appended %d new row(s) to opportunities MD.", len(rows))
+    except Exception as exc:
+        log.warning("Failed to write to MD file: %s", exc)
+        return 0
+    return len(rows)
+
+
+def run_csuite_radar(scraped_text: str, client: OpenAI) -> tuple[list[dict], int]:
+    """
+    Detect C-suite changes in today's news across all relevant industries.
+    For each flagged company:
+      - If it's new (not yet on the radar), add it to 'On Radar' in the md.
+      - Search JSearch (LinkedIn + job boards) for open MBA 2027 roles.
+      - Validate year and append confirmed openings to Active Listings in the md.
+
+    Returns (executive_changes, new_opportunities_added).
+    """
+    # Build the full monitoring universe: static seed + dynamically added companies
+    all_companies = {**TARGET_COMPANIES, **_load_radar_companies()}
+
+    executive_changes = detect_executive_changes(scraped_text, client)
+    if not executive_changes:
+        return [], 0
+
+    flagged = {c["company"] for c in executive_changes}
+    log.info("C-Suite Radar: searching hiring at %d flagged company/ies: %s", len(flagged), flagged)
+
+    candidate_rows: list[dict] = []
+    for change in executive_changes:
+        company  = change["company"]
+        industry = change.get("industry", "Other")
+        location = change.get("location", "Unknown")
+
+        # If this company is new, add it to On Radar so it gets monitored every day
+        if company not in all_companies:
+            note = f"C-suite change — {change['person']} ({change['title']}) {change['change']}"
+            _add_company_to_radar(company, location, industry, note)
+            all_companies[company] = {"industry": industry, "track": "", "tier": "", "aliases": []}
+
+        info = all_companies[company]
+        jobs = _jsearch_company(company)
+        log.info("  JSearch → %d result(s) for %s.", len(jobs), company)
+        for job in jobs:
+            row = _jsearch_to_row(job, company, info)
+            if row:
+                candidate_rows.append(row)
+        time.sleep(1)
+
+    added = _append_jobs_to_md(candidate_rows)
+    return executive_changes, added
+
+# ---------------------------------------------------------------------------
 # Prompt
 # ---------------------------------------------------------------------------
 
@@ -803,6 +1186,31 @@ INTERVIEW TRAP: [one common mistake MBA candidates make when discussing this con
 
 ---
 
+---
+
+## SECTION 10 — C-SUITE RADAR & HIRING SIGNAL
+
+C-suite moves are the single best leading indicator of MBA hiring: new executives refresh \
+teams, new CMOs rebuild brand functions, new CEOs restructure strategy offices. A change at \
+a target company is a reason to act this week, not wait for recruiting season.
+
+EXECUTIVE CHANGES DETECTED TODAY AT MONITORED COMPANIES:
+{csuite_findings}
+
+For each change detected:
+1. What does this leadership move signal about the company's strategic direction or team needs?
+2. Does a new hire (vs. departure) make this company MORE or LESS attractive for an MBA \
+   summer internship right now — and why?
+3. The ONE concrete action Thaiz should take in the next 7 days to capitalize on this signal \
+   (reach out to a specific alumni segment, watch a specific team's LinkedIn, attend an event, \
+   update her pitch for that firm, etc.)
+
+If no C-suite changes were detected today, use this section to identify the ONE company from \
+Sections 2 or 3 showing the strongest expansion or restructuring signal, and give the same \
+three-part analysis for that company. Always end with a concrete 7-day action.
+
+---
+
 Length target: 3,000–4,000 words total. Use the exact section headers above. \
 Write in a direct, confident tone — like a sharp analyst briefing a Booth MBA student \
 who is one week away from a McKinsey first-round interview.
@@ -813,7 +1221,13 @@ who is one week away from a McKinsey first-round interview.
 # ---------------------------------------------------------------------------
 
 
-def generate_briefing(scraped_content: str, today: str, seen: dict, client: OpenAI) -> str:
+def generate_briefing(
+    scraped_content: str,
+    today: str,
+    seen: dict,
+    client: OpenAI,
+    csuite_findings: str = "No C-suite changes detected at monitored companies today.",
+) -> str:
     log.info("Generating briefing via GitHub Models (model: %s) …", GITHUB_MODEL)
 
     if len(scraped_content) > MAX_SCRAPED_CHARS:
@@ -840,6 +1254,7 @@ def generate_briefing(scraped_content: str, today: str, seen: dict, client: Open
         .replace("{used_brand_concepts}",   used_brand)
         .replace("{used_insights_methods}", used_insights)
         .replace("{used_pl_concepts}",      used_pl)
+        .replace("{csuite_findings}",       csuite_findings)
     )
     log.info("Prompt size: %d characters.", len(full_prompt))
 
@@ -965,8 +1380,28 @@ def main() -> None:
     # Persist seen URLs now so they're safe even if generation/email fails
     save_seen(seen)
 
-    # Generate briefing — injects covered topics and used concept lists into the prompt
-    briefing = generate_briefing(scraped, today_long, seen, client)
+    # C-Suite Radar — detect exec changes, search LinkedIn/job boards, update CSV
+    log.info("Running C-Suite Radar …")
+    executive_changes, new_opps_added = run_csuite_radar(scraped, client)
+
+    if executive_changes:
+        csuite_lines = [
+            f"- {c['company']}: {c['person']} ({c['title']}) — {c['change']} — {c['detail']}"
+            for c in executive_changes
+        ]
+        csuite_findings = "\n".join(csuite_lines)
+        if new_opps_added:
+            csuite_findings += (
+                f"\n\n{new_opps_added} new Summer 2027 internship posting(s) found at "
+                "flagged companies and automatically added to the opportunities tracker."
+            )
+    else:
+        csuite_findings = "No C-suite changes detected at monitored companies today."
+
+    log.info("C-Suite Radar done — %d change(s), %d new CSV row(s).", len(executive_changes), new_opps_added)
+
+    # Generate briefing — injects covered topics, concept lists, and C-suite findings
+    briefing = generate_briefing(scraped, today_long, seen, client, csuite_findings)
 
     # Extract which structured concept was chosen in each rotating section (6-9)
     concepts = extract_used_concepts(briefing)

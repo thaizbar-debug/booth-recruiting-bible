@@ -36,14 +36,15 @@ jobs:
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
+          JSEARCH_API_KEY:    ${{ secrets.JSEARCH_API_KEY }}
           SAVE_DIR:           /tmp/daily-summaries
         run: python briefing.py
 
-      - name: Commit seen articles
+      - name: Commit seen articles and new opportunities
         working-directory: daily-briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_articles.json
-          git diff --cached --quiet || git commit -m "chore: update seen articles [skip ci]"
+          git add seen_articles.json ../applications/summer-2027-opportunities.md
+          git diff --cached --quiet || git commit -m "chore: daily update — seen articles + new opportunities [skip ci]"
           git push

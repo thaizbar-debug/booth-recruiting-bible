@@ -102,11 +102,6 @@
 
 ## Companies to Watch
 
-**`Radar`** = monitored daily by the briefing agent (C-Suite changes + new postings auto-detected).  
-**`Watching`** = manually watching for openings.
-
-### On Radar
-
 | Company | Location | Industry | Tier | Status |
 |---|---|---|---|---|
 | McKinsey & Company | Multiple US Cities | Consulting | 1 | Radar |
@@ -146,38 +141,33 @@
 | Walmart | Bentonville, AR | Retail | 4 | Radar |
 | Pfizer | New York, NY | Healthcare | 4 | Radar |
 | Johnson & Johnson | Raritan, NJ | Healthcare | 4 | Radar |
-
-### Watching
-
-| Company | Location | Industry | Status |
-|---|---|---|---|
-| Chomps | Chicago, IL | CPG / Snack | Watching |
-| Startup CPG | Chicago, IL | Community / CPG | Watching |
-| Naturally Chicago | Chicago, IL | Community / Natural | Watching |
-| Siete Family Foods | Austin, TX | CPG / Food | Watching |
-| Springdale Ventures | Austin, TX | VC / CPG | Watching |
-| Whole Foods Market HQ | Austin, TX | Retail / CPG | Watching |
-| Vital Farms | Austin, TX | CPG / Better-for-you | Watching |
-| Waterloo Sparkling Water | Austin, TX | CPG / Beverages | Watching |
-| SKU Accelerator | Austin, TX | Accelerator / CPG | Watching |
-| Naturally Austin | Austin, TX | Community / Wellness | Watching |
-| Capital Factory | Austin, TX | Accelerator / Startups | Watching |
-| Onnit | Austin, TX | Wellness / Supplements | Watching |
-| YETI | Austin, TX | Outdoor / Lifestyle | Watching |
-| GoodPop | Austin, TX | CPG / Frozen | Watching |
-| Black Swan Yoga | Austin, TX | Fitness / Studio | Watching |
-| CAVU Consumer Partners | New York, NY | VC / CPG | Watching |
-| David | New York, NY | CPG / Protein | Watching |
-| Chobani | New York, NY | CPG / Yogurt | Watching |
-| Jones Knowles Ritchie | New York, NY | Agency / Branding | Watching |
-| XRC Ventures | New York, NY | VC / Consumer | Watching |
-| Prelude Growth Partners | New York, NY | PE / CPG | Watching |
-| SMAKK Studios | New York, NY | Agency / Branding | Watching |
-| VMG Partners | San Francisco, CA | VC / CPG | Watching |
-| Strand Equity | San Francisco, CA | VC / Health | Watching |
-| Good Culture | Various | CPG / Health | Watching |
-| Clio Snacks | Various | CPG / Healthy | Watching |
-| Tru Fru | Various | CPG / Snack | Watching |
-| Yasso | Various | CPG / Frozen | Watching |
-| Barebells | Various, US | CPG / Protein | Watching |
-| New Hope Network | Various | Industry / Natural | Watching |
+| Chomps | Chicago, IL | CPG / Snack | — | Watching |
+| Startup CPG | Chicago, IL | Community / CPG | — | Watching |
+| Naturally Chicago | Chicago, IL | Community / Natural | — | Watching |
+| Siete Family Foods | Austin, TX | CPG / Food | — | Watching |
+| Springdale Ventures | Austin, TX | VC / CPG | — | Watching |
+| Whole Foods Market HQ | Austin, TX | Retail / CPG | — | Watching |
+| Vital Farms | Austin, TX | CPG / Better-for-you | — | Watching |
+| Waterloo Sparkling Water | Austin, TX | CPG / Beverages | — | Watching |
+| SKU Accelerator | Austin, TX | Accelerator / CPG | — | Watching |
+| Naturally Austin | Austin, TX | Community / Wellness | — | Watching |
+| Capital Factory | Austin, TX | Accelerator / Startups | — | Watching |
+| Onnit | Austin, TX | Wellness / Supplements | — | Watching |
+| YETI | Austin, TX | Outdoor / Lifestyle | — | Watching |
+| GoodPop | Austin, TX | CPG / Frozen | — | Watching |
+| Black Swan Yoga | Austin, TX | Fitness / Studio | — | Watching |
+| CAVU Consumer Partners | New York, NY | VC / CPG | — | Watching |
+| David | New York, NY | CPG / Protein | — | Watching |
+| Chobani | New York, NY | CPG / Yogurt | — | Watching |
+| Jones Knowles Ritchie | New York, NY | Agency / Branding | — | Watching |
+| XRC Ventures | New York, NY | VC / Consumer | — | Watching |
+| Prelude Growth Partners | New York, NY | PE / CPG | — | Watching |
+| SMAKK Studios | New York, NY | Agency / Branding | — | Watching |
+| VMG Partners | San Francisco, CA | VC / CPG | — | Watching |
+| Strand Equity | San Francisco, CA | VC / Health | — | Watching |
+| Good Culture | Various | CPG / Health | — | Watching |
+| Clio Snacks | Various | CPG / Healthy | — | Watching |
+| Tru Fru | Various | CPG / Snack | — | Watching |
+| Yasso | Various | CPG / Frozen | — | Watching |
+| Barebells | Various, US | CPG / Protein | — | Watching |
+| New Hope Network | Various | Industry / Natural | — | Watching |
