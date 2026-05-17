@@ -35,6 +35,12 @@
 | 2026-05-16 | [NIKE Strategic Planning MBA Internship](https://jobs.nike.com/job/R-37983?from=job+search+funnel) | Nike | Beaverton, OR | Corp Strategy | 4 | New |
 | 2026-05-16 | [NIKE Marketing Vanguard Program Graduate Internship](https://jobs.nike.com/job/R-37982?from=job+search+funnel) | Nike | Beaverton, OR | Marketing | 4 | New |
 
+| 2026-05-17 | [Summer 2027 Intern - US](https://careers.marsh.com/global/en/job/MAMCGLOBALR342651EXTERNALENGLOBAL/Oliver-Wyman-Summer-2027-Intern-US) | Oliver Wyman | New York, NY | Consulting | 1 | New |
+| 2026-05-17 | [Strategy Summer Analyst (Internship)](https://www.accenture.com/us-en/careers/jobdetails?id=R00171670_en) | Accenture | Various, US | Consulting | 1 | New |
+| 2026-05-17 | [Internship - Associate Brand Manager](https://careers.generalmills.com/careers/jobs/16383?lang=en-us&previousLocale=en-US) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
+| 2026-05-17 | [Associate Brand Manager - Campus Recruiting](https://careers.generalmills.com/careers/jobs/35020?lang=en-us) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
+| 2026-05-17 | [Strategic Planning Graduate Internship](https://careers.nike.com/strategic-planning-graduate-internship/job/R-68745) | Nike | Beaverton, OR | Corp Strategy | 2 | New |
+| 2026-05-17 | [Product Strategy Intern](https://careers.chobani.com/job/New-York-Product-Strategy-Intern-NY-10001/1335378900/) | Chobani | New York, NY | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
