@@ -22,7 +22,6 @@
 | 2026-05-12 | [MBA Intern – Business Value & Strategic Consulting](https://careers.salesforce.com/en/university/advanced-degrees/) | Salesforce | Multiple US Cities | BD Strategy | 4 | New |
 | 2026-05-15 | [MBA Corporate Strategy & Development Intern](https://jobs.intuit.com/job/mountain-view/mba-corporate-strategy-and-development-intern/27595/89548564576) | Intuit | Mountain View, CA | Corp Strategy | 4 | New |
 | 2026-05-15 | [MBA Strategic Finance Intern – Corporate FP&A](https://jobs.intuit.com/job/mountain-view/mba-strategic-finance-intern-corporate-fp-and-a/27595/90180174016) | Intuit | Mountain View, CA | Finance Strategy | 4 | New |
-
 | 2026-05-16 | [Internal Strategy MBA Summer Associate](https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Strategy-MBA-Summer-Associate/312774) | Deloitte | Multiple US Cities | Corp Strategy | 1 | New |
 | 2026-05-16 | [Strategy Summer Associate (MBA)](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Strategy-Summer-Associate/307164) | Deloitte | Multiple US Cities | Consulting | 1 | New |
 | 2026-05-16 | [2027 Summer Intern: Marketing – MBA](https://www.pepsicojobs.com/main/jobs/450411?lang=en-us) | PepsiCo | Purchase, NY | CPG Brand | 2 | New |
