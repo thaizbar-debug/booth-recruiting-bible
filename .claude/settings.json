@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // empty' | { read -r f; [[ \"$f\" == */applications/*.md ]] && bash scripts/check-links.sh \"$f\" >> /tmp/booth-link-check.log 2>&1 || true; }",
+            "async": true,
+            "statusMessage": "Verificando links..."
+          }
+        ]
+      }
+    ]
+  }
+}
