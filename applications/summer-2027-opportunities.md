@@ -41,6 +41,11 @@
 | 2026-05-17 | [Associate Brand Manager - Campus Recruiting](https://careers.generalmills.com/careers/jobs/35020?lang=en-us) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
 | 2026-05-17 | [Strategic Planning Graduate Internship](https://careers.nike.com/strategic-planning-graduate-internship/job/R-68745) | Nike | Beaverton, OR | Corp Strategy | 2 | New |
 | 2026-05-17 | [Product Strategy Intern](https://careers.chobani.com/job/New-York-Product-Strategy-Intern-NY-10001/1335378900/) | Chobani | New York, NY | Corp Strategy | 4 | New |
+| 2026-05-18 | [Associate Internship - US Offices (MBA Summer 2027)](https://careers.bcg.com/global/en/job/57657/Associate-Internship-US-Offices-US-Campus) | Boston Consulting Group | US - Various | Consulting | 1 | New |
+| 2026-05-18 | [Associate Internship - United States Campus (MBA Summer 2027)](https://careers.bcg.com/global/en/job/53683/Associate-Internship-United-States-Campus) | Boston Consulting Group | US Campus | Consulting | 1 | New |
+| 2026-05-18 | [Business Process Consulting Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/Business-Process-Consulting-Intern---Summer-2027_666811WD-2) | PwC (Strategy&) | US - Various | Consulting | 1 | New |
+| 2026-05-18 | [US Summer MBA Intern](https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/New-York-NY/Summer-MBA-Intern_30079575/apply/applyManually) | AB InBev | New York, NY | Corp Strategy | 2 | New |
+| 2026-05-18 | [Strategy & Innovation Summer Associate (MBA 2027 Grad)](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Strategy---Innovation-Summer-Associate--MBA-2027-Grad-_JR5933/apply/useMyLastApplication) | Capital Group | Los Angeles, CA | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
