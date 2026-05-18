@@ -141,3 +141,12 @@ Building things that improve people's well-being and sense of self-worth. Combin
 4. **Leverage the Booth network aggressively.** Alumni want to help; the ask just needs to be right.
 5. **Visa reality is not a dealbreaker.** Many top consulting firms and CPG companies sponsor. Lead with value, address visa proactively.
 6. **Authenticity is the differentiator.** Thaiz's LATAM background, base-of-the-pyramid experience, and engineering + business combination are genuinely rare at Booth. Own it.
+
+---
+
+## File Editing Rules (STRICT)
+
+### Markdown tables in `applications/*.md`
+- **NEVER insert a blank line between table rows.** A blank line breaks the GitHub Markdown renderer — rows below it become raw pipe-separated text, not table rows.
+- When appending new rows to a table, place them **immediately after the last existing row** with no blank line in between.
+- A pre-commit git hook enforces this automatically and will block any commit that violates it.
