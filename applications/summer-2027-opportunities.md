@@ -33,7 +33,6 @@
 | 2026-05-16 | [Marketing – MBA Internship Opportunities](https://jobs.careers.microsoft.com/global/en/job/1593741/Marketing:-MBA-Internship-Opportunities) | Microsoft | Multiple US Cities | Marketing | 4 | New |
 | 2026-05-16 | [NIKE Strategic Planning MBA Internship](https://jobs.nike.com/job/R-37983?from=job+search+funnel) | Nike | Beaverton, OR | Corp Strategy | 4 | New |
 | 2026-05-16 | [NIKE Marketing Vanguard Program Graduate Internship](https://jobs.nike.com/job/R-37982?from=job+search+funnel) | Nike | Beaverton, OR | Marketing | 4 | New |
-
 | 2026-05-17 | [Summer 2027 Intern - US](https://careers.marsh.com/global/en/job/MAMCGLOBALR342651EXTERNALENGLOBAL/Oliver-Wyman-Summer-2027-Intern-US) | Oliver Wyman | New York, NY | Consulting | 1 | New |
 | 2026-05-17 | [Strategy Summer Analyst (Internship)](https://www.accenture.com/us-en/careers/jobdetails?id=R00171670_en) | Accenture | Various, US | Consulting | 1 | New |
 | 2026-05-17 | [Internship - Associate Brand Manager](https://careers.generalmills.com/careers/jobs/16383?lang=en-us&previousLocale=en-US) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
@@ -45,6 +44,15 @@
 | 2026-05-18 | [Business Process Consulting Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/Business-Process-Consulting-Intern---Summer-2027_666811WD-2) | PwC (Strategy&) | US - Various | Consulting | 1 | New |
 | 2026-05-18 | [US Summer MBA Intern](https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/New-York-NY/Summer-MBA-Intern_30079575/apply/applyManually) | AB InBev | New York, NY | Corp Strategy | 2 | New |
 | 2026-05-18 | [Strategy & Innovation Summer Associate (MBA 2027 Grad)](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/Strategy---Innovation-Summer-Associate--MBA-2027-Grad-_JR5933/apply/useMyLastApplication) | Capital Group | Los Angeles, CA | Corp Strategy | 4 | New |
+| 2026-05-19 | [EY-Parthenon – Strategy & Execution Generalist – Summer Associate](https://eyglobal.yello.co/external/requisitions/LOAxolpO8rXuNdZ-PwmMFw) | EY (EY-Parthenon) | Various, US | Consulting | 1 | New |
+| 2026-05-19 | [EY-Parthenon – Deals Financial Diligence – Summer Associate 2027](https://usearlycareers.ey.com/job/los-angeles/usa-ey-parthenon-deals-financial-diligence-summer-associate-2027/39053/90666712880) | EY (EY-Parthenon) | Los Angeles, CA | Finance Strategy | 1 | New |
+| 2026-05-19 | [MBA Summer Associate Intern](https://www.rolandberger.com/en/Join/All-Jobs/MBA-Summer-Associate-Intern-REF1111S.html) | Roland Berger | Multiple US Cities | Consulting | 3 | New |
+| 2026-05-19 | [Generalist Consulting Summer Internship](https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/3879?c=simon-kucher) | Simon-Kucher | Multiple US Cities | Consulting | 3 | New |
+| 2026-05-19 | [Strategy Insights & Planning Associate Intern](https://jobs.zs.com/all/jobs/23408?lang=en-us) | ZS Associates | Multiple US Cities | Consulting | 3 | New |
+| 2026-05-19 | [Business Development & Partnerships Associate Intern](https://jobs.zs.com/jobs/29752?lang=en-us) | ZS Associates | New York, NY | BD Strategy | 3 | New |
+| 2026-05-19 | [Sr. Associate Brand Manager Intern](https://www.mondelezinternational.com/careers/jobs/job/index.html?jobid=R-147389&jobtitle=Sr.+Associate+Brand+Manager+Intern) | Mondelez International | East Hanover, NJ | CPG Brand | 2 | New |
+| 2026-05-19 | [MBA Marketing Internship](https://jobdetails.nestle.com/job/Bridgewater-Nestl%C3%A9-Health-Science-MBA-Marketing-Internship-NJ-08807/1288548801/) | Nestlé Health Science | Bridgewater, NJ | CPG Brand | 2 | New |
+| 2026-05-19 | [Summer Associate (MBA) – How to Apply](https://www.cornerstone.com/careers/associate/how-to-apply/) | Cornerstone Research | Multiple US Cities | Consulting | 3 | New |
 ---
 
 ## Companies to Watch
