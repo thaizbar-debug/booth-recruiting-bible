@@ -53,6 +53,12 @@
 | 2026-05-19 | [Sr. Associate Brand Manager Intern](https://www.mondelezinternational.com/careers/jobs/job/index.html?jobid=R-147389&jobtitle=Sr.+Associate+Brand+Manager+Intern) | Mondelez International | East Hanover, NJ | CPG Brand | 2 | New |
 | 2026-05-19 | [MBA Marketing Internship](https://jobdetails.nestle.com/job/Bridgewater-Nestl%C3%A9-Health-Science-MBA-Marketing-Internship-NJ-08807/1288548801/) | Nestlé Health Science | Bridgewater, NJ | CPG Brand | 2 | New |
 | 2026-05-19 | [Summer Associate (MBA) – How to Apply](https://www.cornerstone.com/careers/associate/how-to-apply/) | Cornerstone Research | Multiple US Cities | Consulting | 3 | New |
+| 2026-05-20 | [MBA Boot Camp Summer Associate 2027](https://www.linkedin.com/jobs/view/kearney-mba-boot-camp-summer-associate-2027-at-kearney-4385807594) | Kearney | Chicago, IL | Consulting | 3 | New |
+| 2026-05-20 | [Strategy Summer Associate - Corporate Strategy & Transactions](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Strategy-Summer-Associate-Corporate-Strategy-Transactions/316710) | Deloitte | Various, US | Corp Strategy | 1 | New |
+| 2026-05-20 | [Strategy Summer Associate - Customer & Commercial Strategy](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Strategy-Summer-Associate/316711) | Deloitte | Various, US | Consulting | 1 | New |
+| 2026-05-20 | [Internship - Consumer and Market Insights](https://careers.generalmills.com/careers/jobs/30473?lang=en-us) | General Mills | Minneapolis, MN | Marketing | 2 | New |
+| 2026-05-20 | [Internship - North America Foodservice Marketing](https://careers.generalmills.com/careers/jobs/30302?lang=en-us) | General Mills | Minneapolis, MN | Marketing | 2 | New |
+| 2026-05-20 | [2027 Summer Intern: Strategic Finance - MBA](https://www.pepsicojobs.com/main/jobs/450410?lang=en-us) | PepsiCo | Purchase, NY | Finance Strategy | 2 | New |
 ---
 
 ## Companies to Watch
