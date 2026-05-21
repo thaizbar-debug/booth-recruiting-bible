@@ -59,6 +59,9 @@
 | 2026-05-20 | [Internship - Consumer and Market Insights](https://careers.generalmills.com/careers/jobs/30473?lang=en-us) | General Mills | Minneapolis, MN | Marketing | 2 | New |
 | 2026-05-20 | [Internship - North America Foodservice Marketing](https://careers.generalmills.com/careers/jobs/30302?lang=en-us) | General Mills | Minneapolis, MN | Marketing | 2 | New |
 | 2026-05-20 | [2027 Summer Intern: Strategic Finance - MBA](https://www.pepsicojobs.com/main/jobs/450410?lang=en-us) | PepsiCo | Purchase, NY | Finance Strategy | 2 | New |
+| 2026-05-21 | [Brand Management MBA Intern](https://coke.wd1.myworkdayjobs.com/coca_cola_college/job/US---GA---Atlanta/Brand-Management-MBA-Intern_R-33858) | The Coca-Cola Company | Atlanta, GA | CPG Brand | 2 | New |
+| 2026-05-21 | [MBA Boot Camp — Summer Associate 2027](https://kearney.recsolu.com/jobs/sk7Zw8_c70krl7hEfMs8yw?job_board_id=EPd41qlA4_03IncZMnWyRQ) | Kearney | Chicago, IL | Consulting | 3 | New |
+| 2026-05-21 | [L.E.K. Bridge Pre-MBA Program — Summer 2027 Track](https://www.lek.com/join-lek/lek-pre-mba-program) | L.E.K. Consulting | Various, US | Consulting | 3 | New |
 ---
 
 ## Companies to Watch
