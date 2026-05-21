@@ -62,6 +62,16 @@
 | 2026-05-21 | [Brand Management MBA Intern](https://coke.wd1.myworkdayjobs.com/coca_cola_college/job/US---GA---Atlanta/Brand-Management-MBA-Intern_R-33858) | The Coca-Cola Company | Atlanta, GA | CPG Brand | 2 | New |
 | 2026-05-21 | [MBA Boot Camp — Summer Associate 2027](https://kearney.recsolu.com/jobs/sk7Zw8_c70krl7hEfMs8yw?job_board_id=EPd41qlA4_03IncZMnWyRQ) | Kearney | Chicago, IL | Consulting | 3 | New |
 | 2026-05-21 | [L.E.K. Bridge Pre-MBA Program — Summer 2027 Track](https://www.lek.com/join-lek/lek-pre-mba-program) | L.E.K. Consulting | Various, US | Consulting | 3 | New |
+| 2026-05-21 | [Consultant, Internship MBA - United States (Chicago)](https://www.linkedin.com/jobs/view/consultant-internship-mba-united-states-at-boston-consulting-group-bcg-4308223936) | Boston Consulting Group | Chicago, IL | Consulting | 1 | New |
+| 2026-05-21 | [Consultant, Internship MBA - United States (NJ)](https://www.linkedin.com/jobs/view/consultant-internship-mba-united-states-at-boston-consulting-group-bcg-4308235573) | Boston Consulting Group | New Jersey | Consulting | 1 | New |
+| 2026-05-21 | [Strategy Consultant Development Program - Summer Consultant (MBA)](https://www.accenture.com/us-en/careers/jobdetails?id=R00274597_en) | Accenture | Various | Consulting | 1 | New |
+| 2026-05-21 | [Summer Associate Program - MBA Internship](https://www.bain.com/careers/work-with-us/internships-programs/summer-associate/) | Bain & Company | Various | Consulting | 1 | New |
+| 2026-05-21 | [Senior Brand Management Internship (2027 Graduates - MBA)](https://www.linkedin.com/jobs/view/senior-brand-management-internship-2027-graduates-%E2%80%93-mba-at-procter-gamble-4294721242) | Procter & Gamble | Cincinnati, OH | CPG Brand | 2 | New |
+| 2026-05-21 | [MBA Brand Marketing Intern](https://www.linkedin.com/jobs/view/mba-brand-marketing-intern-at-the-coca-cola-company-4379089732) | Coca-Cola | Atlanta, GA | CPG Brand | 2 | New |
+| 2026-05-21 | [2026 MBA Internship Program (Marketing Track)](https://careers.kraftheinz.com/job/22632055/2026-mba-internship-program-chicago-il/) | Kraft Heinz | Chicago, IL | CPG Brand | 2 | New |
+| 2026-05-21 | [Sr. Associate Brand Manager Intern](https://www.linkedin.com/jobs/view/sr-associate-brand-manager-intern-at-mondel%C4%93z-international-4294625163) | Mondelez | Various | CPG Brand | 4 | New |
+| 2026-05-21 | [Associate Brand Manager Internship](https://www.linkedin.com/jobs/view/internship-associate-brand-manager-at-general-mills-3995319822) | General Mills | Minneapolis, MN | CPG Brand | 4 | New |
+| 2026-05-21 | [2026 Summer Internship - Business Strategy & Product Management (MBA)](https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-new-york-city) | Spotify | New York, NY | BD Strategy | 4 | New |
 ---
 
 ## Companies to Watch
