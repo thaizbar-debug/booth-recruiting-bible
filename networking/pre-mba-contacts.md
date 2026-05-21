@@ -1,7 +1,7 @@
 # Pre-MBA Networking Contacts
 
 Personas a contactar **antes del 15 de septiembre de 2026** para expresar interés en internships de verano 2027.
-Excluye firmas de consultoría (se trabajarán por separado vía alumni de Booth).
+Excluye firmas de consultoría y PepsiCo (no sponsorea internacionales).
 
 > **Status options:** `Not Contacted` · `Reached Out` · `Replied` · `Coffee Chat Scheduled` · `Done`
 >
@@ -13,9 +13,6 @@ Excluye firmas de consultoría (se trabajarán por separado vía alumni de Booth
 
 | Company | Track | Nombre | Título | LinkedIn | Email | Status |
 |---|---|---|---|---|---|---|
-| PepsiCo | CPG Brand | Zoe Barton | Head of PBNA Early Talent Programs | [/in/zoerosebarton](https://www.linkedin.com/in/zoerosebarton/) | — | Not Contacted |
-| PepsiCo | CPG Brand | Nicole Mango Nunno | Early Careers / Recruiting | [/in/nicole-mango-nunno-92244a29](https://www.linkedin.com/in/nicole-mango-nunno-92244a29/) | — | Not Contacted |
-| PepsiCo | CPG Brand | Thomas Ware | Marketing Manager, Gatorade *(Booth MBA)* | [/in/thomas-ware-92a3a2ba](https://www.linkedin.com/in/thomas-ware-92a3a2ba/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Shea Groves | Global Manager, Recruiting | [/in/shea-groves-79112937](https://www.linkedin.com/in/shea-groves-79112937/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Cynthia Salom | Senior Brand Manager *(LATAM background)* | [/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Jay Yang | Senior Brand Manager | [/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
@@ -38,18 +35,6 @@ Excluye firmas de consultoría (se trabajarán por separado vía alumni de Booth
 ---
 
 ## Por Empresa
-
----
-
-### PepsiCo — CPG Brand | Purchase, NY
-
-**Rol target:** 2027 Summer Intern: Marketing – MBA
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Zoe Barton | Head of PBNA Early Talent Programs | Maneja TODO el pipeline de interns de MBA para bebidas PepsiCo (Gatorade, Pepsi, Lipton). Es el contacto principal para conseguir un coffee chat que abre la puerta al proceso formal. | [linkedin.com/in/zoerosebarton](https://www.linkedin.com/in/zoerosebarton/) | — | Not Contacted |
-| Nicole Mango Nunno | PepsiCo Early Careers / Recruiting | Asiste a ferias de MBA y foros del Consortium; interface directa con candidatas al internship de verano. | [linkedin.com/in/nicole-mango-nunno-92244a29](https://www.linkedin.com/in/nicole-mango-nunno-92244a29/) | — | Not Contacted |
-| Thomas Ware | Marketing Manager, Gatorade Portfolio *(Booth MBA)* | Booth MBA que hizo la ruta consulting → brand igual que Thaiz quiere hacer. L.E.K. → PepsiCo. Contacto de peer ideal para entender el proceso y pedir referral interno. | [linkedin.com/in/thomas-ware-92a3a2ba](https://www.linkedin.com/in/thomas-ware-92a3a2ba/) | — | Not Contacted |
 
 ---
 
@@ -172,8 +157,6 @@ Excluye firmas de consultoría (se trabajarán por separado vía alumni de Booth
 | Prioridad | Persona | Empresa | Por qué ahora |
 |---|---|---|---|
 | ⭐⭐⭐ | Morgan Franklin | AB InBev | Booth MBA '21, historia pública documentada — warm contact perfecto |
-| ⭐⭐⭐ | Thomas Ware | PepsiCo | Booth MBA, ruta consulting → brand exactamente como Thaiz quiere |
-| ⭐⭐⭐ | Zoe Barton | PepsiCo | Abre puertas al proceso formal de MBA brand intern |
 | ⭐⭐⭐ | Tania Guignard | Coca-Cola | Maneja todo el pipeline universitario — contacto de alto impacto |
 | ⭐⭐ | Shea Groves | P&G | Recruiting global MBA brand — proceso de P&G empieza temprano |
 | ⭐⭐ | David Jasso | Nike | Único con email público — outreach directo posible hoy |
