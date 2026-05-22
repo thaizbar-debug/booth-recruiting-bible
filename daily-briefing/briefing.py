@@ -34,7 +34,7 @@ GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL    = os.getenv("RECIPIENT_EMAIL", "thaizbar@gmail.com")
 SAVE_DIR           = Path(os.getenv("SAVE_DIR", "./daily-summaries"))
-GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
+GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o")
 
 GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
 MAX_SCRAPED_CHARS  = 60_000
@@ -1240,7 +1240,7 @@ def generate_briefing(
     used_pl       = ", ".join(seen["pl_concepts"])      or "none yet"
 
     # Build the covered-topics block (cap at 300 most recent to keep prompt size manageable)
-    recent_topics = seen["topics"][-300:] if len(seen["topics"]) > 300 else seen["topics"]
+    recent_topics = seen["topics"][-100:] if len(seen["topics"]) > 100 else seen["topics"]
     covered_topics = "\n".join(f"- {t}" for t in recent_topics) if recent_topics else "None yet — this is the first briefing."
 
     log.info("Injecting %d covered topics into prompt.", len(recent_topics))
