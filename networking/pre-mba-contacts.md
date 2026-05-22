@@ -1,11 +1,13 @@
 # Pre-MBA Networking Contacts
 
 Personas a contactar **antes del 15 de septiembre de 2026** para expresar interés en internships de verano 2027.
-Excluye firmas de consultoría y PepsiCo (no sponsorea internacionales).
+Excluye firmas de consultoría, PepsiCo (no sponsorea internacionales), P&G (policy oficial: no sponsorea MBA business roles), y Unilever USA (H-1B solo para intracompany transfers, no nuevos hires).
 
 > **Status options:** `Not Contacted` · `Reached Out` · `Replied` · `Coffee Chat Scheduled` · `Done`
 >
 > ⚠️ Verificar cada URL de LinkedIn antes de enviar — fueron encontradas vía búsqueda web.
+>
+> ⚠️ **Sponsorship H-1B:** empresas marcadas con ⚠️ sponsorean H-1B con volumen muy bajo y de forma selectiva — vale la pena el internship pero confirmar sponsorship full-time antes de aceptar oferta.
 
 ---
 
@@ -13,41 +15,25 @@ Excluye firmas de consultoría y PepsiCo (no sponsorea internacionales).
 
 | Company | Track | Nombre | Título | LinkedIn | Email | Status |
 |---|---|---|---|---|---|---|
-| Procter & Gamble | CPG Brand | Shea Groves | Global Manager, Recruiting | [/in/shea-groves-79112937](https://www.linkedin.com/in/shea-groves-79112937/) | — | Not Contacted |
-| Procter & Gamble | CPG Brand | Cynthia Salom | Senior Brand Manager *(LATAM background)* | [/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
-| Procter & Gamble | CPG Brand | Jay Yang | Senior Brand Manager | [/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
 | Coca-Cola | CPG Brand / Corp Strategy | Tania Guignard | Sr. Manager, University Recruiting | [/in/tguignard](https://www.linkedin.com/in/tguignard/) | — | Not Contacted |
 | General Mills | CPG Brand | Laurissa Webster | Sr. Manager, Campus & Production Recruiting | [/in/laurissagauvitte](https://www.linkedin.com/in/laurissagauvitte/) | — | Not Contacted |
 | General Mills | CPG Brand | Austin McDaniel | MBA Recruiting (Carlson MBA) | [/in/austinjamesmcdaniel](https://www.linkedin.com/in/austinjamesmcdaniel/) | — | Not Contacted |
-| AB InBev | Corp Strategy | Colleen Brill | Global People — MBA Internship Program | [/in/colleen-brill](https://www.linkedin.com/in/colleen-brill/) | — | Not Contacted |
-| AB InBev | Corp Strategy | Ada Huang | Sr. Director, Strategy | [/in/ada-x-huang](https://www.linkedin.com/in/ada-x-huang/) | — | Not Contacted |
-| AB InBev | Corp Strategy | Morgan Franklin | Global Director, Music *(Booth MBA '21)* | [/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
+| AB InBev ⚠️ | Corp Strategy | Colleen Brill | Global People — MBA Internship Program | [/in/colleen-brill](https://www.linkedin.com/in/colleen-brill/) | — | Not Contacted |
+| AB InBev ⚠️ | Corp Strategy | Ada Huang | Sr. Director, Strategy | [/in/ada-x-huang](https://www.linkedin.com/in/ada-x-huang/) | — | Not Contacted |
+| AB InBev ⚠️ | Corp Strategy | Morgan Franklin | Global Director, Music *(Booth MBA '21)* | [/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
 | Salesforce | BD Strategy | Tim Kimball | Sr. Manager, Futureforce University Recruiting | [/in/timkimball1](https://www.linkedin.com/in/timkimball1/) | — | Not Contacted |
 | Microsoft | BD / Corp Strategy | Kaitlin Ehlers | Sr. Talent Acquisition Manager | [/in/kaitlin-ehlers-766b8655](https://www.linkedin.com/in/kaitlin-ehlers-766b8655/) | — | Not Contacted |
 | Microsoft | BD / Corp Strategy | Alanna Karcher | University Recruiting Event PM | [/in/alannakarcher](https://www.linkedin.com/in/alannakarcher/) | — | Not Contacted |
 | Nike | Corp Strategy / Marketing | David Jasso | University Recruiter | [/in/davidj024](https://www.linkedin.com/in/davidj024/) | david.jasso@nike.com | Not Contacted |
 | Intuit | Corp Strategy | Chris Turner | University Recruiting Lead | [/in/chris-turner-8474396](https://www.linkedin.com/in/chris-turner-8474396/) | — | Not Contacted |
 | Intuit | Corp Strategy | Rachel Evans | Strategy Intern Alumna *(Carlson MBA)* | [/in/rachelskevans](https://www.linkedin.com/in/rachelskevans/) | — | Not Contacted |
-| Chobani | Corp Strategy | Jessica Lipkin-Mascola | Talent Acquisition Manager | [/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
-| Chobani | Corp Strategy | Tim Brown | VP, Talent | [/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
+| Chobani ⚠️ | Corp Strategy | Jessica Lipkin-Mascola | Talent Acquisition Manager | [/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
+| Chobani ⚠️ | Corp Strategy | Tim Brown | VP, Talent | [/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
 | Capital Group | Corp Strategy | Allison Nottingham | HR / Talent Acquisition | [/in/allison-nottingham-18b7372b](https://www.linkedin.com/in/allison-nottingham-18b7372b/) | — | Not Contacted |
 
 ---
 
 ## Por Empresa
-
----
-
-### Procter & Gamble — CPG Brand | Cincinnati, OH
-
-**Rol target:** Senior Brand Management Internship (2027 Graduates – MBA)
-**Acción urgente:** Verificar si el **P&G MBA Rising Leaders Camp** (agosto 2026, 3 días all-expenses en Cincinnati) tiene registro abierto → pgcareers.com/us/en/mbabrandrisingleaders
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Shea Groves | Global Manager, Recruiting | Maneja el pipeline global de brand management MBA. Contacto principal de recruiting para el internship. | [linkedin.com/in/shea-groves-79112937](https://www.linkedin.com/in/shea-groves-79112937/) | — | Not Contacted |
-| Cynthia Salom | Senior Brand Manager | Background LATAM — conexión natural con Thaiz. Puede dar perspectiva de cómo es el trabajo en P&G y el proceso de internship. | [linkedin.com/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
-| Jay Yang | Senior Brand Manager | MBA → P&G brand manager; entiende la transición consulting/finanzas → brand. | [linkedin.com/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
 
 ---
 
@@ -158,7 +144,6 @@ Excluye firmas de consultoría y PepsiCo (no sponsorea internacionales).
 |---|---|---|---|
 | ⭐⭐⭐ | Morgan Franklin | AB InBev | Booth MBA '21, historia pública documentada — warm contact perfecto |
 | ⭐⭐⭐ | Tania Guignard | Coca-Cola | Maneja todo el pipeline universitario — contacto de alto impacto |
-| ⭐⭐ | Shea Groves | P&G | Recruiting global MBA brand — proceso de P&G empieza temprano |
 | ⭐⭐ | David Jasso | Nike | Único con email público — outreach directo posible hoy |
 | ⭐⭐ | Laurissa Webster | General Mills | Campus recruiting lead — MBA brand manager program |
 | ⭐⭐ | Colleen Brill | AB InBev | Intake del programa de MBA intern |
