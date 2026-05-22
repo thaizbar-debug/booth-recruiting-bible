@@ -72,6 +72,19 @@
 | 2026-05-21 | [Sr. Associate Brand Manager Intern](https://www.linkedin.com/jobs/view/sr-associate-brand-manager-intern-at-mondel%C4%93z-international-4294625163) | Mondelez | Various | CPG Brand | 4 | New |
 | 2026-05-21 | [Associate Brand Manager Internship](https://www.linkedin.com/jobs/view/internship-associate-brand-manager-at-general-mills-3995319822) | General Mills | Minneapolis, MN | CPG Brand | 4 | New |
 | 2026-05-21 | [2026 Summer Internship - Business Strategy & Product Management (MBA)](https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-new-york-city) | Spotify | New York, NY | BD Strategy | 4 | New |
+| 2026-05-22 | [Internship - Associate Brand Manager](https://www.linkedin.com/jobs/view/internship-associate-brand-manager-at-general-mills-4300339678) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
+| 2026-05-22 | [Associate Brand Manager - Campus Recruiting](https://www.linkedin.com/jobs/view/associate-brand-manager-campus-recruiting-at-general-mills-4279835585) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
+| 2026-05-22 | [Associate Brand Manager Leadership Development Program](https://www.linkedin.com/jobs/view/associate-brand-manager-leadership-development-program-minneapolis-mn-at-general-mills-4198862508) | General Mills | Minneapolis, MN | General Mgmt | 2 | New |
+| 2026-05-22 | [Global Marketing Development Program Internship 2026](https://jobs.colgate.com/job/Global-Marketing-Development-Program-Internship-2026/170342-en_US/) | Colgate-Palmolive | New York, NY | CPG Brand | 2 | New |
+| 2026-05-22 | [2026 MBA Business Developer Summer Intern - Corporate Business Development](https://amazon.jobs/en/jobs/3132694/2026-mba-business-developer-summer-intern-corporate-business-development-corpbd) | Amazon | New York, NY | BD Strategy | 2 | New |
+| 2026-05-22 | [2026 MBA Program Management Internship](https://amazon.jobs/en/jobs/3109822/2026-mba-program-management-pgm-internship) | Amazon | Seattle, WA | Corp Strategy | 2 | New |
+| 2026-05-22 | [MBA Intern - Prime Video & Amazon MGM Studios](https://www.amazon.jobs/en/jobs/3148791/mba-intern-prime-video-amazon-mgm-studios) | Amazon | Los Angeles, CA | Corp Strategy | 2 | New |
+| 2026-05-22 | [Summer 2026 MBA Intern - Merchandising Leadership Rotation Program](https://careers.walmart.com/us/jobs/wd2277218-summer-2026-mba-intern-merchandising-leadership-rotation-program-mba-intern) | Walmart | Bentonville, AR | General Mgmt | 2 | New |
+| 2026-05-22 | [MBA Intern 2026 - E-Commerce Summer Internship](https://careers.walmart.com/us/en/jobs/R-2365815) | Walmart | Bentonville, AR | BD Strategy | 2 | New |
+| 2026-05-22 | [Summer 2026 MBA Internship - MedTech Marketing Leadership Development Program](https://www.careers.jnj.com/en/jobs/r-028969/summer-2026-mba-internship-medtech-marketing-leadership-development-program-mldp/) | Johnson & Johnson | Raritan, NJ | General Mgmt | 2 | New |
+| 2026-05-22 | [MBA Associate Brand Manager Intern - Summer 2026](https://www.henkel.com/careers/find-your-job-apply/2119894-2119894) | Henkel | Various | CPG Brand | 4 | New |
+| 2026-05-22 | [Marketing Strategy Intern MBA - Alterna Haircare - Summer 2026](https://www.henkel-northamerica.com/careers/jobs-and-application/2087674-2087674) | Henkel | Various | CPG Brand | 4 | New |
+| 2026-05-22 | [MBA Brand Management Intern - Schwarzkopf Professional - Summer 2026](https://www.henkel-northamerica.com/careers/jobs-and-application/2087684-2087684) | Henkel | Various | CPG Brand | 4 | New |
 ---
 
 ## Companies to Watch
