@@ -85,6 +85,9 @@
 | 2026-05-22 | [MBA Associate Brand Manager Intern - Summer 2026](https://www.henkel.com/careers/find-your-job-apply/2119894-2119894) | Henkel | Various | CPG Brand | 4 | New |
 | 2026-05-22 | [Marketing Strategy Intern MBA - Alterna Haircare - Summer 2026](https://www.henkel-northamerica.com/careers/jobs-and-application/2087674-2087674) | Henkel | Various | CPG Brand | 4 | New |
 | 2026-05-22 | [MBA Brand Management Intern - Schwarzkopf Professional - Summer 2026](https://www.henkel-northamerica.com/careers/jobs-and-application/2087684-2087684) | Henkel | Various | CPG Brand | 4 | New |
+| 2026-05-23 | [MBA Internship Program (Marketing/Brand)](https://careers.kraftheinz.com/job/22672998/2026-mba-internship-program/) | Kraft Heinz | Chicago, IL | CPG Brand | 2 | New |
+| 2026-05-23 | [MBA Marketing Internship](https://careers.mars.com/us/en/job/R126975/Summer-2026-Mars-Wrigley-MBA-Marketing-Internship) | Mars | Newark, NJ | CPG Brand | 2 | New |
+| 2026-05-23 | [MBA Intern (Summer)](https://www.linkedin.com/jobs/view/mba-intern-summer-2026-at-anheuser-busch-4308049215) | Anheuser-Busch | New York, NY | General Mgmt | 2 | New |
 ---
 
 ## Companies to Watch
