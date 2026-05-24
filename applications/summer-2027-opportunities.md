@@ -88,6 +88,11 @@
 | 2026-05-23 | [MBA Internship Program (Marketing/Brand)](https://careers.kraftheinz.com/job/22672998/2026-mba-internship-program/) | Kraft Heinz | Chicago, IL | CPG Brand | 2 | New |
 | 2026-05-23 | [MBA Marketing Internship](https://careers.mars.com/us/en/job/R126975/Summer-2026-Mars-Wrigley-MBA-Marketing-Internship) | Mars | Newark, NJ | CPG Brand | 2 | New |
 | 2026-05-23 | [MBA Intern (Summer)](https://www.linkedin.com/jobs/view/mba-intern-summer-2026-at-anheuser-busch-4308049215) | Anheuser-Busch | New York, NY | General Mgmt | 2 | New |
+| 2026-05-24 | [Product Marketing Manager Intern, MBA](https://www.metacareers.com/v2/jobs/473368212391720/) | Meta | Menlo Park, CA | Marketing | 2 | New |
+| 2026-05-24 | [Associate, Strategy & Operations (DoorDash for Business)](https://www.linkedin.com/jobs/view/associate-strategy-operations-doordash-for-business-at-doordash-4403256057) | DoorDash | San Francisco, CA | BD Strategy | 4 | New |
+| 2026-05-24 | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/MBA-Strategy---Consulting-Summer-Associate_4935753-1) | Pfizer | New York, NY | Corp Strategy | 4 | New |
+| 2026-05-24 | [Ignite Intern – Strategy](https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/Coca-Cola-Ignite-Intern---Strategy_R-139265/apply/applyManually) | The Coca-Cola Company | Atlanta, GA | Corp Strategy | 2 | New |
+| 2026-05-24 | [Leadership Internship Program – Marketing](https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Early_Careers/job/Unilever-Leadership-Internship-Program---Marketing_R-1179823) | Unilever | Various, US | CPG Brand | 2 | New |
 ---
 
 ## Companies to Watch
