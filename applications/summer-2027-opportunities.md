@@ -93,6 +93,9 @@
 | 2026-05-24 | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/MBA-Strategy---Consulting-Summer-Associate_4935753-1) | Pfizer | New York, NY | Corp Strategy | 4 | New |
 | 2026-05-24 | [Ignite Intern – Strategy](https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/Coca-Cola-Ignite-Intern---Strategy_R-139265/apply/applyManually) | The Coca-Cola Company | Atlanta, GA | Corp Strategy | 2 | New |
 | 2026-05-24 | [Leadership Internship Program – Marketing](https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Early_Careers/job/Unilever-Leadership-Internship-Program---Marketing_R-1179823) | Unilever | Various, US | CPG Brand | 2 | New |
+| 2026-05-25 | [2026 Leadership Development Conference – Marketing (Summer 2027 Recruiting)](https://jobs.scjohnson.com/en/job/racine/2026-leadership-development-conference-marketing/5362/90262908448) | SC Johnson | Racine, WI | CPG Brand | 4 | New |
+| 2026-05-25 | [Strategy and Planning Manager MBA (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Strategy-and-Planning-Manager-MBA-Intern-United-States/1426356) | Cisco | San Jose, CA | Corp Strategy | 4 | New |
+| 2026-05-25 | [Corporate Strategy Manager MBA (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Corporate-Strategy-Manager-MBA-Intern-United-States/1426404) | Cisco | San Jose, CA | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
