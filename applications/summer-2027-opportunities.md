@@ -93,6 +93,11 @@
 | 2026-05-24 | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/MBA-Strategy---Consulting-Summer-Associate_4935753-1) | Pfizer | New York, NY | Corp Strategy | 4 | New |
 | 2026-05-24 | [Ignite Intern – Strategy](https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/Coca-Cola-Ignite-Intern---Strategy_R-139265/apply/applyManually) | The Coca-Cola Company | Atlanta, GA | Corp Strategy | 2 | New |
 | 2026-05-24 | [Leadership Internship Program – Marketing](https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Early_Careers/job/Unilever-Leadership-Internship-Program---Marketing_R-1179823) | Unilever | Various, US | CPG Brand | 2 | New |
+| 2026-05-26 | [Summer 2026 MBA Intern – Americas Division](https://www.linkedin.com/jobs/view/summer-2026-intern-americas-division-mba-at-simon-kucher-4302919035) | Simon-Kucher | Various, US | Consulting | 3 | New |
+| 2026-05-26 | [Turnaround & Restructuring MBA Intern](https://www.alixpartners.com/careers/6675330003/turnaround--restructuring-mba-intern/) | AlixPartners | Various, US | Consulting | 3 | New |
+| 2026-05-26 | [MBA Marketing Intern](https://careers.molsoncoors.com/us/en/job/35172/MBA-Marketing-Intern) | Molson Coors | Chicago, IL | CPG Brand | 4 | New |
+| 2026-05-26 | [MBA Intern (Summer 2026)](https://wd1.myworkdayjobs.com/en-US/recruiting/abinbev/USA/job/New-York-New-York/MBA-Intern--Summer-2026-_30088777?locationRegionStateProvince=790e3c3ddfaa4123905237a05f1df9e9) | AB InBev | New York, NY | CPG Brand | 2 | New |
+| 2026-05-26 | [Global Finance & Strategy Intern](https://careers.coca-colacompany.com/job/22852612/global-finance-strategy-intern-atlanta-ga/) | The Coca-Cola Company | Atlanta, GA | Corp Strategy | 2 | New |
 ---
 
 ## Companies to Watch
