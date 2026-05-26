@@ -72,6 +72,7 @@
 | 2026-05-21 | [Sr. Associate Brand Manager Intern](https://www.linkedin.com/jobs/view/sr-associate-brand-manager-intern-at-mondel%C4%93z-international-4294625163) | Mondelez | Various | CPG Brand | 4 | New |
 | 2026-05-21 | [Associate Brand Manager Internship](https://www.linkedin.com/jobs/view/internship-associate-brand-manager-at-general-mills-3995319822) | General Mills | Minneapolis, MN | CPG Brand | 4 | New |
 | 2026-05-21 | [2026 Summer Internship - Business Strategy & Product Management (MBA)](https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-new-york-city) | Spotify | New York, NY | BD Strategy | 4 | New |
+| 2026-05-26 | [MBA Intern, Commercial Strategy](https://www.linkedin.com/jobs/view/4401110156/) | Delta Air Lines | Atlanta, GA | Corp Strategy | | Done |
 ---
 
 ## Companies to Watch
