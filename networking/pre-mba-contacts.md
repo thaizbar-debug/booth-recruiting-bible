@@ -1,7 +1,7 @@
 # Pre-MBA Networking Contacts
 
 Personas a contactar **antes del 15 de septiembre de 2026** para expresar interés en internships de verano 2027.
-Excluye firmas de consultoría MBB/Tier 2.
+Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Malk).
 
 > **Status options:** `Not Contacted` · `Reached Out` · `Replied` · `Coffee Chat Scheduled` · `Done`
 >
@@ -9,797 +9,420 @@ Excluye firmas de consultoría MBB/Tier 2.
 
 ---
 
-## Quick Reference Table
-
-| Company | Track | Nombre | Título | LinkedIn | Email | Status |
+| Company | Track | Name | Title | LinkedIn | Email | Status |
 |---|---|---|---|---|---|---|
 | Procter & Gamble | CPG Brand | Shea Groves | Global Manager, Recruiting | [/in/shea-groves-79112937](https://www.linkedin.com/in/shea-groves-79112937/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Cynthia Salom | Senior Brand Manager *(LATAM background)* | [/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Jay Yang | Senior Brand Manager | [/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
-| Coca-Cola | CPG Brand / Corp Strategy | Tania Guignard | Sr. Manager, University Recruiting | [/in/tguignard](https://www.linkedin.com/in/tguignard/) | — | Not Contacted |
-| General Mills | CPG Brand | Laurissa Webster | Sr. Manager, Campus & Production Recruiting | [/in/laurissagauvitte](https://www.linkedin.com/in/laurissagauvitte/) | — | Not Contacted |
-| General Mills | CPG Brand | Austin McDaniel | MBA Recruiting | [/in/austinjamesmcdaniel](https://www.linkedin.com/in/austinjamesmcdaniel/) | — | Not Contacted |
-| Kraft Heinz | CPG Brand / Corp Strategy | Danielle Nicole Harris, MBA | Talent Acquisition Coordinator | [/in/danielle-nicole-harris-mba-](https://www.linkedin.com/in/danielle-nicole-harris-mba-/) | — | Not Contacted |
-| Kraft Heinz | CPG Brand | Jordan Sands | Brand Manager, Oscar Mayer *(Booth MBA)* | [/in/jordansands](https://www.linkedin.com/in/jordansands/) | — | Not Contacted |
-| Kraft Heinz | CPG Brand | Maura Henry | Brand Marketer *(Booth MBA)* | [/in/maura-henry](https://www.linkedin.com/in/maura-henry/) | — | Not Contacted |
+| Procter & Gamble | CPG Brand | Elaine Zhou | Senior Brand Manager *(Booth MBA)* | [/in/elaine-dai22](https://www.linkedin.com/in/elaine-dai22/) | — | Not Contacted |
+| Procter & Gamble | CPG Brand | [TO FIND] | P&G LATAM Brand Manager or second Booth MBA alum | — | — | To Find |
+| Unilever | CPG Brand | Ana Alice Cornetti | Global Talent Partner – Recruitment Optimization | [/in/anacornetti](https://www.linkedin.com/in/anacornetti/) | — | Not Contacted |
+| Unilever | CPG Brand | Iris Stevens | Talent Acquisition, Unilever | [/in/iris-stevens-06611499](https://www.linkedin.com/in/iris-stevens-06611499/) | — | Not Contacted |
+| Unilever | CPG Brand | [TO FIND] | Unilever MBA Campus Recruiter (North America) | — | — | To Find |
+| Unilever | CPG Brand | [TO FIND] | Unilever Brand Manager *(MBA hire)* | — | — | To Find |
+| Unilever | CPG Brand | [TO FIND] | Unilever Booth MBA alum in brand or strategy | — | — | To Find |
+| PepsiCo | CPG Brand / Finance Strategy | Mandie Payne | Head of University Recruiting *(leads 300+ intern pipeline)* | [/in/mandiemccollum](https://www.linkedin.com/in/mandiemccollum/) | — | Not Contacted |
+| PepsiCo | CPG Brand / Finance Strategy | Marcus Hill | Brand Manager *(MBA)* | [/in/marcus-hill-mba](https://www.linkedin.com/in/marcus-hill-mba/) | — | Not Contacted |
+| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo Booth MBA alum *(Gatorade/Quaker – Chicago)* | — | — | To Find |
+| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo Strategic Finance MBA | — | — | To Find |
+| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo LATAM brand / marketing contact | — | — | To Find |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | Tania Guignard | Sr. Manager, University Recruiting Program | [/in/tguignard](https://www.linkedin.com/in/tguignard/) | — | Not Contacted |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Brand Manager *(Booth MBA)* | — | — | To Find |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Commercial Strategy Manager | — | — | To Find |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC LATAM brand / marketing contact | — | — | To Find |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Talent Acquisition *(MBA pipeline)* | — | — | To Find |
 | Nestlé | CPG Brand | Serena DeMills, MBA | Early Careers Talent Acquisition | [/in/serena-demills-mba-b5214615b](https://www.linkedin.com/in/serena-demills-mba-b5214615b/) | — | Not Contacted |
 | Nestlé | CPG Brand | Megan Kehler | Talent Acquisition Leader | [/in/megan-kehler](https://www.linkedin.com/in/megan-kehler/) | — | Not Contacted |
-| Mondelez | CPG Brand | Kizzie Davis | Talent Acquisition *(verificar título)* | [/in/kizziedavis](https://www.linkedin.com/in/kizziedavis/) | — | Not Contacted |
+| Nestlé | CPG Brand | Jessica Gates | Sr. Recruiter, Nestlé Health Science | [/in/jessica-gates-2917085](https://www.linkedin.com/in/jessica-gates-2917085/) | — | Not Contacted |
+| Nestlé | CPG Brand | Kahley France, MBA | Brand Manager | [/in/kahley-france](https://www.linkedin.com/in/kahley-france/) | — | Not Contacted |
+| Nestlé | CPG Brand | [TO FIND] | Nestlé Booth MBA alum in brand or marketing | — | — | To Find |
+| Kraft Heinz | CPG Brand / Corp Strategy | Danielle Nicole Harris, MBA | Talent Acquisition Coordinator | [/in/danielle-nicole-harris-mba-](https://www.linkedin.com/in/danielle-nicole-harris-mba-/) | — | Not Contacted |
+| Kraft Heinz | CPG Brand / Corp Strategy | Jordan Sands | Brand Manager, Oscar Mayer *(Booth MBA)* | [/in/jordansands](https://www.linkedin.com/in/jordansands/) | — | Not Contacted |
+| Kraft Heinz | CPG Brand / Corp Strategy | Maura Henry | Brand Marketer *(Booth MBA)* | [/in/maura-henry](https://www.linkedin.com/in/maura-henry/) | — | Not Contacted |
+| Kraft Heinz | CPG Brand / Corp Strategy | Sarah Showak | Brand Manager *(Booth MBA)* | [/in/sarah-germain-showak](https://www.linkedin.com/in/sarah-germain-showak/) | — | Not Contacted |
+| Kraft Heinz | CPG Brand / Corp Strategy | Patrick Kenney | Sales Strategy Manager *(Booth MBA)* | [/in/patrickakenney](https://www.linkedin.com/in/patrickakenney/) | — | Not Contacted |
 | AB InBev | Corp Strategy | Colleen Brill | Global People — MBA Internship Program | [/in/colleen-brill](https://www.linkedin.com/in/colleen-brill/) | — | Not Contacted |
 | AB InBev | Corp Strategy | Ada Huang | Sr. Director, Strategy | [/in/ada-x-huang](https://www.linkedin.com/in/ada-x-huang/) | — | Not Contacted |
-| AB InBev | Corp Strategy | Morgan Franklin | Global Director, Music *(Booth MBA '21)* | [/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
+| AB InBev | Corp Strategy | Morgan Franklin | Global Director, Music Partnerships *(Booth MBA '21)* | [/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
+| AB InBev | Corp Strategy | Matthew O'Neill, MBA | Global MBA Program | [/in/matthew-o-neill](https://www.linkedin.com/in/matthew-o-neill/) | — | Not Contacted |
+| AB InBev | Corp Strategy | [TO FIND] | ABI LATAM / Brazil strategy or brand *(ABI es de origen brasileño)* | — | — | To Find |
+| Mars | CPG Brand | Anandi Rahman | Associate Brand Manager | [/in/anandi-rahman](https://www.linkedin.com/in/anandi-rahman/) | — | Not Contacted |
+| Mars | CPG Brand | Mia Fratto | ABM, Milky Way® & 3 Musketeers® | [/in/mia-fratto-664217118](https://www.linkedin.com/in/mia-fratto-664217118/) | — | Not Contacted |
+| Mars | CPG Brand | Kelly Lynch | Director, Brand & Marketing, Mars Wrigley | [/in/kelly-lynch-a37776b](https://www.linkedin.com/in/kelly-lynch-a37776b/) | — | Not Contacted |
+| Mars | CPG Brand | [TO FIND] | Mars MBA Campus Recruiter / University Relations | — | — | To Find |
+| Mars | CPG Brand | [TO FIND] | Mars Booth MBA alum or LATAM contact | — | — | To Find |
+| Colgate-Palmolive | CPG Brand | Liz Kendrick | Recruiter, Colgate-Palmolive | [/in/liz-kendrick-06392663](https://www.linkedin.com/in/liz-kendrick-06392663/) | — | Not Contacted |
+| Colgate-Palmolive | CPG Brand | Charlotte Eisenberg | Associate Brand Manager | [/in/charlotte-eisenberg](https://www.linkedin.com/in/charlotte-eisenberg/) | — | Not Contacted |
+| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate MBA Campus Recruiter | — | — | To Find |
+| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate Brand Manager *(Booth MBA)* | — | — | To Find |
+| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate LATAM brand *(#1 toothpaste in LatAm — background directo)* | — | — | To Find |
+| Kimberly-Clark | CPG Brand | Lissette Dávila, MBA | Brand Manager, Kleenex® | [/in/lissettedavila11](https://www.linkedin.com/in/lissettedavila11/) | — | Not Contacted |
+| Kimberly-Clark | CPG Brand | Brooklyn Jones, MBA | Brand Manager | [/in/brooklynjordan](https://www.linkedin.com/in/brooklynjordan/) | — | Not Contacted |
+| Kimberly-Clark | CPG Brand | Kimberly Brown, MBA | Brand Leader | [/in/kimberly-brown-mba-33b05823](https://www.linkedin.com/in/kimberly-brown-mba-33b05823/) | — | Not Contacted |
+| Kimberly-Clark | CPG Brand | [TO FIND] | KC MBA Campus Recruiter / University Relations | — | — | To Find |
+| Kimberly-Clark | CPG Brand | [TO FIND] | KC Booth MBA alum or LATAM brand | — | — | To Find |
+| General Mills | CPG Brand | Laurissa Webster | Sr. Manager, Campus & Production Recruiting | [/in/laurissagauvitte](https://www.linkedin.com/in/laurissagauvitte/) | — | Not Contacted |
+| General Mills | CPG Brand | Austin McDaniel | MBA Recruiting | [/in/austinjamesmcdaniel](https://www.linkedin.com/in/austinjamesmcdaniel/) | — | Not Contacted |
+| General Mills | CPG Brand | Robert Wilson | Sr. Manager, M&A *(Booth MBA)* | [/in/rfwilson](https://www.linkedin.com/in/rfwilson/) | — | Not Contacted |
+| General Mills | CPG Brand | KC Glaser, MBA | Brand Manager | [/in/kcglaser](https://www.linkedin.com/in/kcglaser/) | — | Not Contacted |
+| General Mills | CPG Brand | Russell Reeve | Sr. Associate Brand Manager, Cascadian Farm | [/in/russellreeve](https://www.linkedin.com/in/russellreeve/) | — | Not Contacted |
+| Mondelez International | CPG Brand | Kizzie Davis | Talent Acquisition | [/in/kizziedavis](https://www.linkedin.com/in/kizziedavis/) | — | Not Contacted |
+| Mondelez International | CPG Brand | [TO FIND] | Mondelez MBA Campus Recruiter | — | — | To Find |
+| Mondelez International | CPG Brand | [TO FIND] | Mondelez ABM *(Booth MBA)* | — | — | To Find |
+| Mondelez International | CPG Brand | [TO FIND] | Mondelez Sr. ABM *(post-MBA, 2+ años en rol)* | — | — | To Find |
+| Mondelez International | CPG Brand | [TO FIND] | Mondelez LATAM brand contact | — | — | To Find |
+| SC Johnson | CPG Brand | Cara Esposito | Marketing, SC Johnson Lifestyle Brands | [/in/cesposito92](https://www.linkedin.com/in/cesposito92/) | — | Not Contacted |
+| SC Johnson | CPG Brand | Cheryl Barrett | Talent Acquisition, SC Johnson | [/in/cheryl-barrett-b0a32973](https://www.linkedin.com/in/cheryl-barrett-b0a32973/) | — | Not Contacted |
+| SC Johnson | CPG Brand | [TO FIND] | SC Johnson MBA Recruiter | — | — | To Find |
+| SC Johnson | CPG Brand | [TO FIND] | SC Johnson Brand Manager *(Booth MBA)* | — | — | To Find |
+| SC Johnson | CPG Brand | [TO FIND] | SC Johnson LATAM / Global brand contact | — | — | To Find |
+| Henkel | CPG Brand | Joelle Engler | Brand Manager, Henkel | [/in/joelle-engler-2ba8771aa](https://www.linkedin.com/in/joelle-engler-2ba8771aa/) | — | Not Contacted |
+| Henkel | CPG Brand | Savvas Sfairopoulos, MBA | ABM, all® free clear | [/in/sfairops](https://www.linkedin.com/in/sfairops/) | — | Not Contacted |
+| Henkel | CPG Brand | [TO FIND] | Henkel MBA Campus Recruiter | — | — | To Find |
+| Henkel | CPG Brand | [TO FIND] | Henkel Sr. Brand Manager *(post-MBA)* | — | — | To Find |
+| Henkel | CPG Brand | [TO FIND] | Henkel LATAM or North America brand | — | — | To Find |
+| The Hershey Company | CPG Brand | Kate Maddaloni | University Recruiting Specialist | [/in/kate-maddaloni-27584071](https://www.linkedin.com/in/kate-maddaloni-27584071/) | — | Not Contacted |
+| The Hershey Company | CPG Brand | Sonali Argade, MBA | Sr. Associate Manager, Global Brand Marketing | [/in/sonali-argade](https://www.linkedin.com/in/sonali-argade/) | — | Not Contacted |
+| The Hershey Company | CPG Brand | Emma R. Conover | Brand Management *(Cornell MBA)* | [/in/emma-r-conover](https://www.linkedin.com/in/emma-r-conover/) | — | Not Contacted |
+| The Hershey Company | CPG Brand | Kyle Webster | ABM, Hershey brand *(BYU MBA)* | [/in/kyleawebster](https://www.linkedin.com/in/kyleawebster/) | — | Not Contacted |
+| The Hershey Company | CPG Brand | Clarissa Tolentino | Hershey Company | [/in/clarissatolentino](https://www.linkedin.com/in/clarissatolentino/) | — | Not Contacted |
+| Amazon | Corp Strategy / BD | Lorena Prates | Strategy Manager *(Booth MBA)* | [/in/lorenapratesdl](https://www.linkedin.com/in/lorenapratesdl/) | — | Not Contacted |
+| Amazon | Corp Strategy / BD | Juan Jose Velasco | Business Development *(Booth MBA)* | [/in/juan-jose-velasco-gardeweg](https://www.linkedin.com/in/juan-jose-velasco-gardeweg/) | — | Not Contacted |
+| Amazon | Corp Strategy / BD | Ignacio Llosa | Strategy *(Booth MBA, from Peru)* | [/in/ignaciollosao](https://www.linkedin.com/in/ignaciollosao/) | — | Not Contacted |
+| Amazon | Corp Strategy / BD | Liz McAnneny | Sr. Product & Customer Insights Manager | [/in/liz-furman](https://www.linkedin.com/in/liz-furman/) | — | Not Contacted |
+| Amazon | Corp Strategy / BD | Henry Chou | Director of Product Strategy | [/in/hchou](https://www.linkedin.com/in/hchou/) | — | Not Contacted |
+| Google | Corp Strategy / BD | John Kostal | Head of Strategy, Planning & Intelligence *(Booth MBA)* | [/in/john-kostal-35284410](https://www.linkedin.com/in/john-kostal-35284410/) | — | Not Contacted |
+| Google | Corp Strategy / BD | Juan M. | Product Strategy *(Booth MBA)* | [/in/juan-m-a4111326](https://www.linkedin.com/in/juan-m-a4111326/) | — | Not Contacted |
+| Google | Corp Strategy / BD | [TO FIND] | Google MBA Campus Recruiting Manager | — | — | To Find |
+| Google | Corp Strategy / BD | [TO FIND] | Google Strategy & Operations *(Booth MBA)* | — | — | To Find |
+| Google | Corp Strategy / BD | [TO FIND] | Google LATAM / Emerging Markets BD | — | — | To Find |
+| Meta | Corp Strategy / BD | [TO FIND] | Meta MBA Campus Recruiting Manager | — | — | To Find |
+| Meta | Corp Strategy / BD | [TO FIND] | Meta Strategy & Analytics Manager *(Booth MBA)* | — | — | To Find |
+| Meta | Corp Strategy / BD | [TO FIND] | Meta Global Business Group Manager | — | — | To Find |
+| Meta | Corp Strategy / BD | [TO FIND] | Meta LATAM Partnerships / BD | — | — | To Find |
+| Meta | Corp Strategy / BD | [TO FIND] | Meta Product Marketing Manager *(MBA hire)* | — | — | To Find |
+| Spotify | BD Strategy | Lindsey Goring | Talent Acquisition, Spotify | [/in/lindsey-goring-28b30545](https://www.linkedin.com/in/lindsey-goring-28b30545/) | — | Not Contacted |
+| Spotify | BD Strategy | [TO FIND] | Spotify MBA Campus Recruiting Manager | — | — | To Find |
+| Spotify | BD Strategy | [TO FIND] | Spotify Strategy & Operations *(Booth MBA)* | — | — | To Find |
+| Spotify | BD Strategy | [TO FIND] | Spotify LATAM / Iberian Market *(música latina = diferenciador)* | — | — | To Find |
+| Spotify | BD Strategy | [TO FIND] | Spotify Business Strategy & Product Management | — | — | To Find |
+| DoorDash | BD Strategy | Roberto Alcocer | Strategy & Operations *(Booth MBA)* | [/in/ralcocer](https://www.linkedin.com/in/ralcocer/) | — | Not Contacted |
+| DoorDash | BD Strategy | [TO FIND] | DoorDash MBA Campus Recruiting Manager | — | — | To Find |
+| DoorDash | BD Strategy | [TO FIND] | DoorDash Strategy & Operations *(Booth MBA)* | — | — | To Find |
+| DoorDash | BD Strategy | [TO FIND] | DoorDash LATAM / International Expansion | — | — | To Find |
+| DoorDash | BD Strategy | [TO FIND] | DoorDash Merchant Partnerships Manager | — | — | To Find |
+| Airbnb | BD Strategy | Jeffrey Yeung | Strategy *(Booth MBA)* | [/in/jyeung90](https://www.linkedin.com/in/jyeung90/) | — | Not Contacted |
+| Airbnb | BD Strategy | [TO FIND] | Airbnb MBA Campus Recruiting Manager | — | — | To Find |
+| Airbnb | BD Strategy | [TO FIND] | Airbnb Strategy / BD *(Booth MBA)* | — | — | To Find |
+| Airbnb | BD Strategy | [TO FIND] | Airbnb LATAM Market / Partnerships | — | — | To Find |
+| Airbnb | BD Strategy | [TO FIND] | Airbnb Global Host Growth Manager | — | — | To Find |
 | Salesforce | BD Strategy | Tim Kimball | Sr. Manager, Futureforce University Recruiting | [/in/timkimball1](https://www.linkedin.com/in/timkimball1/) | — | Not Contacted |
+| Salesforce | BD Strategy | [TO FIND] | Salesforce Business Value Consultant *(Booth MBA)* | — | — | To Find |
+| Salesforce | BD Strategy | [TO FIND] | Salesforce LATAM BD / Account Executive | — | — | To Find |
+| Salesforce | BD Strategy | [TO FIND] | Salesforce Corp Strategy Manager *(MBA hire)* | — | — | To Find |
+| Salesforce | BD Strategy | [TO FIND] | Salesforce MBA Campus Recruiting | — | — | To Find |
+| Cisco | Corp Strategy / BD | Christine Rees, MBA | AI Adoption Lead, AMER | [/in/christinerees](https://www.linkedin.com/in/christinerees/) | — | Not Contacted |
+| Cisco | Corp Strategy / BD | Milton Arizmendi, MBA | Strategy / BD | [/in/miltonarizmendi](https://www.linkedin.com/in/miltonarizmendi/) | — | Not Contacted |
+| Cisco | Corp Strategy / BD | [TO FIND] | Cisco MBA Campus Recruiting Manager | — | — | To Find |
+| Cisco | Corp Strategy / BD | [TO FIND] | Cisco Corp Strategy / Corp Dev *(Booth MBA)* | — | — | To Find |
+| Cisco | Corp Strategy / BD | [TO FIND] | Cisco LATAM BD Manager | — | — | To Find |
 | Microsoft | BD / Corp Strategy | Kaitlin Ehlers | Sr. Talent Acquisition Manager | [/in/kaitlin-ehlers-766b8655](https://www.linkedin.com/in/kaitlin-ehlers-766b8655/) | — | Not Contacted |
 | Microsoft | BD / Corp Strategy | Alanna Karcher | University Recruiting Event PM | [/in/alannakarcher](https://www.linkedin.com/in/alannakarcher/) | — | Not Contacted |
+| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft Corp Strategy *(Booth MBA)* | — | — | To Find |
+| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft LATAM Emerging Markets BD | — | — | To Find |
+| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft Marketing MBA *(Booth)* | — | — | To Find |
+| Uber | BD Strategy | Rachaita Shah | Strategy & Operations, Uber Eats *(Booth MBA)* | [/in/rachaitashah](https://www.linkedin.com/in/rachaitashah/) | — | Not Contacted |
+| Uber | BD Strategy | [TO FIND] | Uber MBA Campus Recruiting Manager | — | — | To Find |
+| Uber | BD Strategy | [TO FIND] | Uber Strategy & Operations *(Booth MBA)* | — | — | To Find |
+| Uber | BD Strategy | [TO FIND] | Uber LATAM / Uber Eats LatAm Strategy | — | — | To Find |
+| Uber | BD Strategy | [TO FIND] | Uber Marketplace Growth Manager | — | — | To Find |
+| Walt Disney | Corp Strategy / Brand | Laura Beauchamp Leben | VP, Corporate Social Responsibility | [/in/beauchamplaura](https://www.linkedin.com/in/beauchamplaura/) | — | Not Contacted |
+| Walt Disney | Corp Strategy / Brand | Cayla Ward, MBA | Manager, Synergy & Partnership Marketing | [/in/cayla-ward](https://www.linkedin.com/in/cayla-ward/) | — | Not Contacted |
+| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney MBA Campus Recruiting Manager | — | — | To Find |
+| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney Corporate Strategy *(Booth MBA)* | — | — | To Find |
+| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney Brand Marketing Manager *(MBA hire)* | — | — | To Find |
+| L'Oréal | CPG Brand / Beauty | Carolyn Holba | Brand Manager *(Booth MBA)* | [/in/carolynholba](https://www.linkedin.com/in/carolynholba/) | — | Not Contacted |
+| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal MBA Recruiting / NEXT Gen Program | — | — | To Find |
+| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal Brand Manager *(Booth MBA)* | — | — | To Find |
+| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal LATAM / multicultural marketing | — | — | To Find |
+| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal Consumer Products Brand Manager | — | — | To Find |
 | Nike | Corp Strategy / Marketing | David Jasso | University Recruiter | [/in/davidj024](https://www.linkedin.com/in/davidj024/) | david.jasso@nike.com | Not Contacted |
-| Intuit | Corp Strategy | Chris Turner | University Recruiting Lead | [/in/chris-turner-8474396](https://www.linkedin.com/in/chris-turner-8474396/) | — | Not Contacted |
-| Intuit | Corp Strategy | Rachel Evans | Strategy Intern Alumna *(Carlson MBA)* | [/in/rachelskevans](https://www.linkedin.com/in/rachelskevans/) | — | Not Contacted |
-| Chobani | Corp Strategy | Jessica Lipkin-Mascola | Talent Acquisition Manager | [/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
-| Chobani | Corp Strategy | Tim Brown | VP, Talent | [/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
-| Capital Group | Corp Strategy | Allison Nottingham | HR / Talent Acquisition | [/in/allison-nottingham-18b7372b](https://www.linkedin.com/in/allison-nottingham-18b7372b/) | — | Not Contacted |
-
----
-
-## Por Empresa
-
----
-
-### Procter & Gamble — CPG Brand | Cincinnati, OH
-
-**Rol target:** Senior Brand Management Internship (2027 Graduates – MBA)
-**Acción urgente:** Verificar si el **P&G MBA Rising Leaders Camp** (agosto 2026, 3 días all-expenses en Cincinnati) tiene registro abierto → pgcareers.com/us/en/mbabrandrisingleaders
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Shea Groves | Global Manager, Recruiting | Maneja el pipeline global de brand management MBA. Contacto principal de recruiting para el internship. | [linkedin.com/in/shea-groves-79112937](https://www.linkedin.com/in/shea-groves-79112937/) | — | Not Contacted |
-| Cynthia Salom | Senior Brand Manager | Background LATAM — conexión natural con Thaiz. Puede dar perspectiva del trabajo en P&G y el proceso de internship. | [linkedin.com/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
-| Jay Yang | Senior Brand Manager | MBA → P&G brand manager; entiende la transición consulting/finanzas → brand. | [linkedin.com/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
-| [TO FIND] | Booth MBA alum en P&G brand | Buscar: "Procter Gamble" + "Chicago Booth" en LinkedIn filtrado por empleados actuales | — | — | To Find |
-| [TO FIND] | P&G LATAM o International Brand Manager | Buscar: P&G + "Latin America" + brand manager | — | — | To Find |
-
----
-
-### The Coca-Cola Company — CPG Brand + Corp Strategy | Atlanta, GA
-
-**Roles target:** MBA Brand Marketing Intern + Commercial Strategy & Operations Intern
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Tania Guignard | Sr. Manager, University Recruiting Program | Dirige TODO el programa de recruiting universitario de Coca-Cola. Es el intake principal para el pipeline de interns de MBA. | [linkedin.com/in/tguignard](https://www.linkedin.com/in/tguignard/) | — | Not Contacted |
-| [TO FIND] | Booth MBA alum en TCCC brand o strategy | Buscar: "Coca-Cola" + "Chicago Booth" en LinkedIn | — | — | To Find |
-| [TO FIND] | Brand Manager MBA hire (TCCC) | Buscar: Coca-Cola + "brand manager" + MBA en LinkedIn | — | — | To Find |
-| [TO FIND] | TCCC LATAM brand o marketing contact | Buscar: Coca-Cola + "Latin America" + marketing. Peru es mercado clave de Coke. | — | — | To Find |
-
----
-
-### General Mills — CPG Brand | Minneapolis, MN
-
-**Rol target:** Associate Brand Manager Intern (MBA) — dos postings activos
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Laurissa Webster | Sr. Manager, Campus & Production Recruiting | Lidera el campus recruiting de MBA para brand management. Contacto principal. | [linkedin.com/in/laurissagauvitte](https://www.linkedin.com/in/laurissagauvitte/) | — | Not Contacted |
-| Austin McDaniel | MBA Recruiting (co-lead) | MBA él mismo; co-lidera la relación de recruiting con escuelas. | [linkedin.com/in/austinjamesmcdaniel](https://www.linkedin.com/in/austinjamesmcdaniel/) | — | Not Contacted |
-| Matt Lieberman | Associate Brand Manager *(Booth '18)* | Booth MBA → General Mills ABM. Publicó su journey en Clear Admit — abierto a outreach. | Buscar "Matt Lieberman General Mills" en LinkedIn | — | To Find |
-| Collin A. Taylor | Associate Brand Manager Intern *(Booth MBA)* | Anunció internship públicamente en LinkedIn. Contacto peer más reciente. | Buscar "Collin Taylor General Mills" en LinkedIn | — | To Find |
-| [TO FIND] | Consumer Insights Manager, General Mills | Buscar: General Mills + "consumer insights" + manager para entender si ese track lleva a brand. | — | — | To Find |
-
----
-
-### Kraft Heinz — CPG Brand / Corp Strategy | Chicago, IL ⭐ LOCAL
-
-**Rol target:** MBA Internship Program (marketing, finance, HR, operations) — 10 semanas en Chicago HQ
-**Ventaja clave:** HQ en Chicago = visita en persona pre-MBA posible. Booth es escuela target nombrada.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Danielle Nicole Harris, MBA | Talent Acquisition Coordinator | Coordina el proceso de TA de Kraft Heinz en Chicago. Primera puerta de entrada para el programa MBA. | [linkedin.com/in/danielle-nicole-harris-mba-](https://www.linkedin.com/in/danielle-nicole-harris-mba-/) | — | Not Contacted |
-| Jordan Sands | Brand Manager, Oscar Mayer Bacon *(Booth MBA)* | **Contacto estrella.** Booth MBA → Kraft Heinz brand manager. Hizo la transición exacta que busca Thaiz. Su perfil es público. | [linkedin.com/in/jordansands](https://www.linkedin.com/in/jordansands/) | — | Not Contacted |
-| Maura Henry | Brand Marketer / Owner *(Booth MBA)* | Otra Boothie en Kraft Heinz brand. Perspectiva de cómo es el trabajo y el proceso de internship. | [linkedin.com/in/maura-henry](https://www.linkedin.com/in/maura-henry/) | — | Not Contacted |
-| [TO FIND] | Kraft Heinz Corp Strategy Manager | Buscar: "Kraft Heinz" + "corporate strategy" + manager en LinkedIn | — | — | To Find |
-| [TO FIND] | Kraft Heinz LATAM brand o regional contact | Buscar: Kraft Heinz + "Latin America" + brand. KH tiene operaciones LatAm. | — | — | To Find |
-
----
-
-### Nestlé Health Science — CPG Brand | Bridgewater, NJ
-
-**Rol target:** MBA Marketing Internship — Nestlé Health Science
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Serena DeMills, MBA | Early Careers Talent Acquisition @ Nestlé | Gestiona el pipeline de early careers y MBA internships en Nestlé USA (Arlington, VA). Primera puerta de entrada. | [linkedin.com/in/serena-demills-mba-b5214615b](https://www.linkedin.com/in/serena-demills-mba-b5214615b/) | — | Not Contacted |
-| Megan Kehler | Talent Acquisition Leader, Nestlé USA | Líder del área de TA en Nestlé USA. Contacto de escalación o para confirmar quién maneja el programa MBA. | [linkedin.com/in/megan-kehler](https://www.linkedin.com/in/megan-kehler/) | — | Not Contacted |
-| [TO FIND] | Nestlé Brand Manager *(Booth MBA)* | Buscar: "Nestle" + "Chicago Booth" + brand manager en LinkedIn | — | — | To Find |
-| [TO FIND] | Nestlé Health Science Marketing Manager (post-MBA) | Buscar: "Nestle Health Science" + brand OR marketing + manager | — | — | To Find |
-| [TO FIND] | Nestlé LATAM brand contact | Buscar: Nestle + "Latin America" + brand. Peru es mercado Nestlé. | — | — | To Find |
-
----
-
-### Mondelez International — CPG Brand | Chicago, IL ⭐ LOCAL
-
-**Rol target:** Sr. Associate Brand Manager Intern — [link activo](https://www.mondelezinternational.com/careers/jobs/job/index.html?jobid=R-147389)
-**Nota:** Chicago HQ — posible visita en persona pre-MBA.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Kizzie Davis | Talent Acquisition, Mondelēz International | Perfil de TA en Mondelez encontrado vía búsqueda. Verificar título actual en LinkedIn antes de contactar. | [linkedin.com/in/kizziedavis](https://www.linkedin.com/in/kizziedavis/) | — | Not Contacted |
-| [TO FIND] | Mondelez MBA Campus Recruiter | Buscar: "Mondelez" + "campus recruiter" OR "university recruiting" en LinkedIn | — | — | To Find |
-| [TO FIND] | Mondelez Associate Brand Manager *(Booth MBA)* | Buscar: "Mondelez" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Mondelez Senior ABM o Brand Manager (2+ años) | Buscar: Mondelez + "senior associate brand manager" + MBA | — | — | To Find |
-| [TO FIND] | Mondelez LATAM brand contact | Buscar: Mondelez + "Latin America" + brand. Mercado LatAm grande para Oreo y Cadbury. | — | — | To Find |
-
----
-
-### AB InBev — Corp Strategy | New York, NY
-
-**Rol target:** US Summer MBA Intern (Corp Strategy)
-**Nota:** Booth es escuela target nombrada en el GMBA Program de AB InBev. El internship de 10 semanas es la entrada al programa de 1 año.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Colleen Brill | Global People — MBA Internship Program | Maneja el programa de internship MBA de 10 semanas. Contacto de intake para el proceso de selección. | [linkedin.com/in/colleen-brill](https://www.linkedin.com/in/colleen-brill/) | — | Not Contacted |
-| Ada Huang | Sr. Director, Strategy | Líder del equipo de Strategy en NY. Contacto de team lead para entender el trabajo day-to-day. | [linkedin.com/in/ada-x-huang](https://www.linkedin.com/in/ada-x-huang/) | — | Not Contacted |
-| Morgan Franklin | Global Director, Music Partnerships *(Booth MBA '21)* | **Contacto estrella.** Booth MBA '21 que internó en ZX Ventures (arm de innovación de ABI). Ha documentado públicamente su journey Booth → ABI. | [linkedin.com/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
-| [TO FIND] | ABI LATAM o Brazil operations contact | Buscar: AB InBev + "Latin America" OR Brazil + strategy. ABI es de origen brasileño — background LatAm es diferenciador fuerte. | — | — | To Find |
-| [TO FIND] | ABI Chicago brand contact (Goose Island, Michelob) | Buscar: AB InBev + brand manager + Chicago | — | — | To Find |
-
----
-
-### Unilever — CPG Brand / Corp Strategy | Englewood Cliffs, NJ
-
-**Rol target:** Brand management y strategy MBAs — UFLP (Unilever Future Leaders Programme)
-**Nota:** Unilever tiene fuerte programa de MBAs. Buscar contactos vía LinkedIn filtrando: Unilever + MBA + brand/strategy.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Unilever MBA Campus Recruiter / University Relations | Buscar: "Unilever" + "university recruiting" OR "campus recruiter" + "North America" en LinkedIn | — | — | To Find |
-| [TO FIND] | Unilever Brand Manager *(Booth MBA)* | Buscar: "Unilever" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Unilever Global Brand Manager (post-MBA, con rotación LATAM) | Buscar: Unilever + "global brand manager" + MBA. Unilever tiene rotaciones internacionales. | — | — | To Find |
-| [TO FIND] | Unilever LATAM regional brand contact | Buscar: Unilever + "Latin America" + brand OR marketing. Presence enorme en LatAm. | — | — | To Find |
-| [TO FIND] | Unilever Dove / Hellmann's / Ben & Jerry's brand team MBA | Buscar: Unilever + "Dove" OR "Hellmanns" + brand manager + MBA | — | — | To Find |
-
----
-
-### PepsiCo — CPG Brand / Finance Strategy | Purchase, NY + Chicago, IL *(Gatorade/Quaker)*
-
-**Rol target:** Marketing MBA + Strategic Finance MBA
-**Nota de visa:** ⚠️ Verificar política de sponsorship de PepsiCo para F-1 OPT antes de invertir outreach — el proceso abre en otoño 2026.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | PepsiCo MBA Recruiting Manager | Buscar: "PepsiCo" + "MBA recruiting" OR "campus recruiter" en LinkedIn. Jill Godbout fue MBA Recruiter — verificar si sigue en rol. | — | — | To Find |
-| [TO FIND] | PepsiCo Brand Manager *(Booth MBA, Gatorade o Quaker — Chicago)* | Buscar: PepsiCo + "Chicago Booth" + brand en LinkedIn. Gatorade/Quaker son Chicago = más Boothies. | — | — | To Find |
-| [TO FIND] | PepsiCo Strategic Finance Manager *(Booth MBA)* | Buscar: PepsiCo + "strategic finance" + Booth MBA en LinkedIn | — | — | To Find |
-| [TO FIND] | PepsiCo LATAM brand o marketing contact | Buscar: PepsiCo + "Latin America" + brand marketing. Fuerte presencia LatAm. | — | — | To Find |
-
----
-
-### Mars — CPG Brand | Newark, NJ (+ Chicago: Wrigley/Extra)
-
-**Rol target:** Brand management MBA — M&M's, Snickers, Dove Chocolate, Kind Bar, Wrigley
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Mars MBA Campus Recruiter | Buscar: "Mars Inc" OR "Mars Incorporated" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Mars Brand Manager *(Booth MBA)* | Buscar: "Mars" + "Chicago Booth" + brand manager en LinkedIn | — | — | To Find |
-| [TO FIND] | Mars Associate Brand Manager (post-MBA) | Buscar: Mars + "associate brand manager" + MBA. Mars promueve desde adentro. | — | — | To Find |
-| [TO FIND] | Mars LATAM regional contact | Buscar: Mars + "Latin America" + brand OR marketing. Chocolates y snacks son categorías grandes en LatAm. | — | — | To Find |
-
----
-
-### Colgate-Palmolive — CPG Brand | New York, NY
-
-**Rol target:** Brand management MBA — Colgate, Palmolive, Hill's Pet Nutrition *(Chicago área)*
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Colgate-Palmolive MBA Recruiter / University Relations | Buscar: "Colgate-Palmolive" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Colgate Brand Manager *(Booth MBA)* | Buscar: "Colgate-Palmolive" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Colgate LATAM division brand contact | Buscar: Colgate + "Latin America" + brand OR marketing. **Colgate es #1 en pasta dental en LatAm** — experiencia de Thaiz es directamente relevante. | — | — | To Find |
-| [TO FIND] | Hill's Pet Nutrition Brand o Strategy Manager *(Chicago)* | Buscar: "Hill's Pet" + brand OR strategy + MBA. Hill's HQ está cerca de Chicago. | — | — | To Find |
-
----
-
-### Kimberly-Clark — CPG Brand | Chicago, IL ⭐ LOCAL
-
-**Rol target:** Brand management y corp strategy — Huggies, Kleenex, Scott, Depend
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Kimberly-Clark MBA Recruiting / University Relations | Buscar: "Kimberly-Clark" + "MBA recruiting" OR "campus recruiter" en LinkedIn. HQ en Chicago = acceso en persona pre-MBA. | — | — | To Find |
-| [TO FIND] | KC Brand Manager *(Booth MBA)* | Buscar: "Kimberly-Clark" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | KC Innovation o Consumer Insights Manager | Buscar: Kimberly-Clark + "consumer insights" OR innovation + manager | — | — | To Find |
-| [TO FIND] | KC LATAM o international brand contact | Buscar: Kimberly-Clark + "Latin America" + brand. KC tiene operaciones LatAm grandes. | — | — | To Find |
-
----
-
-### SC Johnson — CPG Brand | Racine, WI *(near Chicago)*
-
-**Rol target:** Brand management MBA — Windex, Raid, OFF!, Glade, Ziploc
-**Nota:** Empresa familiar (no pública) — cultura más personal. Racine está a 45 min de Chicago.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | SC Johnson MBA Recruiter | Buscar: "SC Johnson" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | SC Johnson Brand Manager *(Booth MBA)* | Buscar: "SC Johnson" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | SC Johnson LATAM o Global brand contact | Buscar: SC Johnson + "Latin America" + brand OR marketing | — | — | To Find |
-
----
-
-### The Hershey Company — CPG Brand | Hershey, PA
-
-**Rol target:** Brand management MBA — Reese's, Kit Kat (US), Jolly Rancher, SkinnyPop, Dot's
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Hershey MBA Recruiting Manager | Buscar: "Hershey" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Hershey Brand Manager *(Booth MBA)* | Buscar: "Hershey" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Hershey Innovation o Brand Strategy Manager | Buscar: Hershey + innovation + brand manager MBA. SkinnyPop/Dot's = mejor marcas emergentes. | — | — | To Find |
-
----
-
-### Henkel — CPG Brand | Stamford, CT
-
-**Rol target:** Brand management MBA — Dial, Purex, All, Persil, Schwarzkopf
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Henkel MBA Recruiter / Talent Acquisition | Buscar: "Henkel" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Henkel Brand Manager *(MBA hire)* | Buscar: "Henkel" + brand manager + MBA en LinkedIn | — | — | To Find |
-| [TO FIND] | Henkel LATAM o international division contact | Buscar: Henkel + "Latin America" + brand OR adhesives. Henkel tiene negocio LatAm grande. | — | — | To Find |
-
----
-
-### Amazon — Tech / Corp Strategy | Seattle, WA (+ offices everywhere)
-
-**Rol target:** Corp Strategy, BD, General Management tracks
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Amazon MBA Campus Recruiting Manager | Buscar: "Amazon" + "MBA recruiting" OR "student programs" + recruiter en LinkedIn | — | — | To Find |
-| [TO FIND] | Amazon Corp Strategy o S-Team support *(Booth MBA)* | Buscar: "Amazon" + "Chicago Booth" + "corporate strategy" en LinkedIn | — | — | To Find |
-| [TO FIND] | Amazon Senior Manager / Vendor Manager *(Booth MBA)* | Buscar: Amazon + "senior manager" OR "vendor manager" + Booth MBA. Track de GM es el más fuerte para MBAs. | — | — | To Find |
-| [TO FIND] | Amazon LATAM o Emerging Markets BD contact | Buscar: Amazon + "Latin America" + business development OR expansion. Amazon está expandiendo LatAm. | — | — | To Find |
-| [TO FIND] | Amazon Whole Foods / Consumer brand strategy contact | Buscar: Amazon + "Whole Foods" OR "consumer" + strategy + MBA | — | — | To Find |
-
----
-
-### Google — Tech / Corp Strategy | Mountain View, CA (+ Chicago office)
-
-**Rol target:** Strategy & Operations, BD, Partnerships
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Google MBA Campus Recruiting Manager | Buscar: "Google" + "MBA recruiting" OR "campus recruiting" en LinkedIn | — | — | To Find |
-| [TO FIND] | Google Strategy & Operations Manager *(Booth MBA)* | Buscar: "Google" + "Chicago Booth" + "strategy" OR "operations" en LinkedIn | — | — | To Find |
-| [TO FIND] | Google Account Strategist o BD Manager *(Booth MBA)* | Buscar: Google + "business development" + MBA + Booth | — | — | To Find |
-| [TO FIND] | Google LATAM o Emerging Markets contact | Buscar: Google + "Latin America" + strategy OR BD. Google tiene oficina LatAm fuerte. | — | — | To Find |
-| [TO FIND] | Google Marketing o Consumer Insights MBA hire | Buscar: Google + "consumer insights" OR "brand marketing" + MBA | — | — | To Find |
-
----
-
-### Meta — Tech / Corp Strategy | Menlo Park, CA (+ NYC, Chicago)
-
-**Rol target:** Strategy & Analytics, Global Business Group, Product Marketing
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Meta MBA Campus Recruiting Manager | Buscar: "Meta" + "MBA recruiting" OR "campus recruiting" en LinkedIn | — | — | To Find |
-| [TO FIND] | Meta Strategy & Analytics Manager *(Booth MBA)* | Buscar: "Meta" + "Chicago Booth" + "strategy" en LinkedIn. S&A es el track principal de MBA. | — | — | To Find |
-| [TO FIND] | Meta Global Business Group Manager *(MBA hire)* | Buscar: Meta + "global business group" + MBA. GBG = advertising strategy; relevante para background de brand. | — | — | To Find |
-| [TO FIND] | Meta LATAM Partnerships o BD contact | Buscar: Meta + "Latin America" + partnerships OR BD. Mercado de ads LatAm es enorme; español + mercado es activo diferenciador. | — | — | To Find |
-
----
-
-### Salesforce — BD Strategy | Multiple US Cities
-
-**Rol target:** MBA Intern – Business Value & Strategic Consulting
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Tim Kimball | Sr. Manager, Futureforce University Recruiting | Lidera el programa Futureforce de Salesforce (universidad + MBA). Contacto para entender el proceso y timing. | [linkedin.com/in/timkimball1](https://www.linkedin.com/in/timkimball1/) | — | Not Contacted |
-| [TO FIND] | Salesforce Business Value Consultant *(Booth MBA)* | Buscar: "Salesforce" + "Chicago Booth" + strategy OR BD en LinkedIn | — | — | To Find |
-| [TO FIND] | Salesforce LATAM BD o Account Executive | Buscar: Salesforce + "Latin America" + business development. LATAM es prioridad de growth para Salesforce. | — | — | To Find |
-
----
-
-### Microsoft — BD Strategy + Corp Strategy + Marketing | Redmond, WA
-
-**Roles target:** Business Development MBA + Business Strategy MBA + Marketing MBA
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Kaitlin Ehlers | Sr. Talent Acquisition Manager | TA Manager en University Recruiting de Microsoft. Contacto principal para el proceso de MBA. | [linkedin.com/in/kaitlin-ehlers-766b8655](https://www.linkedin.com/in/kaitlin-ehlers-766b8655/) | — | Not Contacted |
-| Alanna Karcher | University Recruiting Event PM | Maneja el calendario de eventos de recruiting de MBA. Contacto para saber cuándo abren las aplicaciones 2027. | [linkedin.com/in/alannakarcher](https://www.linkedin.com/in/alannakarcher/) | — | Not Contacted |
-| [TO FIND] | Microsoft Corp Strategy *(Booth MBA)* | Buscar: "Microsoft" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Microsoft LATAM o Emerging Markets BD | Buscar: Microsoft + "Latin America" + business development. LATAM cloud es prioridad de growth. | — | — | To Find |
-
----
-
-### Nike — Corp Strategy + Marketing | Beaverton, OR
-
-**Roles target:** Strategic Planning MBA Internship + Marketing Vanguard Program (MVP)
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| David Jasso | University Recruiter | Recruiter dedicado a campus pipelines en Nike. Único con email público encontrado. | [linkedin.com/in/davidj024](https://www.linkedin.com/in/davidj024/) | david.jasso@nike.com | Not Contacted |
-| [TO FIND] | Nike Brand Marketing Manager *(Booth MBA)* | Buscar: "Nike" + "Chicago Booth" + brand OR marketing en LinkedIn | — | — | To Find |
-| [TO FIND] | Nike Strategic Planning Manager *(MBA hire)* | Buscar: Nike + "strategic planning" + MBA. Ver cómo se describe el trabajo day-to-day. | — | — | To Find |
-
----
-
-### Intuit — Corp Strategy + Finance Strategy | Mountain View, CA
-
-**Roles target:** MBA Corporate Strategy & Development Intern + MBA Strategic Finance Intern
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Chris Turner | University Recruiting Lead | Lidera el pipeline universitario y MBA de Intuit. Contacto principal de recruiting. | [linkedin.com/in/chris-turner-8474396](https://www.linkedin.com/in/chris-turner-8474396/) | — | Not Contacted |
-| Rachel Evans | Strategy Intern Alumna *(Carlson MBA)* | MBA que pasó por el lado del recruiting de Intuit. Puede dar perspectiva interna del proceso. | [linkedin.com/in/rachelskevans](https://www.linkedin.com/in/rachelskevans/) | — | Not Contacted |
-| [TO FIND] | Intuit Corp Strategy Manager *(Booth MBA)* | Buscar: "Intuit" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-
----
-
-### Chobani — Corp Strategy | New York, NY
-
-**Rol target:** Product Strategy Intern
-**Nota:** Sin programa formal de MBA recruiting — outreach directo al hiring manager o equipo de talent.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Jessica Lipkin-Mascola | Talent Acquisition Manager | TA Manager para roles corporativos incluyendo strategy. Primera puerta de entrada. | [linkedin.com/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
-| Tim Brown | VP, Talent | Nivel VP de talent — contacto de escalación si no hay respuesta a nivel TA. | [linkedin.com/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
-| [TO FIND] | Chobani Brand o Innovation Manager | Buscar: "Chobani" + brand OR innovation + manager. Chobani tiene agresiva expansión de productos. | — | — | To Find |
-
----
-
-### Capital Group — Corp Strategy | Los Angeles, CA
-
-**Rol target:** Strategy & Innovation Summer Associate (MBA 2027 Grad)
-**Nota:** El rol dice explícitamente "prior consulting experience highly preferred" — el perfil de Thaiz encaja perfectamente.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| Allison Nottingham | HR / Talent Acquisition | Contacto de talent en Capital Group. Preguntar quién maneja específicamente el programa S&I MBA. | [linkedin.com/in/allison-nottingham-18b7372b](https://www.linkedin.com/in/allison-nottingham-18b7372b/) | — | Not Contacted |
-| [TO FIND] | Capital Group Strategy & Innovation Manager *(MBA hire)* | Buscar: "Capital Group" + "strategy" + MBA en LinkedIn | — | — | To Find |
-
----
-
-### Spotify — Tech / BD | New York, NY
-
-**Rol target:** Strategy, BD, partnerships. Música latina = diferenciador clave.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Spotify MBA Recruiting o University Programs | Buscar: "Spotify" + "MBA recruiting" OR "university programs" en LinkedIn | — | — | To Find |
-| [TO FIND] | Spotify Strategy & Operations *(Booth MBA)* | Buscar: "Spotify" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Spotify LATAM o Iberian market contact | Buscar: Spotify + "Latin America" + strategy OR marketing. **Música latina es el género #1 en Spotify globalmente** — background de Thaiz es asset directo. | — | — | To Find |
-
----
-
-### DoorDash — Tech / BD | San Francisco, CA
-
-**Rol target:** Strategy & Operations, Merchant Partnerships
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | DoorDash MBA Recruiting Manager | Buscar: "DoorDash" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | DoorDash Strategy & Operations Manager *(Booth MBA)* | Buscar: "DoorDash" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | DoorDash LATAM o international expansion contact | Buscar: DoorDash + "Latin America" OR "international" + strategy | — | — | To Find |
-
----
-
-### Airbnb — Tech / BD | San Francisco, CA
-
-**Rol target:** Strategy, global expansion, host/guest growth
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Airbnb MBA Recruiting Manager | Buscar: "Airbnb" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Airbnb Strategy o BD *(Booth MBA)* | Buscar: "Airbnb" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Airbnb LATAM market o partnerships contact | Buscar: Airbnb + "Latin America" + strategy OR partnerships. Peru es destino turístico fuerte para Airbnb. | — | — | To Find |
-
----
-
-### Uber — Tech / BD | San Francisco, CA
-
-**Rol target:** Strategy & Operations, marketplace growth, Uber Eats LatAm
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Uber MBA Recruiting Manager | Buscar: "Uber" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Uber Strategy & Operations Manager *(Booth MBA)* | Buscar: "Uber" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Uber LATAM o Uber Eats LatAm contact | Buscar: Uber + "Latin America" + strategy OR BD. Uber tiene operaciones LatAm grandes; background de Thaiz es directo valor. | — | — | To Find |
-
----
-
-### Walt Disney Company — Corp Strategy / Brand | Burbank, CA
-
-**Rol target:** Corp Strategy, brand marketing (Parks, Studios, Streaming)
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Disney MBA Recruiting Manager | Buscar: "Walt Disney" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Disney Corporate Strategy *(Booth MBA)* | Buscar: "Disney" + "Chicago Booth" + strategy en LinkedIn. Corp Strategy trabaja en streaming/parks/M&A. | — | — | To Find |
-| [TO FIND] | Disney Brand Marketing Manager *(MBA hire)* | Buscar: Disney + "brand marketing" + MBA. Preguntar por puntos de entrada para MBAs. | — | — | To Find |
-
----
-
-### L'Oréal — CPG Brand / Beauty | New York, NY
-
-**Rol target:** Brand management MBA — Consumer Products, Luxury, Active Cosmetics
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | L'Oréal MBA Recruiting / NEXT Gen Program | Buscar: "L'Oreal" + "MBA recruiting" OR "NEXT program" en LinkedIn. L'Oréal tiene programa formal de MBA. | — | — | To Find |
-| [TO FIND] | L'Oréal Brand Manager *(Booth MBA)* | Buscar: "L'Oreal" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | L'Oréal LATAM o multicultural marketing contact | Buscar: L'Oreal + "Latin America" OR multicultural + brand. L'Oréal tiene segmento de belleza multicultural dedicado. | — | — | To Find |
-
----
-
-### Walmart — Retail / Corp Strategy | Bentonville, AR
-
-**Rol target:** Corp Strategy, merchandising, omnichannel
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Walmart MBA Recruiting Manager | Buscar: "Walmart" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Walmart Corporate Strategy *(Booth MBA)* | Buscar: "Walmart" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Walmart LATAM o Sam's Club LatAm strategy contact | Buscar: Walmart + "Latin America" OR "WALMEX" + strategy. Walmart de México/WALMEX es el mayor empleador privado de México. | — | — | To Find |
-
----
-
-### Pfizer — Healthcare / Corp Strategy | New York, NY
-
-**Rol target:** Corp Strategy, brand marketing (healthcare)
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Pfizer MBA Recruiting Manager | Buscar: "Pfizer" + "MBA recruiting" OR "campus recruiter" en LinkedIn | — | — | To Find |
-| [TO FIND] | Pfizer Corporate Strategy *(Booth MBA)* | Buscar: "Pfizer" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Pfizer LATAM o Emerging Markets contact | Buscar: Pfizer + "Latin America" + strategy OR marketing. Healthcare + LatAm = ángulo único de Thaiz. | — | — | To Find |
-
----
-
-### Johnson & Johnson / Kenvue — Healthcare / CPG Brand | Raritan, NJ
-
-**Rol target:** Brand management MBA (Kenvue: Tylenol, Neutrogena, Band-Aid) + Corp Strategy
-**Nota:** Kenvue se separó de J&J en 2023. Verificar cuál entidad recluta MBAs antes de contactar.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Kenvue o J&J MBA Recruiting Manager | Buscar: "Kenvue" OR "Johnson Johnson" + "MBA recruiting" en LinkedIn | — | — | To Find |
-| [TO FIND] | Kenvue Brand Manager *(Booth MBA)* | Buscar: "Kenvue" OR "Johnson Johnson" + "Chicago Booth" + brand en LinkedIn | — | — | To Find |
-| [TO FIND] | J&J LATAM regional marketing o strategy contact | Buscar: "Johnson Johnson" + "Latin America" + brand OR marketing | — | — | To Find |
-
----
-
-## Watching — CPG Emerging Chicago ⭐ ACCESO LOCAL
-
----
-
-### Fairlife — CPG Dairy | Chicago, IL
-
-**Nota:** Subsidiaria de Coca-Cola. Ultra-filtered milk, Core Power protein shakes. HQ en Chicago.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Fairlife HR o Talent contact | Buscar: "Fairlife" + "recruiting" OR "talent" en LinkedIn. Como subsidiaria de Coke, puede conectar con Tania Guignard (Coca-Cola). | — | — | To Find |
-| [TO FIND] | Fairlife Brand Manager o Marketing Director | Buscar: "Fairlife" + brand manager OR marketing director en LinkedIn | — | — | To Find |
-| [TO FIND] | Fairlife Strategy o Innovation contact | Buscar: "Fairlife" + innovation OR strategy. Creciendo muy rápido en 2025-2026. | — | — | To Find |
-
----
-
-### Chomps — CPG Snack | Chicago, IL
-
-**Nota:** Better-for-you meat sticks. DTC + mass retail. Equipo pequeño = acceso directo a founders.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Chomps Founder o CMO | Buscar: "Chomps" + founder OR CMO en LinkedIn | — | — | To Find |
-| [TO FIND] | Chomps Head of Marketing o Brand | Buscar: "Chomps" + marketing + LinkedIn | — | — | To Find |
-| [TO FIND] | Chomps connection vía Startup CPG community | Unirse a StartupCPG Slack → canal #chicago para conectar con el equipo | — | — | To Find |
-
----
-
-### Ghost — CPG Sports Nutrition | Chicago, IL
-
-**Nota:** Lifestyle brand de sports nutrition con fuerte comunidad. Co-founders Ryan Hughes y Dan Lourenco son de acceso público.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Ghost Co-Founder (Ryan Hughes o Dan Lourenco) | Buscar: "Ghost" + "Ryan Hughes" OR "Dan Lourenco" + sports nutrition en LinkedIn | — | — | To Find |
-| [TO FIND] | Ghost Head of Brand o Marketing | Buscar: Ghost + brand OR marketing + Chicago en LinkedIn | — | — | To Find |
-| [TO FIND] | Ghost Retail o Channel Strategy contact | Buscar: Ghost + retail OR channel + strategy. Expandió a Costco y Walmart — buena historia de scaling. | — | — | To Find |
-
----
-
-### Startup CPG — Community Hub | Chicago, IL (también virtual)
-
-**Nota:** No es empleador. Es el hub de networking de CPG emergente más importante de EE.UU. Unirse ANTES de llegar a Chicago.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Startup CPG Chicago Chapter Organizer | Unirse en startupcpg.com → Slack → canal #chicago para encontrar al organizador | — | — | To Find |
-| [TO FIND] | Booth 2nd-year que conecta Startup CPG + Booth | Buscar en Booth clubs: MBAMA + "Startup CPG" | — | — | To Find |
-| [TO FIND] | Startup CPG Newsletter o Podcast host | Seguir @startupcpg en LinkedIn + newsletter para aparecer en su radar | — | — | To Find |
-
----
-
-### Naturally Chicago — Community Hub | Chicago, IL
-
-**Nota:** No es empleador. Networking de productos naturales/orgánicos en Chicago. Asistir en persona pre-MBA.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Naturally Chicago Organizer / Chapter Lead | Buscar: "Naturally Chicago" + organizer OR director en LinkedIn | — | — | To Find |
-| [TO FIND] | Brand founder member de Naturally Chicago | Buscar: "Naturally Chicago" + founder en LinkedIn | — | — | To Find |
-| [TO FIND] | Booth student activo en Naturally Chicago | Buscar: Booth + "Naturally Chicago" para warm intro | — | — | To Find |
-
----
-
-## Watching — CPG Emerging Austin, TX
-
----
-
-### Siete Family Foods — CPG Food | Austin, TX
-
-**Nota:** Marca mexicano-americana better-for-you. Adquirida por PepsiCo recientemente. Background LATAM de Thaiz es match directo.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Siete CMO o VP Marketing | Buscar: "Siete Family Foods" + CMO OR VP marketing en LinkedIn | — | — | To Find |
-| [TO FIND] | Siete Brand o Channel Strategy Manager | Buscar: "Siete" + brand OR marketing OR strategy en LinkedIn | — | — | To Find |
-| [TO FIND] | Siete LATAM o Hispanic market contact | Buscar: "Siete" + LATAM OR Hispanic OR "Latin" en LinkedIn | — | — | To Find |
-
----
-
-### YETI — Lifestyle Brand | Austin, TX
-
-**Nota:** Premium outdoor lifestyle (coolers, drinkware). Brand management world-class para el segmento lifestyle.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | YETI VP Brand o CMO | Buscar: "YETI" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | YETI Brand o Product Marketing Manager | Buscar: "YETI" + brand OR product marketing + manager en LinkedIn | — | — | To Find |
-| [TO FIND] | YETI Strategy o Corporate Development contact | Buscar: "YETI" + strategy OR "corporate development". Empresa pública expandiendo líneas. | — | — | To Find |
-
----
-
-### Vital Farms — CPG Dairy | Austin, TX
-
-**Nota:** Empresa pública (VITL). Huevos y mantequilla pasture-raised. Mission-driven brand building.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Vital Farms CMO o VP Brand | Buscar: "Vital Farms" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Vital Farms Brand Marketing Manager | Buscar: "Vital Farms" + brand marketing OR marketing manager en LinkedIn | — | — | To Find |
-| [TO FIND] | Vital Farms Strategy o Finance contact | Buscar: "Vital Farms" + strategy OR "corporate development". Es pública = estructura más formal. | — | — | To Find |
-
----
-
-### Whole Foods Market HQ — Retail / CPG | Austin, TX
-
-**Nota:** Amazon-owned. Buyer relationships son gateway para marcas CPG. Category managers son contactos clave.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Whole Foods Global Buyer o Category Manager *(MBA)* | Buscar: "Whole Foods" + "category manager" OR "global buyer" + MBA en LinkedIn | — | — | To Find |
-| [TO FIND] | Whole Foods Brand o Marketing contact | Buscar: "Whole Foods" + brand OR marketing + manager en LinkedIn | — | — | To Find |
-| [TO FIND] | WFM / Amazon Emerging Brands team | Buscar: "Whole Foods" + "emerging brands" OR "local brands" en LinkedIn | — | — | To Find |
-
----
-
-### Springdale Ventures / SKU Accelerator / Capital Factory — VC & Accelerators | Austin, TX
-
-**Nota:** No son empleadores directos — son hubs para conocer a founders CPG y entender el ecosistema.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Springdale Ventures Partner o Associate | Buscar: "Springdale Ventures" + partner OR associate en LinkedIn. VC enfocado en CPG — backed Siete, Waterloo, etc. | — | — | To Find |
-| [TO FIND] | SKU Accelerator Managing Director o Program Lead | Buscar: "SKU Accelerator" + director OR partner en LinkedIn. Top aceleradora de CPG en EE.UU. | — | — | To Find |
-| [TO FIND] | Capital Factory Partner (consumer / CPG focus) | Buscar: "Capital Factory" + consumer OR CPG + partner en LinkedIn | — | — | To Find |
-
----
-
-### Otros — Austin Area
-*(Waterloo Sparkling Water, Onnit, GoodPop, Black Swan Yoga, Naturally Austin)*
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Waterloo Sparkling Water CMO o Brand Lead | Buscar: "Waterloo Sparkling Water" + CMO OR brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Onnit Head of Brand o Marketing | Buscar: "Onnit" + brand OR marketing + director en LinkedIn | — | — | To Find |
-| [TO FIND] | Naturally Austin Chapter Organizer | Buscar: "Naturally Austin" + organizer OR director. Similar a Naturally Chicago. | — | — | To Find |
-
----
-
-## Watching — CPG Emerging New York
-
----
-
-### David (High-Protein Bar) — CPG Protein | New York, NY
-
-**Nota:** Respaldado por Peter Rahal (fundador de RXBar). Una de las marcas de barras de más rápido crecimiento en 2025-2026.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | David Founder o CMO | Buscar: "David bar" + founder OR CMO en LinkedIn | — | — | To Find |
-| [TO FIND] | David Head of Brand o Marketing | Buscar: "David" + "protein bar" + brand OR marketing en LinkedIn | — | — | To Find |
-
----
-
-### CAVU Consumer Partners / XRC Ventures / Prelude Growth Partners — VC & PE | New York, NY
-
-**Nota:** Fondos de inversión enfocados en CPG. Contactarlos para entender el ecosistema, no para trabajo.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | CAVU Consumer Partners Associate o VP | Buscar: "CAVU Consumer Partners" + associate OR VP en LinkedIn. Backed Vital Farms, Krave, Harmless Harvest. | — | — | To Find |
-| [TO FIND] | XRC Ventures Partner (consumer tech/CPG) | Buscar: "XRC Ventures" + partner OR associate en LinkedIn | — | — | To Find |
-| [TO FIND] | Prelude Growth Partners Associate o Analyst | Buscar: "Prelude Growth Partners" + associate OR analyst en LinkedIn. PE enfocado en consumer brands. | — | — | To Find |
-
----
-
-### Jones Knowles Ritchie / SMAKK Studios — Agencies | New York, NY
-
-**Nota:** Agencias de branding y packaging de CPG. Buenos para entender brand strategy desde el lado de agencia.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | JKR Strategy Director o VP Strategy | Buscar: "Jones Knowles Ritchie" + strategy + director en LinkedIn. JKR es la top agencia de branding CPG (Budweiser, Tropicana rebrand). | — | — | To Find |
-| [TO FIND] | SMAKK Studios Strategy o Brand Lead | Buscar: "SMAKK Studios" + brand OR strategy en LinkedIn. Boutique enfocada en better-for-you brands. | — | — | To Find |
-
----
-
-## Watching — CPG Emergente Nacional
-
----
-
-### Olipop — CPG Beverages | Oakland, CA
-
-**Nota:** Soda prebiótica. Una de las marcas emergentes más seguidas. Brand strategy es modelo de challenger brand.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Olipop CMO o VP Brand | Buscar: "Olipop" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Olipop Head of Retail o Growth | Buscar: "Olipop" + retail OR growth + director en LinkedIn | — | — | To Find |
-
----
-
-### Liquid Death — CPG Beverages | Los Angeles, CA
-
-**Nota:** Agua en lata con branding irreverente. Case study de marketing community-driven.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Liquid Death CMO o VP Brand | Buscar: "Liquid Death" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Liquid Death Head of Marketing o Partnerships | Buscar: "Liquid Death" + marketing OR partnerships + director en LinkedIn | — | — | To Find |
-
----
-
-### Liquid I.V. — CPG Hydration | Los Angeles, CA
-
-**Nota:** Hydration multiplier. DTC → retail bajo paraguas de Unilever. Caso interesante de tensión post-adquisición.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Liquid I.V. CMO o VP Brand | Buscar: "Liquid IV" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Liquid I.V. Head of Marketing o Innovation | Buscar: "Liquid IV" + marketing OR innovation + director en LinkedIn | — | — | To Find |
-
----
-
-### Barebells — CPG Protein | Various, US *(Swedish brand scaling in USA)*
-
-**Nota:** Barras y milkshakes proteicos. Caso de localización de marca internacional al mercado US.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Barebells US GM o VP Marketing | Buscar: "Barebells" + GM OR VP marketing + USA en LinkedIn | — | — | To Find |
-| [TO FIND] | Barebells Brand o Channel Strategy contact | Buscar: "Barebells" + brand OR retail + USA en LinkedIn | — | — | To Find |
-
----
-
-### LMNT — CPG Electrolytes | Various
-
-**Nota:** 100% DTC, sin retail. Modelo inusual que da perspectiva única sobre brand building sin distribución tradicional.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | LMNT CMO o Head of Marketing | Buscar: "LMNT" + CMO OR head of marketing en LinkedIn | — | — | To Find |
-| [TO FIND] | LMNT Growth o Community Lead | Buscar: "LMNT" + growth OR community en LinkedIn | — | — | To Find |
-
----
-
-### Thorne — CPG Supplements | Summerville, SC
-
-**Nota:** Suplementos de grado médico (NSF certified). Empresa pública (THRN). B2B + B2C.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Thorne CMO o VP Brand | Buscar: "Thorne" + CMO OR VP brand en LinkedIn | — | — | To Find |
-| [TO FIND] | Thorne Strategy o Corporate Development | Buscar: "Thorne" + strategy OR "corporate development". Tiene partnerships con sistemas de salud. | — | — | To Find |
-
----
-
-### New Hope Network — Industry Hub | Various
-
-**Nota:** No empleador. Media e industria de productos naturales. Expo West (marzo, Anaheim) y Expo East (sept, Filadelfia) son los eventos #1 para conocer founders y marketers CPG.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | New Hope Network Editor o Community Lead | Seguir en LinkedIn + newsletter para aparecer en radar de la industria CPG natural | — | — | To Find |
-| [TO FIND] | Exhibitor en Expo West o Expo East | Asistir a un Expo (si hay oportunidad) = 100+ founders y marketers en 3 días | — | — | To Find |
-
----
-
-### VMG Partners / Strand Equity — VC & PE | San Francisco, CA
-
-**Nota:** Fondos de inversión CPG. VMG backed Pirate's Booty, Justin's, Spindrift.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | VMG Partners Associate o VP | Buscar: "VMG Partners" + associate OR VP en LinkedIn | — | — | To Find |
-| [TO FIND] | Strand Equity Partner o Associate | Buscar: "Strand Equity" + partner OR associate. Enfocado en health consumer brands. | — | — | To Find |
-
----
-
-### IDEO — Design Consulting | San Francisco, CA
-
-**Nota:** Firma de design thinking e innovación. El proceso de JTBD que Thaiz usó en BCP (Warda) es core methodology de IDEO.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | IDEO Project Lead o Design Strategist | Buscar: "IDEO" + "design strategy" OR "project lead" en LinkedIn | — | — | To Find |
-| [TO FIND] | IDEO Booth MBA alum | Buscar: "IDEO" + "Chicago Booth" + MBA en LinkedIn. Background inusual — muy open to chat. | — | — | To Find |
-
----
-
-### Anthropic — Tech / AI | San Francisco, CA
-
-**Nota:** AI company con programas de campus ambassador crecientes. Diferenciador poco usual para MBA recruiting.
-
-| Nombre | Título | Por qué contactar | LinkedIn | Email | Status |
-|---|---|---|---|---|---|
-| [TO FIND] | Anthropic Campus Programs o University Relations | Buscar: "Anthropic" + "campus" OR "university" + ambassador en LinkedIn | — | — | To Find |
-| [TO FIND] | Anthropic Strategy o BD *(Booth MBA)* | Buscar: "Anthropic" + "Chicago Booth" + strategy en LinkedIn | — | — | To Find |
-
----
-
-### Otros Watching — Grupo Nacional
-*(Good Culture, Clio Snacks, Tru Fru, Yasso, Scrub Daddy, Millie Moon, Once Upon a Farm, Fever-Tree, Malk, Built, Cadence, Neutonic, Leisure Hydration, Fruit Riot, Surfside, The Hedgehog Company, Nutri Co, GoodPop)*
-
-**Cómo encontrar contactos:** Para estas marcas pequeñas, el approach más eficiente es:
-1. Buscar en LinkedIn: `[Marca] + "CMO" OR "Head of Brand" OR "VP Marketing"`
-2. Unirse al Slack de **Startup CPG** → buscar la marca en el directorio de miembros
-3. Ver el canal de YouTube o podcast de **Startup CPG** — muchos founders aparecen en entrevistas
-
-| Nombre | Marca | Título | LinkedIn | Status |
-|---|---|---|---|---|
-| [TO FIND] | Scrub Daddy | CMO o VP Marketing | Buscar: "Scrub Daddy" + CMO OR VP marketing | To Find |
-| [TO FIND] | Once Upon a Farm | Co-founder o CMO *(Jennifer Garner es co-fundadora — hook fácil)* | Buscar: "Once Upon a Farm" + CMO en LinkedIn | To Find |
-| [TO FIND] | Fever-Tree US | VP Marketing o Country Manager | Buscar: "Fever-Tree" + "US" + VP marketing en LinkedIn | To Find |
-| [TO FIND] | Good Culture | Founder o CMO | Buscar: "Good Culture" + founder OR CMO en LinkedIn | To Find |
-| [TO FIND] | Olipop / Built / Cadence / Neutonic | Brand Lead o CMO | Buscar: [Marca] + CMO OR "head of brand" en LinkedIn | To Find |
-
----
-
-## Prioridad de Outreach (Junio–Agosto 2026)
-
-| Prioridad | Persona | Empresa | Por qué ahora |
-|---|---|---|---|
-| ⭐⭐⭐ | Morgan Franklin | AB InBev | Booth MBA '21, historia pública documentada — warm contact perfecto |
-| ⭐⭐⭐ | Jordan Sands | Kraft Heinz | Booth MBA → Brand Manager en Oscar Mayer. Mismo path que busca Thaiz. HQ local. |
-| ⭐⭐⭐ | Tania Guignard | Coca-Cola | Maneja TODO el pipeline universitario de TCCC — contacto de alto impacto |
-| ⭐⭐ | Danielle Nicole Harris | Kraft Heinz | TA Coordinator — primera puerta para el programa MBA de KH en Chicago |
-| ⭐⭐ | Maura Henry | Kraft Heinz | Boothie en Kraft Heinz brand — perspectiva peer directa |
-| ⭐⭐ | Shea Groves | P&G | Recruiting global MBA brand — proceso de P&G empieza temprano |
-| ⭐⭐ | David Jasso | Nike | Único con email público — outreach directo posible hoy |
-| ⭐⭐ | Laurissa Webster | General Mills | Campus recruiting lead — MBA brand manager program |
-| ⭐⭐ | Serena DeMills | Nestlé | Early Careers TA — entrada al programa MBA de Nestlé |
-| ⭐⭐ | Colleen Brill | AB InBev | Intake del programa de MBA intern |
-| ⭐ | Kizzie Davis | Mondelez | TA en Mondelez Chicago — verificar título antes de contactar |
-| ⭐ | Tim Kimball | Salesforce | Futureforce opening fall 2026 |
-| ⭐ | Kaitlin Ehlers | Microsoft | Microsoft MBA process opens fall 2026 |
-| ⭐ | Chris Turner | Intuit | Corp Strategy intern — apply cuando abra otoño 2026 |
-| ⭐ | Startup CPG Slack | Community hub | Unirse ya — unlocks 50+ CPG founders y marketers en Chicago |
-| ⭐ | Naturally Chicago | Community hub | Asistir en persona en cuanto llegues a Chicago — networking CPG local inmediato |
+| Nike | Corp Strategy / Marketing | Erin Golden | Strategy Lead *(Booth MBA '24)* | [/in/goldenerin](https://www.linkedin.com/in/goldenerin/) | — | Not Contacted |
+| Nike | Corp Strategy / Marketing | Erica Salin | Strategic Executive and GM | [/in/erica-salin-2069b816](https://www.linkedin.com/in/erica-salin-2069b816/) | — | Not Contacted |
+| Nike | Corp Strategy / Marketing | [TO FIND] | Nike Brand Marketing Manager *(Booth MBA)* | — | — | To Find |
+| Nike | Corp Strategy / Marketing | [TO FIND] | Nike LATAM / Emerging Markets Strategy | — | — | To Find |
+| Walmart | Corp Strategy | [TO FIND] | Walmart MBA Campus Recruiting Manager | — | — | To Find |
+| Walmart | Corp Strategy | [TO FIND] | Walmart Corporate Strategy *(Booth MBA)* | — | — | To Find |
+| Walmart | Corp Strategy | [TO FIND] | Walmart LATAM / WALMEX Strategy | — | — | To Find |
+| Walmart | Corp Strategy | [TO FIND] | Walmart Omnichannel Strategy Manager | — | — | To Find |
+| Walmart | Corp Strategy | [TO FIND] | Walmart Talent Acquisition *(Corporate)* | — | — | To Find |
+| Pfizer | Corp Strategy | Marcia Barreto Lagesse | Strategy & Consulting *(Booth MBA)* | [/in/marcia-barreto-lagesse-1a4093112](https://www.linkedin.com/in/marcia-barreto-lagesse-1a4093112/) | — | Not Contacted |
+| Pfizer | Corp Strategy | Fariha Choudhury | Oncology Pipeline & BD Access Strategy *(Booth MBA)* | [/in/f-choudhury](https://www.linkedin.com/in/f-choudhury/) | — | Not Contacted |
+| Pfizer | Corp Strategy | John Collins | Sr. Director, Global Corporate Strategy | [/in/johncollins888](https://www.linkedin.com/in/johncollins888/) | — | Not Contacted |
+| Pfizer | Corp Strategy | Michael Rodriguez, MBA | Director, Strategy & Investments | [/in/hmichaelrodriguez](https://www.linkedin.com/in/hmichaelrodriguez/) | — | Not Contacted |
+| Pfizer | Corp Strategy | [TO FIND] | Pfizer MBA Campus Recruiting Manager | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue / J&J MBA Campus Recruiting Manager | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue Brand Manager *(MBA hire)* | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | J&J Corporate Strategy *(Booth MBA)* | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue LATAM brand / marketing | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | J&J Consumer Health Strategy Manager | — | — | To Find |
+| Chomps | CPG Snack / Watching | [TO FIND] | Co-Founder or CMO | Buscar: "Chomps" + founder OR CMO en LinkedIn | — | To Find |
+| Chomps | CPG Snack / Watching | [TO FIND] | Head of Marketing or Brand | Buscar: "Chomps" + marketing OR brand | — | To Find |
+| Chomps | CPG Snack / Watching | [TO FIND] | Head of Sales or Channel Strategy | — | — | To Find |
+| Chomps | CPG Snack / Watching | [TO FIND] | StartupCPG Slack connection | Unirse a startupcpg.com → Slack → #chicago | — | To Find |
+| Chomps | CPG Snack / Watching | [TO FIND] | Brand / Marketing Manager | — | — | To Find |
+| Startup CPG | Community Hub | [TO FIND] | Founder / Community Lead | startupcpg.com → Slack → #chicago | — | To Find |
+| Startup CPG | Community Hub | [TO FIND] | Chicago Chapter Organizer | Buscar: "Startup CPG" + Chicago + organizer | — | To Find |
+| Startup CPG | Community Hub | [TO FIND] | Booth 2nd-year active in Startup CPG | Buscar en Booth clubs: MBAMA + "Startup CPG" | — | To Find |
+| Startup CPG | Community Hub | [TO FIND] | Newsletter / Podcast host | Seguir @startupcpg en LinkedIn | — | To Find |
+| Startup CPG | Community Hub | [TO FIND] | CPG founder featured in StartupCPG content | Ver podcast y newsletter para warm intro | — | To Find |
+| Naturally Chicago | Community Hub | [TO FIND] | Chapter Organizer / Director | Buscar: "Naturally Chicago" + organizer en LinkedIn | — | To Find |
+| Naturally Chicago | Community Hub | [TO FIND] | Brand founder member | Buscar: "Naturally Chicago" + founder en LinkedIn | — | To Find |
+| Naturally Chicago | Community Hub | [TO FIND] | Booth student active in Naturally Chicago | Buscar: Booth + "Naturally Chicago" | — | To Find |
+| Naturally Chicago | Community Hub | [TO FIND] | CPG brand owner member | — | — | To Find |
+| Naturally Chicago | Community Hub | [TO FIND] | Event speaker / panelist | — | — | To Find |
+| Siete Family Foods | CPG Food / Watching | [TO FIND] | CMO or VP Marketing | Buscar: "Siete Family Foods" + CMO OR VP marketing | — | To Find |
+| Siete Family Foods | CPG Food / Watching | [TO FIND] | Brand or Channel Strategy Manager | Buscar: "Siete" + brand OR strategy | — | To Find |
+| Siete Family Foods | CPG Food / Watching | [TO FIND] | LATAM / Hispanic Market contact | Buscar: "Siete" + LATAM OR Hispanic | — | To Find |
+| Siete Family Foods | CPG Food / Watching | [TO FIND] | Head of Sales or Retail | — | — | To Find |
+| Siete Family Foods | CPG Food / Watching | [TO FIND] | Brand / Marketing Manager | — | — | To Find |
+| Springdale Ventures | VC / CPG | [TO FIND] | Partner or Associate | Buscar: "Springdale Ventures" + partner OR associate | — | To Find |
+| Springdale Ventures | VC / CPG | [TO FIND] | Portfolio brand contact via Springdale | Backed Siete, Waterloo, Hippeas | — | To Find |
+| Springdale Ventures | VC / CPG | [TO FIND] | Venture Associate (CPG focus) | — | — | To Find |
+| Springdale Ventures | VC / CPG | [TO FIND] | Booth MBA alum in CPG VC | Buscar: Booth + CPG + venture capital | — | To Find |
+| Springdale Ventures | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
+| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Global Buyer or Category Manager *(MBA)* | Buscar: "Whole Foods" + "category manager" + MBA | — | To Find |
+| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Brand or Marketing contact | Buscar: "Whole Foods" + brand OR marketing + manager | — | To Find |
+| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Emerging Brands / Local Brands team | Buscar: "Whole Foods" + "emerging brands" | — | To Find |
+| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Amazon / WFM Strategy contact | Via Amazon Booth alumni network | — | To Find |
+| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Category Development Manager | — | — | To Find |
+| Vital Farms | CPG / Better-for-you | [TO FIND] | CMO or VP Brand | Buscar: "Vital Farms" + CMO OR VP brand | — | To Find |
+| Vital Farms | CPG / Better-for-you | [TO FIND] | Brand Marketing Manager | Buscar: "Vital Farms" + brand marketing | — | To Find |
+| Vital Farms | CPG / Better-for-you | [TO FIND] | Strategy or Corporate Development | Buscar: "Vital Farms" + strategy. Es pública (VITL). | — | To Find |
+| Vital Farms | CPG / Better-for-you | [TO FIND] | Head of Retail or Channel | — | — | To Find |
+| Vital Farms | CPG / Better-for-you | [TO FIND] | Investor Relations or Finance | — | — | To Find |
+| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | CMO or VP Brand | Buscar: "Waterloo Sparkling Water" + CMO OR brand | — | To Find |
+| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Brand Manager or Marketing Manager | — | — | To Find |
+| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Head of Sales or Retail | — | — | To Find |
+| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Strategy or Corp Dev (Backed by Springdale) | — | — | To Find |
+| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| SKU Accelerator | Accelerator / CPG | [TO FIND] | Managing Director or Program Lead | Buscar: "SKU Accelerator" + director OR partner | — | To Find |
+| SKU Accelerator | Accelerator / CPG | [TO FIND] | Program Manager | — | — | To Find |
+| SKU Accelerator | Accelerator / CPG | [TO FIND] | Mentor or Coach in portfolio | — | — | To Find |
+| SKU Accelerator | Accelerator / CPG | [TO FIND] | CPG brand founder in SKU cohort | — | — | To Find |
+| SKU Accelerator | Accelerator / CPG | [TO FIND] | Investor / LP contact | — | — | To Find |
+| Naturally Austin | Community Hub | [TO FIND] | Chapter Organizer | Buscar: "Naturally Austin" + organizer OR director | — | To Find |
+| Naturally Austin | Community Hub | [TO FIND] | Brand founder member | — | — | To Find |
+| Naturally Austin | Community Hub | [TO FIND] | CPG brand owner member | — | — | To Find |
+| Naturally Austin | Community Hub | [TO FIND] | Event speaker / panelist | — | — | To Find |
+| Naturally Austin | Community Hub | [TO FIND] | Booth alum in Austin CPG ecosystem | — | — | To Find |
+| Capital Factory | Accelerator / Startups | [TO FIND] | Partner (consumer / CPG focus) | Buscar: "Capital Factory" + consumer OR CPG + partner | — | To Find |
+| Capital Factory | Accelerator / Startups | [TO FIND] | Managing Director | — | — | To Find |
+| Capital Factory | Accelerator / Startups | [TO FIND] | CPG startup founder in portfolio | — | — | To Find |
+| Capital Factory | Accelerator / Startups | [TO FIND] | Mentor / EIR with CPG background | — | — | To Find |
+| Capital Factory | Accelerator / Startups | [TO FIND] | Booth MBA alum in Austin startup scene | — | — | To Find |
+| Onnit | Wellness / Supplements | [TO FIND] | CMO or VP Marketing | Buscar: "Onnit" + CMO OR VP marketing | — | To Find |
+| Onnit | Wellness / Supplements | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Onnit | Wellness / Supplements | [TO FIND] | Head of Retail or Channel | — | — | To Find |
+| Onnit | Wellness / Supplements | [TO FIND] | Strategy or Corp Dev | Onnit acquired by Unilever — Unilever connection | — | To Find |
+| Onnit | Wellness / Supplements | [TO FIND] | StartupCPG / community connection | — | — | To Find |
+| YETI | Outdoor / Lifestyle | [TO FIND] | VP Brand or CMO | Buscar: "YETI" + CMO OR VP brand | — | To Find |
+| YETI | Outdoor / Lifestyle | [TO FIND] | Brand or Product Marketing Manager | Buscar: "YETI" + brand OR product marketing | — | To Find |
+| YETI | Outdoor / Lifestyle | [TO FIND] | Strategy or Corporate Development | Buscar: "YETI" + strategy. Empresa pública. | — | To Find |
+| YETI | Outdoor / Lifestyle | [TO FIND] | University Recruiting / HR | — | — | To Find |
+| YETI | Outdoor / Lifestyle | [TO FIND] | LATAM / International Market contact | — | — | To Find |
+| GoodPop | CPG / Frozen | [TO FIND] | Founder or CMO | Buscar: "GoodPop" + founder OR CMO | — | To Find |
+| GoodPop | CPG / Frozen | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| GoodPop | CPG / Frozen | [TO FIND] | Head of Sales or Retail | — | — | To Find |
+| GoodPop | CPG / Frozen | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| GoodPop | CPG / Frozen | [TO FIND] | Strategy or Operations contact | — | — | To Find |
+| Black Swan Yoga | Fitness / Studio | [TO FIND] | Founder or CEO | Buscar: "Black Swan Yoga" + founder OR CEO | — | To Find |
+| Black Swan Yoga | Fitness / Studio | [TO FIND] | CMO or Marketing Lead | — | — | To Find |
+| Black Swan Yoga | Fitness / Studio | [TO FIND] | Head of Brand or Community | — | — | To Find |
+| Black Swan Yoga | Fitness / Studio | [TO FIND] | Operations or Expansion Lead | — | — | To Find |
+| Black Swan Yoga | Fitness / Studio | [TO FIND] | Community member / instructor MBA background | — | — | To Find |
+| CAVU Consumer Partners | VC / CPG | [TO FIND] | Partner or Associate | Buscar: "CAVU Consumer Partners" + partner OR associate | — | To Find |
+| CAVU Consumer Partners | VC / CPG | [TO FIND] | VP or Principal | Backed Vital Farms, Krave, Harmless Harvest | — | To Find |
+| CAVU Consumer Partners | VC / CPG | [TO FIND] | Portfolio brand contact via CAVU | — | — | To Find |
+| CAVU Consumer Partners | VC / CPG | [TO FIND] | Booth MBA alum in consumer VC | — | — | To Find |
+| CAVU Consumer Partners | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
+| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Founder or CMO | Buscar: "David bar" + founder OR CMO | — | To Find |
+| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Head of Brand or Marketing | Backed by Peter Rahal (RXBar founder) | — | To Find |
+| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Head of Retail or Growth | — | — | To Find |
+| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Operations or Strategy contact | — | — | To Find |
+| Chobani | Corp Strategy / CPG | Jessica Lipkin-Mascola | Talent Acquisition Manager | [/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
+| Chobani | Corp Strategy / CPG | Tim Brown | VP, Talent | [/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
+| Chobani | Corp Strategy / CPG | Lee Stroman | Sr. Director, Brand Marketing *(MIT Sloan MBA)* | [/in/lee-stroman-2a8a4a28](https://www.linkedin.com/in/lee-stroman-2a8a4a28/) | — | Not Contacted |
+| Chobani | Corp Strategy / CPG | Katie Miras, MBA | Shopper Marketing Manager | [/in/katherine-michelle-miras](https://www.linkedin.com/in/katherine-michelle-miras/) | — | Not Contacted |
+| Chobani | Corp Strategy / CPG | Sam Blankenship | Sr. Category Development Manager | [/in/sam-blankenship](https://www.linkedin.com/in/sam-blankenship/) | — | Not Contacted |
+| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Strategy Director or VP Strategy | Buscar: "Jones Knowles Ritchie" + strategy + director | — | To Find |
+| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Account Director (CPG clients) | JKR → Budweiser, Tropicana, Heinz rebrands | — | To Find |
+| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Booth MBA alum at JKR | — | — | To Find |
+| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Senior Strategist or Brand Consultant | — | — | To Find |
+| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Managing Director (North America) | — | — | To Find |
+| XRC Ventures | VC / Consumer | [TO FIND] | Partner or Associate | Buscar: "XRC Ventures" + partner OR associate | — | To Find |
+| XRC Ventures | VC / Consumer | [TO FIND] | Principal or Analyst | — | — | To Find |
+| XRC Ventures | VC / Consumer | [TO FIND] | Portfolio brand founder | — | — | To Find |
+| XRC Ventures | VC / Consumer | [TO FIND] | Booth MBA alum in consumer tech VC | — | — | To Find |
+| XRC Ventures | VC / Consumer | [TO FIND] | Entrepreneur-in-Residence | — | — | To Find |
+| Prelude Growth Partners | PE / CPG | [TO FIND] | Associate or Analyst | Buscar: "Prelude Growth Partners" + associate OR analyst | — | To Find |
+| Prelude Growth Partners | PE / CPG | [TO FIND] | VP or Principal | — | — | To Find |
+| Prelude Growth Partners | PE / CPG | [TO FIND] | Portfolio brand contact | — | — | To Find |
+| Prelude Growth Partners | PE / CPG | [TO FIND] | Booth MBA alum in consumer PE | — | — | To Find |
+| Prelude Growth Partners | PE / CPG | [TO FIND] | Operating Partner | — | — | To Find |
+| SMAKK Studios | Agency / Branding | [TO FIND] | Brand or Strategy Lead | Buscar: "SMAKK Studios" + brand OR strategy | — | To Find |
+| SMAKK Studios | Agency / Branding | [TO FIND] | Founder or Creative Director | Boutique better-for-you brand agency | — | To Find |
+| SMAKK Studios | Agency / Branding | [TO FIND] | Account Lead (CPG clients) | — | — | To Find |
+| SMAKK Studios | Agency / Branding | [TO FIND] | Senior Strategist | — | — | To Find |
+| SMAKK Studios | Agency / Branding | [TO FIND] | MBA alum on team | — | — | To Find |
+| VMG Partners | VC / CPG | [TO FIND] | Associate or VP | Buscar: "VMG Partners" + associate OR VP | — | To Find |
+| VMG Partners | VC / CPG | [TO FIND] | Principal or Partner | Backed Pirate's Booty, Justin's, Spindrift | — | To Find |
+| VMG Partners | VC / CPG | [TO FIND] | Portfolio brand contact via VMG | — | — | To Find |
+| VMG Partners | VC / CPG | [TO FIND] | Booth MBA alum in CPG growth equity | — | — | To Find |
+| VMG Partners | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
+| Strand Equity | VC / Health | [TO FIND] | Partner or Associate | Buscar: "Strand Equity" + partner OR associate | — | To Find |
+| Strand Equity | VC / Health | [TO FIND] | Principal or VP | Health consumer brand focus | — | To Find |
+| Strand Equity | VC / Health | [TO FIND] | Portfolio brand contact | — | — | To Find |
+| Strand Equity | VC / Health | [TO FIND] | Booth MBA alum | — | — | To Find |
+| Strand Equity | VC / Health | [TO FIND] | Operating Partner | — | — | To Find |
+| Good Culture | CPG / Health | [TO FIND] | Founder or CMO | Buscar: "Good Culture" + founder OR CMO | — | To Find |
+| Good Culture | CPG / Health | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Good Culture | CPG / Health | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Good Culture | CPG / Health | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Good Culture | CPG / Health | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Clio Snacks | CPG / Healthy | [TO FIND] | Founder or CMO | Buscar: "Clio Snacks" + founder OR CMO | — | To Find |
+| Clio Snacks | CPG / Healthy | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Clio Snacks | CPG / Healthy | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Clio Snacks | CPG / Healthy | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Clio Snacks | CPG / Healthy | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Tru Fru | CPG / Snack | [TO FIND] | Founder or CMO | Buscar: "Tru Fru" + founder OR CMO | — | To Find |
+| Tru Fru | CPG / Snack | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Tru Fru | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Tru Fru | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Tru Fru | CPG / Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Yasso | CPG / Frozen | [TO FIND] | Founder or CMO | Buscar: "Yasso" + founder OR CMO | — | To Find |
+| Yasso | CPG / Frozen | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Yasso | CPG / Frozen | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Yasso | CPG / Frozen | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Yasso | CPG / Frozen | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Barebells | CPG / Protein | [TO FIND] | US GM or VP Marketing | Buscar: "Barebells" + GM OR VP marketing + USA | — | To Find |
+| Barebells | CPG / Protein | [TO FIND] | Brand or Channel Strategy Manager | Buscar: "Barebells" + brand OR retail + USA | — | To Find |
+| Barebells | CPG / Protein | [TO FIND] | Head of US Sales or Retail | — | — | To Find |
+| Barebells | CPG / Protein | [TO FIND] | Brand Manager (localization US market) | — | — | To Find |
+| Barebells | CPG / Protein | [TO FIND] | Marketing Manager | — | — | To Find |
+| New Hope Network | Industry Hub | [TO FIND] | Editor or Community Lead | Seguir en LinkedIn + newsletter | — | To Find |
+| New Hope Network | Industry Hub | [TO FIND] | Expo West / Expo East Organizer | Asistir = 100+ founders en 3 días | — | To Find |
+| New Hope Network | Industry Hub | [TO FIND] | CPG brand exhibitor at Expo West | Anaheim, marzo cada año | — | To Find |
+| New Hope Network | Industry Hub | [TO FIND] | Editorial or Media contact | — | — | To Find |
+| New Hope Network | Industry Hub | [TO FIND] | Sponsor or Partner brand contact | — | — | To Find |
+| The Hedgehog Company | CPG / Food | [TO FIND] | Founder or CMO | Buscar: "The Hedgehog Company" + founder OR CMO | — | To Find |
+| The Hedgehog Company | CPG / Food | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| The Hedgehog Company | CPG / Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| The Hedgehog Company | CPG / Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| The Hedgehog Company | CPG / Food | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Nutri Co | CPG / Nutrition | [TO FIND] | Founder or CMO | Buscar: "Nutri Co" + founder OR CMO | — | To Find |
+| Nutri Co | CPG / Nutrition | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Nutri Co | CPG / Nutrition | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Nutri Co | CPG / Nutrition | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Nutri Co | CPG / Nutrition | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Fairlife | CPG / Dairy | [TO FIND] | HR or Talent contact | Subsidiaria de Coca-Cola → conectar con Tania Guignard | — | To Find |
+| Fairlife | CPG / Dairy | [TO FIND] | Brand Manager or Marketing Director | Buscar: "Fairlife" + brand manager OR marketing director | — | To Find |
+| Fairlife | CPG / Dairy | [TO FIND] | Strategy or Innovation contact | Creciendo muy rápido en 2025–2026 | — | To Find |
+| Fairlife | CPG / Dairy | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Fairlife | CPG / Dairy | [TO FIND] | Coca-Cola contact who covers Fairlife | Via Tania Guignard warm intro | — | To Find |
+| IDEO | Design / Consulting | [TO FIND] | Project Lead or Design Strategist | Buscar: "IDEO" + "design strategy" OR "project lead" | — | To Find |
+| IDEO | Design / Consulting | [TO FIND] | Booth MBA alum at IDEO | Buscar: "IDEO" + "Chicago Booth" + MBA | — | To Find |
+| IDEO | Design / Consulting | [TO FIND] | CPG or consumer practice lead | — | — | To Find |
+| IDEO | Design / Consulting | [TO FIND] | Senior Strategist | — | — | To Find |
+| IDEO | Design / Consulting | [TO FIND] | Design Research Lead | JTBD methodology = core de IDEO (link con BCP/Warda) | — | To Find |
+| Cadence | CPG / Wellness | [TO FIND] | Founder or CMO | Buscar: "Cadence" + founder OR CMO | — | To Find |
+| Cadence | CPG / Wellness | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Cadence | CPG / Wellness | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Cadence | CPG / Wellness | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Cadence | CPG / Wellness | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Neutonic | CPG / Wellness | [TO FIND] | Founder or CMO | Buscar: "Neutonic" + founder OR CMO | — | To Find |
+| Neutonic | CPG / Wellness | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Neutonic | CPG / Wellness | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Neutonic | CPG / Wellness | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Neutonic | CPG / Wellness | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Leisure Hydration | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Leisure Hydration" + founder OR CMO | — | To Find |
+| Leisure Hydration | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Leisure Hydration | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Leisure Hydration | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Leisure Hydration | CPG / Beverages | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Liquid I.V. | CPG / Hydration | [TO FIND] | CMO or VP Brand | Buscar: "Liquid IV" + CMO OR VP brand | — | To Find |
+| Liquid I.V. | CPG / Hydration | [TO FIND] | Head of Marketing or Innovation | Buscar: "Liquid IV" + marketing OR innovation | — | To Find |
+| Liquid I.V. | CPG / Hydration | [TO FIND] | Brand Manager | DTC → Unilever acquisition case study | — | To Find |
+| Liquid I.V. | CPG / Hydration | [TO FIND] | Head of Retail or Channel | — | — | To Find |
+| Liquid I.V. | CPG / Hydration | [TO FIND] | Strategy or Corp Dev (post-Unilever acquisition) | — | — | To Find |
+| LMNT | CPG / Electrolytes | [TO FIND] | CMO or Head of Marketing | Buscar: "LMNT" + CMO OR head of marketing | — | To Find |
+| LMNT | CPG / Electrolytes | [TO FIND] | Growth or Community Lead | Buscar: "LMNT" + growth OR community | — | To Find |
+| LMNT | CPG / Electrolytes | [TO FIND] | Brand Manager | 100% DTC — modelo inusual | — | To Find |
+| LMNT | CPG / Electrolytes | [TO FIND] | Head of Partnerships | — | — | To Find |
+| LMNT | CPG / Electrolytes | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Thorne | CPG / Supplements | [TO FIND] | CMO or VP Brand | Buscar: "Thorne" + CMO OR VP brand | — | To Find |
+| Thorne | CPG / Supplements | [TO FIND] | Strategy or Corporate Development | Buscar: "Thorne" + strategy. Empresa pública (THRN). | — | To Find |
+| Thorne | CPG / Supplements | [TO FIND] | Brand or Marketing Manager | NSF certified — medical-grade positioning | — | To Find |
+| Thorne | CPG / Supplements | [TO FIND] | Head of Retail or DTC | — | — | To Find |
+| Thorne | CPG / Supplements | [TO FIND] | University Recruiting / HR | — | — | To Find |
+| Anthropic | Tech / AI | [TO FIND] | Campus Programs or University Relations | Buscar: "Anthropic" + campus OR university | — | To Find |
+| Anthropic | Tech / AI | [TO FIND] | Strategy or BD *(Booth MBA)* | Buscar: "Anthropic" + "Chicago Booth" + strategy | — | To Find |
+| Anthropic | Tech / AI | [TO FIND] | Go-to-Market or Partnerships Manager | — | — | To Find |
+| Anthropic | Tech / AI | [TO FIND] | Enterprise or B2B Strategy | — | — | To Find |
+| Anthropic | Tech / AI | [TO FIND] | LATAM / LatAm market contact | — | — | To Find |
+| Fruit Riot | CPG / Food | [TO FIND] | Founder or CMO | Buscar: "Fruit Riot" + founder OR CMO | — | To Find |
+| Fruit Riot | CPG / Food | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Fruit Riot | CPG / Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Fruit Riot | CPG / Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Fruit Riot | CPG / Food | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Surfside | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Surfside" + founder OR CMO | — | To Find |
+| Surfside | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Surfside | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Surfside | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Surfside | CPG / Beverages | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Scrub Daddy | CPG / Cleaning | [TO FIND] | CMO or VP Marketing | Buscar: "Scrub Daddy" + CMO OR VP marketing | — | To Find |
+| Scrub Daddy | CPG / Cleaning | [TO FIND] | Brand Manager or Marketing Manager | — | — | To Find |
+| Scrub Daddy | CPG / Cleaning | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Scrub Daddy | CPG / Cleaning | [TO FIND] | Strategy or Innovation | — | — | To Find |
+| Scrub Daddy | CPG / Cleaning | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Millie Moon | CPG / Baby | [TO FIND] | Founder or CMO | Buscar: "Millie Moon" + founder OR CMO | — | To Find |
+| Millie Moon | CPG / Baby | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Millie Moon | CPG / Baby | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Millie Moon | CPG / Baby | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Millie Moon | CPG / Baby | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Ghost | CPG / Sports Nutrition | [TO FIND] | Co-Founder Ryan Hughes | Buscar: "Ghost" + "Ryan Hughes" en LinkedIn | — | To Find |
+| Ghost | CPG / Sports Nutrition | [TO FIND] | Co-Founder Dan Lourenco | Buscar: "Ghost" + "Dan Lourenco" en LinkedIn | — | To Find |
+| Ghost | CPG / Sports Nutrition | [TO FIND] | Head of Brand or Marketing | Buscar: Ghost + brand OR marketing + Chicago | — | To Find |
+| Ghost | CPG / Sports Nutrition | [TO FIND] | Retail or Channel Strategy | Expandió a Costco y Walmart | — | To Find |
+| Ghost | CPG / Sports Nutrition | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Olipop | CPG / Beverages | Ben Goodwin | Co-Founder & CEO | [/in/ben-goodwin-olipop](https://www.linkedin.com/in/ben-goodwin-olipop/) | — | Not Contacted |
+| Olipop | CPG / Beverages | Chad Wilson | Marketing / Strategy | [/in/chdwlsn](https://www.linkedin.com/in/chdwlsn/) | — | Not Contacted |
+| Olipop | CPG / Beverages | Molly Cassity | Brand Manager | [/in/molly-cassity-80698672](https://www.linkedin.com/in/molly-cassity-80698672/) | — | Not Contacted |
+| Olipop | CPG / Beverages | [TO FIND] | CMO or VP Brand | — | — | To Find |
+| Olipop | CPG / Beverages | [TO FIND] | Head of Retail or Growth | Buscar: "Olipop" + retail OR growth + director | — | To Find |
+| Liquid Death | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Liquid Death" + founder OR CMO | — | To Find |
+| Liquid Death | CPG / Beverages | [TO FIND] | Head of Marketing or Partnerships | Buscar: "Liquid Death" + marketing OR partnerships | — | To Find |
+| Liquid Death | CPG / Beverages | [TO FIND] | Brand Manager | — | — | To Find |
+| Liquid Death | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Liquid Death | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Built | CPG / Protein | [TO FIND] | Founder or CMO | Buscar: "Built Bar" OR "Built protein" + founder OR CMO | — | To Find |
+| Built | CPG / Protein | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Built | CPG / Protein | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Built | CPG / Protein | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Built | CPG / Protein | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Once Upon a Farm | CPG / Baby Food | [TO FIND] | CEO / Co-Founder (John Foraker) | Buscar: "Once Upon a Farm" + CEO OR co-founder | — | To Find |
+| Once Upon a Farm | CPG / Baby Food | [TO FIND] | CMO or Brand Lead | Jennifer Garner es co-fundadora — hook público | — | To Find |
+| Once Upon a Farm | CPG / Baby Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Once Upon a Farm | CPG / Baby Food | [TO FIND] | Strategy or Innovation | — | — | To Find |
+| Once Upon a Farm | CPG / Baby Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Fever-Tree | CPG / Beverages | [TO FIND] | VP Marketing or Country Manager (US) | Buscar: "Fever-Tree" + "US" + VP marketing | — | To Find |
+| Fever-Tree | CPG / Beverages | [TO FIND] | Brand Manager (US) | — | — | To Find |
+| Fever-Tree | CPG / Beverages | [TO FIND] | Head of Sales or Retail (US) | — | — | To Find |
+| Fever-Tree | CPG / Beverages | [TO FIND] | Strategy or Corp Dev | — | — | To Find |
+| Fever-Tree | CPG / Beverages | [TO FIND] | HR or Talent (US) | — | — | To Find |
+| Malk | CPG / Plant-based | [TO FIND] | Founder or CMO | Buscar: "Malk" + founder OR CMO en LinkedIn | — | To Find |
+| Malk | CPG / Plant-based | [TO FIND] | Brand or Marketing Manager | Buscar: "Malk" + brand OR marketing | — | To Find |
+| Malk | CPG / Plant-based | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Malk | CPG / Plant-based | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Malk | CPG / Plant-based | [TO FIND] | Strategy or Operations | — | — | To Find |
