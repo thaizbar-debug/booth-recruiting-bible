@@ -23,6 +23,7 @@
 | 2026-05-20 | [MBA Boot Camp Summer Associate 2027](https://www.linkedin.com/jobs/view/kearney-mba-boot-camp-summer-associate-2027-at-kearney-4385807594) | Kearney | Chicago, IL | Consulting | 3 | Done |
 | 2026-05-21 | [L.E.K. Bridge Pre-MBA Program — Summer 2027 Track](https://www.lek.com/join-lek/lek-pre-mba-program) | L.E.K. Consulting | Various, US | Consulting | 3 | Done |
 | 2026-05-21 | [Summer Associate Program - MBA Internship](https://www.bain.com/careers/work-with-us/internships-programs/summer-associate/) | Bain & Company | Various | Consulting | 1 | Done |
+| 2026-05-26 | [MBA Intern, Commercial Strategy](https://www.linkedin.com/jobs/view/4401110156/) | Delta Air Lines | Atlanta, GA | Corp Strategy | | Done |
 ---
 
 ## Companies to Watch
