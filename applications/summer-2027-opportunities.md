@@ -19,7 +19,6 @@
 | 2026-05-09 | [MBA Summer Associate (Booth)](https://www.kearney.com/careers/united-states/mba/booth-school-of-business) | Kearney | Multiple US Cities | Consulting | 3 | Done |
 | 2026-05-09 | [MBA Summer Associate](https://www.lek.com/join-lek/apply/mba) | L.E.K. Consulting | Boston MA / Chicago IL / San Francisco CA | Consulting | 3 | Done |
 | 2026-05-12 | [Summer Associate Intern – Generalist (MBA/MA)](https://www.analysisgroup.com/careers/career-path/summer-associate-intern/) | Analysis Group | Boston MA / Chicago IL / New York NY / San Francisco CA | Consulting | 3 | Done |
-| 2026-05-19 | [Summer Associate (MBA) – How to Apply](https://www.cornerstone.com/careers/associate/how-to-apply/) | Cornerstone Research | Multiple US Cities | Consulting | 3 | New |
 | 2026-05-20 | [MBA Boot Camp Summer Associate 2027](https://www.linkedin.com/jobs/view/kearney-mba-boot-camp-summer-associate-2027-at-kearney-4385807594) | Kearney | Chicago, IL | Consulting | 3 | Done |
 | 2026-05-21 | [L.E.K. Bridge Pre-MBA Program — Summer 2027 Track](https://www.lek.com/join-lek/lek-pre-mba-program) | L.E.K. Consulting | Various, US | Consulting | 3 | Done |
 | 2026-05-21 | [Summer Associate Program - MBA Internship](https://www.bain.com/careers/work-with-us/internships-programs/summer-associate/) | Bain & Company | Various | Consulting | 1 | Done |
