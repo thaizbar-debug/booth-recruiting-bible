@@ -24,6 +24,8 @@
 | 2026-05-21 | [Summer Associate Program - MBA Internship](https://www.bain.com/careers/work-with-us/internships-programs/summer-associate/) | Bain & Company | Various | Consulting | 1 | Done |
 | 2026-05-26 | [MBA Intern, Commercial Strategy](https://www.linkedin.com/jobs/view/4401110156/) | Delta Air Lines | Atlanta, GA | Corp Strategy | | Done |
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
+| 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
+| 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
 ---
 
 ## Companies to Watch
