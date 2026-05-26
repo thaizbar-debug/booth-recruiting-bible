@@ -19,21 +19,8 @@
 | 2026-05-09 | [MBA Summer Associate (Booth)](https://www.kearney.com/careers/united-states/mba/booth-school-of-business) | Kearney | Multiple US Cities | Consulting | 3 | Done |
 | 2026-05-09 | [MBA Summer Associate](https://www.lek.com/join-lek/apply/mba) | L.E.K. Consulting | Boston MA / Chicago IL / San Francisco CA | Consulting | 3 | Done |
 | 2026-05-12 | [Summer Associate Intern – Generalist (MBA/MA)](https://www.analysisgroup.com/careers/career-path/summer-associate-intern/) | Analysis Group | Boston MA / Chicago IL / New York NY / San Francisco CA | Consulting | 3 | Done |
-| 2026-05-12 | [MBA Intern – Business Value & Strategic Consulting](https://careers.salesforce.com/en/university/advanced-degrees/) | Salesforce | Multiple US Cities | BD Strategy | 4 | New |
-| 2026-05-15 | [MBA Corporate Strategy & Development Intern](https://jobs.intuit.com/job/mountain-view/mba-corporate-strategy-and-development-intern/27595/89548564576) | Intuit | Mountain View, CA | Corp Strategy | 4 | New |
-| 2026-05-15 | [MBA Strategic Finance Intern – Corporate FP&A](https://jobs.intuit.com/job/mountain-view/mba-strategic-finance-intern-corporate-fp-and-a/27595/90180174016) | Intuit | Mountain View, CA | Finance Strategy | 4 | New |
-| 2026-05-16 | [Internal Strategy MBA Summer Associate](https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Strategy-MBA-Summer-Associate/312774) | Deloitte | Multiple US Cities | Corp Strategy | 1 | New |
-| 2026-05-16 | [Strategy Summer Associate (MBA)](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Strategy-Summer-Associate/307164) | Deloitte | Multiple US Cities | Consulting | 1 | New |
-| 2026-05-16 | [2027 Summer Intern: Marketing – MBA](https://www.pepsicojobs.com/main/jobs/450411?lang=en-us) | PepsiCo | Purchase, NY | CPG Brand | 2 | New |
-| 2026-05-16 | [Senior Brand Management Internship (2027 Graduates – MBA)](https://www.pgcareers.com/us/en/job/R000138038/Senior-Brand-Management-Internship-2027-Graduates-MBA) | Procter & Gamble | Cincinnati, OH | CPG Brand | 2 | New |
-| 2026-05-16 | [MBA Brand Marketing Intern](https://careers.coca-colacompany.com/job/22853015/mba-brand-marketing-intern-atlanta-ga/) | The Coca-Cola Company | Atlanta, GA | CPG Brand | 2 | New |
-| 2026-05-16 | [Commercial Strategy & Operations Intern](https://careers.coca-colacompany.com/job/22853322/commercial-strategy-operations-intern-atlanta-ga/) | The Coca-Cola Company | Atlanta, GA | Corp Strategy | 2 | New |
-| 2026-05-16 | [Business Development – MBA Internship Opportunities](https://jobs.careers.microsoft.com/us/en/job/1159320/Business-Development-MBA-Internship-Opportunities) | Microsoft | Multiple US Cities | BD Strategy | 4 | New |
-| 2026-05-16 | [Business Strategy – MBA Internship Opportunities](https://careers.microsoft.com/students/us/en/job/1472891/Business-Strategy-Internship-Opportunities-for-MBA-Students) | Microsoft | Redmond, WA | Corp Strategy | 4 | New |
-| 2026-05-16 | [Marketing – MBA Internship Opportunities](https://jobs.careers.microsoft.com/global/en/job/1593741/Marketing:-MBA-Internship-Opportunities) | Microsoft | Multiple US Cities | Marketing | 4 | New |
-| 2026-05-16 | [NIKE Strategic Planning MBA Internship](https://jobs.nike.com/job/R-37983?from=job+search+funnel) | Nike | Beaverton, OR | Corp Strategy | 4 | New |
-| 2026-05-16 | [NIKE Marketing Vanguard Program Graduate Internship](https://jobs.nike.com/job/R-37982?from=job+search+funnel) | Nike | Beaverton, OR | Marketing | 4 | New |
-| 2026-05-17 | [Summer 2027 Intern - US](https://careers.marsh.com/global/en/job/MAMCGLOBALR342651EXTERNALENGLOBAL/Oliver-Wyman-Summer-2027-Intern-US) | Oliver Wyman | New York, NY | Consulting | 1 | New |
+
+
 | 2026-05-17 | [Strategy Summer Analyst (Internship)](https://www.accenture.com/us-en/careers/jobdetails?id=R00171670_en) | Accenture | Various, US | Consulting | 1 | New |
 | 2026-05-17 | [Internship - Associate Brand Manager](https://careers.generalmills.com/careers/jobs/16383?lang=en-us&previousLocale=en-US) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
 | 2026-05-17 | [Associate Brand Manager - Campus Recruiting](https://careers.generalmills.com/careers/jobs/35020?lang=en-us) | General Mills | Minneapolis, MN | CPG Brand | 2 | New |
