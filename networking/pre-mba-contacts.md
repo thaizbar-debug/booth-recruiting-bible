@@ -426,63 +426,49 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Malk | CPG / Plant-based | [TO FIND] | Head of Retail or Sales | — | — | To Find |
 | Malk | CPG / Plant-based | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
 | Malk | CPG / Plant-based | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Pinterest | Tech / Social | [TO FIND] | Strategy or BD Manager | Buscar: "Pinterest" + strategy OR BD + MBA | — | To Find |
-| Pinterest | Tech / Social | [TO FIND] | Brand Partnerships Manager | Buscar: "Pinterest" + brand partnerships + manager | — | To Find |
-| Pinterest | Tech / Social | [TO FIND] | MBA Campus Recruiting Manager | Buscar: "Pinterest" + MBA + university OR campus | — | To Find |
+| Pinterest | Tech / Social | Jessica Trieu | Program Manager & Recruiter | [/in/jessica-trieu](https://www.linkedin.com/in/jessica-trieu/) | — | Not Contacted |
+| Pinterest | Tech / Social | Adriana I. Garcia | Early Career Recruiting *(LATAM surname; Loyola Marymount)* | [/in/adrianaigarcia](https://www.linkedin.com/in/adrianaigarcia/) | — | Not Contacted |
+| Pinterest | Tech / Social | Agustín Caso Jacobs | Head of LATAM Content & Partnerships *(UCLA Anderson MBA)* | [/in/agustin-caso-jacobs-b4b0b444](https://www.linkedin.com/in/agust%C3%ADn-caso-jacobs-b4b0b444/) | — | Not Contacted |
+| Pinterest | Tech / Social | Sharon Rosenthal | Retail Partnerships *(12+ yrs; cross-LATAM, EMEA, JAPAC)* | [/in/rosenthalsharon](https://www.linkedin.com/in/rosenthalsharon/) | — | Not Contacted |
 | Pinterest | Tech / Social | [TO FIND] | Booth MBA alum at Pinterest | Buscar: "Pinterest" + "Chicago Booth" + MBA | — | To Find |
-| Pinterest | Tech / Social | [TO FIND] | LATAM / International Partnerships | Buscar: "Pinterest" + LATAM OR international + strategy | — | To Find |
-| Purely Elizabeth | CPG / Granola | [TO FIND] | Founder or CMO | Buscar: "Purely Elizabeth" + founder OR CMO | — | To Find |
-| Purely Elizabeth | CPG / Granola | [TO FIND] | Brand or Marketing Manager | Buscar: "Purely Elizabeth" + brand OR marketing | — | To Find |
-| Purely Elizabeth | CPG / Granola | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Purely Elizabeth | CPG / Granola | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Purely Elizabeth | CPG / Granola | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Snackish | CPG / Snack | [TO FIND] | Founder or CMO | Buscar: "Snackish" + founder OR CMO | — | To Find |
-| Snackish | CPG / Snack | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Snackish | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Snackish | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Snackish | CPG / Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Katjes | CPG / Confectionery | [TO FIND] | US General Manager or VP | Buscar: "Katjes" + US + GM OR VP | — | To Find |
-| Katjes | CPG / Confectionery | [TO FIND] | Brand or Marketing Manager (US) | Buscar: "Katjes" + brand OR marketing + USA | — | To Find |
-| Katjes | CPG / Confectionery | [TO FIND] | Head of Sales or Retail (US) | — | — | To Find |
-| Katjes | CPG / Confectionery | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Katjes | CPG / Confectionery | [TO FIND] | Strategy or Innovation | German brand expanding in US | — | To Find |
-| Amylu Foods | CPG / Protein Snack | [TO FIND] | Founder or CMO | Buscar: "Amylu Foods" + founder OR CMO | — | To Find |
-| Amylu Foods | CPG / Protein Snack | [TO FIND] | Brand or Marketing Manager | Buscar: "Amylu Foods" + brand OR marketing | — | To Find |
-| Amylu Foods | CPG / Protein Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Amylu Foods | CPG / Protein Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Amylu Foods | CPG / Protein Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Dieline | Agency / Packaging Design | [TO FIND] | Editor or Content Lead | Buscar: "Dieline" + editor OR content | — | To Find |
-| Dieline | Agency / Packaging Design | [TO FIND] | Founder or Creative Director | Buscar: "Dieline" + founder OR creative director | — | To Find |
-| Dieline | Agency / Packaging Design | [TO FIND] | Strategy or Brand Consultant | — | — | To Find |
-| Dieline | Agency / Packaging Design | [TO FIND] | CPG brand partner / sponsor contact | Leading packaging design publication | — | To Find |
-| Dieline | Agency / Packaging Design | [TO FIND] | MBA alum on team | — | — | To Find |
-| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Brand Lead or General Manager | Buscar: "Gruns" + brand OR GM + Unilever | — | To Find |
-| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Marketing Manager | Buscar: "Gruns" + marketing | — | To Find |
-| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Head of DTC or E-commerce | Gruns es DTC-first → ángulo de canal único | — | To Find |
-| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Unilever Nutrition team contact | Via Ana Alice Cornetti o Iris Stevens (Unilever) | — | To Find |
-| Gruns (Unilever) | CPG / Gummies | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Suja Life | CPG / Beverages | [TO FIND] | CMO or VP Brand | Buscar: "Suja Life" + CMO OR VP brand | — | To Find |
-| Suja Life | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | Buscar: "Suja" + brand OR marketing | — | To Find |
-| Suja Life | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Suja Life | CPG / Beverages | [TO FIND] | Strategy or Corp Dev | Verificar ownership actual (Keurig Dr Pepper) | — | To Find |
-| Suja Life | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Brand Lead or General Manager | Buscar: "LesserEvil" + brand OR GM | — | To Find |
-| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Marketing Manager | Buscar: "LesserEvil" + marketing | — | To Find |
-| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Hershey contact who covers LesserEvil | Via Kate Maddaloni warm intro (Hershey) | — | To Find |
-| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Brand Lead or General Manager | Buscar: "Dr. Squatch" + brand OR GM | — | To Find |
-| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Marketing Manager | Buscar: "Dr. Squatch" + marketing | — | To Find |
-| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Head of DTC or E-commerce | Dr. Squatch construyó su base en DTC → ahora retail | — | To Find |
-| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Unilever contact who covers Dr. Squatch | Via Ana Alice Cornetti o Iris Stevens (Unilever) | — | To Find |
-| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Flower Foods | CPG / Bakery | [TO FIND] | MBA Campus Recruiting Manager | Buscar: "Flowers Foods" + MBA OR university recruiting | — | To Find |
-| Flower Foods | CPG / Bakery | [TO FIND] | Brand Manager (Dave's Killer Bread / Nature's Own) | Buscar: "Flowers Foods" + brand manager + MBA | — | To Find |
-| Flower Foods | CPG / Bakery | [TO FIND] | Corp Strategy Manager | Empresa pública (FLO) — oportunidad de corp strategy | — | To Find |
-| Flower Foods | CPG / Bakery | [TO FIND] | HR or Talent Acquisition | — | — | To Find |
-| Flower Foods | CPG / Bakery | [TO FIND] | Booth MBA alum at Flower Foods | — | — | To Find |
-| Skinnygirl | CPG / Lifestyle | [TO FIND] | Brand Lead or CMO | Buscar: "Skinnygirl" + brand OR CMO | — | To Find |
-| Skinnygirl | CPG / Lifestyle | [TO FIND] | Marketing Manager | Buscar: "Skinnygirl" + marketing + manager | — | To Find |
-| Skinnygirl | CPG / Lifestyle | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Skinnygirl | CPG / Lifestyle | [TO FIND] | Beam Suntory contact who covers Skinnygirl | Skinnygirl owned by Beam Suntory | — | To Find |
-| Skinnygirl | CPG / Lifestyle | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Purely Elizabeth | CPG / Granola | Elizabeth Stein | Founder & CEO | [/in/elizabeth-stein-61283712](https://www.linkedin.com/in/elizabeth-stein-61283712/) | — | Not Contacted |
+| Purely Elizabeth | CPG / Granola | Cherry J. | CMO *(USC Marshall MBA)* | [/in/cherry-j-8b398949](https://www.linkedin.com/in/cherry-j-8b398949/) | — | Not Contacted |
+| Purely Elizabeth | CPG / Granola | Meghan Shookman | VP of Marketing | [/in/meghanshookman](https://www.linkedin.com/in/meghanshookman/) | — | Not Contacted |
+| Purely Elizabeth | CPG / Granola | Ana Gonzalez Laucirica | Brand Manager *(⚠️ verificar título; LATAM background)* | [/in/anagonzalezlaucirica](https://www.linkedin.com/in/anagonzalezlaucirica/) | — | Not Contacted |
+| Purely Elizabeth | CPG / Granola | Lauren Miller | Director of Business Planning *(⚠️ verificar — née Stiebner)* | [/in/laurenstiebner](https://www.linkedin.com/in/laurenstiebner/) | — | Not Contacted |
+| Snackish | CPG / Snack | Tara Bosch | Founder & CEO *(construyó SmartSweets — $360M exit)* | [/in/tarabosch](https://www.linkedin.com/in/tarabosch/) | — | Not Contacted |
+| Snackish | CPG / Snack | Megan Rice | Sr. Director of Sales *(⚠️ LinkedIn username: meganbrice — verificar)* | [/in/meganbrice](https://www.linkedin.com/in/meganbrice/) | — | Not Contacted |
+| Snackish | CPG / Snack | [TO FIND] | Marketing or Brand Manager | Brand lanzada junio 2026 — equipo muy pequeño; buscar LinkedIn company page de Snackish | — | To Find |
+| Katjes | CPG / Confectionery | Claudia Manescau Santos | Country Manager USA *(⚠️ buscar en LinkedIn: "Claudia Manescau Santos" + Katjes)* | — | — | To Find |
+| Katjes | CPG / Confectionery | Defne Yurdakul | Country Manager, Sales & Marketing *(⚠️ verificar si es mercado US o EU)* | [/in/defne-yurdakul-b6b028132](https://www.linkedin.com/in/defne-yurdakul-b6b028132/) | — | Not Contacted |
+| Katjes | CPG / Confectionery | Jake Shane | Chief Creative Officer, US Market *(influencer/creator; ⚠️ buscar: "Jake Shane Katjes" en LinkedIn)* | — | — | To Find |
+| Katjes | CPG / Confectionery | Mosaab Farag | International Brand Manager *(Düsseldorf; ⚠️ puede ser EU-facing)* | [/in/mosaab-farag-b48032148](https://www.linkedin.com/in/mosaab-farag-b48032148/) | — | Not Contacted |
+| Amylu Foods | CPG / Protein Snack | Ashlee Leo | VP of Marketing *(Kelley School of Business; exp. LATAM + China; ex-Coca-Cola)* | [/in/ashlee-leo-a3470862](https://www.linkedin.com/in/ashlee-leo-a3470862/) | — | Not Contacted |
+| Amylu Foods | CPG / Protein Snack | Amylu Kurzawski | Founder & Chief Creative Officer | [/in/amylu-kurzawski-55188058](https://www.linkedin.com/in/amylu-kurzawski-55188058/) | — | Not Contacted |
+| Amylu Foods | CPG / Protein Snack | Steven Zoll | Chair & CEO | [/in/steven-zoll](https://www.linkedin.com/in/steven-zoll/) | — | Not Contacted |
+| Amylu Foods | CPG / Protein Snack | Abigail Reyna | Team Member *(⚠️ verificar rol — LATAM background)* | [/in/abigail-reyna-862bbb19a](https://www.linkedin.com/in/abigail-reyna-862bbb19a/) | — | Not Contacted |
+| Dieline | Agency / Packaging Design | Andrew Gibbs | Founder, Publisher & CEO *(~13 empleados — outreach directo muy viable)* | [/in/agibbs](https://www.linkedin.com/in/agibbs/) | — | Not Contacted |
+| Dieline | Agency / Packaging Design | Chloe Gordon Cordover | Writer & Creative Consultant *(⚠️ puede ser freelance/contributor)* | [/in/chloe-gordon-cordover-b6505872](https://www.linkedin.com/in/chloe-gordon-cordover-b6505872/) | — | Not Contacted |
+| Gruns (Unilever) | CPG / Gummies | Chad Janis | Founder & CEO *(Stanford GSB; se quedó como CEO post-adquisición Unilever ~$1.2B)* | [/in/chadjanis](https://www.linkedin.com/in/chadjanis/) | — | Not Contacted |
+| Gruns (Unilever) | CPG / Gummies | Connor Dault | CMO *(DTC/paid marketing expert a escala masiva)* | [/in/connor-dault-19906753](https://www.linkedin.com/in/connor-dault-19906753/) | — | Not Contacted |
+| Gruns (Unilever) | CPG / Gummies | Ali Kaltman | Director of Brand *(Michigan Ross MBA; "brand marketing is my obsession")* | [/in/alikaltman](https://www.linkedin.com/in/alikaltman/) | — | Not Contacted |
+| Gruns (Unilever) | CPG / Gummies | Katie Cirulli | Chief Emerging Brands Officer | [/in/katie-cirulli-7b1a1589](https://www.linkedin.com/in/katie-cirulli-7b1a1589/) | — | Not Contacted |
+| Suja Life | CPG / Beverages | Nicole Portwood | CMO *(ex-VP Marketing PepsiCo Mountain Dew; ex-CMO Tito's Vodka; Ad Age Marketer of the Year)* | [/in/nicole-portwood-915bb013a](https://www.linkedin.com/in/nicole-portwood-915bb013a/) | — | Not Contacted |
+| Suja Life | CPG / Beverages | Saxon Seay | Chief Strategy Officer *(Emory Goizueta MBA; ex-CMO Suja; double-digit growth)* | [/in/saxonseay](https://www.linkedin.com/in/saxonseay/) | — | Not Contacted |
+| Suja Life | CPG / Beverages | Kwame Wireko | Manager, Insights & Strategy *(ex-Nestlé; ex-founder Calabash Water; Emory grad)* | [/in/kwame-wireko-499906134](https://www.linkedin.com/in/kwame-wireko-499906134/) | — | Not Contacted |
+| Suja Life | CPG / Beverages | Sarah Hughes | Associate Brand Manager | [/in/sarah-hughes-21a262aa](https://www.linkedin.com/in/sarah-hughes-21a262aa/) | — | Not Contacted |
+| LesserEvil (Hershey) | CPG / Snack | Caitlin Mack | VP, Marketing *(runs all things brand — product dev to consumer engagement)* | [/in/caitlinmcverry](https://www.linkedin.com/in/caitlinmcverry/) | — | Not Contacted |
+| LesserEvil (Hershey) | CPG / Snack | Charles Coristine | President & CEO *(dejó Wall Street para comprar empresa en quiebra → vendió a Hershey ~$750M)* | [/in/charles-coristine-7b611b13](https://www.linkedin.com/in/charles-coristine-7b611b13/) | — | Not Contacted |
+| LesserEvil (Hershey) | CPG / Snack | Lily Mathias | Shopper Marketing Manager | [/in/lily-mathias](https://www.linkedin.com/in/lily-mathias/) | — | Not Contacted |
+| Dr. Squatch (Unilever) | CPG / Personal Care | Irv Slobodskaya | Director of Brand Marketing *(ex-Uber; ex-Edelman; mejor contacto brand day-to-day)* | [/in/irvslobodskaya](https://www.linkedin.com/in/irvslobodskaya/) | — | Not Contacted |
+| Dr. Squatch (Unilever) | CPG / Personal Care | Jack Haldrup | Founder & CEO *(se quedó post-adquisición Unilever $1.5B)* | [/in/jack-haldrup-116a959](https://www.linkedin.com/in/jack-haldrup-116a959/) | — | Not Contacted |
+| Dr. Squatch (Unilever) | CPG / Personal Care | Karl Mecklenborg | Strategy / Operations *(UCLA Anderson MBA; ⚠️ verificar rol actual)* | [/in/karl-mecklenborg](https://www.linkedin.com/in/karl-mecklenborg/) | — | Not Contacted |
+| Dr. Squatch (Unilever) | CPG / Personal Care | Cody Griffin | Fmr. VP of Marketing *(Bain background; ahora en Huron — excelente para coffee chat)* | [/in/codyevangriffin](https://www.linkedin.com/in/codyevangriffin/) | — | Not Contacted |
+| Flower Foods | CPG / Bakery | Chansidy Daniels, MBA | Talent Management *(MBA; mejor primer contacto para internship pipeline)* | [/in/chansidy-daniels-mba-a115405](https://www.linkedin.com/in/chansidy-daniels-mba-a115405/) | — | Not Contacted |
+| Flower Foods | CPG / Bakery | Mark Courtney | Chief Brand Officer *(43 años en la empresa; oversees DKB, Nature's Own, Canyon Bakehouse, Wonder)* | [/in/mark-courtney-ab962049](https://www.linkedin.com/in/mark-courtney-ab962049/) | — | Not Contacted |
+| Flower Foods | CPG / Bakery | Hector Venegas | Marketing Manager *(LATAM surname; Hollywood, FL)* | [/in/hector-venegas-aa550462](https://www.linkedin.com/in/hector-venegas-aa550462/) | — | Not Contacted |
+| Flower Foods | CPG / Bakery | Julia Maxwell | HR / Recruiting | [/in/jmaxwellphr](https://www.linkedin.com/in/jmaxwellphr/) | — | Not Contacted |
+| Skinnygirl | CPG / Lifestyle | Reme Fernandez | Global Brand Management, Suntory Global Spirits *(Kellogg MBA; LATAM background; ERG leader)* | [/in/remefernandez](https://www.linkedin.com/in/remefernandez/) | — | Not Contacted |
+| Skinnygirl | CPG / Lifestyle | Kelly Jasica | Sr. Director, RTD Commercialization *(oversees RTD portfolio que incluye Skinnygirl)* | [/in/kelly-jasica-8726727](https://www.linkedin.com/in/kelly-jasica-8726727/) | — | Not Contacted |
+| Skinnygirl | CPG / Lifestyle | Kathleen DiBenedetto | Sr. Director, Premium Seed Brand Marketing *(28 años en Beam/Suntory; Bourbon Hall of Fame)* | [/in/kmdibenedetto](https://www.linkedin.com/in/kmdibenedetto/) | — | Not Contacted |
+| Skinnygirl | CPG / Lifestyle | Ariela Bell (Fermin) | Senior Brand Manager, Suntory Global Spirits *(LATAM surname; peer-level brand contact)* | [/in/arielafermin](https://www.linkedin.com/in/arielafermin/) | — | Not Contacted |
