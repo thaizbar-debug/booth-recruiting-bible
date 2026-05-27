@@ -1,7 +1,7 @@
 # Pre-MBA Networking Contacts
 
 Personas a contactar **antes del 15 de septiembre de 2026** para expresar interés en internships de verano 2027.
-Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Malk).
+Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Skinnygirl).
 
 > **Status options:** `Not Contacted` · `Reached Out` · `Replied` · `Coffee Chat Scheduled` · `Done`
 >
