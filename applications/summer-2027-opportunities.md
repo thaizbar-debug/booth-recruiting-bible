@@ -121,3 +121,15 @@
 | Once Upon a Farm | San Diego, CA | CPG / Baby Food | — | Watching |
 | Fever-Tree | New York, NY | CPG / Beverages | — | Watching |
 | Malk | Houston, TX | CPG / Plant-based | — | Watching |
+| Pinterest | San Francisco, CA | Tech / Social | — | Watching |
+| Purely Elizabeth | Boulder, CO | CPG / Granola | — | Watching |
+| Snackish | Various | CPG / Snack | — | Watching |
+| Katjes | Various | CPG / Confectionery | — | Watching |
+| Amylu Foods | Various | CPG / Protein Snack | — | Watching |
+| Dieline | Los Angeles, CA | Agency / Packaging Design | — | Watching |
+| Gruns (Unilever) | Various | CPG / Gummies | — | Watching |
+| Suja Life | San Diego, CA | CPG / Beverages | — | Watching |
+| LesserEvil (Hershey) | Danbury, CT | CPG / Snack | — | Watching |
+| Dr. Squatch (Unilever) | Los Angeles, CA | CPG / Personal Care | — | Watching |
+| Flower Foods | Thomasville, GA | CPG / Bakery | — | Watching |
+| Skinnygirl | Various | CPG / Lifestyle | — | Watching |
