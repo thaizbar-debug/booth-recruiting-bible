@@ -1,6 +1,6 @@
 name: Daily Job Search — Summer 2027
   
-  on:                                                                                                                                                                                        
+  "on":                                                                                                                                                                                        
     schedule:
       - cron: '0 13 * * *'
     workflow_dispatch:
