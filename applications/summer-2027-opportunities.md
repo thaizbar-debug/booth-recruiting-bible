@@ -26,25 +26,6 @@
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
-| 2026-05-27 | [Associate Internship (US Offices, US Campus)](https://careers.bcg.com/global/en/job/57657/Associate-Internship-US-Offices-US-Campus) | Boston Consulting Group | Multiple US Cities | Consulting | 1 | New |
-| 2026-05-27 | [Internal Strategy MBA Summer Associate](https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Strategy-MBA-Summer-Associate/312774) | Deloitte | Various | Corp Strategy | 1 | New |
-| 2026-05-27 | [Consulting Strategy Summer Associate](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Strategy-Summer-Associate/307164) | Deloitte | Various | Consulting | 1 | New |
-| 2026-05-27 | [Summer 2027 Intern - Consulting](https://careers.marsh.com/global/en/job/MAMCGLOBALR342651EXTERNALENGLOBAL/Oliver-Wyman-Summer-2027-Intern-US) | Oliver Wyman | New York, NY | Consulting | 1 | New |
-| 2026-05-27 | [2027 Summer Intern - Marketing (MBA)](https://www.pepsicojobs.com/main/jobs/450411?lang=en-us) | PepsiCo | Purchase, NY | CPG Brand | 2 | New |
-| 2026-05-27 | [MBA Brand Marketing Intern](https://careers.coca-colacompany.com/job/22853015/mba-brand-marketing-intern-atlanta-ga/) | Coca-Cola | Atlanta, GA | CPG Brand | 2 | New |
-| 2026-05-27 | [Commercial Strategy & Operations Intern](https://careers.coca-colacompany.com/job/22853322/commercial-strategy-operations-intern-atlanta-ga/) | Coca-Cola | Atlanta, GA | Corp Strategy | 2 | New |
-| 2026-05-27 | [Senior Brand Management Internship (2027 MBA)](https://www.pgcareers.com/us/en/job/R000138038/Senior-Brand-Management-Internship-2027-Graduates-MBA) | Procter & Gamble | Cincinnati, OH | CPG Brand | 2 | New |
-| 2026-05-27 | [MBA Internship Program](https://careers.kraftheinz.com/job/22672998/2026-mba-internship-program/) | Kraft Heinz | Chicago, IL | General Mgmt | 2 | New |
-| 2026-05-27 | [Global Marketing Development Program Internship](https://jobs.colgate.com/job/Global-Marketing-Development-Program-Internship-2026/170342-en_US/) | Colgate-Palmolive | New York, NY | CPG Brand | 2 | New |
-| 2026-05-27 | [MBA Business Developer Summer Intern - Corporate Business Development](https://amazon.jobs/en/jobs/3132694/2026-mba-business-developer-summer-intern-corporate-business-development-corpbd) | Amazon | Seattle, WA | BD Strategy | 2 | New |
-| 2026-05-27 | [Product Marketing Manager Intern (MBA)](https://www.metacareers.com/v2/jobs/473368212391720/) | Meta | Menlo Park, CA | Marketing | 2 | New |
-| 2026-05-27 | [Business Development MBA Internship](https://jobs.careers.microsoft.com/us/en/job/1159320/Business-Development-MBA-Internship-Opportunities) | Microsoft | Redmond, WA | BD Strategy | 4 | New |
-| 2026-05-27 | [Marketing MBA Internship](https://jobs.careers.microsoft.com/global/en/job/1593741/Marketing-MBA-Internship-Opportunities) | Microsoft | Various | Marketing | 4 | New |
-| 2026-05-27 | [Internship - Associate Brand Manager](https://careers.generalmills.com/careers/jobs/16383?lang=en-us&previousLocale=en-US) | General Mills | Minneapolis, MN | CPG Brand | 4 | New |
-| 2026-05-27 | [Associate Brand Manager - Campus Recruiting](https://careers.generalmills.com/careers/jobs/35020?lang=en-us) | General Mills | Minneapolis, MN | CPG Brand | 4 | New |
-| 2026-05-27 | [Marketing Strategy Intern MBA - Alterna Haircare](https://www.henkel.com/careers/jobs-and-application/2087674-2087674) | Henkel | Various | Marketing | 4 | New |
-| 2026-05-27 | [MBA Associate Brand Manager Intern](https://www.henkel.com/careers/find-your-job-apply/2119894-2119894) | Henkel | Various | CPG Brand | 4 | New |
-| 2026-05-27 | [Summer MBA Intern - Business Value & Strategic Selling Consultant](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-mba-business-value-strategic-selling-consultant/) | Salesforce | Chicago, IL | BD Strategy | 4 | New |
 ---
 
 ## Companies to Watch
