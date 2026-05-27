@@ -426,3 +426,63 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Malk | CPG / Plant-based | [TO FIND] | Head of Retail or Sales | — | — | To Find |
 | Malk | CPG / Plant-based | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
 | Malk | CPG / Plant-based | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Pinterest | Tech / Social | [TO FIND] | Strategy or BD Manager | Buscar: "Pinterest" + strategy OR BD + MBA | — | To Find |
+| Pinterest | Tech / Social | [TO FIND] | Brand Partnerships Manager | Buscar: "Pinterest" + brand partnerships + manager | — | To Find |
+| Pinterest | Tech / Social | [TO FIND] | MBA Campus Recruiting Manager | Buscar: "Pinterest" + MBA + university OR campus | — | To Find |
+| Pinterest | Tech / Social | [TO FIND] | Booth MBA alum at Pinterest | Buscar: "Pinterest" + "Chicago Booth" + MBA | — | To Find |
+| Pinterest | Tech / Social | [TO FIND] | LATAM / International Partnerships | Buscar: "Pinterest" + LATAM OR international + strategy | — | To Find |
+| Purely Elizabeth | CPG / Granola | [TO FIND] | Founder or CMO | Buscar: "Purely Elizabeth" + founder OR CMO | — | To Find |
+| Purely Elizabeth | CPG / Granola | [TO FIND] | Brand or Marketing Manager | Buscar: "Purely Elizabeth" + brand OR marketing | — | To Find |
+| Purely Elizabeth | CPG / Granola | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Purely Elizabeth | CPG / Granola | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Purely Elizabeth | CPG / Granola | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Snackish | CPG / Snack | [TO FIND] | Founder or CMO | Buscar: "Snackish" + founder OR CMO | — | To Find |
+| Snackish | CPG / Snack | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Snackish | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Snackish | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Snackish | CPG / Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Katjes | CPG / Confectionery | [TO FIND] | US General Manager or VP | Buscar: "Katjes" + US + GM OR VP | — | To Find |
+| Katjes | CPG / Confectionery | [TO FIND] | Brand or Marketing Manager (US) | Buscar: "Katjes" + brand OR marketing + USA | — | To Find |
+| Katjes | CPG / Confectionery | [TO FIND] | Head of Sales or Retail (US) | — | — | To Find |
+| Katjes | CPG / Confectionery | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Katjes | CPG / Confectionery | [TO FIND] | Strategy or Innovation | German brand expanding in US | — | To Find |
+| Amylu Foods | CPG / Protein Snack | [TO FIND] | Founder or CMO | Buscar: "Amylu Foods" + founder OR CMO | — | To Find |
+| Amylu Foods | CPG / Protein Snack | [TO FIND] | Brand or Marketing Manager | Buscar: "Amylu Foods" + brand OR marketing | — | To Find |
+| Amylu Foods | CPG / Protein Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Amylu Foods | CPG / Protein Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Amylu Foods | CPG / Protein Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Dieline | Agency / Packaging Design | [TO FIND] | Editor or Content Lead | Buscar: "Dieline" + editor OR content | — | To Find |
+| Dieline | Agency / Packaging Design | [TO FIND] | Founder or Creative Director | Buscar: "Dieline" + founder OR creative director | — | To Find |
+| Dieline | Agency / Packaging Design | [TO FIND] | Strategy or Brand Consultant | — | — | To Find |
+| Dieline | Agency / Packaging Design | [TO FIND] | CPG brand partner / sponsor contact | Leading packaging design publication | — | To Find |
+| Dieline | Agency / Packaging Design | [TO FIND] | MBA alum on team | — | — | To Find |
+| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Brand Lead or General Manager | Buscar: "Gruns" + brand OR GM + Unilever | — | To Find |
+| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Marketing Manager | Buscar: "Gruns" + marketing | — | To Find |
+| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Head of DTC or E-commerce | Gruns es DTC-first → ángulo de canal único | — | To Find |
+| Gruns (Unilever) | CPG / Gummies | [TO FIND] | Unilever Nutrition team contact | Via Ana Alice Cornetti o Iris Stevens (Unilever) | — | To Find |
+| Gruns (Unilever) | CPG / Gummies | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Suja Life | CPG / Beverages | [TO FIND] | CMO or VP Brand | Buscar: "Suja Life" + CMO OR VP brand | — | To Find |
+| Suja Life | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | Buscar: "Suja" + brand OR marketing | — | To Find |
+| Suja Life | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Suja Life | CPG / Beverages | [TO FIND] | Strategy or Corp Dev | Verificar ownership actual (Keurig Dr Pepper) | — | To Find |
+| Suja Life | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Brand Lead or General Manager | Buscar: "LesserEvil" + brand OR GM | — | To Find |
+| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Marketing Manager | Buscar: "LesserEvil" + marketing | — | To Find |
+| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | Hershey contact who covers LesserEvil | Via Kate Maddaloni warm intro (Hershey) | — | To Find |
+| LesserEvil (Hershey) | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Brand Lead or General Manager | Buscar: "Dr. Squatch" + brand OR GM | — | To Find |
+| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Marketing Manager | Buscar: "Dr. Squatch" + marketing | — | To Find |
+| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Head of DTC or E-commerce | Dr. Squatch construyó su base en DTC → ahora retail | — | To Find |
+| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | Unilever contact who covers Dr. Squatch | Via Ana Alice Cornetti o Iris Stevens (Unilever) | — | To Find |
+| Dr. Squatch (Unilever) | CPG / Personal Care | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Flower Foods | CPG / Bakery | [TO FIND] | MBA Campus Recruiting Manager | Buscar: "Flowers Foods" + MBA OR university recruiting | — | To Find |
+| Flower Foods | CPG / Bakery | [TO FIND] | Brand Manager (Dave's Killer Bread / Nature's Own) | Buscar: "Flowers Foods" + brand manager + MBA | — | To Find |
+| Flower Foods | CPG / Bakery | [TO FIND] | Corp Strategy Manager | Empresa pública (FLO) — oportunidad de corp strategy | — | To Find |
+| Flower Foods | CPG / Bakery | [TO FIND] | HR or Talent Acquisition | — | — | To Find |
+| Flower Foods | CPG / Bakery | [TO FIND] | Booth MBA alum at Flower Foods | — | — | To Find |
+| Skinnygirl | CPG / Lifestyle | [TO FIND] | Brand Lead or CMO | Buscar: "Skinnygirl" + brand OR CMO | — | To Find |
+| Skinnygirl | CPG / Lifestyle | [TO FIND] | Marketing Manager | Buscar: "Skinnygirl" + marketing + manager | — | To Find |
+| Skinnygirl | CPG / Lifestyle | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Skinnygirl | CPG / Lifestyle | [TO FIND] | Beam Suntory contact who covers Skinnygirl | Skinnygirl owned by Beam Suntory | — | To Find |
+| Skinnygirl | CPG / Lifestyle | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
