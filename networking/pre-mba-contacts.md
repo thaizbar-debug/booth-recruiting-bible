@@ -1,7 +1,7 @@
 # Pre-MBA Networking Contacts
 
 Personas a contactar **antes del 15 de septiembre de 2026** para expresar interés en internships de verano 2027.
-Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Skinnygirl).
+Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Skinnygirl).
 
 > **Status options:** `Not Contacted` · `Reached Out` · `Replied` · `Coffee Chat Scheduled` · `Done`
 >
@@ -15,27 +15,19 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Procter & Gamble | CPG Brand | Cynthia Salom | Senior Brand Manager *(LATAM background)* | [/in/cynthia-salom](https://www.linkedin.com/in/cynthia-salom/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Jay Yang | Senior Brand Manager | [/in/jay-yang1](https://www.linkedin.com/in/jay-yang1/) | — | Not Contacted |
 | Procter & Gamble | CPG Brand | Elaine Zhou | Senior Brand Manager *(Booth MBA)* | [/in/elaine-dai22](https://www.linkedin.com/in/elaine-dai22/) | — | Not Contacted |
-| Procter & Gamble | CPG Brand | [TO FIND] | P&G LATAM Brand Manager or second Booth MBA alum | — | — | To Find |
 | Unilever | CPG Brand | Ana Alice Cornetti | Global Talent Partner – Recruitment Optimization | [/in/anacornetti](https://www.linkedin.com/in/anacornetti/) | — | Not Contacted |
 | Unilever | CPG Brand | Iris Stevens | Talent Acquisition, Unilever | [/in/iris-stevens-06611499](https://www.linkedin.com/in/iris-stevens-06611499/) | — | Not Contacted |
-| Unilever | CPG Brand | [TO FIND] | Unilever MBA Campus Recruiter (North America) | — | — | To Find |
-| Unilever | CPG Brand | [TO FIND] | Unilever Brand Manager *(MBA hire)* | — | — | To Find |
-| Unilever | CPG Brand | [TO FIND] | Unilever Booth MBA alum in brand or strategy | — | — | To Find |
+| Unilever | CPG Brand | Diana Mota | Senior Brand Manager *(Booth MBA; 10+ yrs brand management)* | [/in/dianamotab](https://www.linkedin.com/in/dianamotab/) | — | Not Contacted |
 | PepsiCo | CPG Brand / Finance Strategy | Mandie Payne | Head of University Recruiting *(leads 300+ intern pipeline)* | [/in/mandiemccollum](https://www.linkedin.com/in/mandiemccollum/) | — | Not Contacted |
 | PepsiCo | CPG Brand / Finance Strategy | Marcus Hill | Brand Manager *(MBA)* | [/in/marcus-hill-mba](https://www.linkedin.com/in/marcus-hill-mba/) | — | Not Contacted |
-| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo Booth MBA alum *(Gatorade/Quaker – Chicago)* | — | — | To Find |
-| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo Strategic Finance MBA | — | — | To Find |
-| PepsiCo | CPG Brand / Finance Strategy | [TO FIND] | PepsiCo LATAM brand / marketing contact | — | — | To Find |
+| PepsiCo | CPG Brand / Finance Strategy | Kelsey Salmen Hussey | Sr. Director, Innovation, Global Foods *(Booth MBA '13; Chicago)* | [/in/kelseysalmen](https://www.linkedin.com/in/kelseysalmen/) | — | Not Contacted |
 | The Coca-Cola Company | CPG Brand / Corp Strategy | Tania Guignard | Sr. Manager, University Recruiting Program | [/in/tguignard](https://www.linkedin.com/in/tguignard/) | — | Not Contacted |
-| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Brand Manager *(Booth MBA)* | — | — | To Find |
-| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Commercial Strategy Manager | — | — | To Find |
-| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC LATAM brand / marketing contact | — | — | To Find |
-| The Coca-Cola Company | CPG Brand / Corp Strategy | [TO FIND] | TCCC Talent Acquisition *(MBA pipeline)* | — | — | To Find |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | Freddy Elorza | Marketing Lead, Juice Portfolio *(Booth MBA; Chicago)* | [/in/freddyelorza](https://www.linkedin.com/in/freddyelorza/) | — | Not Contacted |
+| The Coca-Cola Company | CPG Brand / Corp Strategy | Daniela Córdova | Sr. Director, Brand Coca-Cola Meals, LATAM OU *(⚠️ verificar slug)* | [/in/daniela-c](https://www.linkedin.com/in/daniela-c%C3%B3rdova-106797a9/) | — | Not Contacted |
 | Nestlé | CPG Brand | Serena DeMills, MBA | Early Careers Talent Acquisition | [/in/serena-demills-mba-b5214615b](https://www.linkedin.com/in/serena-demills-mba-b5214615b/) | — | Not Contacted |
 | Nestlé | CPG Brand | Megan Kehler | Talent Acquisition Leader | [/in/megan-kehler](https://www.linkedin.com/in/megan-kehler/) | — | Not Contacted |
 | Nestlé | CPG Brand | Jessica Gates | Sr. Recruiter, Nestlé Health Science | [/in/jessica-gates-2917085](https://www.linkedin.com/in/jessica-gates-2917085/) | — | Not Contacted |
 | Nestlé | CPG Brand | Kahley France, MBA | Brand Manager | [/in/kahley-france](https://www.linkedin.com/in/kahley-france/) | — | Not Contacted |
-| Nestlé | CPG Brand | [TO FIND] | Nestlé Booth MBA alum in brand or marketing | — | — | To Find |
 | Kraft Heinz | CPG Brand / Corp Strategy | Danielle Nicole Harris, MBA | Talent Acquisition Coordinator | [/in/danielle-nicole-harris-mba-](https://www.linkedin.com/in/danielle-nicole-harris-mba-/) | — | Not Contacted |
 | Kraft Heinz | CPG Brand / Corp Strategy | Jordan Sands | Brand Manager, Oscar Mayer *(Booth MBA)* | [/in/jordansands](https://www.linkedin.com/in/jordansands/) | — | Not Contacted |
 | Kraft Heinz | CPG Brand / Corp Strategy | Maura Henry | Brand Marketer *(Booth MBA)* | [/in/maura-henry](https://www.linkedin.com/in/maura-henry/) | — | Not Contacted |
@@ -45,42 +37,30 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | AB InBev | Corp Strategy | Ada Huang | Sr. Director, Strategy | [/in/ada-x-huang](https://www.linkedin.com/in/ada-x-huang/) | — | Not Contacted |
 | AB InBev | Corp Strategy | Morgan Franklin | Global Director, Music Partnerships *(Booth MBA '21)* | [/in/mofrank](https://www.linkedin.com/in/mofrank/) | — | Not Contacted |
 | AB InBev | Corp Strategy | Matthew O'Neill, MBA | Global MBA Program | [/in/matthew-o-neill](https://www.linkedin.com/in/matthew-o-neill/) | — | Not Contacted |
-| AB InBev | Corp Strategy | [TO FIND] | ABI LATAM / Brazil strategy or brand *(ABI es de origen brasileño)* | — | — | To Find |
 | Mars | CPG Brand | Anandi Rahman | Associate Brand Manager | [/in/anandi-rahman](https://www.linkedin.com/in/anandi-rahman/) | — | Not Contacted |
 | Mars | CPG Brand | Mia Fratto | ABM, Milky Way® & 3 Musketeers® | [/in/mia-fratto-664217118](https://www.linkedin.com/in/mia-fratto-664217118/) | — | Not Contacted |
 | Mars | CPG Brand | Kelly Lynch | Director, Brand & Marketing, Mars Wrigley | [/in/kelly-lynch-a37776b](https://www.linkedin.com/in/kelly-lynch-a37776b/) | — | Not Contacted |
-| Mars | CPG Brand | [TO FIND] | Mars MBA Campus Recruiter / University Relations | — | — | To Find |
-| Mars | CPG Brand | [TO FIND] | Mars Booth MBA alum or LATAM contact | — | — | To Find |
 | Colgate-Palmolive | CPG Brand | Liz Kendrick | Recruiter, Colgate-Palmolive | [/in/liz-kendrick-06392663](https://www.linkedin.com/in/liz-kendrick-06392663/) | — | Not Contacted |
 | Colgate-Palmolive | CPG Brand | Charlotte Eisenberg | Associate Brand Manager | [/in/charlotte-eisenberg](https://www.linkedin.com/in/charlotte-eisenberg/) | — | Not Contacted |
-| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate MBA Campus Recruiter | — | — | To Find |
-| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate Brand Manager *(Booth MBA)* | — | — | To Find |
-| Colgate-Palmolive | CPG Brand | [TO FIND] | Colgate LATAM brand *(#1 toothpaste in LatAm — background directo)* | — | — | To Find |
+| Colgate-Palmolive | CPG Brand | Laura Zevallos | Associate Brand Manager, GMDP *(Harvard MBA; Lima, Peru — Univ. del Pacífico)* | [/in/laurazevallos](https://www.linkedin.com/in/laurazevallos/) | — | Not Contacted |
 | Kimberly-Clark | CPG Brand | Lissette Dávila, MBA | Brand Manager, Kleenex® | [/in/lissettedavila11](https://www.linkedin.com/in/lissettedavila11/) | — | Not Contacted |
 | Kimberly-Clark | CPG Brand | Brooklyn Jones, MBA | Brand Manager | [/in/brooklynjordan](https://www.linkedin.com/in/brooklynjordan/) | — | Not Contacted |
 | Kimberly-Clark | CPG Brand | Kimberly Brown, MBA | Brand Leader | [/in/kimberly-brown-mba-33b05823](https://www.linkedin.com/in/kimberly-brown-mba-33b05823/) | — | Not Contacted |
-| Kimberly-Clark | CPG Brand | [TO FIND] | KC MBA Campus Recruiter / University Relations | — | — | To Find |
-| Kimberly-Clark | CPG Brand | [TO FIND] | KC Booth MBA alum or LATAM brand | — | — | To Find |
 | General Mills | CPG Brand | Laurissa Webster | Sr. Manager, Campus & Production Recruiting | [/in/laurissagauvitte](https://www.linkedin.com/in/laurissagauvitte/) | — | Not Contacted |
 | General Mills | CPG Brand | Austin McDaniel | MBA Recruiting | [/in/austinjamesmcdaniel](https://www.linkedin.com/in/austinjamesmcdaniel/) | — | Not Contacted |
 | General Mills | CPG Brand | Robert Wilson | Sr. Manager, M&A *(Booth MBA)* | [/in/rfwilson](https://www.linkedin.com/in/rfwilson/) | — | Not Contacted |
 | General Mills | CPG Brand | KC Glaser, MBA | Brand Manager | [/in/kcglaser](https://www.linkedin.com/in/kcglaser/) | — | Not Contacted |
 | General Mills | CPG Brand | Russell Reeve | Sr. Associate Brand Manager, Cascadian Farm | [/in/russellreeve](https://www.linkedin.com/in/russellreeve/) | — | Not Contacted |
 | Mondelez International | CPG Brand | Kizzie Davis | Talent Acquisition | [/in/kizziedavis](https://www.linkedin.com/in/kizziedavis/) | — | Not Contacted |
-| Mondelez International | CPG Brand | [TO FIND] | Mondelez MBA Campus Recruiter | — | — | To Find |
-| Mondelez International | CPG Brand | [TO FIND] | Mondelez ABM *(Booth MBA)* | — | — | To Find |
-| Mondelez International | CPG Brand | [TO FIND] | Mondelez Sr. ABM *(post-MBA, 2+ años en rol)* | — | — | To Find |
-| Mondelez International | CPG Brand | [TO FIND] | Mondelez LATAM brand contact | — | — | To Find |
+| Mondelez International | CPG Brand | Laura Cochran | Sr. Manager, Talent Acquisition Lead | [/in/laura-cochran-8031b76](https://www.linkedin.com/in/laura-cochran-8031b76/) | — | Not Contacted |
+| Mondelez International | CPG Brand | Luba Safran | Senior Leader *(Booth MBA alum)* | [/in/lsafran](https://www.linkedin.com/in/lsafran/) | — | Not Contacted |
+| Mondelez International | CPG Brand | Karla I. Montenegro R | Marketing / Strategy *(⚠️ verificar rol — LATAM background)* | [/in/karlaimontenegror](https://www.linkedin.com/in/karlaimontenegror/) | — | Not Contacted |
 | SC Johnson | CPG Brand | Cara Esposito | Marketing, SC Johnson Lifestyle Brands | [/in/cesposito92](https://www.linkedin.com/in/cesposito92/) | — | Not Contacted |
 | SC Johnson | CPG Brand | Cheryl Barrett | Talent Acquisition, SC Johnson | [/in/cheryl-barrett-b0a32973](https://www.linkedin.com/in/cheryl-barrett-b0a32973/) | — | Not Contacted |
-| SC Johnson | CPG Brand | [TO FIND] | SC Johnson MBA Recruiter | — | — | To Find |
-| SC Johnson | CPG Brand | [TO FIND] | SC Johnson Brand Manager *(Booth MBA)* | — | — | To Find |
-| SC Johnson | CPG Brand | [TO FIND] | SC Johnson LATAM / Global brand contact | — | — | To Find |
+| SC Johnson | CPG Brand | Alyson Harvey | Marketing Director *(Kellogg MBA; Racine WI)* | [/in/alyson-harvey-b020b755](https://www.linkedin.com/in/alyson-harvey-b020b755/) | — | Not Contacted |
 | Henkel | CPG Brand | Joelle Engler | Brand Manager, Henkel | [/in/joelle-engler-2ba8771aa](https://www.linkedin.com/in/joelle-engler-2ba8771aa/) | — | Not Contacted |
 | Henkel | CPG Brand | Savvas Sfairopoulos, MBA | ABM, all® free clear | [/in/sfairops](https://www.linkedin.com/in/sfairops/) | — | Not Contacted |
-| Henkel | CPG Brand | [TO FIND] | Henkel MBA Campus Recruiter | — | — | To Find |
-| Henkel | CPG Brand | [TO FIND] | Henkel Sr. Brand Manager *(post-MBA)* | — | — | To Find |
-| Henkel | CPG Brand | [TO FIND] | Henkel LATAM or North America brand | — | — | To Find |
+| Henkel | CPG Brand | Julia Galotto | VP Marketing, Henkel North America *(Booth MBA; ex-Colgate)* | [/in/julia-galotto-6765775](https://www.linkedin.com/in/julia-galotto-6765775/) | — | Not Contacted |
 | The Hershey Company | CPG Brand | Kate Maddaloni | University Recruiting Specialist | [/in/kate-maddaloni-27584071](https://www.linkedin.com/in/kate-maddaloni-27584071/) | — | Not Contacted |
 | The Hershey Company | CPG Brand | Sonali Argade, MBA | Sr. Associate Manager, Global Brand Marketing | [/in/sonali-argade](https://www.linkedin.com/in/sonali-argade/) | — | Not Contacted |
 | The Hershey Company | CPG Brand | Emma R. Conover | Brand Management *(Cornell MBA)* | [/in/emma-r-conover](https://www.linkedin.com/in/emma-r-conover/) | — | Not Contacted |
@@ -93,344 +73,208 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Amazon | Corp Strategy / BD | Henry Chou | Director of Product Strategy | [/in/hchou](https://www.linkedin.com/in/hchou/) | — | Not Contacted |
 | Google | Corp Strategy / BD | John Kostal | Head of Strategy, Planning & Intelligence *(Booth MBA)* | [/in/john-kostal-35284410](https://www.linkedin.com/in/john-kostal-35284410/) | — | Not Contacted |
 | Google | Corp Strategy / BD | Juan M. | Product Strategy *(Booth MBA)* | [/in/juan-m-a4111326](https://www.linkedin.com/in/juan-m-a4111326/) | — | Not Contacted |
-| Google | Corp Strategy / BD | [TO FIND] | Google MBA Campus Recruiting Manager | — | — | To Find |
-| Google | Corp Strategy / BD | [TO FIND] | Google Strategy & Operations *(Booth MBA)* | — | — | To Find |
-| Google | Corp Strategy / BD | [TO FIND] | Google LATAM / Emerging Markets BD | — | — | To Find |
-| Meta | Corp Strategy / BD | [TO FIND] | Meta MBA Campus Recruiting Manager | — | — | To Find |
-| Meta | Corp Strategy / BD | [TO FIND] | Meta Strategy & Analytics Manager *(Booth MBA)* | — | — | To Find |
-| Meta | Corp Strategy / BD | [TO FIND] | Meta Global Business Group Manager | — | — | To Find |
-| Meta | Corp Strategy / BD | [TO FIND] | Meta LATAM Partnerships / BD | — | — | To Find |
-| Meta | Corp Strategy / BD | [TO FIND] | Meta Product Marketing Manager *(MBA hire)* | — | — | To Find |
+| Google | Corp Strategy / BD | Triana Egocheaga Meza Cuadra | Partnerships Manager *(ex-APOYO Consultoría Lima; Peruvian background)* | [/in/triana-egocheaga-mezacuadra](https://www.linkedin.com/in/triana-egocheaga-mezacuadra/) | — | Not Contacted |
+| Meta | Corp Strategy / BD | Genessis Gastelum | Strategic Finance Manager *(Booth MBA '21; Latina; AI/infrastructure)* | [/in/genessis-gastelum-cpa-mba](https://www.linkedin.com/in/genessis-gastelum-cpa-mba/) | — | Not Contacted |
+| Meta | Corp Strategy / BD | Crowley Clemons | Director, Product *(Booth MBA; product strategy)* | [/in/crowleyclemons](https://www.linkedin.com/in/crowleyclemons/) | — | Not Contacted |
+| Meta | Corp Strategy / BD | Ana Cecilia Lara | Executive Recruiter, LatAm *(recruits LatAm talent; Mexico City + LA)* | [/in/anacecilialara](https://www.linkedin.com/in/anacecilialara/) | — | Not Contacted |
 | Spotify | BD Strategy | Lindsey Goring | Talent Acquisition, Spotify | [/in/lindsey-goring-28b30545](https://www.linkedin.com/in/lindsey-goring-28b30545/) | — | Not Contacted |
-| Spotify | BD Strategy | [TO FIND] | Spotify MBA Campus Recruiting Manager | — | — | To Find |
-| Spotify | BD Strategy | [TO FIND] | Spotify Strategy & Operations *(Booth MBA)* | — | — | To Find |
-| Spotify | BD Strategy | [TO FIND] | Spotify LATAM / Iberian Market *(música latina = diferenciador)* | — | — | To Find |
-| Spotify | BD Strategy | [TO FIND] | Spotify Business Strategy & Product Management | — | — | To Find |
+| Spotify | BD Strategy | Jorge Casalins | Business Development Lead, LatAm *(30+ yrs LATAM partnerships; Mexico City)* | [/in/jorgecasalins](https://www.linkedin.com/in/jorgecasalins/) | — | Not Contacted |
+| Spotify | BD Strategy | Alexandria Hopper | International Music Strategy Lead, North America & LatAm | [/in/alexandria-hopper-42027023](https://www.linkedin.com/in/alexandria-hopper-42027023/) | — | Not Contacted |
+| Spotify | BD Strategy | Stephanie Ellicott | University Recruiting / Internship Programs *(Georgetown MBA; ⚠️ verificar título)* | [/in/stephanie-ellicott-3a814a115](https://www.linkedin.com/in/stephanie-ellicott-3a814a115/) | — | Not Contacted |
 | DoorDash | BD Strategy | Roberto Alcocer | Strategy & Operations *(Booth MBA)* | [/in/ralcocer](https://www.linkedin.com/in/ralcocer/) | — | Not Contacted |
-| DoorDash | BD Strategy | [TO FIND] | DoorDash MBA Campus Recruiting Manager | — | — | To Find |
-| DoorDash | BD Strategy | [TO FIND] | DoorDash Strategy & Operations *(Booth MBA)* | — | — | To Find |
-| DoorDash | BD Strategy | [TO FIND] | DoorDash LATAM / International Expansion | — | — | To Find |
-| DoorDash | BD Strategy | [TO FIND] | DoorDash Merchant Partnerships Manager | — | — | To Find |
+| DoorDash | BD Strategy | Sikandar Kazi | Strategy & Operations Manager *(Booth MBA)* | [/in/sikandarkazi](https://www.linkedin.com/in/sikandarkazi/) | — | Not Contacted |
+| DoorDash | BD Strategy | Angie Y. | Growth Strategy & Partnerships *(Booth MBA; New York)* | [/in/angie-y-25011323](https://www.linkedin.com/in/angie-y-25011323/) | — | Not Contacted |
 | Airbnb | BD Strategy | Jeffrey Yeung | Strategy *(Booth MBA)* | [/in/jyeung90](https://www.linkedin.com/in/jyeung90/) | — | Not Contacted |
-| Airbnb | BD Strategy | [TO FIND] | Airbnb MBA Campus Recruiting Manager | — | — | To Find |
-| Airbnb | BD Strategy | [TO FIND] | Airbnb Strategy / BD *(Booth MBA)* | — | — | To Find |
-| Airbnb | BD Strategy | [TO FIND] | Airbnb LATAM Market / Partnerships | — | — | To Find |
-| Airbnb | BD Strategy | [TO FIND] | Airbnb Global Host Growth Manager | — | — | To Find |
+| Airbnb | BD Strategy | Nicole Cai | Sr. Marketing Manager, International *(Booth + HEC Paris MBA; Shanghai)* | [/in/nicoletsai0202](https://www.linkedin.com/in/nicoletsai0202/) | — | Not Contacted |
+| Airbnb | BD Strategy | James Ho | Market Growth & Platform Strategy *(Booth MBA; Sydney; ⚠️ verificar)* | [/in/jamesho-au](https://www.linkedin.com/in/jamesho-au/) | — | Not Contacted |
 | Salesforce | BD Strategy | Tim Kimball | Sr. Manager, Futureforce University Recruiting | [/in/timkimball1](https://www.linkedin.com/in/timkimball1/) | — | Not Contacted |
-| Salesforce | BD Strategy | [TO FIND] | Salesforce Business Value Consultant *(Booth MBA)* | — | — | To Find |
-| Salesforce | BD Strategy | [TO FIND] | Salesforce LATAM BD / Account Executive | — | — | To Find |
-| Salesforce | BD Strategy | [TO FIND] | Salesforce Corp Strategy Manager *(MBA hire)* | — | — | To Find |
-| Salesforce | BD Strategy | [TO FIND] | Salesforce MBA Campus Recruiting | — | — | To Find |
+| Salesforce | BD Strategy | Sarah Reid | Strategic University Recruiting Partnerships *(Futureforce lead)* | [/in/sarah-m-reid](https://www.linkedin.com/in/sarah-m-reid/) | — | Not Contacted |
+| Salesforce | BD Strategy | Kate Nikolina | Strategy & Experience Leader *(Booth MBA; Chicago)* | [/in/kate-nikolina](https://www.linkedin.com/in/kate-nikolina/) | — | Not Contacted |
 | Cisco | Corp Strategy / BD | Christine Rees, MBA | AI Adoption Lead, AMER | [/in/christinerees](https://www.linkedin.com/in/christinerees/) | — | Not Contacted |
 | Cisco | Corp Strategy / BD | Milton Arizmendi, MBA | Strategy / BD | [/in/miltonarizmendi](https://www.linkedin.com/in/miltonarizmendi/) | — | Not Contacted |
-| Cisco | Corp Strategy / BD | [TO FIND] | Cisco MBA Campus Recruiting Manager | — | — | To Find |
-| Cisco | Corp Strategy / BD | [TO FIND] | Cisco Corp Strategy / Corp Dev *(Booth MBA)* | — | — | To Find |
-| Cisco | Corp Strategy / BD | [TO FIND] | Cisco LATAM BD Manager | — | — | To Find |
+| Cisco | Corp Strategy / BD | Carolina Valeriano | Leader, Strategy, Planning & Operations @ Cisco LATAM | [/in/carolina-valeriano](https://www.linkedin.com/in/carolina-valeriano/) | — | Not Contacted |
 | Microsoft | BD / Corp Strategy | Kaitlin Ehlers | Sr. Talent Acquisition Manager | [/in/kaitlin-ehlers-766b8655](https://www.linkedin.com/in/kaitlin-ehlers-766b8655/) | — | Not Contacted |
 | Microsoft | BD / Corp Strategy | Alanna Karcher | University Recruiting Event PM | [/in/alannakarcher](https://www.linkedin.com/in/alannakarcher/) | — | Not Contacted |
-| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft Corp Strategy *(Booth MBA)* | — | — | To Find |
-| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft LATAM Emerging Markets BD | — | — | To Find |
-| Microsoft | BD / Corp Strategy | [TO FIND] | Microsoft Marketing MBA *(Booth)* | — | — | To Find |
+| Microsoft | BD / Corp Strategy | Jen Suarez, MBA | Sr. Talent Acquisition Manager *(18 yrs; LATAM/Canada; bilingüe)* | [/in/jen-suarez-mba-b279778](https://www.linkedin.com/in/jen-suarez-mba-b279778/) | — | Not Contacted |
 | Uber | BD Strategy | Rachaita Shah | Strategy & Operations, Uber Eats *(Booth MBA)* | [/in/rachaitashah](https://www.linkedin.com/in/rachaitashah/) | — | Not Contacted |
-| Uber | BD Strategy | [TO FIND] | Uber MBA Campus Recruiting Manager | — | — | To Find |
-| Uber | BD Strategy | [TO FIND] | Uber Strategy & Operations *(Booth MBA)* | — | — | To Find |
-| Uber | BD Strategy | [TO FIND] | Uber LATAM / Uber Eats LatAm Strategy | — | — | To Find |
-| Uber | BD Strategy | [TO FIND] | Uber Marketplace Growth Manager | — | — | To Find |
+| Uber | BD Strategy | Marcelo J. Fagalde | Sr. Director, Uber Eats LatAm Operations *(Booth MBA '14; GM Argentina)* | [/in/mjfagalde](https://www.linkedin.com/in/mjfagalde/) | — | Not Contacted |
+| Uber | BD Strategy | Belen Romero | Sr. Director / GM, Andean Region *(Booth MBA; Colombia; covers Peru)* | [/in/mbromero](https://www.linkedin.com/in/mbromero/) | — | Not Contacted |
 | Walt Disney | Corp Strategy / Brand | Laura Beauchamp Leben | VP, Corporate Social Responsibility | [/in/beauchamplaura](https://www.linkedin.com/in/beauchamplaura/) | — | Not Contacted |
 | Walt Disney | Corp Strategy / Brand | Cayla Ward, MBA | Manager, Synergy & Partnership Marketing | [/in/cayla-ward](https://www.linkedin.com/in/cayla-ward/) | — | Not Contacted |
-| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney MBA Campus Recruiting Manager | — | — | To Find |
-| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney Corporate Strategy *(Booth MBA)* | — | — | To Find |
-| Walt Disney | Corp Strategy / Brand | [TO FIND] | Disney Brand Marketing Manager *(MBA hire)* | — | — | To Find |
+| Walt Disney | Corp Strategy / Brand | Ariana Vergara-Johnson | Media & Entertainment Distribution *(Booth MBA; LatinX leadership award)* | [/in/arianavergara](https://www.linkedin.com/in/arianavergara/) | — | Not Contacted |
 | L'Oréal | CPG Brand / Beauty | Carolyn Holba | Brand Manager *(Booth MBA)* | [/in/carolynholba](https://www.linkedin.com/in/carolynholba/) | — | Not Contacted |
-| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal MBA Recruiting / NEXT Gen Program | — | — | To Find |
-| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal Brand Manager *(Booth MBA)* | — | — | To Find |
-| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal LATAM / multicultural marketing | — | — | To Find |
-| L'Oréal | CPG Brand / Beauty | [TO FIND] | L'Oréal Consumer Products Brand Manager | — | — | To Find |
 | Nike | Corp Strategy / Marketing | David Jasso | University Recruiter | [/in/davidj024](https://www.linkedin.com/in/davidj024/) | david.jasso@nike.com | Not Contacted |
 | Nike | Corp Strategy / Marketing | Erin Golden | Strategy Lead *(Booth MBA '24)* | [/in/goldenerin](https://www.linkedin.com/in/goldenerin/) | — | Not Contacted |
 | Nike | Corp Strategy / Marketing | Erica Salin | Strategic Executive and GM | [/in/erica-salin-2069b816](https://www.linkedin.com/in/erica-salin-2069b816/) | — | Not Contacted |
-| Nike | Corp Strategy / Marketing | [TO FIND] | Nike Brand Marketing Manager *(Booth MBA)* | — | — | To Find |
-| Nike | Corp Strategy / Marketing | [TO FIND] | Nike LATAM / Emerging Markets Strategy | — | — | To Find |
-| Walmart | Corp Strategy | [TO FIND] | Walmart MBA Campus Recruiting Manager | — | — | To Find |
-| Walmart | Corp Strategy | [TO FIND] | Walmart Corporate Strategy *(Booth MBA)* | — | — | To Find |
-| Walmart | Corp Strategy | [TO FIND] | Walmart LATAM / WALMEX Strategy | — | — | To Find |
-| Walmart | Corp Strategy | [TO FIND] | Walmart Omnichannel Strategy Manager | — | — | To Find |
-| Walmart | Corp Strategy | [TO FIND] | Walmart Talent Acquisition *(Corporate)* | — | — | To Find |
+| Walmart | Corp Strategy | Benjy Spiro | Campus Recruiting Manager II *(gatekeeper principal MBA pipeline)* | [/in/benjyspiro](https://www.linkedin.com/in/benjyspiro/) | — | Not Contacted |
+| Walmart | Corp Strategy | Alejandra Cuevas | Manager, Operations & Strategy *(Booth MBA; Latina)* | [/in/alecuevasd](https://www.linkedin.com/in/alecuevasd/) | — | Not Contacted |
+| Walmart | Corp Strategy | Jose Maria Moctezuma Mendoza | Sr. Director, M&A, Walmart de México *(Booth MBA; LATAM/Walmex)* | [/in/jose-maria-moctezuma-mendoza-303710217](https://www.linkedin.com/in/jose-maria-moctezuma-mendoza-303710217/) | — | Not Contacted |
 | Pfizer | Corp Strategy | Marcia Barreto Lagesse | Strategy & Consulting *(Booth MBA)* | [/in/marcia-barreto-lagesse-1a4093112](https://www.linkedin.com/in/marcia-barreto-lagesse-1a4093112/) | — | Not Contacted |
 | Pfizer | Corp Strategy | Fariha Choudhury | Oncology Pipeline & BD Access Strategy *(Booth MBA)* | [/in/f-choudhury](https://www.linkedin.com/in/f-choudhury/) | — | Not Contacted |
 | Pfizer | Corp Strategy | John Collins | Sr. Director, Global Corporate Strategy | [/in/johncollins888](https://www.linkedin.com/in/johncollins888/) | — | Not Contacted |
 | Pfizer | Corp Strategy | Michael Rodriguez, MBA | Director, Strategy & Investments | [/in/hmichaelrodriguez](https://www.linkedin.com/in/hmichaelrodriguez/) | — | Not Contacted |
-| Pfizer | Corp Strategy | [TO FIND] | Pfizer MBA Campus Recruiting Manager | — | — | To Find |
-| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue / J&J MBA Campus Recruiting Manager | — | — | To Find |
-| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue Brand Manager *(MBA hire)* | — | — | To Find |
-| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | J&J Corporate Strategy *(Booth MBA)* | — | — | To Find |
-| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | Kenvue LATAM brand / marketing | — | — | To Find |
-| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | [TO FIND] | J&J Consumer Health Strategy Manager | — | — | To Find |
-| Chomps | CPG Snack / Watching | [TO FIND] | Co-Founder or CMO | Buscar: "Chomps" + founder OR CMO en LinkedIn | — | To Find |
-| Chomps | CPG Snack / Watching | [TO FIND] | Head of Marketing or Brand | Buscar: "Chomps" + marketing OR brand | — | To Find |
-| Chomps | CPG Snack / Watching | [TO FIND] | Head of Sales or Channel Strategy | — | — | To Find |
-| Chomps | CPG Snack / Watching | [TO FIND] | StartupCPG Slack connection | Unirse a startupcpg.com → Slack → #chicago | — | To Find |
-| Chomps | CPG Snack / Watching | [TO FIND] | Brand / Marketing Manager | — | — | To Find |
-| Startup CPG | Community Hub | [TO FIND] | Founder / Community Lead | startupcpg.com → Slack → #chicago | — | To Find |
-| Startup CPG | Community Hub | [TO FIND] | Chicago Chapter Organizer | Buscar: "Startup CPG" + Chicago + organizer | — | To Find |
-| Startup CPG | Community Hub | [TO FIND] | Booth 2nd-year active in Startup CPG | Buscar en Booth clubs: MBAMA + "Startup CPG" | — | To Find |
-| Startup CPG | Community Hub | [TO FIND] | Newsletter / Podcast host | Seguir @startupcpg en LinkedIn | — | To Find |
-| Startup CPG | Community Hub | [TO FIND] | CPG founder featured in StartupCPG content | Ver podcast y newsletter para warm intro | — | To Find |
-| Naturally Chicago | Community Hub | [TO FIND] | Chapter Organizer / Director | Buscar: "Naturally Chicago" + organizer en LinkedIn | — | To Find |
-| Naturally Chicago | Community Hub | [TO FIND] | Brand founder member | Buscar: "Naturally Chicago" + founder en LinkedIn | — | To Find |
-| Naturally Chicago | Community Hub | [TO FIND] | Booth student active in Naturally Chicago | Buscar: Booth + "Naturally Chicago" | — | To Find |
-| Naturally Chicago | Community Hub | [TO FIND] | CPG brand owner member | — | — | To Find |
-| Naturally Chicago | Community Hub | [TO FIND] | Event speaker / panelist | — | — | To Find |
-| Siete Family Foods | CPG Food / Watching | [TO FIND] | CMO or VP Marketing | Buscar: "Siete Family Foods" + CMO OR VP marketing | — | To Find |
-| Siete Family Foods | CPG Food / Watching | [TO FIND] | Brand or Channel Strategy Manager | Buscar: "Siete" + brand OR strategy | — | To Find |
-| Siete Family Foods | CPG Food / Watching | [TO FIND] | LATAM / Hispanic Market contact | Buscar: "Siete" + LATAM OR Hispanic | — | To Find |
-| Siete Family Foods | CPG Food / Watching | [TO FIND] | Head of Sales or Retail | — | — | To Find |
-| Siete Family Foods | CPG Food / Watching | [TO FIND] | Brand / Marketing Manager | — | — | To Find |
-| Springdale Ventures | VC / CPG | [TO FIND] | Partner or Associate | Buscar: "Springdale Ventures" + partner OR associate | — | To Find |
-| Springdale Ventures | VC / CPG | [TO FIND] | Portfolio brand contact via Springdale | Backed Siete, Waterloo, Hippeas | — | To Find |
-| Springdale Ventures | VC / CPG | [TO FIND] | Venture Associate (CPG focus) | — | — | To Find |
-| Springdale Ventures | VC / CPG | [TO FIND] | Booth MBA alum in CPG VC | Buscar: Booth + CPG + venture capital | — | To Find |
-| Springdale Ventures | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
-| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Global Buyer or Category Manager *(MBA)* | Buscar: "Whole Foods" + "category manager" + MBA | — | To Find |
-| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Brand or Marketing contact | Buscar: "Whole Foods" + brand OR marketing + manager | — | To Find |
-| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Emerging Brands / Local Brands team | Buscar: "Whole Foods" + "emerging brands" | — | To Find |
-| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Amazon / WFM Strategy contact | Via Amazon Booth alumni network | — | To Find |
-| Whole Foods Market HQ | Retail / CPG | [TO FIND] | Category Development Manager | — | — | To Find |
-| Vital Farms | CPG / Better-for-you | [TO FIND] | CMO or VP Brand | Buscar: "Vital Farms" + CMO OR VP brand | — | To Find |
-| Vital Farms | CPG / Better-for-you | [TO FIND] | Brand Marketing Manager | Buscar: "Vital Farms" + brand marketing | — | To Find |
-| Vital Farms | CPG / Better-for-you | [TO FIND] | Strategy or Corporate Development | Buscar: "Vital Farms" + strategy. Es pública (VITL). | — | To Find |
-| Vital Farms | CPG / Better-for-you | [TO FIND] | Head of Retail or Channel | — | — | To Find |
-| Vital Farms | CPG / Better-for-you | [TO FIND] | Investor Relations or Finance | — | — | To Find |
-| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | CMO or VP Brand | Buscar: "Waterloo Sparkling Water" + CMO OR brand | — | To Find |
-| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Brand Manager or Marketing Manager | — | — | To Find |
-| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Head of Sales or Retail | — | — | To Find |
-| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | Strategy or Corp Dev (Backed by Springdale) | — | — | To Find |
-| Waterloo Sparkling Water | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| SKU Accelerator | Accelerator / CPG | [TO FIND] | Managing Director or Program Lead | Buscar: "SKU Accelerator" + director OR partner | — | To Find |
-| SKU Accelerator | Accelerator / CPG | [TO FIND] | Program Manager | — | — | To Find |
-| SKU Accelerator | Accelerator / CPG | [TO FIND] | Mentor or Coach in portfolio | — | — | To Find |
-| SKU Accelerator | Accelerator / CPG | [TO FIND] | CPG brand founder in SKU cohort | — | — | To Find |
-| SKU Accelerator | Accelerator / CPG | [TO FIND] | Investor / LP contact | — | — | To Find |
-| Naturally Austin | Community Hub | [TO FIND] | Chapter Organizer | Buscar: "Naturally Austin" + organizer OR director | — | To Find |
-| Naturally Austin | Community Hub | [TO FIND] | Brand founder member | — | — | To Find |
-| Naturally Austin | Community Hub | [TO FIND] | CPG brand owner member | — | — | To Find |
-| Naturally Austin | Community Hub | [TO FIND] | Event speaker / panelist | — | — | To Find |
-| Naturally Austin | Community Hub | [TO FIND] | Booth alum in Austin CPG ecosystem | — | — | To Find |
-| Capital Factory | Accelerator / Startups | [TO FIND] | Partner (consumer / CPG focus) | Buscar: "Capital Factory" + consumer OR CPG + partner | — | To Find |
-| Capital Factory | Accelerator / Startups | [TO FIND] | Managing Director | — | — | To Find |
-| Capital Factory | Accelerator / Startups | [TO FIND] | CPG startup founder in portfolio | — | — | To Find |
-| Capital Factory | Accelerator / Startups | [TO FIND] | Mentor / EIR with CPG background | — | — | To Find |
-| Capital Factory | Accelerator / Startups | [TO FIND] | Booth MBA alum in Austin startup scene | — | — | To Find |
-| Onnit | Wellness / Supplements | [TO FIND] | CMO or VP Marketing | Buscar: "Onnit" + CMO OR VP marketing | — | To Find |
-| Onnit | Wellness / Supplements | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Onnit | Wellness / Supplements | [TO FIND] | Head of Retail or Channel | — | — | To Find |
-| Onnit | Wellness / Supplements | [TO FIND] | Strategy or Corp Dev | Onnit acquired by Unilever — Unilever connection | — | To Find |
-| Onnit | Wellness / Supplements | [TO FIND] | StartupCPG / community connection | — | — | To Find |
-| YETI | Outdoor / Lifestyle | [TO FIND] | VP Brand or CMO | Buscar: "YETI" + CMO OR VP brand | — | To Find |
-| YETI | Outdoor / Lifestyle | [TO FIND] | Brand or Product Marketing Manager | Buscar: "YETI" + brand OR product marketing | — | To Find |
-| YETI | Outdoor / Lifestyle | [TO FIND] | Strategy or Corporate Development | Buscar: "YETI" + strategy. Empresa pública. | — | To Find |
-| YETI | Outdoor / Lifestyle | [TO FIND] | University Recruiting / HR | — | — | To Find |
-| YETI | Outdoor / Lifestyle | [TO FIND] | LATAM / International Market contact | — | — | To Find |
-| GoodPop | CPG / Frozen | [TO FIND] | Founder or CMO | Buscar: "GoodPop" + founder OR CMO | — | To Find |
-| GoodPop | CPG / Frozen | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| GoodPop | CPG / Frozen | [TO FIND] | Head of Sales or Retail | — | — | To Find |
-| GoodPop | CPG / Frozen | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| GoodPop | CPG / Frozen | [TO FIND] | Strategy or Operations contact | — | — | To Find |
-| Black Swan Yoga | Fitness / Studio | [TO FIND] | Founder or CEO | Buscar: "Black Swan Yoga" + founder OR CEO | — | To Find |
-| Black Swan Yoga | Fitness / Studio | [TO FIND] | CMO or Marketing Lead | — | — | To Find |
-| Black Swan Yoga | Fitness / Studio | [TO FIND] | Head of Brand or Community | — | — | To Find |
-| Black Swan Yoga | Fitness / Studio | [TO FIND] | Operations or Expansion Lead | — | — | To Find |
-| Black Swan Yoga | Fitness / Studio | [TO FIND] | Community member / instructor MBA background | — | — | To Find |
-| CAVU Consumer Partners | VC / CPG | [TO FIND] | Partner or Associate | Buscar: "CAVU Consumer Partners" + partner OR associate | — | To Find |
-| CAVU Consumer Partners | VC / CPG | [TO FIND] | VP or Principal | Backed Vital Farms, Krave, Harmless Harvest | — | To Find |
-| CAVU Consumer Partners | VC / CPG | [TO FIND] | Portfolio brand contact via CAVU | — | — | To Find |
-| CAVU Consumer Partners | VC / CPG | [TO FIND] | Booth MBA alum in consumer VC | — | — | To Find |
-| CAVU Consumer Partners | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
-| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Founder or CMO | Buscar: "David bar" + founder OR CMO | — | To Find |
-| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Head of Brand or Marketing | Backed by Peter Rahal (RXBar founder) | — | To Find |
-| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Head of Retail or Growth | — | — | To Find |
-| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| David (Protein Bar) | CPG Protein / Watching | [TO FIND] | Operations or Strategy contact | — | — | To Find |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | Cydney Taylor | Recruiting / Talent *(campus recruiting events; MBA pipeline)* | [/in/cydney-taylor-b72a7916](https://www.linkedin.com/in/cydney-taylor-b72a7916/) | — | Not Contacted |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | Julia Starr | Brand Manager / Marketing *(Booth MBA; Philadelphia)* | [/in/juliastarr](https://www.linkedin.com/in/juliastarr/) | — | Not Contacted |
+| Johnson & Johnson / Kenvue | Corp Strategy / CPG Brand | Gerardo Román | Sr. Brand Manager, North LATAM, Kenvue *(12+ yrs CPG; LATAM lead)* | [/in/gerardo-rom](https://www.linkedin.com/in/gerardo-rom%C3%A1n/) | — | Not Contacted |
+| Chomps | CPG Snack / Watching | Rashid Ali | Co-Founder & CEO *(bootstrapped ~$900M revenue; Chicago)* | [/in/rashid-ali-9b436b5](https://www.linkedin.com/in/rashid-ali-9b436b5/) | — | Not Contacted |
+| Chomps | CPG Snack / Watching | Stacey Hartnett Berger | SVP, Marketing | [/in/stacey-hartnett-berger-6b2aa124](https://www.linkedin.com/in/stacey-hartnett-berger-6b2aa124/) | — | Not Contacted |
+| Chomps | CPG Snack / Watching | Rachel Winnall | Brand / Marketing *(Kellogg MBA; ⚠️ verificar título)* | [/in/rachelwinnall](https://www.linkedin.com/in/rachelwinnall/) | — | Not Contacted |
+| Startup CPG | Community Hub | Daniel Scharff | Founder & CEO *(Wharton MBA; comunidad CPG más grande del mundo)* | [/in/danscharff](https://www.linkedin.com/in/danscharff/) | — | Not Contacted |
+| Startup CPG | Community Hub | Patricia Menegoto | Director of Marketing & Community *(Founding Member)* | [/in/pmenegoto](https://www.linkedin.com/in/pmenegoto/) | — | Not Contacted |
+| Startup CPG | Community Hub | Nick DeVendra | Co-Founder & Director, Insights | [/in/nickdevendra](https://www.linkedin.com/in/nickdevendra/) | — | Not Contacted |
+| Naturally Chicago | Community Hub | Jim Slama | Founder & Managing Director *(Chicago; figura clave Naturally Network)* | [/in/jim-slama-2a90ab4](https://www.linkedin.com/in/jim-slama-2a90ab4/) | — | Not Contacted |
+| Naturally Chicago | Community Hub | Katrina Tolentino | Executive Director, Naturally Network *(oversees all chapters incl. Chicago)* | [/in/katrinatolentino](https://www.linkedin.com/in/katrinatolentino/) | — | Not Contacted |
+| Naturally Chicago | Community Hub | Neha Saxena | Strategy & CPG *(Booth MBA alum; conectora CPG Chicago; ⚠️ no es staff Naturally)* | [/in/neha-saxena-0815](https://www.linkedin.com/in/neha-saxena-0815/) | — | Not Contacted |
+| Siete Family Foods | CPG Food / Watching | Veronica M. Garza | Co-Founder, President & Chief Innovation Officer *(Latina; Texas Business Hall of Fame)* | [/in/veronica-m-garza-143933a4](https://www.linkedin.com/in/veronica-m-garza-143933a4/) | — | Not Contacted |
+| Siete Family Foods | CPG Food / Watching | Miguel Garza | Co-Founder | [/in/miguel-garza-31648178](https://www.linkedin.com/in/miguel-garza-31648178/) | — | Not Contacted |
+| Siete Family Foods | CPG Food / Watching | Marylup Malta | Field Marketing Manager *(LATAM surname)* | [/in/marylup-malta-8a80803a](https://www.linkedin.com/in/marylup-malta-8a80803a/) | — | Not Contacted |
+| Springdale Ventures | VC / CPG | Genevieve G. Gilbreath | Co-Founder & General Partner *(Austin; backed Siete, Waterloo, Hippeas)* | [/in/genevieve-g-gilbreath-92995347](https://www.linkedin.com/in/genevieve-g-gilbreath-92995347/) | — | Not Contacted |
+| Springdale Ventures | VC / CPG | Mollye Lent Santulli | Senior Associate | [/in/mollyelent](https://www.linkedin.com/in/mollyelent/) | — | Not Contacted |
+| Springdale Ventures | VC / CPG | Paige Goldsmith | Team Member *(⚠️ verificar título)* | [/in/paigegoldsmith](https://www.linkedin.com/in/paigegoldsmith/) | — | Not Contacted |
+| Whole Foods Market HQ | Retail / CPG | Abbey Appel | Senior Category Merchant, Supplements & Functional Foods *(Austin HQ; key buyer natural CPG)* | [/in/abbey-appel](https://www.linkedin.com/in/abbey-appel/) | — | Not Contacted |
+| Whole Foods Market HQ | Retail / CPG | Julia Merid | Senior Category Merchant *(Austin HQ)* | [/in/julia-merid](https://www.linkedin.com/in/julia-merid/) | — | Not Contacted |
+| Whole Foods Market HQ | Retail / CPG | Allison Schaffner | Senior Category Merchant *(Austin HQ)* | [/in/allisonschaffner](https://www.linkedin.com/in/allisonschaffner/) | — | Not Contacted |
+| Vital Farms | CPG / Better-for-you | Kathryn (Sheaffer) McKeon | CMO *(Austin)* | [/in/kathrynsheaffer](https://www.linkedin.com/in/kathrynsheaffer/) | — | Not Contacted |
+| Vital Farms | CPG / Better-for-you | Jessie (Vogel) Jew | Brand Manager *(Austin)* | [/in/jessievogel](https://www.linkedin.com/in/jessievogel/) | — | Not Contacted |
+| Vital Farms | CPG / Better-for-you | Russell Diez-Canseco | President / CEO *(⚠️ verificar rol actual; LATAM-resonant surname)* | [/in/russell-diez-canseco-913a3110](https://www.linkedin.com/in/russell-diez-canseco-913a3110/) | — | Not Contacted |
+| Waterloo Sparkling Water | CPG / Beverages | Kathy Maurella | CMO *(Brand Innovators 'CMO of the Week')* | [/in/kathy-maurella-1294641](https://www.linkedin.com/in/kathy-maurella-1294641/) | — | Not Contacted |
+| Waterloo Sparkling Water | CPG / Beverages | Sascha Allendes | Senior Marketing Manager *(6.5 yrs en Waterloo; LATAM-origin surname)* | [/in/sascha-allendes-7495704a](https://www.linkedin.com/in/sascha-allendes-7495704a/) | — | Not Contacted |
+| Waterloo Sparkling Water | CPG / Beverages | Andrea Baldecchi Feldman | Marketing *(⚠️ verificar título actual)* | [/in/andrea-baldecchi-feldman](https://www.linkedin.com/in/andrea-baldecchi-feldman/) | — | Not Contacted |
+| SKU Accelerator | Accelerator / CPG | Buff Greebe | Executive Director *(Harvard MBA; Austin TX)* | [/in/buffgreebe](https://www.linkedin.com/in/buffgreebe/) | — | Not Contacted |
+| SKU Accelerator | Accelerator / CPG | Scott Stuckmann | Team Member *(⚠️ verificar título actual)* | [/in/scottstuckmann](https://www.linkedin.com/in/scottstuckmann/) | — | Not Contacted |
+| SKU Accelerator | Accelerator / CPG | Emily Ingle Kealey | Fmr. Managing Director *(now The CPG Co-Op; warm Austin CPG contact; ⚠️ ya no en SKU)* | [/in/emilykealey](https://www.linkedin.com/in/emilykealey/) | — | Not Contacted |
+| Naturally Austin | Community Hub | Katrina Tolentino | Executive Director, Naturally Network *(Austin-based; oversees Naturally Austin)* | [/in/katrinatolentino](https://www.linkedin.com/in/katrinatolentino/) | — | Not Contacted |
+| Naturally Austin | Community Hub | Semira Nikou | Board Member, Naturally Austin | [/in/semira-nikou-a7a60354](https://www.linkedin.com/in/semira-nikou-a7a60354/) | — | Not Contacted |
+| Naturally Austin | Community Hub | Robby Sansom | CPG Entrepreneur, Force of Nature Meats *(Austin Naturally Network; ⚠️ no es staff)* | [/in/robby-sansom-1028b113](https://www.linkedin.com/in/robby-sansom-1028b113/) | — | Not Contacted |
+| Capital Factory | Accelerator / Startups | Joshua Baer | Founder & CEO *(Austin TX)* | [/in/joshuabaer](https://www.linkedin.com/in/joshuabaer/) | — | Not Contacted |
+| Capital Factory | Accelerator / Startups | Bryan Chambers | President & Co-Founder | [/in/bryandchambers](https://www.linkedin.com/in/bryandchambers/) | — | Not Contacted |
+| Capital Factory | Accelerator / Startups | Lawton Cummings | General Partner | [/in/lawtoncummings](https://www.linkedin.com/in/lawtoncummings/) | — | Not Contacted |
+| Onnit | Wellness / Supplements | Travis Bowe | CEO *(MBA; Austin; post-adquisición Unilever)* | [/in/travis-bowe-cpa-mba-211797a](https://www.linkedin.com/in/travis-bowe-cpa-mba-211797a/) | — | Not Contacted |
+| Onnit | Wellness / Supplements | Melissa McCartney | Senior Brand & Shopper Marketing *(10+ yrs omnichannel CPG/wellness)* | [/in/melissa-mccartney-8583141a](https://www.linkedin.com/in/melissa-mccartney-8583141a/) | — | Not Contacted |
+| Onnit | Wellness / Supplements | Paul Kalka | Team Member *(⚠️ verificar título)* | [/in/paul-kalka-7171718](https://www.linkedin.com/in/paul-kalka-7171718/) | — | Not Contacted |
+| YETI | Outdoor / Lifestyle | Melisa Goldie | Chief Brand Officer *(⚠️ confirmar rol actual)* | [/in/melisagoldie](https://www.linkedin.com/in/melisagoldie/) | — | Not Contacted |
+| YETI | Outdoor / Lifestyle | Monique Heatly | Director of Retail Marketing *(14+ yrs en YETI)* | [/in/monique-heatly](https://www.linkedin.com/in/monique-heatly/) | — | Not Contacted |
+| YETI | Outdoor / Lifestyle | Erika Derylo | Brand Team *(⚠️ verificar título)* | [/in/erika-derylo-06265729](https://www.linkedin.com/in/erika-derylo-06265729/) | — | Not Contacted |
+| GoodPop | CPG / Frozen | Daniel Goetz | Founder & CEO *(Austin)* | [/in/danielgoetz](https://www.linkedin.com/in/danielgoetz/) | — | Not Contacted |
+| GoodPop | CPG / Frozen | Jessica Mason | Director of Brand Marketing | [/in/jessica-mason-154836205](https://www.linkedin.com/in/jessica-mason-154836205/) | — | Not Contacted |
+| GoodPop | CPG / Frozen | Jason Sutter | Senior Director of Sales | [/in/jason-sutter-1b95b6b6](https://www.linkedin.com/in/jason-sutter-1b95b6b6/) | — | Not Contacted |
+| Black Swan Yoga | Fitness / Studio | Michael Grey | Founder *(Austin TX)* | [/in/mikegreyatx](https://www.linkedin.com/in/mikegreyatx/) | — | Not Contacted |
+| Black Swan Yoga | Fitness / Studio | Jaimee Hart | General Manager | [/in/jaimee-hart-25673361](https://www.linkedin.com/in/jaimee-hart-25673361/) | — | Not Contacted |
+| Black Swan Yoga | Fitness / Studio | Nicole Diambra | Marketing & Events *(⚠️ verificar título)* | [/in/nicolediambra](https://www.linkedin.com/in/nicolediambra/) | — | Not Contacted |
+| CAVU Consumer Partners | VC / CPG | Grace Wu | Analyst / Associate *(Wharton MBA background)* | [/in/grace-m-wu](https://www.linkedin.com/in/grace-m-wu/) | — | Not Contacted |
+| CAVU Consumer Partners | VC / CPG | John Copses | Investor | [/in/john-copses](https://www.linkedin.com/in/john-copses/) | — | Not Contacted |
+| CAVU Consumer Partners | VC / CPG | Samantha Martinez | Team Member *(LATAM surname; ⚠️ verificar título)* | [/in/samantha-martinez-75152486](https://www.linkedin.com/in/samantha-martinez-75152486/) | — | Not Contacted |
+| David (Protein Bar) | CPG Protein / Watching | Peter Rahal | Founder & CEO *(fundó RXBar; Series A $75M)* | [/in/peter-rahal-037bba43](https://www.linkedin.com/in/peter-rahal-037bba43/) | — | Not Contacted |
+| David (Protein Bar) | CPG Protein / Watching | Keegan Tigges | Marketing | [/in/keegantigges](https://www.linkedin.com/in/keegantigges/) | — | Not Contacted |
+| David (Protein Bar) | CPG Protein / Watching | Meghan Sisk | Growth *(Wharton MBA)* | [/in/megsisk](https://www.linkedin.com/in/megsisk/) | — | Not Contacted |
 | Chobani | Corp Strategy / CPG | Jessica Lipkin-Mascola | Talent Acquisition Manager | [/in/jessica-l-lipkin-19764077](https://www.linkedin.com/in/jessica-l-lipkin-19764077/) | — | Not Contacted |
 | Chobani | Corp Strategy / CPG | Tim Brown | VP, Talent | [/in/timothyjbrown](https://www.linkedin.com/in/timothyjbrown/) | — | Not Contacted |
 | Chobani | Corp Strategy / CPG | Lee Stroman | Sr. Director, Brand Marketing *(MIT Sloan MBA)* | [/in/lee-stroman-2a8a4a28](https://www.linkedin.com/in/lee-stroman-2a8a4a28/) | — | Not Contacted |
 | Chobani | Corp Strategy / CPG | Katie Miras, MBA | Shopper Marketing Manager | [/in/katherine-michelle-miras](https://www.linkedin.com/in/katherine-michelle-miras/) | — | Not Contacted |
 | Chobani | Corp Strategy / CPG | Sam Blankenship | Sr. Category Development Manager | [/in/sam-blankenship](https://www.linkedin.com/in/sam-blankenship/) | — | Not Contacted |
-| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Strategy Director or VP Strategy | Buscar: "Jones Knowles Ritchie" + strategy + director | — | To Find |
-| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Account Director (CPG clients) | JKR → Budweiser, Tropicana, Heinz rebrands | — | To Find |
-| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Booth MBA alum at JKR | — | — | To Find |
-| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Senior Strategist or Brand Consultant | — | — | To Find |
-| Jones Knowles Ritchie | Agency / Branding | [TO FIND] | Managing Director (North America) | — | — | To Find |
-| XRC Ventures | VC / Consumer | [TO FIND] | Partner or Associate | Buscar: "XRC Ventures" + partner OR associate | — | To Find |
-| XRC Ventures | VC / Consumer | [TO FIND] | Principal or Analyst | — | — | To Find |
-| XRC Ventures | VC / Consumer | [TO FIND] | Portfolio brand founder | — | — | To Find |
-| XRC Ventures | VC / Consumer | [TO FIND] | Booth MBA alum in consumer tech VC | — | — | To Find |
-| XRC Ventures | VC / Consumer | [TO FIND] | Entrepreneur-in-Residence | — | — | To Find |
-| Prelude Growth Partners | PE / CPG | [TO FIND] | Associate or Analyst | Buscar: "Prelude Growth Partners" + associate OR analyst | — | To Find |
-| Prelude Growth Partners | PE / CPG | [TO FIND] | VP or Principal | — | — | To Find |
-| Prelude Growth Partners | PE / CPG | [TO FIND] | Portfolio brand contact | — | — | To Find |
-| Prelude Growth Partners | PE / CPG | [TO FIND] | Booth MBA alum in consumer PE | — | — | To Find |
-| Prelude Growth Partners | PE / CPG | [TO FIND] | Operating Partner | — | — | To Find |
-| SMAKK Studios | Agency / Branding | [TO FIND] | Brand or Strategy Lead | Buscar: "SMAKK Studios" + brand OR strategy | — | To Find |
-| SMAKK Studios | Agency / Branding | [TO FIND] | Founder or Creative Director | Boutique better-for-you brand agency | — | To Find |
-| SMAKK Studios | Agency / Branding | [TO FIND] | Account Lead (CPG clients) | — | — | To Find |
-| SMAKK Studios | Agency / Branding | [TO FIND] | Senior Strategist | — | — | To Find |
-| SMAKK Studios | Agency / Branding | [TO FIND] | MBA alum on team | — | — | To Find |
-| VMG Partners | VC / CPG | [TO FIND] | Associate or VP | Buscar: "VMG Partners" + associate OR VP | — | To Find |
-| VMG Partners | VC / CPG | [TO FIND] | Principal or Partner | Backed Pirate's Booty, Justin's, Spindrift | — | To Find |
-| VMG Partners | VC / CPG | [TO FIND] | Portfolio brand contact via VMG | — | — | To Find |
-| VMG Partners | VC / CPG | [TO FIND] | Booth MBA alum in CPG growth equity | — | — | To Find |
-| VMG Partners | VC / CPG | [TO FIND] | Operating Partner | — | — | To Find |
-| Strand Equity | VC / Health | [TO FIND] | Partner or Associate | Buscar: "Strand Equity" + partner OR associate | — | To Find |
-| Strand Equity | VC / Health | [TO FIND] | Principal or VP | Health consumer brand focus | — | To Find |
-| Strand Equity | VC / Health | [TO FIND] | Portfolio brand contact | — | — | To Find |
-| Strand Equity | VC / Health | [TO FIND] | Booth MBA alum | — | — | To Find |
-| Strand Equity | VC / Health | [TO FIND] | Operating Partner | — | — | To Find |
-| Good Culture | CPG / Health | [TO FIND] | Founder or CMO | Buscar: "Good Culture" + founder OR CMO | — | To Find |
-| Good Culture | CPG / Health | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Good Culture | CPG / Health | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Good Culture | CPG / Health | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Good Culture | CPG / Health | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Clio Snacks | CPG / Healthy | [TO FIND] | Founder or CMO | Buscar: "Clio Snacks" + founder OR CMO | — | To Find |
-| Clio Snacks | CPG / Healthy | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Clio Snacks | CPG / Healthy | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Clio Snacks | CPG / Healthy | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Clio Snacks | CPG / Healthy | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Tru Fru | CPG / Snack | [TO FIND] | Founder or CMO | Buscar: "Tru Fru" + founder OR CMO | — | To Find |
-| Tru Fru | CPG / Snack | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Tru Fru | CPG / Snack | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Tru Fru | CPG / Snack | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Tru Fru | CPG / Snack | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Yasso | CPG / Frozen | [TO FIND] | Founder or CMO | Buscar: "Yasso" + founder OR CMO | — | To Find |
-| Yasso | CPG / Frozen | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Yasso | CPG / Frozen | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Yasso | CPG / Frozen | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Yasso | CPG / Frozen | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Barebells | CPG / Protein | [TO FIND] | US GM or VP Marketing | Buscar: "Barebells" + GM OR VP marketing + USA | — | To Find |
-| Barebells | CPG / Protein | [TO FIND] | Brand or Channel Strategy Manager | Buscar: "Barebells" + brand OR retail + USA | — | To Find |
-| Barebells | CPG / Protein | [TO FIND] | Head of US Sales or Retail | — | — | To Find |
-| Barebells | CPG / Protein | [TO FIND] | Brand Manager (localization US market) | — | — | To Find |
-| Barebells | CPG / Protein | [TO FIND] | Marketing Manager | — | — | To Find |
-| New Hope Network | Industry Hub | [TO FIND] | Editor or Community Lead | Seguir en LinkedIn + newsletter | — | To Find |
-| New Hope Network | Industry Hub | [TO FIND] | Expo West / Expo East Organizer | Asistir = 100+ founders en 3 días | — | To Find |
-| New Hope Network | Industry Hub | [TO FIND] | CPG brand exhibitor at Expo West | Anaheim, marzo cada año | — | To Find |
-| New Hope Network | Industry Hub | [TO FIND] | Editorial or Media contact | — | — | To Find |
-| New Hope Network | Industry Hub | [TO FIND] | Sponsor or Partner brand contact | — | — | To Find |
-| The Hedgehog Company | CPG / Food | [TO FIND] | Founder or CMO | Buscar: "The Hedgehog Company" + founder OR CMO | — | To Find |
-| The Hedgehog Company | CPG / Food | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| The Hedgehog Company | CPG / Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| The Hedgehog Company | CPG / Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| The Hedgehog Company | CPG / Food | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Nutri Co | CPG / Nutrition | [TO FIND] | Founder or CMO | Buscar: "Nutri Co" + founder OR CMO | — | To Find |
-| Nutri Co | CPG / Nutrition | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Nutri Co | CPG / Nutrition | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Nutri Co | CPG / Nutrition | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Nutri Co | CPG / Nutrition | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Fairlife | CPG / Dairy | [TO FIND] | HR or Talent contact | Subsidiaria de Coca-Cola → conectar con Tania Guignard | — | To Find |
-| Fairlife | CPG / Dairy | [TO FIND] | Brand Manager or Marketing Director | Buscar: "Fairlife" + brand manager OR marketing director | — | To Find |
-| Fairlife | CPG / Dairy | [TO FIND] | Strategy or Innovation contact | Creciendo muy rápido en 2025–2026 | — | To Find |
-| Fairlife | CPG / Dairy | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Fairlife | CPG / Dairy | [TO FIND] | Coca-Cola contact who covers Fairlife | Via Tania Guignard warm intro | — | To Find |
-| IDEO | Design / Consulting | [TO FIND] | Project Lead or Design Strategist | Buscar: "IDEO" + "design strategy" OR "project lead" | — | To Find |
-| IDEO | Design / Consulting | [TO FIND] | Booth MBA alum at IDEO | Buscar: "IDEO" + "Chicago Booth" + MBA | — | To Find |
-| IDEO | Design / Consulting | [TO FIND] | CPG or consumer practice lead | — | — | To Find |
-| IDEO | Design / Consulting | [TO FIND] | Senior Strategist | — | — | To Find |
-| IDEO | Design / Consulting | [TO FIND] | Design Research Lead | JTBD methodology = core de IDEO (link con BCP/Warda) | — | To Find |
-| Cadence | CPG / Wellness | [TO FIND] | Founder or CMO | Buscar: "Cadence" + founder OR CMO | — | To Find |
-| Cadence | CPG / Wellness | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Cadence | CPG / Wellness | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Cadence | CPG / Wellness | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Cadence | CPG / Wellness | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Neutonic | CPG / Wellness | [TO FIND] | Founder or CMO | Buscar: "Neutonic" + founder OR CMO | — | To Find |
-| Neutonic | CPG / Wellness | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Neutonic | CPG / Wellness | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Neutonic | CPG / Wellness | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Neutonic | CPG / Wellness | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Leisure Hydration | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Leisure Hydration" + founder OR CMO | — | To Find |
-| Leisure Hydration | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Leisure Hydration | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Leisure Hydration | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Leisure Hydration | CPG / Beverages | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Liquid I.V. | CPG / Hydration | [TO FIND] | CMO or VP Brand | Buscar: "Liquid IV" + CMO OR VP brand | — | To Find |
-| Liquid I.V. | CPG / Hydration | [TO FIND] | Head of Marketing or Innovation | Buscar: "Liquid IV" + marketing OR innovation | — | To Find |
-| Liquid I.V. | CPG / Hydration | [TO FIND] | Brand Manager | DTC → Unilever acquisition case study | — | To Find |
-| Liquid I.V. | CPG / Hydration | [TO FIND] | Head of Retail or Channel | — | — | To Find |
-| Liquid I.V. | CPG / Hydration | [TO FIND] | Strategy or Corp Dev (post-Unilever acquisition) | — | — | To Find |
-| LMNT | CPG / Electrolytes | [TO FIND] | CMO or Head of Marketing | Buscar: "LMNT" + CMO OR head of marketing | — | To Find |
-| LMNT | CPG / Electrolytes | [TO FIND] | Growth or Community Lead | Buscar: "LMNT" + growth OR community | — | To Find |
-| LMNT | CPG / Electrolytes | [TO FIND] | Brand Manager | 100% DTC — modelo inusual | — | To Find |
-| LMNT | CPG / Electrolytes | [TO FIND] | Head of Partnerships | — | — | To Find |
-| LMNT | CPG / Electrolytes | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Thorne | CPG / Supplements | [TO FIND] | CMO or VP Brand | Buscar: "Thorne" + CMO OR VP brand | — | To Find |
-| Thorne | CPG / Supplements | [TO FIND] | Strategy or Corporate Development | Buscar: "Thorne" + strategy. Empresa pública (THRN). | — | To Find |
-| Thorne | CPG / Supplements | [TO FIND] | Brand or Marketing Manager | NSF certified — medical-grade positioning | — | To Find |
-| Thorne | CPG / Supplements | [TO FIND] | Head of Retail or DTC | — | — | To Find |
-| Thorne | CPG / Supplements | [TO FIND] | University Recruiting / HR | — | — | To Find |
-| Anthropic | Tech / AI | [TO FIND] | Campus Programs or University Relations | Buscar: "Anthropic" + campus OR university | — | To Find |
-| Anthropic | Tech / AI | [TO FIND] | Strategy or BD *(Booth MBA)* | Buscar: "Anthropic" + "Chicago Booth" + strategy | — | To Find |
-| Anthropic | Tech / AI | [TO FIND] | Go-to-Market or Partnerships Manager | — | — | To Find |
-| Anthropic | Tech / AI | [TO FIND] | Enterprise or B2B Strategy | — | — | To Find |
-| Anthropic | Tech / AI | [TO FIND] | LATAM / LatAm market contact | — | — | To Find |
-| Fruit Riot | CPG / Food | [TO FIND] | Founder or CMO | Buscar: "Fruit Riot" + founder OR CMO | — | To Find |
-| Fruit Riot | CPG / Food | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Fruit Riot | CPG / Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Fruit Riot | CPG / Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Fruit Riot | CPG / Food | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Surfside | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Surfside" + founder OR CMO | — | To Find |
-| Surfside | CPG / Beverages | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Surfside | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Surfside | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Surfside | CPG / Beverages | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Scrub Daddy | CPG / Cleaning | [TO FIND] | CMO or VP Marketing | Buscar: "Scrub Daddy" + CMO OR VP marketing | — | To Find |
-| Scrub Daddy | CPG / Cleaning | [TO FIND] | Brand Manager or Marketing Manager | — | — | To Find |
-| Scrub Daddy | CPG / Cleaning | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Scrub Daddy | CPG / Cleaning | [TO FIND] | Strategy or Innovation | — | — | To Find |
-| Scrub Daddy | CPG / Cleaning | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Millie Moon | CPG / Baby | [TO FIND] | Founder or CMO | Buscar: "Millie Moon" + founder OR CMO | — | To Find |
-| Millie Moon | CPG / Baby | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Millie Moon | CPG / Baby | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Millie Moon | CPG / Baby | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Millie Moon | CPG / Baby | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Ghost | CPG / Sports Nutrition | [TO FIND] | Co-Founder Ryan Hughes | Buscar: "Ghost" + "Ryan Hughes" en LinkedIn | — | To Find |
-| Ghost | CPG / Sports Nutrition | [TO FIND] | Co-Founder Dan Lourenco | Buscar: "Ghost" + "Dan Lourenco" en LinkedIn | — | To Find |
-| Ghost | CPG / Sports Nutrition | [TO FIND] | Head of Brand or Marketing | Buscar: Ghost + brand OR marketing + Chicago | — | To Find |
-| Ghost | CPG / Sports Nutrition | [TO FIND] | Retail or Channel Strategy | Expandió a Costco y Walmart | — | To Find |
-| Ghost | CPG / Sports Nutrition | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Jones Knowles Ritchie | Agency / Branding | JB Hartford | Executive Creative Director, New York | [/in/jb-hartford-a498a0b](https://www.linkedin.com/in/jb-hartford-a498a0b/) | — | Not Contacted |
+| Jones Knowles Ritchie | Agency / Branding | Scott Fogel | Senior Brand Strategist *(⚠️ verificar título)* | [/in/scottifogel](https://www.linkedin.com/in/scottifogel/) | — | Not Contacted |
+| Jones Knowles Ritchie | Agency / Branding | Alexandrea Holcombe | Executive Business Director | [/in/alexandreaholcombe](https://www.linkedin.com/in/alexandreaholcombe/) | — | Not Contacted |
+| XRC Ventures | VC / Consumer | Pano Anthos | Founder & Managing Partner | [/in/panoanthos](https://www.linkedin.com/in/panoanthos/) | — | Not Contacted |
+| XRC Ventures | VC / Consumer | Skyler Stein | General Partner | [/in/skyler-stein-721247a](https://www.linkedin.com/in/skyler-stein-721247a/) | — | Not Contacted |
+| XRC Ventures | VC / Consumer | Kelly Chen | Team Member *(⚠️ verificar título)* | [/in/kelchen](https://www.linkedin.com/in/kelchen/) | — | Not Contacted |
+| Prelude Growth Partners | PE / CPG | Neda Daneshzadeh | Co-Founder & Managing Partner *(Harvard MBA)* | [/in/neda-daneshzadeh-927a0](https://www.linkedin.com/in/neda-daneshzadeh-927a0/) | — | Not Contacted |
+| Prelude Growth Partners | PE / CPG | Tyler Moorehead | Investor *(Wharton MBA; ideal MBA peer outreach)* | [/in/tylerjmoorehead](https://www.linkedin.com/in/tylerjmoorehead/) | — | Not Contacted |
+| Prelude Growth Partners | PE / CPG | Elizabeth Schropp | Associate *(Georgetown)* | [/in/elizabeth-schropp-1898a0171](https://www.linkedin.com/in/elizabeth-schropp-1898a0171/) | — | Not Contacted |
+| SMAKK Studios | Agency / Branding | Katie Klencheski | Founder & Creative Director | [/in/katie-klencheski-b461834](https://www.linkedin.com/in/katie-klencheski-b461834/) | — | Not Contacted |
+| SMAKK Studios | Agency / Branding | Anna Kavaliunas | Head of Brand | [/in/anna-kavaliunas-49006a5](https://www.linkedin.com/in/anna-kavaliunas-49006a5/) | — | Not Contacted |
+| SMAKK Studios | Agency / Branding | Eliza Lewis-Goldsbro | Digital Strategist & Director of PM *(⚠️ verificar título)* | [/in/eliza-lewis-goldsbro-01a769143](https://www.linkedin.com/in/eliza-lewis-goldsbro-01a769143/) | — | Not Contacted |
+| VMG Partners | VC / CPG | Carle Stenmark | Partner *(Harvard MBA; backed Pirate's Booty, Justin's, Spindrift)* | [/in/carlestenmark](https://www.linkedin.com/in/carlestenmark/) | — | Not Contacted |
+| VMG Partners | VC / CPG | Jennifer Hwang | Vice President *(Stanford GSB MBA)* | [/in/jenniferchwang](https://www.linkedin.com/in/jenniferchwang/) | — | Not Contacted |
+| VMG Partners | VC / CPG | Allen Sha | Associate *(Wharton MBA; ideal MBA peer outreach)* | [/in/allensha5](https://www.linkedin.com/in/allensha5/) | — | Not Contacted |
+| Strand Equity | VC / Health | Kevin Chen | Partner *(Harvard background)* | [/in/kevin-chen-6a324324](https://www.linkedin.com/in/kevin-chen-6a324324/) | — | Not Contacted |
+| Strand Equity | VC / Health | George Song | Investor *(Wharton background)* | [/in/songgeorge](https://www.linkedin.com/in/songgeorge/) | — | Not Contacted |
+| Strand Equity | VC / Health | Sandya Swamy | Operator-in-Residence / Growth Equity *(⚠️ verificar título)* | [/in/sandya-swamy-3b43574](https://www.linkedin.com/in/sandya-swamy-3b43574/) | — | Not Contacted |
+| Good Culture | CPG / Health | Jesse Merrill | Co-Founder *(cottage cheese brand builder)* | [/in/merrilljesse](https://www.linkedin.com/in/merrilljesse/) | — | Not Contacted |
+| Good Culture | CPG / Health | Tiffany Fields | Brand / Marketing Team *(⚠️ verificar título)* | [/in/tiffany-fieldsx](https://www.linkedin.com/in/tiffany-fieldsx/) | — | Not Contacted |
+| Clio Snacks | CPG / Healthy | John McGuckin | CEO | [/in/john-mcguckin-8647b54](https://www.linkedin.com/in/john-mcguckin-8647b54/) | — | Not Contacted |
+| Clio Snacks | CPG / Healthy | Lauren Pollack | SVP of Marketing *(mejor target ejecutivo)* | [/in/lauren-pollack-83348442](https://www.linkedin.com/in/lauren-pollack-83348442/) | — | Not Contacted |
+| Clio Snacks | CPG / Healthy | Matthew C. | Senior Integrated Marketing Manager *(contacto day-to-day)* | [/in/matthew-c-7b882a105](https://www.linkedin.com/in/matthew-c-7b882a105/) | — | Not Contacted |
+| Tru Fru | CPG / Snack | Harvey Millar | CEO *(Tru Fru now part of Mars)* | [/in/harvey-millar-427b954](https://www.linkedin.com/in/harvey-millar-427b954/) | — | Not Contacted |
+| Tru Fru | CPG / Snack | Sarah Wilcox Allan | Marketing Director *(mejor target outreach)* | [/in/sarah-wilcox-allan](https://www.linkedin.com/in/sarah-wilcox-allan/) | — | Not Contacted |
+| Tru Fru | CPG / Snack | Taz Murray | Co-Founder | [/in/taz-murray-623a01b](https://www.linkedin.com/in/taz-murray-623a01b/) | — | Not Contacted |
+| Yasso | CPG / Frozen | Amanda Klane | Co-Founder *(Yasso now owned by Unilever)* | [/in/amanda-klane-638b7317](https://www.linkedin.com/in/amanda-klane-638b7317/) | — | Not Contacted |
+| Yasso | CPG / Frozen | Drew Harrington | Co-Founder *(Canton MA)* | [/in/drewharrington](https://www.linkedin.com/in/drewharrington/) | — | Not Contacted |
+| Barebells | CPG / Protein | Ben Jones | CEO, Vitamin Well North America *(oversees Barebells US; LA-based)* | [/in/ben-jones-21a46835](https://www.linkedin.com/in/ben-jones-21a46835/) | — | Not Contacted |
+| Barebells | CPG / Protein | Miki Huguet | Brand Manager, Vitamin Well *(Barebells; ⚠️ verificar título)* | [/in/miki-huguet](https://www.linkedin.com/in/miki-huguet/) | — | Not Contacted |
+| Barebells | CPG / Protein | Sarah Zaccardo | Trade Marketing Specialist, Barebells & NOCCO | [/in/sarahzaccardo](https://www.linkedin.com/in/sarahzaccardo/) | — | Not Contacted |
+| New Hope Network | Industry Hub | Jessica Rubino | VP, Content & Summits *(runs Expo West/East content)* | [/in/jessica-rubino-04a60744](https://www.linkedin.com/in/jessica-rubino-04a60744/) | — | Not Contacted |
+| New Hope Network | Industry Hub | Jenna Fitch | Senior Director, Community & Conference Content | [/in/jennagrayfitch](https://www.linkedin.com/in/jennagrayfitch/) | — | Not Contacted |
+| New Hope Network | Industry Hub | Nancy Coulter-Parker | Director of Content Marketing | [/in/nancy-coulter-parker-ncp123](https://www.linkedin.com/in/nancy-coulter-parker-ncp123/) | — | Not Contacted |
+| The Hedgehog Company | CPG / Food | Fan Bi | Team Member / Operator *(Babson background; CPG operator)* | [/in/fanbi](https://www.linkedin.com/in/fanbi/) | — | Not Contacted |
+| The Hedgehog Company | CPG / Food | Nicole Rattner | Team Member *(Wash U background)* | [/in/nicole-rattner-886058a](https://www.linkedin.com/in/nicole-rattner-886058a/) | — | Not Contacted |
+| The Hedgehog Company | CPG / Food | Brianna Boardman | Partnerships & Audience Marketing Manager | [/in/brianna-boardman-4828bb160](https://www.linkedin.com/in/brianna-boardman-4828bb160/) | — | Not Contacted |
+| Nutri Co | CPG / Nutrition | Carlos Noceda M. | Founder & CEO *(Peruvian founder — shared background con Thaiz)* | [/in/carlosnocedamartorellet](https://www.linkedin.com/in/carlosnocedamartorellet/) | — | Not Contacted |
+| Nutri Co | CPG / Nutrition | Jimena Paulet Ramirez | Content Creator *(⚠️ rol junior; verificar)* | [/in/jimena-paulet-ramirez-080342319](https://www.linkedin.com/in/jimena-paulet-ramirez-080342319/) | — | Not Contacted |
+| Fairlife | CPG / Dairy | Brad Gruen | SVP, Brand Marketing *(Chicago area; senior brand contact)* | [/in/brad-gruen-21a9bb6](https://www.linkedin.com/in/brad-gruen-21a9bb6/) | — | Not Contacted |
+| Fairlife | CPG / Dairy | Liz Smith | Senior Brand Manager *(Chicago; ideal MBA intern outreach)* | [/in/liz-smith-91109280](https://www.linkedin.com/in/liz-smith-91109280/) | — | Not Contacted |
+| Fairlife | CPG / Dairy | Eileen Mulcrone | Team Member *(⚠️ Fairlife + Booth MBA connection — verificar rol)* | [/in/eileenmulcrone](https://www.linkedin.com/in/eileenmulcrone/) | — | Not Contacted |
+| IDEO | Design / Consulting | Marielis Rosario, MBA | Senior Business Design Team Lead *(MBA; Puerto Rican — LATAM background)* | [/in/marielisrosario](https://www.linkedin.com/in/marielisrosario/) | — | Not Contacted |
+| IDEO | Design / Consulting | Molly Zeins | Designer / Employee Experience *(U. of Chicago education)* | [/in/molly-zeins](https://www.linkedin.com/in/molly-zeins/) | — | Not Contacted |
+| IDEO | Design / Consulting | Annette Ferrara | Fmr. IDEO Chicago Team Lead *(now freelance; ⚠️ warm contact)* | [/in/annette-ferrara-3292178](https://www.linkedin.com/in/annette-ferrara-3292178/) | — | Not Contacted |
+| Cadence | CPG / Wellness | Ross Mackay | Founder & CEO *(electrolyte/performance wellness; LA-based)* | [/in/ross-mackay1](https://www.linkedin.com/in/ross-mackay1/) | — | Not Contacted |
+| Cadence | CPG / Wellness | Nap Hosang | Co-Founder & CMO, Cadence OTC *(⚠️ verificar si es la misma marca Cadence)* | [/in/naphosang](https://www.linkedin.com/in/naphosang/) | — | Not Contacted |
+| Cadence | CPG / Wellness | Karen Campbell | Marketing Content Manager *(⚠️ verificar marca exacta)* | [/in/karenfutchcampbell](https://www.linkedin.com/in/karenfutchcampbell/) | — | Not Contacted |
+| Neutonic | CPG / Wellness | Chris Williamson | Co-Founder *(UK; podcaster/creator — Modern Wisdom)* | [/in/chris-williamson-71784536](https://www.linkedin.com/in/chris-williamson-71784536/) | — | Not Contacted |
+| Neutonic | CPG / Wellness | James Smith | Co-Founder *(UK; Sunday Times bestseller)* | [/in/jamessmithlinkedin](https://www.linkedin.com/in/jamessmithlinkedin/) | — | Not Contacted |
+| Neutonic | CPG / Wellness | Luke Betts | Co-Founder & Talent Manager *(⚠️ base UK; US outreach limitado)* | [/in/luke-betts-2903ba19a](https://www.linkedin.com/in/luke-betts-2903ba19a/) | — | Not Contacted |
+| Leisure Hydration | CPG / Beverages | Alex Michaelsen | Co-Founder *(Forbes 30 Under 30, 2026)* | [/in/alex-michaelsen-35b395162](https://www.linkedin.com/in/alex-michaelsen-35b395162/) | — | Not Contacted |
+| Leisure Hydration | CPG / Beverages | Jarreau Brown | Co-Founder *(ex-Nike marketing; CPG background fuerte)* | [/in/jarreau-brown-69857350](https://www.linkedin.com/in/jarreau-brown-69857350/) | — | Not Contacted |
+| Leisure Hydration | CPG / Beverages | Trevor Burns | Head of Sales *(Kellogg MBA; ex-Red Bull; ex-consulting)* | [/in/trevorjburns](https://www.linkedin.com/in/trevorjburns/) | — | Not Contacted |
+| Liquid I.V. | CPG / Hydration | Stacey Andrade-Wells | CMO *(Latina surname — potential LATAM connection)* | [/in/staceyandradewells](https://www.linkedin.com/in/staceyandradewells/) | — | Not Contacted |
+| Liquid I.V. | CPG / Hydration | Tayce Taylor | Brand Director *(mejor target outreach directo)* | [/in/tayce-taylor-00ab6370](https://www.linkedin.com/in/tayce-taylor-00ab6370/) | — | Not Contacted |
+| Liquid I.V. | CPG / Hydration | Nicole Candiff | Head of Experiential Marketing | [/in/ncandiff](https://www.linkedin.com/in/ncandiff/) | — | Not Contacted |
+| LMNT | CPG / Electrolytes | Robb Wolf | Co-Founder *(DTC health/paleo thought leader)* | [/in/robb-wolf-008b996a](https://www.linkedin.com/in/robb-wolf-008b996a/) | — | Not Contacted |
+| LMNT | CPG / Electrolytes | Mike Dearwester | Brand Director *(Dartmouth; mejor contacto brand)* | [/in/mike-dearwester-724a8325](https://www.linkedin.com/in/mike-dearwester-724a8325/) | — | Not Contacted |
+| LMNT | CPG / Electrolytes | Sarah Halejian | Senior Brand Manager *(Yale background; NYC)* | [/in/sarah-halejian-18449288](https://www.linkedin.com/in/sarah-halejian-18449288/) | — | Not Contacted |
+| Thorne | CPG / Supplements | Colin Watts | CEO *(Thorne HealthTech, NASDAQ: THRN)* | [/in/colin-watts-5115a4b](https://www.linkedin.com/in/colin-watts-5115a4b/) | — | Not Contacted |
+| Thorne | CPG / Supplements | Jessica Cokins | SVP Marketing | [/in/jessica-cokins](https://www.linkedin.com/in/jessica-cokins/) | — | Not Contacted |
+| Thorne | CPG / Supplements | Jeff Ricondo | Partnerships & Marketing *(Chicago area; ⚠️ verificar título)* | [/in/jeff-ricondo-45230730](https://www.linkedin.com/in/jeff-ricondo-45230730/) | — | Not Contacted |
+| Anthropic | Tech / AI | Chinsin Sim | University Recruiting Lead *(manages campus programs)* | [/in/chinsinsim](https://www.linkedin.com/in/chinsinsim/) | — | Not Contacted |
+| Anthropic | Tech / AI | Anthony Ortiz | Recruiter *(San Francisco; university recruiting)* | [/in/anthony-ortiz-001b07156](https://www.linkedin.com/in/anthony-ortiz-001b07156/) | — | Not Contacted |
+| Anthropic | Tech / AI | Brian Tang | Claude Campus Ambassador *(Vanderbilt; ⚠️ peer para intel del programa)* | [/in/brian-tang05](https://www.linkedin.com/in/brian-tang05/) | — | Not Contacted |
+| Fruit Riot | CPG / Food | Michael Shoretz | CEO & Co-Founder | [/in/michael-shoretz-2971aa51](https://www.linkedin.com/in/michael-shoretz-2971aa51/) | — | Not Contacted |
+| Fruit Riot | CPG / Food | Jen Haberman | COO & Co-Founder | [/in/jen-haberman-33944bb8](https://www.linkedin.com/in/jen-haberman-33944bb8/) | — | Not Contacted |
+| Fruit Riot | CPG / Food | Sophia Mantville | Marketing Coordinator *(⚠️ rol junior; verificar)* | [/in/sophia-mantville](https://www.linkedin.com/in/sophia-mantville/) | — | Not Contacted |
+| Surfside | CPG / Beverages | Michael Blanche | Co-Founder & Co-CEO *(fastest-growing alcohol brand 2024; NY)* | [/in/michaelblanche](https://www.linkedin.com/in/michaelblanche/) | — | Not Contacted |
+| Surfside | CPG / Beverages | Nicole Baytala | Director of Marketing | [/in/nbaytala](https://www.linkedin.com/in/nbaytala/) | — | Not Contacted |
+| Surfside | CPG / Beverages | Timothy Sullivan | Commercial Leadership *(⚠️ verificar título)* | [/in/timsullivan91](https://www.linkedin.com/in/timsullivan91/) | — | Not Contacted |
+| Scrub Daddy | CPG / Cleaning | Aaron Krause | Founder, President & CEO *(Shark Tank; Berwyn PA)* | [/in/aaron-krause-34514390](https://www.linkedin.com/in/aaron-krause-34514390/) | — | Not Contacted |
+| Scrub Daddy | CPG / Cleaning | Jennifer Picariello | Team Member *(⚠️ verificar título; Philly area)* | [/in/jpic526](https://www.linkedin.com/in/jpic526/) | — | Not Contacted |
+| Scrub Daddy | CPG / Cleaning | Brianna McDevitt | Marketing / Creator Marketing *(⚠️ verificar título)* | [/in/brimcdev](https://www.linkedin.com/in/brimcdev/) | — | Not Contacted |
+| Millie Moon | CPG / Baby | Nick Mowbray | Co-Founder, ZURU *(parent company de Millie Moon; NZ-based)* | [/in/nick-mowbray-a5201024](https://www.linkedin.com/in/nick-mowbray-a5201024/) | — | Not Contacted |
+| Ghost | CPG / Sports Nutrition | Ryan Hughes | Co-Founder *(Chicago; Keurig Dr Pepper acquisition)* | [/in/ryan-hughes-56125a47](https://www.linkedin.com/in/ryan-hughes-56125a47/) | — | Not Contacted |
+| Ghost | CPG / Sports Nutrition | Adam Kossoff | Brand & Marketing *(deep Ghost experience; Brooklyn/Chicago)* | [/in/adamkossoff](https://www.linkedin.com/in/adamkossoff/) | — | Not Contacted |
+| Ghost | CPG / Sports Nutrition | Kate Cappelletti Feher | Brand Marketing *(⚠️ verificar título; NY area)* | [/in/kate-feher](https://www.linkedin.com/in/kate-feher/) | — | Not Contacted |
 | Olipop | CPG / Beverages | Ben Goodwin | Co-Founder & CEO | [/in/ben-goodwin-olipop](https://www.linkedin.com/in/ben-goodwin-olipop/) | — | Not Contacted |
 | Olipop | CPG / Beverages | Chad Wilson | Marketing / Strategy | [/in/chdwlsn](https://www.linkedin.com/in/chdwlsn/) | — | Not Contacted |
 | Olipop | CPG / Beverages | Molly Cassity | Brand Manager | [/in/molly-cassity-80698672](https://www.linkedin.com/in/molly-cassity-80698672/) | — | Not Contacted |
-| Olipop | CPG / Beverages | [TO FIND] | CMO or VP Brand | — | — | To Find |
-| Olipop | CPG / Beverages | [TO FIND] | Head of Retail or Growth | Buscar: "Olipop" + retail OR growth + director | — | To Find |
-| Liquid Death | CPG / Beverages | [TO FIND] | Founder or CMO | Buscar: "Liquid Death" + founder OR CMO | — | To Find |
-| Liquid Death | CPG / Beverages | [TO FIND] | Head of Marketing or Partnerships | Buscar: "Liquid Death" + marketing OR partnerships | — | To Find |
-| Liquid Death | CPG / Beverages | [TO FIND] | Brand Manager | — | — | To Find |
-| Liquid Death | CPG / Beverages | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Liquid Death | CPG / Beverages | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Built | CPG / Protein | [TO FIND] | Founder or CMO | Buscar: "Built Bar" OR "Built protein" + founder OR CMO | — | To Find |
-| Built | CPG / Protein | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
-| Built | CPG / Protein | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Built | CPG / Protein | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Built | CPG / Protein | [TO FIND] | Strategy or Operations | — | — | To Find |
-| Once Upon a Farm | CPG / Baby Food | [TO FIND] | CEO / Co-Founder (John Foraker) | Buscar: "Once Upon a Farm" + CEO OR co-founder | — | To Find |
-| Once Upon a Farm | CPG / Baby Food | [TO FIND] | CMO or Brand Lead | Jennifer Garner es co-fundadora — hook público | — | To Find |
-| Once Upon a Farm | CPG / Baby Food | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Once Upon a Farm | CPG / Baby Food | [TO FIND] | Strategy or Innovation | — | — | To Find |
-| Once Upon a Farm | CPG / Baby Food | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Fever-Tree | CPG / Beverages | [TO FIND] | VP Marketing or Country Manager (US) | Buscar: "Fever-Tree" + "US" + VP marketing | — | To Find |
-| Fever-Tree | CPG / Beverages | [TO FIND] | Brand Manager (US) | — | — | To Find |
-| Fever-Tree | CPG / Beverages | [TO FIND] | Head of Sales or Retail (US) | — | — | To Find |
-| Fever-Tree | CPG / Beverages | [TO FIND] | Strategy or Corp Dev | — | — | To Find |
-| Fever-Tree | CPG / Beverages | [TO FIND] | HR or Talent (US) | — | — | To Find |
-| Malk | CPG / Plant-based | [TO FIND] | Founder or CMO | Buscar: "Malk" + founder OR CMO en LinkedIn | — | To Find |
-| Malk | CPG / Plant-based | [TO FIND] | Brand or Marketing Manager | Buscar: "Malk" + brand OR marketing | — | To Find |
-| Malk | CPG / Plant-based | [TO FIND] | Head of Retail or Sales | — | — | To Find |
-| Malk | CPG / Plant-based | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
-| Malk | CPG / Plant-based | [TO FIND] | Strategy or Operations | — | — | To Find |
+| Olipop | CPG / Beverages | Steven Vigilante | Director, Growth + Partnerships *(8+ yrs early-stage CPG growth)* | [/in/steven-vigilante-06b64633](https://www.linkedin.com/in/steven-vigilante-06b64633/) | — | Not Contacted |
+| Olipop | CPG / Beverages | Tara Piper | Head of Marketing *(⚠️ verificar título actual)* | [/in/tara-piper](https://www.linkedin.com/in/tara-piper/) | — | Not Contacted |
+| Liquid Death | CPG / Beverages | Mike Cessario | Founder & CEO *($1.4B valuation; LA)* | [/in/mikecessario](https://www.linkedin.com/in/mikecessario/) | — | Not Contacted |
+| Liquid Death | CPG / Beverages | Greg Fass | VP of Marketing *(Ad Age 40 Under 40)* | [/in/gfass](https://www.linkedin.com/in/gfass/) | — | Not Contacted |
+| Liquid Death | CPG / Beverages | Jeanne Irwin | Brand Manager | [/in/jeanne-irwin](https://www.linkedin.com/in/jeanne-irwin/) | — | Not Contacted |
+| Built | CPG / Protein | Nick Greer | Co-Founder & CEO *($100M+ revenue; BYU Marriott; UT)* | [/in/nick-greer-49a39](https://www.linkedin.com/in/nick-greer-49a39/) | — | Not Contacted |
+| Built | CPG / Protein | Jeff Newman | EVP | [/in/jnewman12](https://www.linkedin.com/in/jnewman12/) | — | Not Contacted |
+| Built | CPG / Protein | Keana Ashley | Social Media Manager *(brand/social marketing)* | [/in/keana-ashley-05919b188](https://www.linkedin.com/in/keana-ashley-05919b188/) | — | Not Contacted |
+| Once Upon a Farm | CPG / Baby Food | John Foraker | CEO *(ex-Annie's CEO; co-leads brand)* | [/in/john-foraker-0061732](https://www.linkedin.com/in/john-foraker-0061732/) | — | Not Contacted |
+| Once Upon a Farm | CPG / Baby Food | Katie Marston | CMO *(board member)* | [/in/katie-marston](https://www.linkedin.com/in/katie-marston/) | — | Not Contacted |
+| Once Upon a Farm | CPG / Baby Food | Emma Marano | Senior Brand Manager *(San Francisco)* | [/in/emmaluciamarano](https://www.linkedin.com/in/emmaluciamarano/) | — | Not Contacted |
+| Fever-Tree | CPG / Beverages | Jeff Popkin | CEO, Fever-Tree Americas *(Dallas area; top US exec)* | [/in/jeff-popkin-97769862](https://www.linkedin.com/in/jeff-popkin-97769862/) | — | Not Contacted |
+| Fever-Tree | CPG / Beverages | Emma White | Marketing, Fever-Tree USA *(⚠️ verificar título)* | [/in/emmakatewhite](https://www.linkedin.com/in/emmakatewhite/) | — | Not Contacted |
+| Fever-Tree | CPG / Beverages | Saskia Meyer | Team Member, Fever-Tree *(⚠️ verificar título)* | [/in/saskia-meyer-6a73981a](https://www.linkedin.com/in/saskia-meyer-6a73981a/) | — | Not Contacted |
+| Malk | CPG / Plant-based | August Vega | Creator & Former CEO, MALK Organics *(Latina founder — LATAM angle)* | [/in/august-vega](https://www.linkedin.com/in/august-vega/) | — | Not Contacted |
+| Malk | CPG / Plant-based | Jason Bronstad | Team Member, MALK Organics *(⚠️ verificar título)* | [/in/jasonbronstad](https://www.linkedin.com/in/jasonbronstad/) | — | Not Contacted |
+| Malk | CPG / Plant-based | Taylor Anderson | Team Member, MALK Organics *(Austin area; ⚠️ verificar título)* | [/in/taylormikhail](https://www.linkedin.com/in/taylormikhail/) | — | Not Contacted |
 | Pinterest | Tech / Social | Jessica Trieu | Program Manager & Recruiter | [/in/jessica-trieu](https://www.linkedin.com/in/jessica-trieu/) | — | Not Contacted |
 | Pinterest | Tech / Social | Adriana I. Garcia | Early Career Recruiting *(LATAM surname; Loyola Marymount)* | [/in/adrianaigarcia](https://www.linkedin.com/in/adrianaigarcia/) | — | Not Contacted |
 | Pinterest | Tech / Social | Agustín Caso Jacobs | Head of LATAM Content & Partnerships *(UCLA Anderson MBA)* | [/in/agustin-caso-jacobs-b4b0b444](https://www.linkedin.com/in/agust%C3%ADn-caso-jacobs-b4b0b444/) | — | Not Contacted |
 | Pinterest | Tech / Social | Sharon Rosenthal | Retail Partnerships *(12+ yrs; cross-LATAM, EMEA, JAPAC)* | [/in/rosenthalsharon](https://www.linkedin.com/in/rosenthalsharon/) | — | Not Contacted |
-| Pinterest | Tech / Social | [TO FIND] | Booth MBA alum at Pinterest | Buscar: "Pinterest" + "Chicago Booth" + MBA | — | To Find |
 | Purely Elizabeth | CPG / Granola | Elizabeth Stein | Founder & CEO | [/in/elizabeth-stein-61283712](https://www.linkedin.com/in/elizabeth-stein-61283712/) | — | Not Contacted |
 | Purely Elizabeth | CPG / Granola | Cherry J. | CMO *(USC Marshall MBA)* | [/in/cherry-j-8b398949](https://www.linkedin.com/in/cherry-j-8b398949/) | — | Not Contacted |
 | Purely Elizabeth | CPG / Granola | Meghan Shookman | VP of Marketing | [/in/meghanshookman](https://www.linkedin.com/in/meghanshookman/) | — | Not Contacted |
@@ -438,7 +282,6 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Purely Elizabeth | CPG / Granola | Lauren Miller | Director of Business Planning *(⚠️ verificar — née Stiebner)* | [/in/laurenstiebner](https://www.linkedin.com/in/laurenstiebner/) | — | Not Contacted |
 | Snackish | CPG / Snack | Tara Bosch | Founder & CEO *(construyó SmartSweets — $360M exit)* | [/in/tarabosch](https://www.linkedin.com/in/tarabosch/) | — | Not Contacted |
 | Snackish | CPG / Snack | Megan Rice | Sr. Director of Sales *(⚠️ LinkedIn username: meganbrice — verificar)* | [/in/meganbrice](https://www.linkedin.com/in/meganbrice/) | — | Not Contacted |
-| Snackish | CPG / Snack | [TO FIND] | Marketing or Brand Manager | Brand lanzada junio 2026 — equipo muy pequeño; buscar LinkedIn company page de Snackish | — | To Find |
 | Katjes | CPG / Confectionery | Claudia Manescau Santos | Country Manager USA *(⚠️ buscar en LinkedIn: "Claudia Manescau Santos" + Katjes)* | — | — | To Find |
 | Katjes | CPG / Confectionery | Defne Yurdakul | Country Manager, Sales & Marketing *(⚠️ verificar si es mercado US o EU)* | [/in/defne-yurdakul-b6b028132](https://www.linkedin.com/in/defne-yurdakul-b6b028132/) | — | Not Contacted |
 | Katjes | CPG / Confectionery | Jake Shane | Chief Creative Officer, US Market *(influencer/creator; ⚠️ buscar: "Jake Shane Katjes" en LinkedIn)* | — | — | To Find |
@@ -472,3 +315,21 @@ Excluye firmas de consultoría MBB/Tier 2. Cubre todas las empresas de la tabla 
 | Skinnygirl | CPG / Lifestyle | Kelly Jasica | Sr. Director, RTD Commercialization *(oversees RTD portfolio que incluye Skinnygirl)* | [/in/kelly-jasica-8726727](https://www.linkedin.com/in/kelly-jasica-8726727/) | — | Not Contacted |
 | Skinnygirl | CPG / Lifestyle | Kathleen DiBenedetto | Sr. Director, Premium Seed Brand Marketing *(28 años en Beam/Suntory; Bourbon Hall of Fame)* | [/in/kmdibenedetto](https://www.linkedin.com/in/kmdibenedetto/) | — | Not Contacted |
 | Skinnygirl | CPG / Lifestyle | Ariela Bell (Fermin) | Senior Brand Manager, Suntory Global Spirits *(LATAM surname; peer-level brand contact)* | [/in/arielafermin](https://www.linkedin.com/in/arielafermin/) | — | Not Contacted |
+| McKinsey & Company | Consulting | Siobhan Loyd | Manager of Recruiting | [/in/siobhan-loyd-64706079](https://www.linkedin.com/in/siobhan-loyd-64706079/) | — | Not Contacted |
+| McKinsey & Company | Consulting | Kathryn Fitzpatrick | Associate *(Booth MBA alum)* | [/in/kathrynfitzpatrick](https://www.linkedin.com/in/kathrynfitzpatrick/) | — | Not Contacted |
+| McKinsey & Company | Consulting | Vestaen Balbuena | Managing Counsel, Spanish LatAm & Mexico *(Booth MBA '24; Forté Fellow; LATAM background)* | [/in/vestaen-balbuena](https://www.linkedin.com/in/vestaen-balbuena/) | — | Not Contacted |
+| Boston Consulting Group | Consulting | Leslie Howard | Talent Acquisition, Campus Recruiting | [/in/lesliejaynehoward](https://www.linkedin.com/in/lesliejaynehoward/) | — | Not Contacted |
+| Boston Consulting Group | Consulting | Santiago Acosta | Consultant *(Booth MBA; Greater Chicago)* | [/in/sacosta1401](https://www.linkedin.com/in/sacosta1401/) | — | Not Contacted |
+| Boston Consulting Group | Consulting | Guzman Noya Nardo | Consultant *(Booth MBA; Chicago; ⚠️ verificar background LATAM)* | [/in/guzman-noya-nardo](https://www.linkedin.com/in/guzman-noya-nardo/) | — | Not Contacted |
+| Bain & Company | Consulting | Sarah Musleh | Recruiting Specialist *(maneja 70% MBA consulting recruiting en Chicago — primer contacto)* | [/in/sarah-musleh-88b32593](https://www.linkedin.com/in/sarah-musleh-88b32593/) | — | Not Contacted |
+| Bain & Company | Consulting | Simón Zalazar Santillán, CFA | Consultant *(Booth MBA; CFA; LATAM background)* | [/in/simonzalazar](https://www.linkedin.com/in/simonzalazar/) | — | Not Contacted |
+| Bain & Company | Consulting | Rick Prieto Palacin | Pre-MBA, Bain *(Booth MBA Class of 2027 — compañero de clase; Peruvian/LATAM; ⚠️ contactar como peer)* | [/in/rickprietop](https://www.linkedin.com/in/rickprietop/) | — | Not Contacted |
+| Deloitte | Consulting | Kristin Welty | Campus Recruiting Manager *(Greater Chicago; strategy/consulting pipeline)* | [/in/kristin-welty-12831b32](https://www.linkedin.com/in/kristin-welty-12831b32/) | — | Not Contacted |
+| Deloitte | Consulting | Minchan Kim | Senior Consultant *(Booth MBA; Deloitte Consulting)* | [/in/minchan-kim](https://www.linkedin.com/in/minchan-kim/) | — | Not Contacted |
+| Deloitte | Consulting | Juan Francisco Hidalgo | Senior Consultant *(Booth MBA connection; LATAM name; ⚠️ verificar)* | [/in/jfhidalgoa](https://www.linkedin.com/in/jfhidalgoa/) | — | Not Contacted |
+| Accenture | Consulting | Angel Harmon | Managing Director, North America Recruiting *(más senior recruiter Accenture NA; LA)* | [/in/angel-harmon-8905304](https://www.linkedin.com/in/angel-harmon-8905304/) | — | Not Contacted |
+| Accenture | Consulting | Jesse Aguilar | Strategy Consultant, Accenture Strategy *(Booth MBA; ⚠️ verificar LATAM)* | [/in/jesse-aguilar-a9992088](https://www.linkedin.com/in/jesse-aguilar-a9992088/) | — | Not Contacted |
+| Accenture | Consulting | Blaise Fairfax | Senior Strategy Consultant *(Booth MBA; New York)* | [/in/blaisefairfax](https://www.linkedin.com/in/blaisefairfax/) | — | Not Contacted |
+| Oliver Wyman | Consulting | Tori Tanner | Campus Recruiting & Talent Management Lead *(2023 y 2025 Campus Recruiting Choice Award)* | [/in/victoriatanner](https://www.linkedin.com/in/victoriatanner/) | — | Not Contacted |
+| Oliver Wyman | Consulting | Maeve A. Byrne | University Recruiting *(2026 Campus Forward Award winner)* | [/in/maeve-a-byrne-80284933](https://www.linkedin.com/in/maeve-a-byrne-80284933/) | — | Not Contacted |
+| Oliver Wyman | Consulting | Brinda Doshi | Engagement Manager, Health & Life Sciences *(Booth MBA; Chicago)* | [/in/brinda-doshi](https://www.linkedin.com/in/brinda-doshi/) | — | Not Contacted |
