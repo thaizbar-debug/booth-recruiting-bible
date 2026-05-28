@@ -35,8 +35,9 @@ TIER_3 = ["simon-kucher", "l.e.k.", "lek consulting", "zs associates", "cornerst
 
 # ── Relevance keywords ─────────────────────────────────────────────────────────
 TITLE_INCLUDE = [
-    "intern", "associate", "mba", "summer", "strategy", "brand", "consultant",
-    "consulting", "manager", "rotational", "leadership development", "graduate",
+    "intern", "mba", "summer", "rotational", "leadership development", "graduate",
+    "summer associate", "mba associate",
+    "strategy", "brand", "consultant", "consulting",
     "business development", "corporate development", "strategic planning",
     "general management", "growth", "commercial", "product marketing",
 ]
@@ -44,12 +45,22 @@ TITLE_EXCLUDE = [
     "engineer", "software", "data scientist", "devops", "accountant", "controller",
     "tax ", "audit", "payroll", "nurse", "physician", "driver", "warehouse",
     "technician", "mechanic", "electrician", "plumber",
+    "senior ", "director", "vice president", " vp ", "principal ", " partner",
+    "full-time", "full time", "permanent",
 ]
 DESC_INCLUDE = [
     "mba", "master of business", "business school", "summer intern", "summer associate",
     "graduate intern", "rotational program", "leadership program", "strategy intern",
     "brand intern", "consulting intern", "corporate strategy", "brand management",
     "consumer insights", "go-to-market", "p&l", "sponsorship", "h-1b",
+]
+
+# Must have at least one of these to pass — blocks full-time roles that sneak through
+INTERN_SIGNALS = [
+    "intern", "internship", "summer 2027", "summer associate", "mba associate",
+    "mba intern", "rotational program", "leadership development program",
+    "graduate program", "summer program", "co-op", "mba candidate", "mba student",
+    "business school", "class of 2027", "class of 2028",
 ]
 
 TRACK_RULES = [
@@ -95,6 +106,10 @@ def is_relevant(title: str, description: str) -> bool:
     t = title.lower()
     d = (description or "").lower()
     if any(kw in t for kw in TITLE_EXCLUDE):
+        return False
+    # Must have an explicit internship/program signal — blocks full-time roles
+    has_intern_signal = any(kw in t or kw in d for kw in INTERN_SIGNALS)
+    if not has_intern_signal:
         return False
     title_match = any(kw in t for kw in TITLE_INCLUDE)
     desc_match = any(kw in d for kw in DESC_INCLUDE)
