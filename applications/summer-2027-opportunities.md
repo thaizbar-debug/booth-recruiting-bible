@@ -26,7 +26,6 @@
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
-| 2026-05-28 | [Assistant Business Development Manager - Foods](https://bandana.com/jobs/80386289-bbf3-422a-a55e-8b0691d9f0da) | Unilever | Englewood Cliffs, New Jersey | BD Strategy | 1 | New |
 ---
 
 ## Companies to Watch
