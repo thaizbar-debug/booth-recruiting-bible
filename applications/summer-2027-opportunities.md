@@ -133,3 +133,4 @@
 | Dr. Squatch (Unilever) | Los Angeles, CA | CPG / Personal Care | — | Watching |
 | Flower Foods | Thomasville, GA | CPG / Bakery | — | Watching |
 | Skinnygirl | Various | CPG / Lifestyle | — | Watching |
+| Garnett Station Partners | New York, NY | PE / Food & Bev | — | Watching |

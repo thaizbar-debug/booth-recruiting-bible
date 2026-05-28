@@ -217,6 +217,11 @@ Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Skinnygirl
 | IDEO | Design / Consulting | Marielis Rosario, MBA | Senior Business Design Team Lead *(MBA; Puerto Rican — LATAM background)* | [/in/marielisrosario](https://www.linkedin.com/in/marielisrosario/) | — | Not Contacted |
 | IDEO | Design / Consulting | Molly Zeins | Designer / Employee Experience *(U. of Chicago education)* | [/in/molly-zeins](https://www.linkedin.com/in/molly-zeins/) | — | Not Contacted |
 | IDEO | Design / Consulting | Annette Ferrara | Fmr. IDEO Chicago Team Lead *(now freelance; ⚠️ warm contact)* | [/in/annette-ferrara-3292178](https://www.linkedin.com/in/annette-ferrara-3292178/) | — | Not Contacted |
+| IDEO | Design / Consulting | Kelly Bjork | Partner, Chicago *(brand strategy + consumer products — Chicago location key para networking en Booth)* | ⚠️ buscar: "Kelly Bjork IDEO" en LinkedIn | — | Not Contacted |
+| IDEO | Design / Consulting | Steve Schwall | Partner, Chicago *(business growth + organizational design — Chicago; puerta de entrada local)* | ⚠️ buscar: "Steve Schwall IDEO" en LinkedIn | — | Not Contacted |
+| IDEO | Design / Consulting | Vivian Barad | Partner, San Francisco *(food & beverage + CPG — growth with climate-positive impact; best CPG entry point)* | ⚠️ buscar: "Vivian Barad IDEO" en LinkedIn | — | Not Contacted |
+| IDEO | Design / Consulting | Becca Carroll | Chief Strategy Officer, Global *(oversees all strategy work globally)* | ⚠️ buscar: "Becca Carroll IDEO" en LinkedIn | — | Not Contacted |
+| IDEO | Design / Consulting | [TO FIND] | Booth MBA alum at IDEO | Buscar: "IDEO" + "Chicago Booth" + MBA | — | To Find |
 | Cadence | CPG / Wellness | Ross Mackay | Founder & CEO *(electrolyte/performance wellness; LA-based)* | [/in/ross-mackay1](https://www.linkedin.com/in/ross-mackay1/) | — | Not Contacted |
 | Cadence | CPG / Wellness | Nap Hosang | Co-Founder & CMO, Cadence OTC *(⚠️ verificar si es la misma marca Cadence)* | [/in/naphosang](https://www.linkedin.com/in/naphosang/) | — | Not Contacted |
 | Cadence | CPG / Wellness | Karen Campbell | Marketing Content Manager *(⚠️ verificar marca exacta)* | [/in/karenfutchcampbell](https://www.linkedin.com/in/karenfutchcampbell/) | — | Not Contacted |
@@ -333,3 +338,22 @@ Cubre todas las empresas de la tabla **Companies to Watch** (de P&G a Skinnygirl
 | Oliver Wyman | Consulting | Tori Tanner | Campus Recruiting & Talent Management Lead *(2023 y 2025 Campus Recruiting Choice Award)* | [/in/victoriatanner](https://www.linkedin.com/in/victoriatanner/) | — | Not Contacted |
 | Oliver Wyman | Consulting | Maeve A. Byrne | University Recruiting *(2026 Campus Forward Award winner)* | [/in/maeve-a-byrne-80284933](https://www.linkedin.com/in/maeve-a-byrne-80284933/) | — | Not Contacted |
 | Oliver Wyman | Consulting | Brinda Doshi | Engagement Manager, Health & Life Sciences *(Booth MBA; Chicago)* | [/in/brinda-doshi](https://www.linkedin.com/in/brinda-doshi/) | — | Not Contacted |
+| Bada Bean Bada Boom | CPG Snack / Watching | Michael Shoretz | Co-Founder *(serial CPG entrepreneur; also behind Fruit Riot, Cloud 10, Enlightened)* | [/in/michael-shoretz-2971aa51](https://www.linkedin.com/in/michael-shoretz-2971aa51/) | — | Not Contacted |
+| Bada Bean Bada Boom | CPG Snack / Watching | [TO FIND] | Brand or Marketing Manager | Buscar: "Bada Bean" + brand OR marketing | — | To Find |
+| Bada Bean Bada Boom | CPG Snack / Watching | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Bada Bean Bada Boom | CPG Snack / Watching | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Cloud 10 | CPG / Confectionery | Michael Shoretz | Co-Founder *(serial CPG entrepreneur; also behind Fruit Riot, Bada Bean, Enlightened)* | [/in/michael-shoretz-2971aa51](https://www.linkedin.com/in/michael-shoretz-2971aa51/) | — | Not Contacted |
+| Cloud 10 | CPG / Confectionery | [TO FIND] | Brand or Marketing Manager | Buscar: "Cloud 10" + brand OR marketing | — | To Find |
+| Cloud 10 | CPG / Confectionery | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Cloud 10 | CPG / Confectionery | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Enlightened | CPG / Better-for-you | Michael Shoretz | Co-Founder *(serial CPG entrepreneur; also behind Fruit Riot, Bada Bean, Cloud 10)* | [/in/michael-shoretz-2971aa51](https://www.linkedin.com/in/michael-shoretz-2971aa51/) | — | Not Contacted |
+| Enlightened | CPG / Better-for-you | [TO FIND] | CMO or VP Brand | Buscar: "Enlightened" + CMO OR VP brand | — | To Find |
+| Enlightened | CPG / Better-for-you | [TO FIND] | Brand or Marketing Manager | — | — | To Find |
+| Enlightened | CPG / Better-for-you | [TO FIND] | Head of Retail or Sales | — | — | To Find |
+| Enlightened | CPG / Better-for-you | [TO FIND] | StartupCPG Slack connection | — | — | To Find |
+| Garnett Station Partners | PE / Food & Bev | Matt Perelman | Managing Partner & Co-Founder *(HBS; built ~$4B firm; food & bev + health & wellness PE focus)* | [/in/matthew-perelman-6b289148](https://www.linkedin.com/in/matthew-perelman-6b289148/) | — | Not Contacted |
+| Garnett Station Partners | PE / Food & Bev | Alex Sloane | Managing Partner & Co-Founder *(HBS; co-leads all deals alongside Perelman — grew up 3 blocks apart)* | ⚠️ buscar: "Alex Sloane Garnett Station" en LinkedIn | — | Not Contacted |
+| Garnett Station Partners | PE / Food & Bev | Rafi Haramati | Managing Director *(food & beverage + commercial services portfolio; joined 2019 as Associate)* | ⚠️ buscar: "Rafi Haramati Garnett Station" en LinkedIn | — | Not Contacted |
+| Garnett Station Partners | PE / Food & Bev | Max Hoberman | Principal *(food & beverage + health & wellness portfolio; joined 2019 as Associate)* | ⚠️ buscar: "Max Hoberman Garnett Station" en LinkedIn | — | Not Contacted |
+| Garnett Station Partners | PE / Food & Bev | Jordan Garay | Partner | ⚠️ buscar: "Jordan Garay Garnett Station" en LinkedIn | — | Not Contacted |
+| Garnett Station Partners | PE / Food & Bev | Marco Romero | Associate *(LATAM surname — posible warm connection)* | ⚠️ buscar: "Marco Romero Garnett Station" en LinkedIn | — | Not Contacted |
