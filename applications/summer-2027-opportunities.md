@@ -26,6 +26,8 @@
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
+| 2026-05-29 | [Sr Analyst, Strategic Planning & Insights 32](https://www.jobilize.com/job/us-nj-all-cities-sr-analyst-strategic-planning-insights-32-kraft-heinz) | Kraft Heinz Company | New Jersey | Corp Strategy | 1 | New |
+| 2026-05-29 | [Life Sciences Summer Analyst Intern (Summer 2027)](https://www.linkedin.com/jobs/view/life-sciences-summer-analyst-intern-summer-2027-at-clearview-healthcare-partners-4416844207) | ClearView Healthcare Partners | Boston, Massachusetts | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
