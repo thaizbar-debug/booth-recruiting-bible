@@ -134,3 +134,4 @@
 | Flower Foods | Thomasville, GA | CPG / Bakery | — | Watching |
 | Skinnygirl | Various | CPG / Lifestyle | — | Watching |
 | Garnett Station Partners | New York, NY | PE / Food & Bev | — | Watching |
+| Tyson Foods | Unknown | CPG | — | Radar — C-suite change — Jeff Schomburger (CEO) hired (2026-06-01) |
