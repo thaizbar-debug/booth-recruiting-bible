@@ -26,7 +26,6 @@
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
-| 2026-06-08 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
 ---
 
 ## Companies to Watch
