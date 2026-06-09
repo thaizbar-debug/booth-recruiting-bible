@@ -35,6 +35,8 @@
 | 2026-06-09 | [DTCC Early Access: Summer 2027 Internship and Fulltime Programs](https://www.talent.com/view?id=623057613150161312) | WayUp, Inc. | Hammond, Indiana | Corp Strategy | 4 | New |
 | 2026-06-09 | [Hands-On Construction Project Intern Summer Program](https://www.talent.com/view?id=623057620374981024) | Cooper Tacia Management LLC | Various | Corp Strategy | 4 | New |
 | 2026-06-09 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
+| 2026-06-09 | [2027 US Summer Internship - Early Interest](https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511) | Dexcom | San Diego, CA |
+  Corp Strategy | — | Applied |
 ---
 
 ## Companies to Watch
