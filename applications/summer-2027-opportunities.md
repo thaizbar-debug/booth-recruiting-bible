@@ -32,6 +32,9 @@
 | 2026-06-10 | [2027 Nestlé USA Sales Internship Program](https://www.linkedin.com/jobs/view/2027-nestl%C3%A9-usa-sales-internship-program-at-nestl%C3%A9-4417343443) | Nestlé | Various | BD Strategy | 1 | New |
 | 2026-06-10 | [DTCC Early Access: Summer 2027 Internship and Fulltime Programs](https://www.talent.com/view?id=623057613150161312) | WayUp, Inc. | Hammond, Indiana | Corp Strategy | 4 | New |
 | 2026-06-10 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
+| 2026-06-11 | [Associate Customer Strategy Manager](https://careers.unilever.com/en/job/rogers/associate-customer-strategy-manager/34155/96279201904) | UNILEVER | Rogers, Arkansas | Corp Strategy | 1 | New |
+| 2026-06-11 | [CRM Tech Consulting Internship- Summer 2027](https://jobs.fox8.com/jobs/crm-tech-consulting-internship-summer-2027-wauwatosa-wisconsin/2813693907-2/) | Wipfli | Wauwatosa, Wisconsin | Consulting | 4 | New |
+| 2026-06-11 | [Hands-On Construction Project Intern Summer Program](https://www.talent.com/view?id=623057620374981024) | Cooper Tacia Management LLC | Various | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
