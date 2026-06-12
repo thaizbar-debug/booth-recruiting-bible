@@ -35,6 +35,7 @@
 | 2026-06-11 | [Associate Customer Strategy Manager](https://careers.unilever.com/en/job/rogers/associate-customer-strategy-manager/34155/96279201904) | UNILEVER | Rogers, Arkansas | Corp Strategy | 1 | New |
 | 2026-06-11 | [CRM Tech Consulting Internship- Summer 2027](https://jobs.fox8.com/jobs/crm-tech-consulting-internship-summer-2027-wauwatosa-wisconsin/2813693907-2/) | Wipfli | Wauwatosa, Wisconsin | Consulting | 4 | New |
 | 2026-06-11 | [Hands-On Construction Project Intern Summer Program](https://www.talent.com/view?id=623057620374981024) | Cooper Tacia Management LLC | Various | Corp Strategy | 4 | New |
+| 2026-06-12 | [Compliance Intern](https://www.linkedin.com/jobs/view/compliance-intern-at-boston-consulting-group-bcg-4426925226) | Boston Consulting Group (BCG) | Boston, Massachusetts | Consulting | 1 | New |
 ---
 
 ## Companies to Watch
