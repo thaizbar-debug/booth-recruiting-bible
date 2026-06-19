@@ -25,7 +25,7 @@ Consulting was the safe-sounding post-MBA story in the MBA application essays. I
 
 ## Target list
 
-### Tier 1: Artifact + Cold Outreach (6 companies)
+### Tier 1: Artifact + Cold Outreach (7 companies)
 
 Each Tier 1 company gets a custom, pre-built proof-of-work artifact (brand strategy memo, rebrand concept, market entry analysis, experience teardown) used as the hook in 1-to-1 cold outreach to a specific decision maker.
 
@@ -37,6 +37,7 @@ Each Tier 1 company gets a custom, pre-built proof-of-work artifact (brand strat
 | 4 | Purely Elizabeth | Small founder-led wellness CPG (Boulder, CO). Decision maker reachable directly. |
 | 5 | Barebells | Authentic bodybuilding alignment. Swedish CPG expanding into US. No formal MBA pipeline. |
 | 6 | Endeavor | Holding company for WME (talent), IMG (events), TKO Group (UFC/WWE), On Location (premium hospitality at Super Bowl, Olympics, F1). The "Liberty Media equivalent" for luxury, music, concerts, sports under one roof. |
+| 7 | e.l.f. Beauty | Mass beauty brand-builder darling. TikTok marketing mastery, hyper-growth, acquired Naturium. Currently aggressive hiring in marketing/brand roles, so cold outreach lands hot. |
 
 ### Tier 2: Formal MBA Pipeline + Light Cold (7 companies)
 

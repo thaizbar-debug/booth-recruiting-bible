@@ -10,7 +10,7 @@
 
 Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-builder-strategy.md). Consulting is Plan Z. Focus is consumer experience (CPG + retail + big tech + entertainment + sports/wellness).
 
-### Tier 1: Artifact + Cold Outreach (6 companies)
+### Tier 1: Artifact + Cold Outreach (7 companies)
 
 | Rank | Company | Location | Industry | Notes |
 |---|---|---|---|---|
@@ -20,6 +20,7 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 4 | Purely Elizabeth | Boulder, CO | CPG / Granola | Founder led. Decision maker reachable directly. |
 | 5 | Barebells | Various, US | CPG / Protein | Bodybuilding alignment. Swedish brand expanding US. |
 | 6 | Endeavor | Beverly Hills, CA | Talent + Sports + Events | Holding for WME, IMG, TKO (UFC/WWE), On Location. |
+| 7 | e.l.f. Beauty | Oakland, CA | CPG / Mass Beauty | TikTok brand-builder. Aggressive hiring marketing/brand roles. |
 
 ### Tier 2: Formal MBA Pipeline + Light Cold (7 companies)
 
