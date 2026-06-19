@@ -6,6 +6,35 @@
 
 ---
 
+## Creative Builder Final Target List (June 2026)
+
+Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-builder-strategy.md). Consulting is Plan Z. Focus is consumer experience (CPG + retail + big tech + entertainment + sports/wellness).
+
+### Tier 1: Artifact + Cold Outreach (6 companies)
+
+| Rank | Company | Location | Industry | Notes |
+|---|---|---|---|---|
+| 1 | Oura | San Francisco, CA | Health Tech / Wearable | Heavy user. Wellness + longevity + STEM + design. |
+| 2 | A24 | New York, NY | Entertainment / Studio | Prestige brand. No formal MBA pipeline. Requires strongest creative artifact. |
+| 3 | Alo Yoga | Los Angeles, CA | Activewear / Wellness | Premium brand, founder culture. |
+| 4 | Purely Elizabeth | Boulder, CO | CPG / Granola | Founder led. Decision maker reachable directly. |
+| 5 | Barebells | Various, US | CPG / Protein | Bodybuilding alignment. Swedish brand expanding US. |
+| 6 | Endeavor | Beverly Hills, CA | Talent + Sports + Events | Holding for WME, IMG, TKO (UFC/WWE), On Location. |
+
+### Tier 2: Formal MBA Pipeline + Light Cold (7 companies)
+
+| Rank | Company | Location | Industry | Notes |
+|---|---|---|---|---|
+| 1 | Walt Disney | Burbank, CA | Entertainment | Structured MBA program. Highly competitive. |
+| 2 | Spotify | New York, NY | Tech / Audio | Formal MBA pipeline. |
+| 3 | Pinterest | San Francisco, CA | Tech / Visual Social | Formal pipeline. Design adjacent. |
+| 4 | Chobani | New York, NY | CPG / Yogurt | Mid size. Some formal recruiting. |
+| 5 | Fairlife | Chicago, IL | CPG / Dairy | Coca-Cola owned. |
+| 6 | Liquid I.V. | Los Angeles, CA | CPG / Hydration | Unilever owned. |
+| 7 | AEG Worldwide | Los Angeles, CA | Live Entertainment | Coachella, BST Hyde Park, LA Live. |
+
+---
+
 ## Active Listings
 
 | Date | Role | Company | Location | Track | Tier | Status |
