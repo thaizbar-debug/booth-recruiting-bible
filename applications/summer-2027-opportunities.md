@@ -176,3 +176,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Garnett Station Partners | New York, NY | PE / Food & Bev | — | Watching |
 | Tyson Foods | Unknown | CPG | — | Radar — C-suite change — Jeff Schomburger (CEO) hired (2026-06-01) |
 | Zevia | Unknown | CPG | — | Radar — C-suite change — Alexandre Ruberti (President and CEO) hired (2026-06-18) |
+| Heineken | Unknown | CPG | — | Radar — C-suite change — Rafael Oliveira (CEO) hired (2026-06-25) |
