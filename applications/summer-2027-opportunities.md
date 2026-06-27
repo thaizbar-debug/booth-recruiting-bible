@@ -56,16 +56,7 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-05-26 | [GTM Intern](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | Etched | San Jose, CA | Corp Strategy | — | Done |
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
-| 2026-06-09 | [2027 US Summer Internship - Early Interest](https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511) | Dexcom | San Diego, CA |Corp Strategy | — | Applied |
-| 2026-06-10 | [2027 Summer MBA Internship: Global Procurement](https://jobs.stevenagefc.com/jobs/2027-summer-mba-internship-global-procurement-purchase-new-york/2805135120-2/) | PepsiCo | Harrison, New York | Corp Strategy | 1 | New |
-| 2026-06-10 | [Specialist Strategic Planning](https://www.linkedin.com/jobs/view/specialist-strategic-planning-at-nestl%C3%A9-4417342456) | Nestlé | Various | Corp Strategy | 1 | New |
-| 2026-06-10 | [2027 Nestlé USA Sales Internship Program](https://www.linkedin.com/jobs/view/2027-nestl%C3%A9-usa-sales-internship-program-at-nestl%C3%A9-4417343443) | Nestlé | Various | BD Strategy | 1 | New |
-| 2026-06-10 | [DTCC Early Access: Summer 2027 Internship and Fulltime Programs](https://www.talent.com/view?id=623057613150161312) | WayUp, Inc. | Hammond, Indiana | Corp Strategy | 4 | New |
-| 2026-06-10 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
-| 2026-06-11 | [Associate Customer Strategy Manager](https://careers.unilever.com/en/job/rogers/associate-customer-strategy-manager/34155/96279201904) | UNILEVER | Rogers, Arkansas | Corp Strategy | 1 | New |
-| 2026-06-11 | [CRM Tech Consulting Internship- Summer 2027](https://jobs.fox8.com/jobs/crm-tech-consulting-internship-summer-2027-wauwatosa-wisconsin/2813693907-2/) | Wipfli | Wauwatosa, Wisconsin | Consulting | 4 | New |
-| 2026-06-11 | [Hands-On Construction Project Intern Summer Program](https://www.talent.com/view?id=623057620374981024) | Cooper Tacia Management LLC | Various | Corp Strategy | 4 | New |
-| 2026-06-12 | [Compliance Intern](https://www.linkedin.com/jobs/view/compliance-intern-at-boston-consulting-group-bcg-4426925226) | Boston Consulting Group (BCG) | Boston, Massachusetts | Consulting | 1 | New |
+| 2026-06-09 | [2027 US Summer Internship - Early Interest](https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511) | Dexcom | San Diego, CA |Corp Strategy | — | Done |
 ---
 
 ## Companies to Watch
