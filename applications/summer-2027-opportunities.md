@@ -168,3 +168,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Tyson Foods | Unknown | CPG | — | Radar — C-suite change — Jeff Schomburger (CEO) hired (2026-06-01) |
 | Zevia | Unknown | CPG | — | Radar — C-suite change — Alexandre Ruberti (President and CEO) hired (2026-06-18) |
 | Heineken | Unknown | CPG | — | Radar — C-suite change — Rafael Oliveira (CEO) hired (2026-06-25) |
+| Ocean Spray | Unknown | CPG | — | Radar — C-suite change — Abigail Buckwalter (CEO) hired (2026-06-29) |
