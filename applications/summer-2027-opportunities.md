@@ -57,6 +57,14 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-05-26 | [Global Sports Partnerships Project Intern (MBA)](https://lifeattiktok.com/search/7632491893825800453) | TikTok | New York, NY | BD Strategy | 4 | Done |
 | 2026-05-26 | [Global Sports Strategy and Operations Project Intern (MBA)](https://lifeattiktok.com/search/7636100822318369029) | TikTok | Los Angeles, CA | Corp Strategy | 4 | Done |
 | 2026-06-09 | [2027 US Summer Internship - Early Interest](https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511) | Dexcom | San Diego, CA |Corp Strategy | — | Done |
+| 2026-07-08 | [Shopper Insights & Category Strategy Advisor](https://www.whatjobs.com/jobs/shopper-insights-category-strategy/englewood-cliffs-new-jersey?id=2854011867) | Unilever | Englewood Cliffs, New Jersey | Growth | 1 | New |
+| 2026-07-08 | [Specialist Strategic Planning](https://jobdetails.nestle.com/job/Seattle-Specialist-Strategic-Planning-WA-98104/1391991733/) | Nestle Operational Services Worldwide SA | Arlington, Virginia | Corp Strategy | 1 | New |
+| 2026-07-08 | [Oliver Wyman Actuarial - Internship - Summer 2027](https://careers.marsh.com/eu/en/job/R_356561/Oliver-Wyman-Actuarial-Internship-Summer-2027) | Oliver Wyman Group | Various | Consulting | 2 | New |
+| 2026-07-08 | [Oliver Wyman Actuarial - Internship - Summer 2027](https://www.linkedin.com/jobs/view/oliver-wyman-actuarial-internship-summer-2027-at-oliver-wyman-4436376291) | Oliver Wyman | Seattle, Washington | Consulting | 2 | New |
+| 2026-07-08 | [Oliver Wyman Actuarial Summer Intern - 2027](https://www.jobilize.com/job/us-ma-dudley-oliver-wyman-actuarial-summer-intern-2027-nichols-college) | Nichols College | Dudley, Massachusetts | Consulting | 4 | New |
+| 2026-07-08 | [2027 Risk Advisory Summer Intern](https://bebee.com/us/jobs/2027-risk-advisory-summer-intern-schneider-downs-co-inc-pa--appcast-13509_98406468) | Schneider Downs & Co., Inc. | Pennsylvania | Consulting | 4 | New |
+| 2026-07-08 | [2027 Intern - Financial Services - FLC - Charlotte, NC](https://www.jobilize.com/job/us-ny-whitehall-2027-intern-financial-services-flc-charlotte-nc-fti) | FTI Consulting | Whitehall, New York | Consulting | 4 | New |
+| 2026-07-08 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
 ---
 
 ## Companies to Watch
