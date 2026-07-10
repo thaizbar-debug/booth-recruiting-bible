@@ -66,6 +66,8 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-07-08 | [2027 Intern - Financial Services - FLC - Charlotte, NC](https://www.jobilize.com/job/us-ny-whitehall-2027-intern-financial-services-flc-charlotte-nc-fti) | FTI Consulting | Whitehall, New York | Consulting | 4 | New |
 | 2026-07-08 | [Strategy and Business Development Intern (New York) - Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-intern-new-york-summer-2027-5730) | The D. E. Shaw Group | New York, New York | BD Strategy | 4 | New |
 | 2026-07-09 | [Principal, Strategy Consulting - Industrials](https://www.linkedin.com/jobs/view/principal-strategy-consulting-industrials-at-tarka-talent-4434842694) | Tarka Talent | New York, New York | Consulting | 4 | New |
+| 2026-07-10 | [Actuarial - Internship - Summer 2027](https://www.jobilize.com/job/us-ga-atlanta-actuarial-internship-summer-2027-oliver-wyman-hiring) | Oliver Wyman | Atlanta, Georgia | Consulting | 2 | New |
+| 2026-07-10 | [Associate (Intern - Summer 2027), Management Consulting](https://www.linkedin.com/jobs/view/associate-intern-summer-2027-management-consulting-at-alton-aviation-consultancy-4438830144) | Alton Aviation Consultancy | New York, New York | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
