@@ -69,6 +69,7 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-07-10 | [Actuarial - Internship - Summer 2027](https://www.jobilize.com/job/us-ga-atlanta-actuarial-internship-summer-2027-oliver-wyman-hiring) | Oliver Wyman | Atlanta, Georgia | Consulting | 2 | New |
 | 2026-07-10 | [Associate (Intern - Summer 2027), Management Consulting](https://www.linkedin.com/jobs/view/associate-intern-summer-2027-management-consulting-at-alton-aviation-consultancy-4438830144) | Alton Aviation Consultancy | New York, New York | Consulting | 4 | New |
 | 2026-07-11 | [Associate (Intern - Winter / Spring 2027), Management Consulting](https://www.linkedin.com/jobs/view/associate-intern-winter-spring-2027-management-consulting-at-alton-aviation-consultancy-4438817817) | Alton Aviation Consultancy | New York, New York | Consulting | 4 | New |
+| 2026-07-12 | [Brand Manager](https://jobs.vaco.com/job/17455/brand_manager/en) | Vaco LLC | Westwood, Massachusetts | CPG Brand | 4 | New |
 ---
 
 ## Companies to Watch
