@@ -182,3 +182,5 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Zevia | Unknown | CPG | — | Radar — C-suite change — Alexandre Ruberti (President and CEO) hired (2026-06-18) |
 | Heineken | Unknown | CPG | — | Radar — C-suite change — Rafael Oliveira (CEO) hired (2026-06-25) |
 | Ocean Spray | Unknown | CPG | — | Radar — C-suite change — Abigail Buckwalter (CEO) hired (2026-06-29) |
+| Brown-Forman | Unknown | CPG | — | Radar — C-suite change — Lawson Whiting (CEO) departed (2026-07-16) |
+| Bellring Brands | Unknown | CPG | — | Radar — C-suite change — Michael Axelrod (CEO) hired (2026-07-16) |
