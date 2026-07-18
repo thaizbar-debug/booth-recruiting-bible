@@ -184,3 +184,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Ocean Spray | Unknown | CPG | — | Radar — C-suite change — Abigail Buckwalter (CEO) hired (2026-06-29) |
 | Brown-Forman | Unknown | CPG | — | Radar — C-suite change — Lawson Whiting (CEO) departed (2026-07-16) |
 | Bellring Brands | Unknown | CPG | — | Radar — C-suite change — Michael Axelrod (CEO) hired (2026-07-16) |
+| Marzetti | Unknown | CPG | — | Radar — C-suite change — Mark Carter (Supply Chain Head) hired (2026-07-18) |
