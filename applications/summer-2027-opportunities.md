@@ -185,3 +185,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Brown-Forman | Unknown | CPG | — | Radar — C-suite change — Lawson Whiting (CEO) departed (2026-07-16) |
 | Bellring Brands | Unknown | CPG | — | Radar — C-suite change — Michael Axelrod (CEO) hired (2026-07-16) |
 | Marzetti | Unknown | CPG | — | Radar — C-suite change — Mark Carter (Supply Chain Head) hired (2026-07-18) |
+| Conagra | Unknown | CPG | — | Radar — C-suite change — John Brase (CEO) hired (2026-07-22) |
