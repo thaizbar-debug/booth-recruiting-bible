@@ -187,3 +187,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Marzetti | Unknown | CPG | — | Radar — C-suite change — Mark Carter (Supply Chain Head) hired (2026-07-18) |
 | Conagra | Unknown | CPG | — | Radar — C-suite change — John Brase (CEO) hired (2026-07-22) |
 | JM Smucker | Unknown | CPG | — | Radar — C-suite change — Douglas Guilherme (SVP of Operations, Supply Chain) hired (2026-07-24) |
+| Hormel Foods | Unknown | CPG | — | Radar — C-suite change — John Ghingo (CEO) promoted (2026-07-30) |
