@@ -22,6 +22,16 @@
 
 ---
 
+## Outreach Log
+
+| Contact | Company / Role | Track | First Contact | Last Action | Next Action | Status |
+|---|---|---|---|---|---|---|
+| B. Craig Hutson | CPG advisor, angel investor, food & ag tech | 5 / 2 | Jun 27, 2026 (LinkedIn) | Aug 1, 2026 — email sent to craig.hutson@comcast.net | Aug 6: if silent, work a second CPG contact (do not nudge Craig). Aug 12: one LinkedIn DM, last attempt. | Awaiting reply — he invited the email |
+
+Detail: [outreach-craig-hutson.md](outreach-craig-hutson.md)
+
+---
+
 ## Offer Log
 
 | Company | Role | Offer Date | Decision Deadline | Decision | Notes |
