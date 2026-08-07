@@ -34,9 +34,9 @@ GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL    = os.getenv("RECIPIENT_EMAIL", "thaizbar@gmail.com")
 SAVE_DIR           = Path(os.getenv("SAVE_DIR", "./daily-summaries"))
-GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o")
+GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "openai/gpt-4o")
 
-GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
+GITHUB_MODELS_URL  = "https://models.github.ai/inference"
 MAX_SCRAPED_CHARS  = 60_000
 
 JSEARCH_API_KEY = os.getenv("JSEARCH_API_KEY", "")

@@ -22,8 +22,8 @@ load_dotenv()
 GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 GITHUB_TOKEN       = os.getenv("GITHUB_TOKEN")
-GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "gpt-4o-mini")
-GITHUB_MODELS_URL  = "https://models.inference.ai.azure.com"
+GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "openai/gpt-4o-mini")
+GITHUB_MODELS_URL  = "https://models.github.ai/inference"
 SEEN_FILE          = Path(__file__).parent / "seen_articles.json"
 # Search for all known subject patterns (old and new format)
 SUBJECT_KEYWORDS   = ["Booth Recruiting Briefing", "daily briefing", "daily-briefing", "recruiting briefing"]
