@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write            # needed to commit seen_articles.json back to the repo
-  models: read
 
 jobs:
   briefing:
@@ -32,7 +31,7 @@ jobs:
       - name: Run daily briefing
         working-directory: daily-briefing
         env:
-          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}

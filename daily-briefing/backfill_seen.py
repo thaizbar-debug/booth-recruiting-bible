@@ -14,16 +14,15 @@ import sys
 import time
 import logging
 from pathlib import Path
-from openai import OpenAI
+import anthropic
 from dotenv import load_dotenv
 
 load_dotenv()
 
 GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
-GITHUB_TOKEN       = os.getenv("GITHUB_TOKEN")
-GITHUB_MODEL       = os.getenv("GITHUB_MODEL", "openai/gpt-4o-mini")
-GITHUB_MODELS_URL  = "https://models.github.ai/inference"
+ANTHROPIC_API_KEY  = os.getenv("ANTHROPIC_API_KEY")
+ANTHROPIC_MODEL    = os.getenv("ANTHROPIC_MODEL", "claude-opus-4-7")
 SEEN_FILE          = Path(__file__).parent / "seen_articles.json"
 # Search for all known subject patterns (old and new format)
 SUBJECT_KEYWORDS   = ["Booth Recruiting Briefing", "daily briefing", "daily-briefing", "recruiting briefing"]
@@ -120,19 +119,19 @@ EMAIL CONTENT:
 """
 
 
-def extract_topics_with_ai(body: str, client: OpenAI) -> list[str]:
+def extract_topics_with_ai(body: str, client: anthropic.Anthropic) -> list[str]:
     if len(body) > MAX_EMAIL_CHARS:
         body = body[:MAX_EMAIL_CHARS] + "\n[... truncated ...]"
 
     prompt = EXTRACT_PROMPT.replace("{email_body}", body)
 
     try:
-        response = client.chat.completions.create(
-            model=GITHUB_MODEL,
+        response = client.messages.create(
+            model=ANTHROPIC_MODEL,
             max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )
-        raw = response.choices[0].message.content.strip()
+        raw = "".join(b.text for b in response.content if b.type == "text").strip()
         # Strip markdown code fences if present
         raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         topics = json.loads(raw)
@@ -179,11 +178,11 @@ def main() -> None:
     if not GMAIL_ADDRESS or not GMAIL_APP_PASSWORD:
         log.error("GMAIL_ADDRESS and GMAIL_APP_PASSWORD must be set.")
         sys.exit(1)
-    if not GITHUB_TOKEN:
-        log.error("GITHUB_TOKEN must be set.")
+    if not ANTHROPIC_API_KEY:
+        log.error("ANTHROPIC_API_KEY must be set.")
         sys.exit(1)
 
-    client = OpenAI(base_url=GITHUB_MODELS_URL, api_key=GITHUB_TOKEN)
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
     bodies = fetch_briefing_bodies()
     if not bodies:
