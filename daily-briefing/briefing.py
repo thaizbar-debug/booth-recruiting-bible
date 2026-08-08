@@ -1089,7 +1089,7 @@ Find completely fresh angles, new examples, and different concepts throughout th
 {covered_topics}
 ============================
 
-Write a structured briefing with the SEVEN sections below. Be specific: name brands, \
+Write a structured briefing with the SIX sections below. Be specific: name brands, \
 campaigns, dollar figures, percentages, executive names, and product names wherever \
 the scraped content mentions them. Never be generic. Every sentence should be something \
 she could say in an interview and impress a hiring manager.
@@ -1129,19 +1129,11 @@ marketing/advertising, retail tech, measurement and attribution shifts, platform
 (TikTok, YouTube, Meta, retail media networks, CTV). Do not repeat items covered in \
 Sections 2 or 3. Target: 150–200 words. Skip if nothing new today.
 
-## SECTION 5 — INTERVIEW-READY FACTS
-List exactly 5 specific, citable facts or statistics from today's sources — each pulled \
-from a DIFFERENT topic than what already appears above. Format each as:
-  FACT [N]: [the stat or fact, with source name]
-  WHY IT MATTERS: [one sentence on why a brand manager or consultant should care]
-
----
-
 {drill_block}
 
 ---
 
-## SECTION 7 — C-SUITE RADAR & HIRING SIGNAL
+## SECTION 6 — C-SUITE RADAR & HIRING SIGNAL
 
 C-suite moves are the single best leading indicator of MBA hiring: new executives refresh \
 teams, new CMOs rebuild brand functions, new CEOs restructure strategy offices.
@@ -1162,7 +1154,7 @@ Always end with a concrete 7-day action. Target: 200 words.
 ---
 
 Total length target: 1,500–2,000 words. Use the exact section headers above (SECTION 1 \
-through SECTION 7). Write in a direct, confident tone — a sharp analyst briefing a Booth \
+through SECTION 6). Write in a direct, confident tone — a sharp analyst briefing a Booth \
 MBA student. No filler. No hedging. No repetition across sections.
 """
 
@@ -1171,7 +1163,7 @@ MBA student. No filler. No hedging. No repetition across sections.
 # ---------------------------------------------------------------------------
 
 DRILL_BRAND_CONCEPT = """\
-## SECTION 6 — BRAND MANAGEMENT CONCEPT OF THE DAY
+## SECTION 5 — BRAND MANAGEMENT CONCEPT OF THE DAY
 ALREADY USED CONCEPTS — do NOT pick any of these: {used_brand_concepts}
 
 Choose ONE brand management concept or framework from the REMAINING options. Choose from: \
@@ -1193,7 +1185,7 @@ INTERVIEW ANGLE: [one sentence on how a brand or consulting recruiter might test
 Target: 150 words. No mini-exercise, no filler."""
 
 DRILL_INSIGHTS = """\
-## SECTION 6 — CONSUMER INSIGHTS METHODOLOGY OF THE DAY
+## SECTION 5 — CONSUMER INSIGHTS METHODOLOGY OF THE DAY
 ALREADY USED METHODOLOGIES — do NOT pick any of these: {used_insights_methods}
 
 Choose ONE consumer insights methodology or metric from the REMAINING options. Choose from: \
@@ -1214,7 +1206,7 @@ BRAND APPLICATION: [one specific real-world example: company, brand, what the da
 Target: 150 words."""
 
 DRILL_VOCAB = """\
-## SECTION 6 — CPG VOCABULARY OF THE DAY
+## SECTION 5 — CPG VOCABULARY OF THE DAY
 ALREADY USED TERMS — do NOT pick any of these: {used_vocab_terms}
 
 Choose ONE term from the REMAINING CPG industry vocabulary. Choose from: category \
