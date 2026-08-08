@@ -34,7 +34,7 @@ GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL    = os.getenv("RECIPIENT_EMAIL", "thaizbar@gmail.com")
 SAVE_DIR           = Path(os.getenv("SAVE_DIR", "./daily-summaries"))
-GEMINI_MODEL       = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL       = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 MAX_SCRAPED_CHARS  = 60_000
 

@@ -22,7 +22,7 @@ load_dotenv()
 GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 GEMINI_API_KEY     = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL       = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL       = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 SEEN_FILE          = Path(__file__).parent / "seen_articles.json"
 # Search for all known subject patterns (old and new format)
 SUBJECT_KEYWORDS   = ["Booth Recruiting Briefing", "daily briefing", "daily-briefing", "recruiting briefing"]
