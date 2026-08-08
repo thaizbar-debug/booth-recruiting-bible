@@ -2,8 +2,8 @@ name: Daily Recruiting Briefing
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 13:00 UTC = 8:00 AM Chicago (CDT) / 7:00 AM (CST)
-  workflow_dispatch:         # allow manual runs from the GitHub UI
+    - cron: "0 13 * * 1,3,5"   # Mon/Wed/Fri 13:00 UTC = 8:00 AM Chicago (CDT) / 7:00 AM (CST)
+  workflow_dispatch:              # allow manual runs from the GitHub UI
 
 permissions:
   contents: write            # needed to commit seen_articles.json back to the repo

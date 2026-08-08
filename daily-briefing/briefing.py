@@ -132,23 +132,13 @@ def extract_used_concepts(briefing: str) -> dict:
         m = re.search(rf"^{re.escape(label)}:\s*(.+)$", text, re.MULTILINE | re.IGNORECASE)
         return m.group(1).strip() if m else ""
 
-    def section_text(full: str, header: str, next_header: str | None = None) -> str:
-        start = full.find(header)
-        if start == -1:
-            return ""
-        end = full.find(next_header, start) if next_header else len(full)
-        return full[start:end]
-
-    s6 = section_text(briefing, "SECTION 6", "SECTION 7")
-    s7 = section_text(briefing, "SECTION 7", "SECTION 8")
-    s8 = section_text(briefing, "SECTION 8", "SECTION 9")
-    s9 = section_text(briefing, "SECTION 9")
-
+    # Only ONE drill runs per email (rotates by weekday). Search the whole briefing
+    # for whichever unambiguous label is present.
     return {
-        "vocab_term":      find_value(s6, "TERM"),
-        "brand_concept":   find_value(s7, "CONCEPT"),
-        "insights_method": find_value(s8, "METHODOLOGY"),
-        "pl_concept":      find_value(s9, "CONCEPT"),
+        "vocab_term":      find_value(briefing, "VOCAB_TERM"),
+        "brand_concept":   find_value(briefing, "BRAND_CONCEPT"),
+        "insights_method": find_value(briefing, "INSIGHTS_METHOD"),
+        "pl_concept":      "",  # P&L drill retired; kept in seen file for backwards compat
     }
 
 
@@ -440,6 +430,66 @@ SOURCES = [
         "title_sel":   "h1, h2, h3, [class*='title']",
         "text_sel":    "p, [class*='description'], [class*='summary']",
     },
+    # --- Entertainment ---
+    {
+        "name":        "Variety",
+        "url":         "https://variety.com",
+        "article_sel": "article, .c-card, [class*='card']",
+        "title_sel":   "h1, h2, h3, .c-title",
+        "text_sel":    "p, .c-dek, [class*='dek']",
+    },
+    {
+        "name":        "The Hollywood Reporter",
+        "url":         "https://www.hollywoodreporter.com",
+        "article_sel": "article, .lrv-a-grid-story, [class*='story']",
+        "title_sel":   "h1, h2, h3, [class*='title']",
+        "text_sel":    "p, [class*='dek'], [class*='description']",
+    },
+    # --- Sports (business of sports) ---
+    {
+        "name":        "Front Office Sports",
+        "url":         "https://frontofficesports.com",
+        "article_sel": "article, .card, [class*='post']",
+        "title_sel":   "h1, h2, h3, [class*='title']",
+        "text_sel":    "p, [class*='excerpt'], [class*='description']",
+    },
+    {
+        "name":        "Sportico",
+        "url":         "https://www.sportico.com",
+        "article_sel": "article, .c-card, [class*='card']",
+        "title_sel":   "h1, h2, h3, [class*='title']",
+        "text_sel":    "p, [class*='dek'], [class*='description']",
+    },
+    # --- Media & journalism business ---
+    {
+        "name":        "Digiday",
+        "url":         "https://digiday.com",
+        "article_sel": "article, .river-item, [class*='post']",
+        "title_sel":   "h1, h2, h3, .entry-title",
+        "text_sel":    "p, .excerpt, [class*='dek']",
+    },
+    {
+        "name":        "Nieman Lab",
+        "url":         "https://www.niemanlab.org",
+        "article_sel": "article, .story, .post",
+        "title_sel":   "h1, h2, h3, .entry-title",
+        "text_sel":    "p, .entry-summary, .excerpt",
+    },
+    # --- Tech (additional) ---
+    {
+        "name":        "The Information",
+        "url":         "https://www.theinformation.com",
+        "article_sel": "article, .article-card, [class*='story']",
+        "title_sel":   "h1, h2, h3, [class*='title']",
+        "text_sel":    "p, [class*='dek'], [class*='summary']",
+    },
+    {
+        "name":        "Rest of World",
+        "url":         "https://restofworld.org",
+        "article_sel": "article, .card, [class*='post']",
+        "title_sel":   "h1, h2, h3, [class*='title']",
+        "text_sel":    "p, .excerpt, [class*='dek']",
+    },
 ]
 
 # ---------------------------------------------------------------------------
@@ -447,11 +497,13 @@ SOURCES = [
 # ---------------------------------------------------------------------------
 
 REDDIT_SOURCES = [
-    {"name": "Reddit r/marketing",    "url": "https://www.reddit.com/r/marketing/top.json?t=day&limit=15"},
-    {"name": "Reddit r/business",     "url": "https://www.reddit.com/r/business/top.json?t=day&limit=15"},
-    {"name": "Reddit r/Entrepreneur", "url": "https://www.reddit.com/r/Entrepreneur/top.json?t=day&limit=10"},
-    {"name": "Reddit r/consulting",   "url": "https://www.reddit.com/r/consulting/top.json?t=day&limit=10"},
-    {"name": "Reddit r/CPG",          "url": "https://www.reddit.com/r/CPG/top.json?t=week&limit=10"},
+    {"name": "Reddit r/marketing",      "url": "https://www.reddit.com/r/marketing/top.json?t=day&limit=15"},
+    {"name": "Reddit r/business",       "url": "https://www.reddit.com/r/business/top.json?t=day&limit=15"},
+    {"name": "Reddit r/Entrepreneur",   "url": "https://www.reddit.com/r/Entrepreneur/top.json?t=day&limit=10"},
+    {"name": "Reddit r/consulting",     "url": "https://www.reddit.com/r/consulting/top.json?t=day&limit=10"},
+    {"name": "Reddit r/CPG",            "url": "https://www.reddit.com/r/CPG/top.json?t=week&limit=10"},
+    {"name": "Reddit r/television",     "url": "https://www.reddit.com/r/television/top.json?t=day&limit=10"},
+    {"name": "Reddit r/sportsbusiness", "url": "https://www.reddit.com/r/sportsbusiness/top.json?t=week&limit=10"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -1037,159 +1089,62 @@ Find completely fresh angles, new examples, and different concepts throughout th
 {covered_topics}
 ============================
 
-Write a structured daily briefing with the NINE sections below. Be specific: name brands, \
+Write a structured briefing with the SEVEN sections below. Be specific: name brands, \
 campaigns, dollar figures, percentages, executive names, and product names wherever \
 the scraped content mentions them. Never be generic. Every sentence should be something \
-she could say in an interview and impress a hiring manager or consulting recruiter.
+she could say in an interview and impress a hiring manager.
+
+CRITICAL: Each insight, brand move, company, or data point belongs in ONE section only. \
+Do not repeat the same story across sections. If a P&G campaign fits both Section 1 (as \
+a consumer-behavior signal) and Section 2 (as a brand move), put it in Section 2 and \
+skip it in Section 1. Cross-reference by name if truly needed ("see Nike below in \
+Section 2"), but do not restate the substance.
 
 ---
 
 ## SECTION 1 — US CONSUMER PULSE
-What are American consumers actually doing, feeling, and buying right now?
-- Specific behaviors: what they are spending on, cutting back on, worrying about, or obsessing over.
-- Generational splits (Gen Z vs. Millennial vs. Boomer) or income-level differences if mentioned.
-- Shifts in trust, loyalty, or expectations toward brands.
-- Any data points, surveys, or studies cited in the sources.
+What are American consumers actually doing, feeling, and buying right now? Focus on the \
+signal, not the story — behaviors, generational splits, shifts in trust/loyalty, or new \
+data points/surveys. Do not list specific brand campaigns here (those go in Section 2). \
+Target: 150–200 words. Skip the section entirely if nothing meaningful is in the sources today.
 
-## SECTION 2 — BRAND & MARKETING MOVES
-Which brands made notable moves — campaigns, launches, rebrands, partnerships, or decisions?
-- For each move: what did the brand do, what was the strategy behind it, did it land well?
-- Focus on CPG, retail, tech, and entertainment — especially: P&G, Unilever, Kraft Heinz, \
-Nestlé, AB InBev, Colgate, Coca-Cola, PepsiCo, Walmart, Target, Amazon, Nike, Starbucks, \
-Google, Apple, Netflix, Disney.
-- Note the channel (social, TV, OOH, influencer, retail media, etc.) and target audience.
+## SECTION 2 — BRAND & BUSINESS MOVES
+Which brands or companies made notable moves — campaigns, launches, rebrands, M&A, \
+earnings, distribution changes, or strategic decisions? Cover CPG, retail, tech, and \
+consumer companies here (P&G, Unilever, Kraft Heinz, Nestlé, AB InBev, Coca-Cola, \
+PepsiCo, Walmart, Target, Amazon, Nike, Starbucks, Google, Apple, and similar). \
+For each move: what did they do, what was the strategy, did it land. Note channel and \
+audience where relevant. Target: 300–400 words. Prioritize 3–5 moves over long lists.
 
-## SECTION 3 — CPG & RETAIL INDUSTRY NEWS
-What is happening specifically in the CPG and retail industry today?
-- Earnings, market share shifts, distribution changes, M&A, private label vs. national brand dynamics.
-- Retailer moves (Walmart, Target, Kroger, Costco, Dollar General) that affect CPG brands.
-- International or LATAM consumer market developments if any appear in the sources.
-- Consulting implications: what strategic questions do these trends raise for MBB clients?
+## SECTION 3 — ENTERTAINMENT, SPORTS & MEDIA SIGNALS
+What is happening in entertainment, sports business, and media that is relevant to a \
+brand-and-consumer-focused MBA? Streaming and content strategy, studio deals, sports \
+sponsorships and league economics, media companies' business models, creator economy, \
+consumer attention shifts. Prioritize signals that connect to how consumer brands market, \
+partner, or reach audiences. Do not repeat items covered in Section 2. Target: 200–300 words.
 
 ## SECTION 4 — TECH & PRODUCT TRENDS
-What is changing in how US companies build, market, and distribute products?
-- AI in marketing and advertising, retail tech, streaming and content strategy.
-- Changes in measurement, attribution, or ad spend relevant for brand managers.
-- Platform momentum shifts (TikTok, YouTube, Meta, retail media networks, CTV).
+What is changing in how US companies build, market, and distribute products? AI in \
+marketing/advertising, retail tech, measurement and attribution shifts, platform momentum \
+(TikTok, YouTube, Meta, retail media networks, CTV). Do not repeat items covered in \
+Sections 2 or 3. Target: 150–200 words. Skip if nothing new today.
 
 ## SECTION 5 — INTERVIEW-READY FACTS
-List exactly 5 specific, citable facts or statistics from today's sources that Thaiz \
-can drop naturally in a job interview. Format each as:
+List exactly 5 specific, citable facts or statistics from today's sources — each pulled \
+from a DIFFERENT topic than what already appears above. Format each as:
   FACT [N]: [the stat or fact, with source name]
   WHY IT MATTERS: [one sentence on why a brand manager or consultant should care]
 
 ---
 
-## SECTION 6 — CPG SECTOR VOCABULARY DRILL
-ALREADY USED TERMS — do NOT pick any of these, they have already been covered: {used_vocab_terms}
-
-Choose ONE term from the REMAINING CPG industry vocabulary that Thaiz should master. \
-Choose from: category management, shelf economics, planogram, trade spend, slotting fees, \
-A&P budget, household penetration, buying rate, volumetric share, share of category \
-requirements, share of wallet, retailer margin, promotional lift, everyday low price (EDLP) \
-vs. Hi-Lo pricing, SKU rationalization, private label threat, line extension vs. brand \
-extension, innovation funnel, consumer panel data, basket analysis, cross-elasticity of \
-demand, velocity (units/store/week), facings, distribution (ACV and TDP), shelf placement \
-logic, promotional mechanics (BOGO, TPR, display, feature-and-display).
-
-Format exactly as:
-TERM: [term]
-DEFINITION: [plain English, 2–3 sentences — no jargon inside the definition]
-WHY IT MATTERS: [one sentence on why a brand manager or CPG consultant must know this cold]
-REAL EXAMPLE: [name a specific real brand and a specific concrete situation where this term \
-  applies — P&G, Unilever, Kraft Heinz, Coca-Cola, etc. Be specific: company, brand, year, \
-  outcome if known]
-INTERVIEW HOOK: [one sentence Thaiz could say in an interview to signal fluency in this term]
+{drill_block}
 
 ---
 
-## SECTION 7 — BRAND MANAGEMENT CONCEPT OF THE DAY
-ALREADY USED CONCEPTS — do NOT pick any of these, they have already been covered: {used_brand_concepts}
-
-Choose ONE brand management concept or framework from the REMAINING options. \
-Choose from: brand equity pyramid (Aaker), brand positioning statement structure, \
-consumer insight vs. mere observation, Jobs-to-Be-Done applied to brands, brand \
-architecture (house of brands vs. branded house vs. endorsed brand), brand extension \
-success factors, brand extension failure autopsies, price-pack architecture, \
-occasion-based marketing, penetration vs. frequency as growth levers (Byron Sharp / \
-How Brands Grow), physical availability vs. mental availability, emotional vs. \
-functional benefits in brand laddering, perceptual mapping, brand tracking metrics \
-(awareness / consideration / preference / NPS), creative effectiveness measurement, \
-the 4Ps applied to CPG, the brand funnel, repositioning a declining brand.
-
-Format exactly as:
-CONCEPT: [concept name]
-THEORY: [2–3 crisp sentences — what it is and why it matters]
-CLASSIC EXAMPLE: [name a real brand, the specific application of this concept, and the \
-  outcome — the more specific the better]
-MINI-EXERCISE: Look at one brand move from SECTION 2 above. Apply this concept to \
-  analyze that brand's decision in 3–4 sentences. Show your reasoning explicitly — \
-  don't just name the concept, demonstrate it.
-INTERVIEW ANGLE: [one sentence on how a McKinsey, BCG, or brand management recruiter \
-  might test this concept in an interview or case]
-
----
-
-## SECTION 8 — CONSUMER INSIGHTS & MARKET RESEARCH LITERACY
-ALREADY USED METHODOLOGIES — do NOT pick any of these, they have already been covered: {used_insights_methods}
-
-Choose ONE consumer insights methodology or metric from the REMAINING options. \
-Choose from: household penetration rate (what it is and how to grow it), purchase \
-frequency and buying rate, share of category requirements (loyalty metric), consumer \
-segmentation approaches (demographic, psychographic, behavioral, occasion-based), \
-occasion mapping and when/where/why frameworks, attitude & usage (A&U) studies, \
-panel data (Nielsen / Circana) vs. POS data — what each tells you, concept testing \
-methodology, conjoint analysis (what trade-offs consumers make), NPS and its blind \
-spots, the shopper vs. consumer vs. customer distinction, path to purchase mapping, \
-qualitative vs. quantitative research tradeoffs, social listening as a research tool, \
-how to write a consumer insight statement, Jobs-to-Be-Done interview technique.
-
-Format exactly as:
-METHODOLOGY: [name]
-WHAT IT IS: [plain English, 2 sentences — someone with no research background should \
-  understand this]
-HOW TO READ IT: [what does a high/low score or result signal? What decision does it unlock?]
-BRAND APPLICATION: [one specific real-world example — company, brand, what the data showed, \
-  and what strategic decision it drove. The more specific, the better.]
-PRACTICE QUESTION: [write the exact interview question a P&G, Unilever, or McKinsey \
-  recruiter might ask that requires knowing this — then give a model 2-sentence answer \
-  Thaiz could use]
-
----
-
-## SECTION 9 — P&L LITERACY DRILL
-ALREADY USED CONCEPTS — do NOT pick any of these, they have already been covered: {used_pl_concepts}
-
-Choose ONE P&L concept or financial metric from the REMAINING options that a CPG brand \
-manager must understand. Choose from: gross revenue vs. net revenue (trade deductions), \
-gross margin and why it varies by category, contribution margin, trade spend mechanics \
-and ROI, A&P budget (advertising & promotion) as a percent of net revenue, EBITDA and \
-how brands contribute to it, incremental revenue vs. cannibalization, price elasticity \
-and when to raise vs. hold price, revenue management (price-pack-channel architecture), \
-promotional efficiency (lift-to-cost ratio), volume share vs. value share, working vs. \
-non-working media spend, marketing mix modeling (MMM) — what it does and its limits, \
-how brand investment is justified to finance on a 3-year IRR basis.
-
-Format exactly as:
-CONCEPT: [concept name]
-FORMULA OR DEFINITION: [precise — if there's a formula, write it out]
-WHAT IT TELLS YOU: [one sentence — what decision does knowing this number change?]
-WORKED EXAMPLE: [a realistic numerical example with real-ish numbers — e.g., \
-  "Brand X generates $120M gross revenue. Retailer deductions are 18%, COGS is 40% \
-  of net revenue, and A&P is 14% of net revenue. Calculate gross margin and A&P spend."]
-ANSWER: [work through the math step by step — show the arithmetic]
-INTERVIEW TRAP: [one common mistake MBA candidates make when discussing this concept — \
-  and the correct way to frame it]
-
----
-
----
-
-## SECTION 10 — C-SUITE RADAR & HIRING SIGNAL
+## SECTION 7 — C-SUITE RADAR & HIRING SIGNAL
 
 C-suite moves are the single best leading indicator of MBA hiring: new executives refresh \
-teams, new CMOs rebuild brand functions, new CEOs restructure strategy offices. A change at \
-a target company is a reason to act this week, not wait for recruiting season.
+teams, new CMOs rebuild brand functions, new CEOs restructure strategy offices.
 
 EXECUTIVE CHANGES DETECTED TODAY AT MONITORED COMPANIES:
 {csuite_findings}
@@ -1198,20 +1153,98 @@ For each change detected:
 1. What does this leadership move signal about the company's strategic direction or team needs?
 2. Does a new hire (vs. departure) make this company MORE or LESS attractive for an MBA \
    summer internship right now — and why?
-3. The ONE concrete action Thaiz should take in the next 7 days to capitalize on this signal \
-   (reach out to a specific alumni segment, watch a specific team's LinkedIn, attend an event, \
-   update her pitch for that firm, etc.)
+3. The ONE concrete action Thaiz should take in the next 7 days to capitalize on this signal.
 
-If no C-suite changes were detected today, use this section to identify the ONE company from \
-Sections 2 or 3 showing the strongest expansion or restructuring signal, and give the same \
-three-part analysis for that company. Always end with a concrete 7-day action.
+If no C-suite changes were detected today, identify the ONE company from Section 2 showing \
+the strongest expansion or restructuring signal and give the same three-part analysis. \
+Always end with a concrete 7-day action. Target: 200 words.
 
 ---
 
-Length target: 3,000–4,000 words total. Use the exact section headers above. \
-Write in a direct, confident tone — like a sharp analyst briefing a Booth MBA student \
-who is one week away from a McKinsey first-round interview.
+Total length target: 1,500–2,000 words. Use the exact section headers above (SECTION 1 \
+through SECTION 7). Write in a direct, confident tone — a sharp analyst briefing a Booth \
+MBA student. No filler. No hedging. No repetition across sections.
 """
+
+# ---------------------------------------------------------------------------
+# Drill blocks — one rotates in per day (Mon/Wed/Fri)
+# ---------------------------------------------------------------------------
+
+DRILL_BRAND_CONCEPT = """\
+## SECTION 6 — BRAND MANAGEMENT CONCEPT OF THE DAY
+ALREADY USED CONCEPTS — do NOT pick any of these: {used_brand_concepts}
+
+Choose ONE brand management concept or framework from the REMAINING options. Choose from: \
+brand equity pyramid (Aaker), brand positioning statement structure, consumer insight vs. \
+mere observation, Jobs-to-Be-Done applied to brands, brand architecture (house of brands \
+vs. branded house vs. endorsed brand), brand extension success factors, brand extension \
+failure autopsies, price-pack architecture, occasion-based marketing, penetration vs. \
+frequency as growth levers (Byron Sharp / How Brands Grow), physical vs. mental availability, \
+emotional vs. functional benefits in brand laddering, perceptual mapping, brand tracking \
+metrics (awareness / consideration / preference / NPS), creative effectiveness measurement, \
+the 4Ps applied to CPG, the brand funnel, repositioning a declining brand.
+
+Format exactly as:
+BRAND_CONCEPT: [concept name]
+THEORY: [2 crisp sentences]
+CLASSIC EXAMPLE: [real brand, specific application, outcome]
+INTERVIEW ANGLE: [one sentence on how a brand or consulting recruiter might test this]
+
+Target: 150 words. No mini-exercise, no filler."""
+
+DRILL_INSIGHTS = """\
+## SECTION 6 — CONSUMER INSIGHTS METHODOLOGY OF THE DAY
+ALREADY USED METHODOLOGIES — do NOT pick any of these: {used_insights_methods}
+
+Choose ONE consumer insights methodology or metric from the REMAINING options. Choose from: \
+household penetration rate, purchase frequency and buying rate, share of category \
+requirements, consumer segmentation approaches, occasion mapping, attitude & usage (A&U) \
+studies, panel data (Nielsen / Circana) vs. POS data, concept testing methodology, conjoint \
+analysis, NPS and its blind spots, shopper vs. consumer vs. customer distinction, path to \
+purchase mapping, qualitative vs. quantitative tradeoffs, social listening as research, \
+how to write a consumer insight statement, Jobs-to-Be-Done interview technique.
+
+Format exactly as:
+INSIGHTS_METHOD: [name]
+WHAT IT IS: [2 sentences, plain English]
+HOW TO READ IT: [what does a high/low result signal? What decision does it unlock?]
+BRAND APPLICATION: [one specific real-world example: company, brand, what the data showed, \
+  what decision it drove]
+
+Target: 150 words."""
+
+DRILL_VOCAB = """\
+## SECTION 6 — CPG VOCABULARY OF THE DAY
+ALREADY USED TERMS — do NOT pick any of these: {used_vocab_terms}
+
+Choose ONE term from the REMAINING CPG industry vocabulary. Choose from: category \
+management, shelf economics, planogram, trade spend, slotting fees, A&P budget, household \
+penetration, buying rate, volumetric share, share of category requirements, share of \
+wallet, retailer margin, promotional lift, EDLP vs. Hi-Lo pricing, SKU rationalization, \
+private label threat, line extension vs. brand extension, innovation funnel, consumer \
+panel data, basket analysis, cross-elasticity of demand, velocity (units/store/week), \
+facings, distribution (ACV and TDP), promotional mechanics (BOGO, TPR, display).
+
+Format exactly as:
+VOCAB_TERM: [term]
+DEFINITION: [2 sentences, plain English, no jargon inside]
+WHY IT MATTERS: [one sentence]
+REAL EXAMPLE: [specific brand and concrete situation]
+INTERVIEW HOOK: [one sentence Thaiz could say to signal fluency]
+
+Target: 150 words."""
+
+
+def _pick_drill_block(today_dt: datetime.date) -> str:
+    """Rotate the concept drill: Mon = brand concept, Wed = insights, Fri = vocab.
+    Falls back to brand concept on any other weekday (e.g. manual runs)."""
+    weekday = today_dt.weekday()  # 0=Mon, 2=Wed, 4=Fri
+    if weekday == 2:
+        return DRILL_INSIGHTS
+    if weekday == 4:
+        return DRILL_VOCAB
+    return DRILL_BRAND_CONCEPT
+
 
 # ---------------------------------------------------------------------------
 # Briefing generation
@@ -1221,6 +1254,7 @@ who is one week away from a McKinsey first-round interview.
 def generate_briefing(
     scraped_content: str,
     today: str,
+    today_dt: datetime.date,
     seen: dict,
     client: genai.Client,
     csuite_findings: str = "No C-suite changes detected at monitored companies today.",
@@ -1234,7 +1268,14 @@ def generate_briefing(
     used_vocab    = ", ".join(seen["vocab_terms"])      or "none yet"
     used_brand    = ", ".join(seen["brand_concepts"])   or "none yet"
     used_insights = ", ".join(seen["insights_methods"]) or "none yet"
-    used_pl       = ", ".join(seen["pl_concepts"])      or "none yet"
+
+    # Pick today's drill block (Mon = brand concept, Wed = insights, Fri = vocab)
+    drill_block = (_pick_drill_block(today_dt)
+        .replace("{used_brand_concepts}",   used_brand)
+        .replace("{used_insights_methods}", used_insights)
+        .replace("{used_vocab_terms}",      used_vocab)
+    )
+    log.info("Drill for weekday=%d: %s", today_dt.weekday(), drill_block.split("\n", 1)[0])
 
     # Build the covered-topics block (cap at 300 most recent to keep prompt size manageable)
     recent_topics = seen["topics"][-100:] if len(seen["topics"]) > 100 else seen["topics"]
@@ -1244,14 +1285,11 @@ def generate_briefing(
 
     # Use replace() instead of format() to avoid KeyError from curly braces in scraped content
     full_prompt = (PROMPT_TEMPLATE
-        .replace("{today}",                 today)
-        .replace("{scraped_content}",       scraped_content)
-        .replace("{covered_topics}",        covered_topics)
-        .replace("{used_vocab_terms}",      used_vocab)
-        .replace("{used_brand_concepts}",   used_brand)
-        .replace("{used_insights_methods}", used_insights)
-        .replace("{used_pl_concepts}",      used_pl)
-        .replace("{csuite_findings}",       csuite_findings)
+        .replace("{today}",           today)
+        .replace("{scraped_content}", scraped_content)
+        .replace("{covered_topics}",  covered_topics)
+        .replace("{drill_block}",     drill_block)
+        .replace("{csuite_findings}", csuite_findings)
     )
     log.info("Prompt size: %d characters.", len(full_prompt))
 
@@ -1397,7 +1435,7 @@ def main() -> None:
     log.info("C-Suite Radar done — %d change(s), %d new CSV row(s).", len(executive_changes), new_opps_added)
 
     # Generate briefing — injects covered topics, concept lists, and C-suite findings
-    briefing = generate_briefing(scraped, today_long, seen, client, csuite_findings)
+    briefing = generate_briefing(scraped, today_long, today, seen, client, csuite_findings)
 
     # Extract which structured concept was chosen in each rotating section (6-9)
     concepts = extract_used_concepts(briefing)
