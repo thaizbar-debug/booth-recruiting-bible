@@ -2,7 +2,7 @@
 Daily Recruiting Briefing — Booth MBA (Thaiz Barthelmess)
 
 Scrapes top business, marketing, and CPG publications; generates a structured briefing
-via the Anthropic API (requires ANTHROPIC_API_KEY); emails it; saves locally.
+via the Google Gemini API (requires GEMINI_API_KEY, free tier); emails it; saves locally.
 """
 
 import os
@@ -18,7 +18,7 @@ from urllib.parse import urljoin
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-import anthropic
+from google import genai
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
@@ -29,12 +29,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-ANTHROPIC_API_KEY  = os.getenv("ANTHROPIC_API_KEY")
+GEMINI_API_KEY     = os.getenv("GEMINI_API_KEY")
 GMAIL_ADDRESS      = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL    = os.getenv("RECIPIENT_EMAIL", "thaizbar@gmail.com")
 SAVE_DIR           = Path(os.getenv("SAVE_DIR", "./daily-summaries"))
-ANTHROPIC_MODEL    = os.getenv("ANTHROPIC_MODEL", "claude-opus-4-7")
+GEMINI_MODEL       = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 
 MAX_SCRAPED_CHARS  = 60_000
 
@@ -152,7 +152,7 @@ def extract_used_concepts(briefing: str) -> dict:
     }
 
 
-def extract_topics_from_briefing(briefing: str, client: anthropic.Anthropic) -> list[str]:
+def extract_topics_from_briefing(briefing: str, client: genai.Client) -> list[str]:
     """Use AI to extract a list of all topics covered in the generated briefing."""
     prompt = (
         "Read this daily recruiting briefing. Extract a comprehensive list of ALL topics "
@@ -163,12 +163,11 @@ def extract_topics_from_briefing(briefing: str, client: anthropic.Anthropic) -> 
         + briefing[:10_000]
     )
     try:
-        response = client.messages.create(
-            model=ANTHROPIC_MODEL,
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}],
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=prompt,
         )
-        raw = "".join(b.text for b in response.content if b.type == "text").strip()
+        raw = (response.text or "").strip()
         raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         topics = json.loads(raw)
         if isinstance(topics, list):
@@ -769,7 +768,7 @@ def _add_company_to_radar(company: str, location: str, industry: str, note: str)
         log.warning("Failed to add company to watch list: %s", exc)
 
 
-def detect_executive_changes(scraped_text: str, client: anthropic.Anthropic) -> list[dict]:
+def detect_executive_changes(scraped_text: str, client: genai.Client) -> list[dict]:
     """
     Scan today's news for C-suite / senior leadership changes at any company
     in industries relevant to Thaiz: CPG, consulting, consumer tech, retail,
@@ -801,12 +800,11 @@ def detect_executive_changes(scraped_text: str, client: anthropic.Anthropic) -> 
         "NEWS:\n" + scraped_text[:20_000]
     )
     try:
-        resp = client.messages.create(
-            model=ANTHROPIC_MODEL,
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}],
+        resp = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=prompt,
         )
-        raw = "".join(b.text for b in resp.content if b.type == "text").strip()
+        raw = (resp.text or "").strip()
         raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         changes = json.loads(raw)
         if not isinstance(changes, list):
@@ -965,7 +963,7 @@ def _append_jobs_to_md(new_jobs: list[dict]) -> int:
     return len(rows)
 
 
-def run_csuite_radar(scraped_text: str, client: anthropic.Anthropic) -> tuple[list[dict], int]:
+def run_csuite_radar(scraped_text: str, client: genai.Client) -> tuple[list[dict], int]:
     """
     Detect C-suite changes in today's news across all relevant industries.
     For each flagged company:
@@ -1224,10 +1222,10 @@ def generate_briefing(
     scraped_content: str,
     today: str,
     seen: dict,
-    client: anthropic.Anthropic,
+    client: genai.Client,
     csuite_findings: str = "No C-suite changes detected at monitored companies today.",
 ) -> str:
-    log.info("Generating briefing via Anthropic (model: %s) …", ANTHROPIC_MODEL)
+    log.info("Generating briefing via Gemini (model: %s) …", GEMINI_MODEL)
 
     if len(scraped_content) > MAX_SCRAPED_CHARS:
         log.warning("Scraped content truncated from %d to %d chars.", len(scraped_content), MAX_SCRAPED_CHARS)
@@ -1257,15 +1255,14 @@ def generate_briefing(
     )
     log.info("Prompt size: %d characters.", len(full_prompt))
 
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=8192,
-        messages=[{"role": "user", "content": full_prompt}],
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=full_prompt,
     )
 
-    briefing = "".join(b.text for b in response.content if b.type == "text").strip()
+    briefing = (response.text or "").strip()
     if not briefing:
-        raise RuntimeError("Anthropic API returned empty content.")
+        raise RuntimeError("Gemini API returned empty content.")
 
     log.info("Briefing generated — %d characters.", len(briefing))
     return briefing
@@ -1342,7 +1339,7 @@ def save_briefing(briefing: str, date_str: str) -> Path:
 
 def validate_env() -> list[str]:
     required = {
-        "ANTHROPIC_API_KEY":  ANTHROPIC_API_KEY,
+        "GEMINI_API_KEY":     GEMINI_API_KEY,
         "GMAIL_ADDRESS":      GMAIL_ADDRESS,
         "GMAIL_APP_PASSWORD": GMAIL_APP_PASSWORD,
     }
@@ -1367,7 +1364,7 @@ def main() -> None:
 
     log.info("=== Booth Recruiting Briefing  %s ===", date_str)
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
     # Load full seen record (articles + concepts + topics)
     seen = load_seen()
