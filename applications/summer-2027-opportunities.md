@@ -70,6 +70,13 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-07-10 | [Associate (Intern - Summer 2027), Management Consulting](https://www.linkedin.com/jobs/view/associate-intern-summer-2027-management-consulting-at-alton-aviation-consultancy-4438830144) | Alton Aviation Consultancy | New York, New York | Consulting | 4 | New |
 | 2026-07-11 | [Associate (Intern - Winter / Spring 2027), Management Consulting](https://www.linkedin.com/jobs/view/associate-intern-winter-spring-2027-management-consulting-at-alton-aviation-consultancy-4438817817) | Alton Aviation Consultancy | New York, New York | Consulting | 4 | New |
 | 2026-07-12 | [Brand Manager](https://jobs.vaco.com/job/17455/brand_manager/en) | Vaco LLC | Westwood, Massachusetts | CPG Brand | 4 | New |
+| 2026-08-09 | [Strategy and Analytics Associate Manager, Wellbeing Collective](https://us.jobrapido.com/jobpreview/1268227682001223680) | Unilever | Various | Corp Strategy | 1 | New |
+| 2026-08-09 | [2027 Nestlé USA Procurement Internship](https://www.linkedin.com/jobs/view/2027-nestl%C3%A9-usa-procurement-internship-at-nestl%C3%A9-4449012479) | Nestlé | Arlington, Virginia | Corp Strategy | 1 | New |
+| 2026-08-09 | [Summer Consultant—2027](https://www.linkedin.com/jobs/view/summer-consultant%E2%80%942027-at-bates-white-economic-consulting-4450709100) | Bates White Economic Consulting | Various | Consulting | 4 | New |
+| 2026-08-09 | [2027 Summer Associate (Intern) at Berkeley Research Group, LLC in Washington, Washington D](https://bebee.com/us/jobs/2027-summer-associate-intern-at-berkeley-research-group-llc-in-washington-washington-dc-berkeley-res--lifeworq-4809c8b8-a580-4ee2-8477-38ebfbc1fb6b) | Berkeley Research Group, LLC | Various | Consulting | 4 | New |
+| 2026-08-09 | [Engagement Services Intern](https://interninsider.me/internships/cbiz/engagement-services-intern-0681c33e-7cb2-47b8-a97c-d614c4d36a63) | CBIZ | Various | Consulting | 4 | New |
+| 2026-08-09 | [Corporate Development Intern (Summer 2027)](https://www.linkedin.com/jobs/view/corporate-development-intern-summer-2027-at-houlihan-lokey-4431718286) | Houlihan Lokey | New York, New York | Consulting | 4 | New |
+| 2026-08-09 | [2026 Summer Internship - MBA Corporate Strategy](https://jobs.royalcaribbeangroup.com/job/Miami-2026-Summer-Internship-MBA-Corporate-Strategy-FL-33132/1318799800/) | Royal Caribbean Cruises Ltd | Miami, Florida | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
