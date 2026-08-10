@@ -77,6 +77,16 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-08-09 | [Engagement Services Intern](https://interninsider.me/internships/cbiz/engagement-services-intern-0681c33e-7cb2-47b8-a97c-d614c4d36a63) | CBIZ | Various | Consulting | 4 | New |
 | 2026-08-09 | [Corporate Development Intern (Summer 2027)](https://www.linkedin.com/jobs/view/corporate-development-intern-summer-2027-at-houlihan-lokey-4431718286) | Houlihan Lokey | New York, New York | Consulting | 4 | New |
 | 2026-08-09 | [2026 Summer Internship - MBA Corporate Strategy](https://jobs.royalcaribbeangroup.com/job/Miami-2026-Summer-Internship-MBA-Corporate-Strategy-FL-33132/1318799800/) | Royal Caribbean Cruises Ltd | Miami, Florida | Corp Strategy | 4 | New |
+| 2026-08-10 | [2027 MBA Finance Leadership Development Program (FLDP) Internship - Amazon - Handshake](https://app.joinhandshake.com/public/jobs/11280541) | Amazon | Seattle, Washington | General Mgmt | 2 | New |
+| 2026-08-10 | [Summer 2027 Intern - Healthcare & Life Sciences Division [UG/Masters]](https://www.linkedin.com/jobs/view/summer-2027-intern-healthcare-life-sciences-division-ug-masters-at-simon-kucher-4437282548) | Simon-Kucher | Chicago, Illinois | Consulting | 3 | New |
+| 2026-08-10 | [MBA HR Intern Analytics, Talent & Engagement](https://www.mediabistro.com/jobs/3542377561-mba-hr-intern-analytics-talent-engagement) | iQuasar | Lanham, Maryland | Corp Strategy | 4 | New |
+| 2026-08-10 | [2026 Summer MBA Intern – Fixed Income](https://us.trabajo.org/job-4023-65a4ea411ae402966f55de2c7f1422aa) | T. Rowe Price | Baltimore, Maryland | Corp Strategy | 4 | New |
+| 2026-08-10 | [LEARNING FACILITATOR, QUESTROM, Online MBA 8](https://www.jobilize.com/job/us-dc-all-cities-learning-facilitator-questrom-online-mba-8-boston) | Boston University | Washington, District of Columbia | Corp Strategy | 4 | New |
+| 2026-08-10 | [MBA Admissions Coach](https://jobs.ashbyhq.com/leland/596417ec-0f8f-4023-b020-8f5da6845385) | Leland | Various | Corp Strategy | 4 | New |
+| 2026-08-10 | [Finance Leadership Rotation Program (MBA)](https://talents.vaia.com/companies/legend-biotech-usa/finance-leadership-rotation-program-mba-108492194/) | Legend Biotech USA | Various | Growth | 4 | New |
+| 2026-08-10 | [MBA Intern - Marketing](https://www.fastweb.com/career-planning/internships/176498-mba-intern-marketing) | Amgen | Thousand Oaks, California | Corp Strategy | 4 | New |
+| 2026-08-10 | [Intern - Summer 2027](https://bebee.com/us/jobs/intern-summer-2027-bce-consulting-boston--ss-us-t759fp) | BCE Consulting | Boston, Massachusetts | Consulting | 4 | New |
+| 2026-08-10 | [Advanced Analytics Research Intern - Find Facts Fast](https://bebee.com/us/jobs/advanced-analytics-research-intern-find-facts-fast-university-of-denver-atlanta--lensa-7428_2d9a557fcb559ecf017e24ab4b0461e689eb095b8f4fe0ea2f31754705133d07) | University of Denver | Atlanta, Georgia | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
