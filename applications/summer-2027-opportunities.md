@@ -87,6 +87,11 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-08-10 | [MBA Intern - Marketing](https://www.fastweb.com/career-planning/internships/176498-mba-intern-marketing) | Amgen | Thousand Oaks, California | Corp Strategy | 4 | New |
 | 2026-08-10 | [Intern - Summer 2027](https://bebee.com/us/jobs/intern-summer-2027-bce-consulting-boston--ss-us-t759fp) | BCE Consulting | Boston, Massachusetts | Consulting | 4 | New |
 | 2026-08-10 | [Advanced Analytics Research Intern - Find Facts Fast](https://bebee.com/us/jobs/advanced-analytics-research-intern-find-facts-fast-university-of-denver-atlanta--lensa-7428_2d9a557fcb559ecf017e24ab4b0461e689eb095b8f4fe0ea2f31754705133d07) | University of Denver | Atlanta, Georgia | Consulting | 4 | New |
+| 2026-08-11 | [Intern - US Marketing Community Professional Channel](https://www.jobilize.com/job/us-ca-long-beach-intern-marketing-community-professional-channel-unilever) | Unilever | Long Beach, California | Corp Strategy | 1 | New |
+| 2026-08-11 | [US Summer Intern: Associate Consultant 2027](https://bebee.com/us/jobs/us-summer-intern-associate-consultant-2027-ocampc-strategy-consultans-town-of-boston--pureheal-28528_23106_c6cd96c8a971bbc81c2af648d8703d63) | OC&C Strategy Consultans | Boston, New York | Consulting | 4 | New |
+| 2026-08-11 | [Summer Economic Consulting Intern: Shape Market Insights](https://bebee.com/us/jobs/summer-economic-consulting-intern-shape-market-insights-andersch-ag-washington--lensa-7428_9a34eb8dea1cf738a2ec861e7cade2e6a9efa4bc465446060dc0f66f9ba0be93) | Andersch Ag | Washington, District of Columbia | Consulting | 4 | New |
+| 2026-08-11 | [2027 Summer/Winter Analyst Internship](https://www.linkedin.com/jobs/view/2027-summer-winter-analyst-internship-at-altman-solon-4451410603) | Altman Solon | Boston, Massachusetts | Consulting | 4 | New |
+| 2026-08-11 | [2027 Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Intern---Technology_JR260339-1) | FTI Consulting Technology LLC | Various | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
