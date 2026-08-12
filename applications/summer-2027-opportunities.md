@@ -92,6 +92,9 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-08-11 | [Summer Economic Consulting Intern: Shape Market Insights](https://bebee.com/us/jobs/summer-economic-consulting-intern-shape-market-insights-andersch-ag-washington--lensa-7428_9a34eb8dea1cf738a2ec861e7cade2e6a9efa4bc465446060dc0f66f9ba0be93) | Andersch Ag | Washington, District of Columbia | Consulting | 4 | New |
 | 2026-08-11 | [2027 Summer/Winter Analyst Internship](https://www.linkedin.com/jobs/view/2027-summer-winter-analyst-internship-at-altman-solon-4451410603) | Altman Solon | Boston, Massachusetts | Consulting | 4 | New |
 | 2026-08-11 | [2027 Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Intern---Technology_JR260339-1) | FTI Consulting Technology LLC | Various | Consulting | 4 | New |
+| 2026-08-12 | [Sr. Manager, ECM Business Development 14](https://www.jobilize.com/job/us-id-all-cities-sr-manager-ecm-business-development-14-kraft-heinz) | Kraft Heinz Company | Idaho | CPG Brand | 1 | New |
+| 2026-08-12 | [Summer 2027 Intern - Americas Division [UG/Masters]](https://www.linkedin.com/jobs/view/summer-2027-intern-americas-division-ug-masters-at-simon-kucher-4437296161) | Simon-Kucher | Houston, Texas | Consulting | 3 | New |
+| 2026-08-12 | [AI-Driven Associate Consultant Intern (Summer 2027)](https://bebee.com/us/jobs/ai-driven-associate-consultant-intern-summer-2027-pvh-tommy-hilfiger-calvin-klein-mclean--lensa-7428_c556281b5f2f45ba3bd658d8189865228dcfece2e816d27172a0adf1c560af71) | PVH (Tommy Hilfiger/Calvin Klein) | McLean, Virginia | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
