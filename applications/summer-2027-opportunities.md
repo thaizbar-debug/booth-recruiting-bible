@@ -216,3 +216,5 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | JM Smucker | Unknown | CPG | — | Radar — C-suite change — Douglas Guilherme (SVP of Operations, Supply Chain) hired (2026-07-24) |
 | Hormel Foods | Unknown | CPG | — | Radar — C-suite change — John Ghingo (CEO) promoted (2026-07-30) |
 | B&G Foods | Unknown | CPG | — | Radar — C-suite change — Casey Keller (CEO) departed (2026-08-10) |
+| JBS | Unknown | CPG | — | Radar — C-suite change — Wesley Batista Filho (CEO) hired (2026-08-17) |
+| Celsius | Unknown | CPG | — | Radar — C-suite change — Unknown (COO) departed (2026-08-17) |
