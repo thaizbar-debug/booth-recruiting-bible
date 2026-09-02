@@ -219,3 +219,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | JBS | Unknown | CPG | — | Radar — C-suite change — Wesley Batista Filho (CEO) hired (2026-08-17) |
 | Celsius | Unknown | CPG | — | Radar — C-suite change — Unknown (COO) departed (2026-08-17) |
 | Constellation Brands | Unknown | CPG | — | Radar — C-suite change — Alex Alvarez (supply chain lead for beer division) hired (2026-08-31) |
+| Suntory Global Spirits | Unknown | CPG | — | Radar — C-suite change — Manuel Cabañas (Chief Supply Chain Officer) promoted (2026-09-02) |
