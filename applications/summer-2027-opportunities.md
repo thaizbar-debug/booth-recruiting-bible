@@ -97,6 +97,9 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-08-12 | [AI-Driven Associate Consultant Intern (Summer 2027)](https://bebee.com/us/jobs/ai-driven-associate-consultant-intern-summer-2027-pvh-tommy-hilfiger-calvin-klein-mclean--lensa-7428_c556281b5f2f45ba3bd658d8189865228dcfece2e816d27172a0adf1c560af71) | PVH (Tommy Hilfiger/Calvin Klein) | McLean, Virginia | Consulting | 4 | New |
 | 2026-08-13 | [MBA Intern](https://bebee.com/us/jobs/mba-intern-goosehead-insurance-ashburn--lifeworq-cc1319f2-8d48-4ccd-92bd-61af12c8b833) | Goosehead Insurance | Ashburn, Virginia | Growth | 4 | New |
 | 2026-08-13 | [Summer 2027 Mars Climate Sustainability Internship Masters/MBA Intern](https://careers.mars.com/us/en/job/R162093/Summer-2027-Mars-Climate-Sustainability-Internship-Masters-MBA-Intern) | Mars | Chicago, Illinois | Growth | 4 | New |
+| 2026-09-08 | [NEW IN  Civil Litigation Associate  100% Remote  Up To $200K  Real Growth Opportunities Fo](https://www.linkedin.com/jobs/view/new-in-civil-litigation-associate-100%25-remote-up-to-%24200k-real-growth-opportunities-for-advancement-recession-proof-complex-challenging-work-at-we-are-legal-revolution-4461162922?trk=bingjobs) | Katia & Bony | California | Growth | 4 | New |
+| 2026-09-08 | [Application Development Intern - Summer 2027](https://www.linkedin.com/jobs/view/application-development-intern-summer-2027-at-rsm-us-llp-4461124358?trk=bingjobs) | RSM US LLP | Chicago, Illinois | Corp Strategy | 4 | New |
+| 2026-09-08 | [MBA Internship - Investment Management](https://www.linkedin.com/jobs/view/mba-internship-investment-management-at-vanguard-4459585825?trk=bingjobs) | Vanguard | Malvern, Pennsylvania | Growth | 4 | New |
 ---
 
 ## Companies to Watch
