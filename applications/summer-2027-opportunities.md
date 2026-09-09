@@ -100,6 +100,11 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-09-08 | [NEW IN  Civil Litigation Associate  100% Remote  Up To $200K  Real Growth Opportunities Fo](https://www.linkedin.com/jobs/view/new-in-civil-litigation-associate-100%25-remote-up-to-%24200k-real-growth-opportunities-for-advancement-recession-proof-complex-challenging-work-at-we-are-legal-revolution-4461162922?trk=bingjobs) | Katia & Bony | California | Growth | 4 | New |
 | 2026-09-08 | [Application Development Intern - Summer 2027](https://www.linkedin.com/jobs/view/application-development-intern-summer-2027-at-rsm-us-llp-4461124358?trk=bingjobs) | RSM US LLP | Chicago, Illinois | Corp Strategy | 4 | New |
 | 2026-09-08 | [MBA Internship - Investment Management](https://www.linkedin.com/jobs/view/mba-internship-investment-management-at-vanguard-4459585825?trk=bingjobs) | Vanguard | Malvern, Pennsylvania | Growth | 4 | New |
+| 2026-09-09 | [Category Manager Intern (Tiktok Shop - Operations) - 2027 Summer (MBA)](https://www.careerbuilder.com/job-details/category-manager-intern-tiktok-shop-operations-2027-summer-mba-los-angeles-ca--a7b02bf4-5e7f-4703-801c-a381e0379a4f?trk=bingjobs) | The Hershey Company | Los Ángeles, California | CPG Brand | 4 | Monitor |
+| 2026-09-09 | [Integrated Marketing & Promotion Manager Intern (Tiktok Shop - Operations) - 2027 Summer (MBA)](https://www.careerbuilder.com/job-details/integrated-marketing-promotion-manager-intern-tiktok-shop-operations-2027-summer-mba-los-angeles-ca--3b305931-6df5-43ae-ade6-181a2a2a2737?trk=bingjobs) | The Hershey Company | Los Ángeles, California | CPG Brand | 4 | Monitor |
+| 2026-09-09 | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://www.careerbuilder.com/job-details/mba-intern-finance-strategy-leadership-development-program-summer-2027-thousand-oaks-ca--172c1515-ef4b-4e7f-a063-4c536147a438?trk=bingjobs) | The Hershey Company | Thousand Oaks, California | CPG Brand | 4 | Monitor |
+| 2026-09-09 | [Supply Chain Operations Intern (2027 Summer Internship)](https://www.careerbuilder.com/job-details/supply-chain-operations-intern-2027-summer-internship-los-angeles-ca--91cb8ac3-274d-4afa-9f04-bb3bb5965fb5?trk=bingjobs) | The Hershey Company | Los Ángeles, California | CPG Brand | 4 | Monitor |
+
 ---
 
 ## Companies to Watch
