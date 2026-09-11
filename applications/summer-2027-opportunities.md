@@ -170,6 +170,9 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-09-10 | [Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Bev](https://www.linkedin.com/jobs/view/summer-2027-college-internship-%E2%80%93-palm-desert-ca-housekeeping-recreation-food-beverage-at-marriott-vacations-worldwide-4463584454?trk=bingjobs) | Marriott Vacations Worldwide | Palm Desert, California | Corp Strategy | 4 | New |
 | 2026-09-10 | [MBA Summer Internship, Finance, US, 2027](https://www.linkedin.com/jobs/view/mba-summer-internship-finance-us-2027-at-gsk-4460430599?trk=bingjobs) | GSK | Philadelphia, Pennsylvania | Corp Strategy | 4 | New |
 | 2026-09-10 | [Campus Graduate Masters Summer Internship Program - 2027 Transformation Strategy, Global S](https://www.linkedin.com/jobs/view/campus-graduate-masters-summer-internship-program-2027-transformation-strategy-global-servicing-new-york-ny-at-american-express-4463562840?trk=bingjobs) | American Express | New York, New York | Corp Strategy | 4 | New |
+| 2026-09-11 | [2027 US Summer Internship - Investment Management Sales Desk (Boston, MA)](https://www.careerbuilder.com/job-details/2027-us-summer-internship-investment-management-sales-desk-boston-ma-boston-ma--0df989fa-0ad8-4c02-a05f-d323d7b9d7f1?trk=bingjobs) | Boston Beer | Boston, Massachusetts |  |  | Monitor |
+| 2026-09-11 | [Analyst Intern (Summer 2027)](https://www.careerbuilder.com/job-details/analyst-intern-summer-2027-boston-ma--66bbf594-beef-458b-ac7d-30f5bb0a861b?trk=bingjobs) | Boston Beer | Boston, Massachusetts |  |  | Monitor |
+
 ---
 
 ## Companies to Watch
@@ -293,3 +296,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Celsius | Unknown | CPG | — | Radar — C-suite change — Unknown (COO) departed (2026-08-17) |
 | Constellation Brands | Unknown | CPG | — | Radar — C-suite change — Alex Alvarez (supply chain lead for beer division) hired (2026-08-31) |
 | Suntory Global Spirits | Unknown | CPG | — | Radar — C-suite change — Manuel Cabañas (Chief Supply Chain Officer) promoted (2026-09-02) |
+| Boston Beer | Unknown | CPG | — | Radar — C-suite change — Allison Stransky (CMO) hired (2026-09-11) |
