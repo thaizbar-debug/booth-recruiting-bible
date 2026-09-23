@@ -297,3 +297,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Constellation Brands | Unknown | CPG | — | Radar — C-suite change — Alex Alvarez (supply chain lead for beer division) hired (2026-08-31) |
 | Suntory Global Spirits | Unknown | CPG | — | Radar — C-suite change — Manuel Cabañas (Chief Supply Chain Officer) promoted (2026-09-02) |
 | Boston Beer | Unknown | CPG | — | Radar — C-suite change — Allison Stransky (CMO) hired (2026-09-11) |
+| McCain Foods | Unknown | CPG | — | Radar — C-suite change — Victoriano Perez Mies (Chief Manufacturing and Operations Officer) hired (2026-09-23) |
