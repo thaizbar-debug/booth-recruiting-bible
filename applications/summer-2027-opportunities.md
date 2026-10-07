@@ -299,3 +299,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Boston Beer | Unknown | CPG | — | Radar — C-suite change — Allison Stransky (CMO) hired (2026-09-11) |
 | McCain Foods | Unknown | CPG | — | Radar — C-suite change — Victoriano Perez Mies (Chief Manufacturing and Operations Officer) hired (2026-09-23) |
 | Diageo | Unknown | CPG | — | Radar — C-suite change — Joanne Wilson (CFO) hired (2026-09-30) |
+| Keurig Dr Pepper | Unknown | CPG | — | Radar — C-suite change — Russ Torres (CEO) hired (2026-10-07) |
