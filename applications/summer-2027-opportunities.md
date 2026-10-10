@@ -194,6 +194,18 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-10-08 | [Risk Summer Intern - College Program 2027](https://careers.marsh.com/global/en/job/R_368045/Risk-Summer-Intern-College-Program-2027) | Guy Carpenter | Various | Consulting | 4 | New |
 | 2026-10-08 | [2027 Financial Products, Strategy & Modeling   Summer Internship](https://www.linkedin.com/jobs/view/2027-financial-products-strategy-modeling-summer-internship-at-new-york-life-4475428189) | New York Life | New York, New York | Corp Strategy | 4 | New |
 | 2026-10-08 | [2027 Summer Sustainability and Climate Strategy Intern (Remote)](https://www.linkedin.com/jobs/view/2027-summer-sustainability-and-climate-strategy-intern-remote-at-constellation-4465181909) | Constellation | Various | Corp Strategy | 4 | New |
+| 2026-10-10 | [Design Co-op Summer 2027](https://www.pgcareers.com/in/en/job/R000159711/Design-Co-op-Summer-2027) | Procter & Gamble | Cincinnati, Ohio | CPG Brand | 1 | New |
+| 2026-10-10 | [Associate Customer Strategy Manager](https://us.trabajo.org/job-4023-c43cc2eb6341bd49331623082b7c1d79) | Unilever | Rogers, Arkansas | Corp Strategy | 1 | New |
+| 2026-10-10 | [MBA Internship 2027 - IESE Business School](https://builtin.com/job/mba-internship-2027-iese-business-school/11544209) | Roland Berger | Various | Corp Strategy | 3 | New |
+| 2026-10-10 | [2027 Summer Intern: Global Procurement - MBA](https://bebee.com/us/jobs/2027-summer-intern-global-procurement-mba-jobleads-us-harrison-me-united-states--appcast-7428_cddf61ea505b8a120c1d2b83fd9ae1cbf6e11c93cfd320e9450cd1afdee8e918) | Jobleads-US | Harrison, Maine | Corp Strategy | 4 | New |
+| 2026-10-10 | [2027 Summer Intern, Real Estate Economics & Consulting](https://www.linkedin.com/jobs/view/2027-summer-intern-real-estate-economics-consulting-at-rclco-4477821973) | RCLCO | Bethesda, Maryland | Consulting | 4 | New |
+| 2026-10-10 | [Economic Consulting Intern (Spring 2027)](https://careerservices.fas.harvard.edu/jobs/hdr-economic-consulting-intern-spring-2027/) | HDR | Washington, District of Columbia | Consulting | 4 | New |
+| 2026-10-10 | [Associate Consultant (Summer 2027) at Cicero Group](https://www.linkedin.com/jobs/view/associate-consultant-summer-2027-at-cicero-group-at-berkeley-industrial-engineering-operations-research-4476226064) | Berkeley Industrial Engineering & Operations Research | Various | Consulting | 4 | New |
+| 2026-10-10 | [2027 Summer Intern, Business Transformation (Reston)](https://bebee.com/us/jobs/2027-summer-intern-business-transformation-reston-iiiiiius--fj-2407214667) | IIIIIIUS | Virginia | Consulting | 4 | New |
+| 2026-10-10 | [Risk Consultant Intern - Summer 2027 - Hartford, Connecticut](https://www.linkedin.com/jobs/view/risk-consultant-intern-summer-2027-hartford-connecticut-at-federated-insurance-4476816153) | Federated Insurance | Hartford, Connecticut | Consulting | 4 | New |
+| 2026-10-10 | [MercerWell Summer Associate - National - Master's Program 2027](https://careers.marsh.com/eu/en/job/R_365289/MercerWell-Summer-Associate-National-Master-s-Program-2027) | Mercer | Various | Corp Strategy | 4 | New |
+| 2026-10-10 | [Healthcare Margin Improvement Risk Consulting Associate - Summer 2027](https://www.linkedin.com/jobs/view/healthcare-margin-improvement-risk-consulting-associate-summer-2027-at-rsm-us-llp-4466820943) | RSM US LLP | Houston, Texas | Consulting | 4 | New |
+| 2026-10-10 | [2027 Summer Intern-Business Performance](https://www.linkedin.com/jobs/view/2027-summer-intern-business-performance-at-blue-cross-blue-shield-of-michigan-4475975921) | Blue Cross Blue Shield of Michigan | Detroit, Michigan | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
