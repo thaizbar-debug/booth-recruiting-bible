@@ -206,6 +206,17 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-10-10 | [MercerWell Summer Associate - National - Master's Program 2027](https://careers.marsh.com/eu/en/job/R_365289/MercerWell-Summer-Associate-National-Master-s-Program-2027) | Mercer | Various | Corp Strategy | 4 | New |
 | 2026-10-10 | [Healthcare Margin Improvement Risk Consulting Associate - Summer 2027](https://www.linkedin.com/jobs/view/healthcare-margin-improvement-risk-consulting-associate-summer-2027-at-rsm-us-llp-4466820943) | RSM US LLP | Houston, Texas | Consulting | 4 | New |
 | 2026-10-10 | [2027 Summer Intern-Business Performance](https://www.linkedin.com/jobs/view/2027-summer-intern-business-performance-at-blue-cross-blue-shield-of-michigan-4475975921) | Blue Cross Blue Shield of Michigan | Detroit, Michigan | Corp Strategy | 4 | New |
+| 2026-10-11 | [Digital Marketing Technology Internship](https://www.pgcareers.com/in/en/job/R000157501/Digital-Marketing-Technology-Internship) | Procter & Gamble | Cincinnati, Ohio | Corp Strategy | 1 | New |
+| 2026-10-11 | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://www.accenture.com/us-en/careers/jobdetails?id=R00361148_en) | Accenture | Various | Consulting | 2 | New |
+| 2026-10-11 | [Oliver Wyman Summer 2027 Intern - US](https://builtin.com/job/oliver-wyman-summer-2027-intern-us/10479130) | Oliver Wyman | Various | Consulting | 2 | New |
+| 2026-10-11 | [Summer 2027 Intern - Americas Division [UG/Masters]](https://www.linkedin.com/jobs/view/summer-2027-intern-americas-division-ug-masters-at-simon-kucher-4437282551) | Simon-Kucher | Boston, Massachusetts | Consulting | 3 | New |
+| 2026-10-11 | [(2028 Bachelor's/Master's graduates) Management Advisory Analyst/Associate Intern (Summer ](https://www.linkedin.com/jobs/view/2028-bachelor-s-master-s-graduates-management-advisory-analyst-associate-intern-summer-2027-at-charles-river-associates-4458977500) | Charles River Associates | New York, New York | Consulting | 3 | New |
+| 2026-10-11 | [2027 Summer Consultant Internships](https://bebee.com/us/jobs/2027-summer-consultant-internships-profellow-eastern-ky-united-states--appcast-7428_ff4d7e57b45cdb806802632b876796d4b4bb7b3bc31672cb6d80516ce317fea3) | ProFellow | Eastern, Kentucky | Consulting | 4 | New |
+| 2026-10-11 | [USA - Consulting - Transformation Architecture & Delivery - MBA Intern - Summer 2027](https://www.localjobs.com/job/mclean-va-usa-consulting-transformation-architecture-delivery-mba-intern-summer-2027) | Ernst and Young | McLean, Virginia | Consulting | 4 | New |
+| 2026-10-11 | [Strategy Consultant Intern 2027](https://www.linkedin.com/jobs/view/strategy-consultant-intern-2027-at-ibm-4474009255) | IBM | Chicago, Illinois | Consulting | 4 | New |
+| 2026-10-11 | [USA - Consulting - Risk- Process & Controls - Intern - Summer 2027](https://usearlycareers.ey.com/job/san-francisco/usa-consulting-risk-process-and-controls-intern-summer-2027/39053/100310764144) | EY | Various | Consulting | 4 | New |
+| 2026-10-11 | [USA - Consulting - Risk - Digital Risk - Intern - Summer 2027](https://usearlycareers.ey.com/job/st-louis/usa-consulting-risk-digital-risk-intern-summer-2027/39053/100310764112) | EY | Various | Consulting | 4 | New |
+| 2026-10-11 | [Health Consulting Summer Intern - West Market - College Program 2027](https://careers.marsh.com/global/en/job/MAMCGLOBALR362081EXTERNALENGLOBAL/Health-Consulting-Summer-Intern-West-Market-College-Program-2027) | Mercer | Various | Consulting | 4 | New |
 ---
 
 ## Companies to Watch
