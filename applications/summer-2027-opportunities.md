@@ -217,6 +217,17 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-10-11 | [USA - Consulting - Risk- Process & Controls - Intern - Summer 2027](https://usearlycareers.ey.com/job/san-francisco/usa-consulting-risk-process-and-controls-intern-summer-2027/39053/100310764144) | EY | Various | Consulting | 4 | New |
 | 2026-10-11 | [USA - Consulting - Risk - Digital Risk - Intern - Summer 2027](https://usearlycareers.ey.com/job/st-louis/usa-consulting-risk-digital-risk-intern-summer-2027/39053/100310764112) | EY | Various | Consulting | 4 | New |
 | 2026-10-11 | [Health Consulting Summer Intern - West Market - College Program 2027](https://careers.marsh.com/global/en/job/MAMCGLOBALR362081EXTERNALENGLOBAL/Health-Consulting-Summer-Intern-West-Market-College-Program-2027) | Mercer | Various | Consulting | 4 | New |
+| 2026-10-12 | [Creative Design Summer Analyst – New York – NAELFY27](https://www.accenture.com/us-en/careers/jobdetails?id=R00361466_en) | Accenture | New York, New York | Corp Strategy | 2 | New |
+| 2026-10-12 | [Video Production Summer Analyst - New York - NAELFY27](https://www.accenture.com/us-en/careers/jobdetails?id=R00361470_en) | Accenture | New York, New York | Corp Strategy | 2 | New |
+| 2026-10-12 | [MBA Intern, Summer 2027](https://www.linkedin.com/jobs/view/mba-intern-summer-2027-at-google-4477593548) | Google | Kirkland, Washington | Corp Strategy | 2 | New |
+| 2026-10-12 | [MBA Intern, Corporate Finance - Summer 2027](https://www.linkedin.com/jobs/view/mba-intern-corporate-finance-summer-2027-at-medline-4449222773) | Medline | Northfield, Illinois | Growth | 4 | New |
+| 2026-10-12 | [MBA, Investment Banking Summer Associate - Summer 2027 at Capital One McLean, VA](https://brassofpeace.org/list/job/mba-investment-banking-summer-associate-summer-2027-at-capital-one-mclean-va-akUrMVZuWWRrbmJWdXozRVVDN29CdDdXbEE9PQ==) | Capital One | McLean, Virginia | Corp Strategy | 4 | New |
+| 2026-10-12 | [Summer 2027 Consulting Internship - Health Policy Analysis](https://www.careersingovernment.com/job/3334845/summer-2027-consulting-internship-health-policy-analysis/) | BerryDunn | Portland, Maine | Consulting | 4 | New |
+| 2026-10-12 | [Microsoft Finance & Supply Chain Consulting Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Microsoft-Finance---Supply-Chain-Consulting-Intern---Summer-2027_JR116812) | RSM US LLP | Various | Consulting | 4 | New |
+| 2026-10-12 | [2027 Risk and Accounting Advisory Services Consulting Internship](https://careers.plantemoran.com/2027-risk-and-accounting-advisory-services-consulting-internship/job/276BE4EA067FA8816A323806891AC900) | Plante Moran | Various | Consulting | 4 | New |
+| 2026-10-12 | [2027 Organization, People & Change Consulting Intern](https://www.linkedin.com/jobs/view/2027-organization-people-change-consulting-intern-at-west-monroe-4458983200) | West Monroe | Seattle, Washington | Consulting | 4 | New |
+| 2026-10-12 | [2027 M&A Summer Associate Intern](https://www.linkedin.com/jobs/view/2027-m-a-summer-associate-intern-at-lincoln-international-4448915201) | Lincoln International | Los Angeles, California | Consulting | 4 | New |
+| 2026-10-12 | [2027 Early Talent Internship: Office of the CEO (MBA)](https://www.linkedin.com/jobs/view/2027-early-talent-internship-office-of-the-ceo-mba-at-tiaa-4477517263) | TIAA | New Jersey | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
