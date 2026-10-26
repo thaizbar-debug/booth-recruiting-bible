@@ -356,3 +356,4 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | Diageo | Unknown | CPG | — | Radar — C-suite change — Joanne Wilson (CFO) hired (2026-09-30) |
 | Keurig Dr Pepper | Unknown | CPG | — | Radar — C-suite change — Russ Torres (CEO) hired (2026-10-07) |
 | Molson Coors | Unknown | CPG | — | Radar — C-suite change — Matthew Hook (Chief Supply Chain Officer for Americas) hired (2026-10-14) |
+| Lindt & Sprüngli | Unknown | CPG | — | Radar — C-suite change — Adalbert Lechner (CEO) departed (2026-10-26) |
