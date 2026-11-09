@@ -247,6 +247,16 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-11-08 | [UPS Technology Group Summer 2027 Internship – MD](https://www.linkedin.com/jobs/view/ups-technology-group-summer-2027-internship-%E2%80%93-md-at-ups-4460203615) | UPS | Mays Chapel, Maryland | Corp Strategy | 4 | New |
 | 2026-11-08 | [Corporate Strategy & Planning MBA Development Associate](https://careers.tiaa.org/corporate-strategy-planning-mba-development-associate/job/9F3AEE31630D4AAEAF5F36DF0447C077) | TIAA | New York, New York | Consulting | 4 | New |
 | 2026-11-08 | [Onsite MBA BuiLD Rotational Associate: Strategy & Growth](https://us.jobrapido.com/jobpreview/6695832781219430400) | Regeneron Pharmaceuticals, Inc. | Sleepy Hollow, New York | Corp Strategy | 4 | New |
+| 2026-11-09 | [Analytics & Insights Internship](https://www.talent.com/view?id=644899992966334132) | Procter & Gamble | Cumberland, Maryland | Corp Strategy | 1 | New |
+| 2026-11-09 | [Brand Manager, Dove Men Deos Innovation and Engagement NA](https://careers.unilever.com/pt-br/vaga/hoboken/brand-manager-dove-men-deos-innovation-and-engagement-na/34155/102994625520) | UNILEVER | Hoboken, New Jersey | CPG Brand | 1 | New |
+| 2026-11-09 | [Manager, Beauty Transformation Strategy](https://careers.unilever.com/en/job/rogers/manager-beauty-transformation-strategy/34155/102341087840) | UNILEVER | Rogers, Arkansas | Corp Strategy | 1 | New |
+| 2026-11-09 | [MBA Summer 2027 Internship - Investment or Portfolio Ops.](https://interninsider.me/internships/the-brydon-group/mba-summer-2027-internship-investment-or-portfolio-ops-84b03a90-1969-4164-a6c1-b05187052c21) | The Brydon Group | Washington, District of Columbia | Consulting | 4 | New |
+| 2026-11-09 | [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) | The D. E. Shaw Group | New York, New York | Corp Strategy | 4 | New |
+| 2026-11-09 | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program](https://careers.marsh.com/eu/en/job/R_365103/Workforce-and-Rewards-Summer-Associate-MBA-or-Master-s-Track-Los-Angeles-MBA-Program-2027) | Mercer | Los Angeles, California | Consulting | 4 | New |
+| 2026-11-09 | [2027 Consultant Intern (19514)](https://www.linkedin.com/jobs/view/2027-consultant-intern-19514-at-cornerstone-advisors-4461783877) | Cornerstone Advisors | Scottsdale, Arizona | Consulting | 4 | New |
+| 2026-11-09 | [Internship – Commercial Track](https://www.linkedin.com/jobs/view/internship-%E2%80%93-commercial-track-at-protekcyber-4487277765) | ProtekCyber | Various | Consulting | 4 | New |
+| 2026-11-09 | [Environmental Consulting and Risk Management Intern - Charlotte, NC, USA](https://www.efinancialcareers.com/jobs-United_States-NC-Charlotte-Environmental_Consulting_and_Risk_Management_Intern.id24964795) | Marsh McLennan | Charlotte, North Carolina | Consulting | 4 | New |
+| 2026-11-09 | [Supply Chain Operations Intern 2027](https://www.linkedin.com/jobs/view/supply-chain-operations-intern-2027-at-ibm-4459555622) | IBM | Durham, North Carolina | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
