@@ -257,6 +257,16 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-11-09 | [Internship – Commercial Track](https://www.linkedin.com/jobs/view/internship-%E2%80%93-commercial-track-at-protekcyber-4487277765) | ProtekCyber | Various | Consulting | 4 | New |
 | 2026-11-09 | [Environmental Consulting and Risk Management Intern - Charlotte, NC, USA](https://www.efinancialcareers.com/jobs-United_States-NC-Charlotte-Environmental_Consulting_and_Risk_Management_Intern.id24964795) | Marsh McLennan | Charlotte, North Carolina | Consulting | 4 | New |
 | 2026-11-09 | [Supply Chain Operations Intern 2027](https://www.linkedin.com/jobs/view/supply-chain-operations-intern-2027-at-ibm-4459555622) | IBM | Durham, North Carolina | Corp Strategy | 4 | New |
+| 2026-11-10 | [Consultative Offerings - Summer Associate - Functional & Operations Strategy](https://jobsus.deloitte.com/chicago-il/consultative-offerings-summer-associate-functional-operations-strategy/56CE71372F06418F96E36C75712E3C85/job/) | Deloitte | Chicago, Illinois | Corp Strategy | 2 | New |
+| 2026-11-10 | [Entry Level Technology Summer Analyst - Various Locations - NAELFY27](https://www.accenture.com/us-en/careers/jobdetails?id=R00355981_en) | Accenture | Various | Corp Strategy | 2 | New |
+| 2026-11-10 | [Risk Summer Intern - College Program 2027](https://builtin.com/job/risk-summer-intern-college-program-2027/12006132) | Oliver Wyman | Various | Consulting | 2 | New |
+| 2026-11-10 | [MBA Brand Management Intern Hybrid](https://us.trabajo.org/job-5381-badafebdfebdca8a8199654121c57468) | Church & Dwight | Ewing Township, New Jersey | CPG Brand | 2 | New |
+| 2026-11-10 | [2027 Summer Internship – Enterprise Account Management](https://builtin.com/job/2027-summer-internship-enterprise-account-management/12151662) | Vizient | Various | Growth | 4 | New |
+| 2026-11-10 | [2027 Legal Sector Services Summer Intern](https://careers.eisneramper.com/en-us/job/75855467) | EisnerAmper | Baton Rouge, Louisiana | Consulting | 4 | New |
+| 2026-11-10 | [2027 Summer Internship - Product Operations](https://builtin.com/job/2027-summer-internship-product-operations/12104066) | Vizient | Irving, Texas | Growth | 4 | New |
+| 2026-11-10 | [2027 Summer Internship – Corporate Procurement](https://builtin.com/job/2027-summer-internship-corporate-procurement/12151666) | Vizient | Irving, Texas | Growth | 4 | New |
+| 2026-11-10 | [Marketing Strategy MBA Intern](https://interninsider.me/internships/formlabs/marketing-strategy-mba-intern-13f40dd2-3ceb-46f7-84a0-a1b3a7202473) | Formlabs | Somerville, Massachusetts | Marketing | 4 | New |
+| 2026-11-10 | [Marketing Brand Management MBA Intern, Summer 2027](https://www.talent.com/view?id=639252898605499878) | Land O'Lakes, Inc. | St Paul, Minnesota | CPG Brand | 4 | New |
 ---
 
 ## Companies to Watch
