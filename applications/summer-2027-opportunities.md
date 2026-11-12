@@ -267,6 +267,9 @@ Full strategy in [`about-me/creative-builder-strategy.md`](../about-me/creative-
 | 2026-11-10 | [2027 Summer Internship – Corporate Procurement](https://builtin.com/job/2027-summer-internship-corporate-procurement/12151666) | Vizient | Irving, Texas | Growth | 4 | New |
 | 2026-11-10 | [Marketing Strategy MBA Intern](https://interninsider.me/internships/formlabs/marketing-strategy-mba-intern-13f40dd2-3ceb-46f7-84a0-a1b3a7202473) | Formlabs | Somerville, Massachusetts | Marketing | 4 | New |
 | 2026-11-10 | [Marketing Brand Management MBA Intern, Summer 2027](https://www.talent.com/view?id=639252898605499878) | Land O'Lakes, Inc. | St Paul, Minnesota | CPG Brand | 4 | New |
+| 2026-11-12 | [2027 Summer Intern: Global Procurement - MBA](https://www.jobilize.com/job/us-ny-purchase-2027-summer-intern-global-procurement-mba-pepsico-hiring) | PepsiCo | Harrison, New York | Corp Strategy | 1 | New |
+| 2026-11-12 | [2027 MBA Internship Program at Kraft Heinz Chicago, IL](https://bhawkmedia.com/jobs/job/2027-mba-internship-program-at-kraft-heinz-chicago-il-dXF6QkRyeHdHc0JmcFBOQjhHMHl4SEw4dHc9PQ==) | Kraft Heinz | Chicago, Illinois | Growth | 1 | New |
+| 2026-11-12 | [Summer 2027 MBA Corporate Finance Intern](https://jobs.accaglobal.com/job/14265366/summer-2027-mba-corporate-finance-intern/) | Acushnet Holdings Corp. | Massachusetts | Corp Strategy | 4 | New |
 ---
 
 ## Companies to Watch
